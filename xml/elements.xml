@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <o id="0" en="Fire" ja="火" de="Feuer" fr="feu" />
+  <o id="1" en="Ice" ja="氷" de="Eis" fr="glace" />
+  <o id="2" en="Wind" ja="風" de="Wind" fr="vent" />
+  <o id="3" en="Earth" ja="土" de="Erde" fr="terre" />
+  <o id="4" en="Lightning" ja="雷" de="Blitz" fr="foudre" />
+  <o id="5" en="Water" ja="水" de="Wasser" fr="l'eau" />
+  <o id="6" en="Light" ja="光" de="Licht" fr="lumière" />
+  <o id="7" en="Dark" ja="闇" de="Dunkel" fr="ténèbres" />
+  <o id="15" en="None" ja="なし" de="Nichts" fr="nul" />
+  <o id="-1" en="Physical" ja="物的" de="Physikalisch" fr="physiue" />
+</elements>

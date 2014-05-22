@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<moon_phases>
+  <o id="0" en="New Moon" ja="新月" de="Neumond" fr="Nouvelle lune" />
+  <o id="1" en="Waxing Crescent" ja="三日月" de="Zunehmender Mond" fr="Croissant ascendant" />
+  <o id="2" en="Waxing Crescent" ja="七日月" de="Zunehmender Mond" fr="Croissant ascendant" />
+  <o id="3" en="First Quarter Moon" ja="上弦の月" de="Erstquartals-Mond" fr="Premier quartier de lune" />
+  <o id="4" en="Waxing Gibbous" ja="十日夜" de="Zunehmender Mond" fr="Lune gibbeuse ascendante" />
+  <o id="5" en="Waxing Gibbous" ja="十三夜" de="Zunehmender Mond" fr="Lune gibbeuse ascendante" />
+  <o id="6" en="Full Moon" ja="満月" de="Vollmond" fr="Pleine lune" />
+  <o id="7" en="Waning Gibbous" ja="十六夜" de="Abnehmender Mond" fr="Lune gibbeuse descendante" />
+  <o id="8" en="Waning Gibbous" ja="居待月" de="Abnehmender Mond" fr="Lune gibbeuse descendante" />
+  <o id="9" en="Last Quarter Moon" ja="下弦の月" de="Endquartals-Mond" fr="Dernier quartier de lune" />
+  <o id="10" en="Waning Crescent" ja="二十日余月" de="Abnehmender Mond" fr="Croissant descendant" />
+  <o id="11" en="Waning Crescent" ja="二十六夜" de="Abnehmender Mond" fr="Croissant descendant" />
+</moon_phases>

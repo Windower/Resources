@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ability_recasts>
+  <o id="0" en="SP Ability" de="SP Fähigkeit" fr="SP aptitude" ja="SPアビリティ" />
+  <o id="1" en="Berserk" ja="バーサク" de="Berserker" fr="Berserk" />
+  <o id="2" en="Warcry" ja="ウォークライ" de="Kampfschrei" fr="Cri de guerre" />
+  <o id="3" en="Defender" ja="ディフェンダー" de="Defender" fr="Défenseur" />
+  <o id="4" en="Aggressor" ja="アグレッサー" de="Aggressor" fr="Agresseur" />
+  <o id="5" en="Provoke" ja="挑発" de="Provozieren" fr="Provocation" />
+  <o id="6" en="Warrior's Charge" ja="ウォリアーチャージ" de="Kriegerwut" fr="Charge guerrier" />
+  <o id="7" en="Tomahawk" ja="トマホーク" de="Tomahawk" fr="Tomahawk" />
+  <o id="8" en="Retaliation" ja="リタリエーション" de="Sühne" fr="Contre-attaque" />
+  <o id="9" en="Restraint" ja="リストレント" de="Beherrschung" fr="Retenue" />
+  <o id="10" en="Rune Enchantment" ja="エンチャントルーン" de="Verzauber.-Rune" fr="Runes enchant." />
+  <o id="11" en="Blood Rage" ja="ブラッドレイジ" de="Blutrausch" fr="Rage sanguinaire" />
+  <o id="13" en="Focus" ja="集中" de="Fokus" fr="Précision" />
+  <o id="14" en="Dodge" ja="回避" de="Trick" fr="Esquive +" />
+  <o id="15" en="Chakra" ja="チャクラ" de="Chakra" fr="Chakra" />
+  <o id="16" en="Boost" ja="ためる" de="Boost" fr="Accumulation" />
+  <o id="17" en="Counterstance" ja="かまえる" de="Gegenzug" fr="Qui-vive" />
+  <o id="18" en="Chi Blast" ja="気孔弾" de="Chi-Stoß" fr="Rafale de chi" />
+  <o id="19" en="Mantra" ja="マントラ" de="Mantra" fr="Mantra" />
+  <o id="20" en="Formless Strikes" ja="無想無念" de="Formlose Schläge" fr="Coups informes" />
+  <o id="21" en="Footwork" ja="猫足立ち" de="Beinarbeit" fr="Jeu de jambes" />
+  <o id="22" en="Perfect Counter" ja="絶対カウンター" de="Super-Konter" fr="Riposte absolue" />
+  <o id="23" en="Vallation" ja="ヴァレション" de="Wall" fr="Vallation" />
+  <o id="24" en="Swordplay" ja="ソードプレイ" de="Fechtkunst" fr="Jeu d'épée" />
+  <o id="25" en="Lunge" ja="ランジ" de="Sprunghieb" fr="Fente" />
+  <o id="26" en="Divine Seal" ja="女神の印" de="Göttersiegel" fr="Sceau divin" />
+  <o id="27" en="Martyr" ja="マーター" de="Märtyrer" fr="Martyr" />
+  <o id="28" en="Devotion" ja="デヴォーション" de="Hingabe" fr="Dévotion" />
+  <o id="29" en="Afflatus Solace" ja="ハートオブソラス" de="Afflatus solatii" fr="Consolation" />
+  <o id="30" en="Afflatus Misery" ja="ハートオブミゼリ" de="Afflatus misariae" fr="Adversité" />
+  <o id="31" en="Impetus" ja="インピタス" de="Impetus" fr="Impulsivité" />
+  <o id="32" en="Divine Caress" ja="女神の愛撫" de="Göttersalbung" fr="Caresse divine" />
+  <o id="33" en="Sacrosanctity" ja="女神の聖域" de="Sacrosanctitas" fr="Sacro-sainteté" />
+  <o id="34" en="Enmity Douse" ja="エンミティダウス" de="Schlichtung" fr="Pacification" />
+  <o id="35" en="Manawell" ja="魔力の雫" de="Mana-Quell" fr="Rosée de Mana" />
+  <o id="36" en="Saboteur" ja="サボトゥール" de="Debilitas " fr="Persévérance" />
+  <o id="37" en="Spontaneity" ja="クイックマジック" de="Spontanität" fr="Spontanéité" />
+  <o id="38" en="Elemental Seal" ja="精霊の印" de="Elementar-Siegel" fr="Sceau élément." />
+  <o id="39" en="Mana Wall" ja="マナウォール" de="Mana-Wall" fr="Barrière de Mana" />
+  <o id="40" en="Conspirator" ja="コンスピレーター" de="Verschwörer" fr="Conspirateur" />
+  <o id="41" en="Sepulcher" ja="セプルカー" de="Sakr. Bannspruch" fr="Nexus sépulcral" />
+  <o id="42" en="Palisade" ja="パリセード" de="Palisade" fr="Palissade" />
+  <o id="43" en="Arcane Crest" ja="アルケインクレスト" de="Arcanabann" fr="Nexus arcanique" />
+  <o id="44" en="Scarlet Delirium" ja="レッドデリリアム" de="Leidensdelirium" fr="Frénésie écarlate" />
+  <o id="45" en="Spur" ja="きばれ" de="Anspornen" fr="En avant !" />
+  <o id="46" en="Run Wild" ja="ふりしぼれ" de="Freilauf" fr="Déchaîne-toi !" />
+  <o id="47" en="Tenuto" ja="テヌート" de="Tenuto" fr="Tenuto" />
+  <o id="48" en="Marcato" ja="マルカート" de="Marcato" fr="Marcato" />
+  <o id="49" en="Convert" ja="コンバート" de="Austauschen" fr="Conversion" />
+  <o id="50" en="Composure" ja="コンポージャー" de="Fassung" fr="Aplomb" />
+  <o id="51" en="Bounty Shot" ja="バウンティショット" de="Goldener Pfeil" fr="Tir détrousseur" />
+  <o id="52" en="Decoy Shot" ja="デコイショット" de="Täuschungsschuss" fr="Tir leurre" />
+  <o id="53" en="Hamanoha" ja="破魔の刃" de="Hamanoha" fr="Nex. démoniaque" />
+  <o id="54" en="Hagakure" ja="葉隠" de="Hagakure" fr="Hagakure" />
+  <o id="57" en="Issekigan" ja="一隻眼" de="Issekigan" fr="Issekigan" />
+  <o id="58" en="Dragon Breaker" ja="ドラゴンブレイカー" de="Drachenbrecher" fr="Nexus draconique" />
+  <o id="59" en="Pflug" ja="フルーグ" de="Pflug" fr="Pflug" />
+  <o id="61" en="Despoil" ja="ぶんどる" de="Fleddern" fr="Pillage" />
+  <o id="62" en="Flee" ja="とんずら" de="Reißaus" fr="Fuite" />
+  <o id="63" en="Hide" ja="かくれる" de="Verstecken" fr="Dissimulation" />
+  <o id="64" en="Sneak Attack" ja="不意打ち" de="Schleichattacke" fr="Attaque furtive" />
+  <o id="65" en="Mug" ja="かすめとる" de="Ausrauben" fr="Rapine" />
+  <o id="66" en="Trick Attack" ja="だまし討ち" de="Trickattacke" fr="Attq. sournoise" />
+  <o id="67" en="Assassin's Charge" ja="アサシンチャージ" de="Attentäterwut" fr="Charge assassine" />
+  <o id="68" en="Feint" ja="フェイント" de="Finte" fr="Feinte" />
+  <o id="69" en="Accomp./Collab." ja="アカンプリス/コラボレーター" de="Accomplice/Kollaborateur" fr="Complice/Acolyte" />
+  <o id="70" en="Steady Wing" ja="ステディウィング" de="Ruhige Schwinge" fr="Aile ferme" />
+  <o id="71" en="Mana Cede" ja="マナシード" de="Astral-Symbiose" fr="Transfert de Mana" />
+  <o id="72" en="Embolden" ja="エンボルド" de="Ermutigung" fr="Affermissement" />
+  <o id="73" en="Shield Bash" ja="シールドバッシュ" de="Schildschlag" fr="Coup du bouclier" />
+  <o id="74" en="Holy Circle" ja="ホーリーサークル" de="Heiliger Kreis" fr="Cercle sacré" />
+  <o id="75" en="Sentinel" ja="センチネル" de="Sentinel" fr="Sentinelle" />
+  <o id="76" en="Cover" ja="かばう" de="Deckung" fr="Couverture" />
+  <o id="77" en="Rampart" ja="ランパート" de="Schutzwall" fr="Rempart" />
+  <o id="78" en="Fealty" ja="フィールティ" de="Lehnseid" fr="Fidélité" />
+  <o id="79" en="Chivalry" ja="シバルリー" de="Rittertugend" fr="Chevalerie" />
+  <o id="80" en="Divine Emblem" ja="神聖の印" de="Gottesemblem" fr="Emblème divin" />
+  <o id="81" en="Unbridled Learning" ja="ノートリアスナレッジ" de="Ungezähm. Wissen" fr="Savoir irréfréné" />
+  <o id="84" en="Triple Shot" ja="トリプルショット" de="Dreifachschuss" fr="Triple tir" />
+  <o id="85" en="Souleater" ja="暗黒" de="Seelenfresser" fr="Noirceur" />
+  <o id="86" en="Arcane Circle" ja="アルケインサークル" de="Arcana-Kreis" fr="Cercle ésoté." />
+  <o id="87" en="Last Resort" ja="ラストリゾート" de="Letzter Ausweg" fr="Dernier recours" />
+  <o id="88" en="Weapon Bash" ja="ウェポンバッシュ" de="Waffenschlag" fr="Frappe paralys." />
+  <o id="89" en="Dark Seal" ja="ダークシール" de="Dunkles Siegel" fr="Sceau ténébreux" />
+  <o id="90" en="Diabolic Eye" ja="ディアボリクアイ" de="Diabolisches Auge" fr="Œil diabolique" />
+  <o id="91" en="Nether Void" ja="ネザーヴォイド" de="Niederes Nichts" fr="Vacuité limbes" />
+  <o id="92" en="Rune Enchantment" ja="エンチャントルーン" de="Verzauber.-Rune" fr="Runes enchant." />
+  <o id="97" en="Charm" ja="あやつる" de="Zauberformel" fr="Charme" />
+  <o id="98" en="Gauge" ja="みやぶる" de="Abschätzen" fr="Evaluation" />
+  <o id="99" en="Tame" ja="なだめる" de="Zähmen" fr="Amadouer" />
+  <o id="100" en="Fight" ja="たたかえ" de="Kämpfen" fr="Attaque !" />
+  <o id="101" en="Stay/Heel/Leave" ja="まってろ/もどれ/かえれ" de="Verharren/Bei Fuß/Freilassen" fr="Assis !/Au pied !/Va-t'en !" />
+  <o id="102" en="Sic/Ready" ja="ほんきだせ/しじをさせろ" de="Spezial/Sturm und Drang" fr="Vas-y !/Obéis !" />
+  <o id="103" en="Reward" ja="いたわる" de="Belohnung" fr="Récompense" />
+  <o id="104" en="Call Beast" ja="よびだす" de="Bestie rufen" fr="Appel familier" />
+  <o id="105" en="Feral Howl" ja="フェラルハウル" de="Wildes Heulen" fr="Hurlement sauv." />
+  <o id="106" en="Killer Instinct" ja="K.インスティンクト" de="Killer-Instinkt" fr="Instinct de tueur" />
+  <o id="107" en="Snarl" ja="ひきつけろ" de="Fass!" fr="Grogne !" />
+  <o id="109" en="Nightingale" ja="ナイチンゲール" de="Nachtigall" fr="Rossignol" />
+  <o id="110" en="Troubadour" ja="トルバドゥール" de="Troubadour" fr="Troubadour" />
+  <o id="112" en="Pianissimo" ja="ピアニッシモ" de="Pianissimo" fr="Pianissimo" />
+  <o id="113" en="Valiance" ja="ヴァリエンス" de="Kühnheit" fr="Valeur" />
+  <o id="114" en="Cooldown" ja="クールダウン" de="Cooldown" fr="Soulagement" />
+  <o id="115" en="Deus Ex Automata" ja="応急処置" de="Deus Ex Automata" fr="Mesure d'urgence" />
+  <o id="116" en="Gambit" ja="ガンビット" de="Gambit" fr="Gambit" />
+  <o id="117" en="Liement" ja="リエモン" de="Liemont" fr="Liement" />
+  <o id="118" en="One for All" ja="ワンフォアオール" de="Einer für alle" fr="Un pour tous" />
+  <o id="119" en="Rayke" ja="レイク" de="Rayke" fr="Rayke" />
+  <o id="120" en="Battuta" ja="バットゥタ" de="Battuta" fr="Battuta" />
+  <o id="121" en="Scavenge" ja="スカベンジ" de="Plündern" fr="Fouille" />
+  <o id="122" en="Shadowbind" ja="影縫い" de="Schattenfessel" fr="Entrave d'ombre" />
+  <o id="123" en="Camouflage" ja="カモフラージュ" de="Tarnung" fr="Camouflage" />
+  <o id="124" en="Sharpshot" ja="狙い撃ち" de="Fangschuss" fr="Visée" />
+  <o id="125" en="Barrage" ja="乱れ撃ち" de="Trommelfeuer" fr="Tir en rafale" />
+  <o id="126" en="Unlimited/Double Shot" ja="エンドレスショット/ダブルショット" de="Dauerschuss/Doppelschuss" fr="Tirs illimités/Double tir" />
+  <o id="127" en="Stealth Shot" ja="ステルスショット" de="Tarnschuss" fr="Tir furtif" />
+  <o id="128" en="Flashy Shot" ja="フラッシーショット" de="Grellschuss" fr="Tir flagrant" />
+  <o id="129" en="Velocity Shot" ja="ベロシティショット" de="Schnell-Lader" fr="Tir véloce" />
+  <o id="130" en="Widened Compass" ja="ワイデンコンパス" de="Superkompass" fr="Compas élargi" />
+  <o id="131" en="Odyllic Subterfuge" ja="オディリックサブタ" de="Ode an Od" fr="Subterfuge odiq." />
+  <o id="132" en="Konzen-ittai" ja="渾然一体" de="Konzen Ittai" fr="Konzen-ittai" />
+  <o id="133" en="Third Eye" ja="心眼" de="3. Auge" fr="Troisième œil" />
+  <o id="134" en="Meditate" ja="黙想" de="Meditieren" fr="Méditation" />
+  <o id="135" en="Warding Circle" ja="護摩の守護円" de="Gewahrsamskreis" fr="Cercle protecteur" />
+  <o id="136" en="Shikikoyo" ja="士気昂揚" de="Shikikoyo" fr="Shikikoyo" />
+  <o id="137" en="Blade Bash" ja="峰打ち" de="Mineuchi" fr="Revers de lame" />
+  <o id="138" en="Hasso" ja="八双" de="Hasso" fr="Hasso" />
+  <o id="139" en="Seigan" ja="星眼" de="Seigan" fr="Seigan" />
+  <o id="140" en="Sekkanoki" ja="石火之機" de="Sekkanoki" fr="Sekkanoki" />
+  <o id="141" en="Sengikori" ja="先義後利" de="Sengikori" fr="Sengikori" />
+  <o id="142" en="Ward" ja="ワード" de="Wehr" fr="Gardes runiques" />
+  <o id="143" en="Effusion" ja="エフューズ" de="Effusion" fr="Assauts runiques" />
+  <o id="145" en="Sange" ja="散華" de="Sange" fr="Sange" />
+  <o id="146" en="Yonin" ja="陽忍" de="Sonnenkunst" fr="Yonin" />
+  <o id="147" en="Innin" ja="陰忍" de="Schattenkunst" fr="Innin" />
+  <o id="148" en="Futae" ja="二重" de="Futae" fr="Futae" />
+  <o id="157" en="Ancient Circle" ja="エンシェントサークル" de="Urkreis" fr="Cercle ancien" />
+  <o id="158" en="Jump/Spirit Jump" ja="ジャンプ/スピリットジャンプ" de="Sprung/Seelensprung" fr="Saut/Saut d'esprit" />
+  <o id="159" en="High/Soul Jump" ja="ハイジャンプ/ソウルジャンプ" de="Hochsprung/Psycho-Sprung" fr="Saut aérien/Saut de l'âme" />
+  <o id="160" en="Super Jump" ja="スーパージャンプ" de="Supersprung" fr="Super saut" />
+  <o id="161" en="Dismiss" ja="送還" de="Wegschicken" fr="Renvoi" />
+  <o id="162" en="Spirit Link" ja="スピリットリンク" de="Seelenlink" fr="Lien spirituel" />
+  <o id="163" en="Call Wyvern" ja="コールワイバーン" de="Wyvern rufen" fr="Appel wyvern" />
+  <o id="164" en="Deep Breathing" ja="ディープブリージング" de="Tiefer Atem" fr="Souffle profond" />
+  <o id="165" en="Angon" ja="アンゴン" de="Angon" fr="Angon" />
+  <o id="170" en="Assault" ja="神獣の攻撃" de="Angriff" fr="Charge" />
+  <o id="171" en="Retreat" ja="神獣の退避" de="Rückzug" fr="Rappel" />
+  <o id="172" en="Release" ja="神獣の帰還" de="Freigabe" fr="Libérer" />
+  <o id="173" en="Blood Pact: Rage" ja="契約の履行:幻術" de="Blutsbund: Zorn" fr="Pacte sang : rage" />
+  <o id="174" en="Blood Pact: Ward" ja="契約の履行:験術" de="Blutsbund: Hilfe" fr="Pacte sang : abri" />
+  <o id="175" en="Elemental Siphon" ja="エレメントサイフォン" de="Elemental-Syphon" fr="Siphon élémental" />
+  <o id="176" en="Avatar's Favor" ja="神獣の加護" de="Avatar-Empathie" fr="Egide" />
+  <o id="181" en="Chain Affinity" ja="ブルーチェーン" de="Blaue Kette" fr="Lien de chaînes" />
+  <o id="182" en="Burst Affinity" ja="ブルーバースト" de="Blauer Ausbruch" fr="Lien d'explosions" />
+  <o id="183" en="Convergence" ja="コンバージェンス" de="Konvergenz" fr="Convergence" />
+  <o id="184" en="Diffusion" ja="ディフュージョン" de="Diffusion" fr="Diffusion" />
+  <o id="185" en="Efflux" ja="エフラックス" de="Efflux" fr="Effusion" />
+  <o id="193" en="Phantom Roll" ja="ファントムロール" de="Phantom-Wurf" fr="Jet fantôme" />
+  <o id="194" en="Double-Up" ja="ダブルアップ" de="Doppelter Einsatz" fr="Surenchère" />
+  <o id="195" en="Quick Draw" ja="クイックドロー" de="Schnellschuss" fr="Tirage vif" />
+  <o id="197" en="Snake Eye" ja="スネークアイ" de="Schlangenauge" fr="As" />
+  <o id="198" en="Fold" ja="フォールド" de="Passen" fr="Défausse" />
+  <o id="199" en="Quick Draw" ja="クイックドロー" de="Schnellschuss" fr="Tirage vif" />
+  <o id="205" en="Activate" ja="アクティベート" de="Aktivieren" fr="Activation" />
+  <o id="206" en="Repair" ja="リペアー" de="Reparieren" fr="Réparation" />
+  <o id="207" en="Deploy" ja="ディプロイ" de="Ausfahren" fr="Déploiement" />
+  <o id="208" en="Deactivate" ja="ディアクティベート" de="Deaktivieren" fr="Désactivation" />
+  <o id="209" en="Retrieve" ja="リトリーブ" de="Zurückziehen" fr="Repli" />
+  <o id="210" en="Maneuvers" ja="マニューバ" de="Manöver" fr="Manœuvres" />
+  <o id="211" en="Role Reversal" ja="黒衣チェンジ" de="Rollentausch" fr="Mime" />
+  <o id="212" en="Ventriloquy" ja="腹話術" de="Bauchredner" fr="Ventriloquie" />
+  <o id="213" en="Tactical Switch" ja="タクティクスウィッチ" de="Taktischer Tausch" fr="Changement strat." />
+  <o id="214" en="Maintenance" ja="フラッシング" de="Ölwechsel" fr="Vidange" />
+  <o id="215" en="Healing Waltz" ja="ヒーリングワルツ" de="Kur-Walzer" fr="Valse curative" />
+  <o id="216" en="Sambas" ja="サンバモード" de="Samba-Rhythmen" fr="Sambas" />
+  <o id="217" en="Curing Waltz" ja="ケアルワルツ" de="Heilender Walzer" fr="Valse Soin" />
+  <o id="218" en="Jigs" ja="ジグモード" de="Tango-Rhythmen" fr="Gigues" />
+  <o id="219" en="Saber Dance" ja="剣の舞い" de="Klingentanz" fr="Danse du sabre" />
+  <o id="220" en="Steps" ja="ステップ" de="Tanzschritte" fr="Pas" />
+  <o id="221" en="Flourishes I" ja="フラリッシュI" de="Polka-Rhythmen" fr="Pirouettes I" />
+  <o id="222" en="Flourishes II" ja="フラリッシュII" de="Polka-R. II" fr="Pirouettes II" />
+  <o id="223" en="No Foot Rise" ja="ノーフットライズ" de="Aplomb" fr="Pas posé" />
+  <o id="224" en="Fan Dance" ja="扇の舞い" de="Fächertanz" fr="D. de l'éventail" />
+  <o id="225" en="Divine Waltz" ja="ディバインワルツ" de="Walzer der Göttin" fr="Valse divine" />
+  <o id="226" en="Flourishes III" ja="フラリッシュIII" de="Polka-Rhythm. III" fr="Pirouettes III" />
+  <o id="227" en="Waltzes" ja="ワルツモード" de="Walzer-Rhythmen" fr="Valses" />
+  <o id="228" en="Light Arts" ja="白のグリモア" de="Weißes Grimoire" fr="Grimoire blanc" />
+  <o id="230" en="Modus Veritas" ja="以逸待労の計" de="Vae victis" fr="Modus veritas" />
+  <o id="231" en="Stratagems" ja="戦術魔道書" de="Schultz' Kriegsl." fr="Stratagèmes" />
+  <o id="232" en="Dark Arts" ja="黒のグリモア" de="Schwarz. Grimoire" fr="Grimoire noir" />
+  <o id="233" en="Stratagems" ja="戦術魔道書" de="Schultz' Kriegsl." fr="Stratagèmes" />
+  <o id="234" en="Sublimation" ja="机上演習" de="Sublimierung" fr="Révisions" />
+  <o id="235" en="Enlightenment" ja="大悟徹底" de="Licentia poetica" fr="Apaisement" />
+  <o id="236" en="Presto" ja="プレスト" de="Degagé" fr="Presto" />
+  <o id="237" en="Libra" ja="ライブラ" de="Libra" fr="Acuité" />
+  <o id="238" en="Smiting Breath" ja="スマイトブレス" de="Rächer-Atem" fr="Souffle menaçant" />
+  <o id="239" en="Restoring Breath" ja="レストアブレス" de="Empathie-Atem" fr="Souffle apaisant" />
+  <o id="240" en="Bully" ja="まどわす" de="Drangsalieren" fr="Frousse" />
+  <o id="241" en="Swipe" ja="スワイプ" de="Hechthieb" fr="Volée runique" />
+  <o id="242" en="Vivacious Pulse" ja="ビベイシャス" de="Pulsschlag" fr="Pouls vif" />
+  <o id="243" en="Full Circle" ja="フルサークル" de="Ganzer Kreis" fr="Cercle complet" />
+  <o id="244" en="Ecliptic Attrition" ja="サークルエンリッチ" de="Vollkomm. Kreis" fr="Renforc. sphér." />
+  <o id="245" en="Collimated Fervor" ja="コリメイトファーバー" de="Kollimat. Rausch" fr="Ferveur collimat." />
+  <o id="246" en="Life Cycle" ja="ライフサイクル" de="Kreis des Lebens" fr="Cycle de vie" />
+  <o id="247" en="Blaze of Glory" ja="グローリーブレイズ" de="Glanz und Gloria" fr="Emport. géomant." />
+  <o id="248" en="Dematerialize" ja="デマテリアライズ" de="Dematerialisation" fr="Dématérialisation" />
+  <o id="249" en="Theurgic Focus" ja="タウマテルギフォカス" de="Thaumat. Fokus" fr="Focalis. thaum." />
+  <o id="250" en="Concentric Pulse" ja="コンセントリクパルス" de="Konzentr. Puls" fr="Exp. concentrique" />
+  <o id="251" en="Mending Halation" ja="メンドハレイション" de="Heilsamer Lichthof" fr="Halo salvateur" />
+  <o id="252" en="Radial Arcana" ja="レイディアルアルカナ" de="Radiales Arkanum" fr="Arcane radiante" />
+  <o id="253" en="Relinquish" ja="リリンク" de="Remorph" fr="Disjonction" />
+  <o id="254" en="SP Ability II" ja="SPアビリティII" de="SP Fähigkeit II" fr="SP aptitude II" />
+  <o id="255" en="Ready" ja="しじをさせろ" de="Sturm und Drang" fr="Obéis !" />
+</ability_recasts>

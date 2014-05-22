@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <file>ability_recasts</file>
+  <file>action_messages</file>
+  <file>bags</file>
+  <file>buffs</file>
+  <file>chat</file>
+  <file>check_ratings</file>
+  <file>commands</file>
+  <file>days</file>
+  <file>elements</file>
+  <file>emotes</file>
+  <file>encumbrance</file>
+  <file>items</file>
+  <file>job_abilities</file>
+  <file>job_traits</file>
+  <file>jobs</file>
+  <file>monster_abilities</file>
+  <file>monstrosity</file>
+  <file>moon_phases</file>
+  <file>races</file>
+  <file>servers</file>
+  <file>skills</file>
+  <file>slots</file>
+  <file>spell_recasts</file>
+  <file>spells</file>
+  <file>statuses</file>
+  <file>synth_ranks</file>
+  <file>titles</file>
+  <file>weapon_skills</file>
+  <file>weather</file>
+  <file>zones</file>
+</manifest>

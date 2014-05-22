@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <o id="0" en="(N/A)" category="None" />
+  <o id="1" en="Hand-to-Hand" category="Combat" />
+  <o id="2" en="Dagger" category="Combat" />
+  <o id="3" en="Sword" category="Combat" />
+  <o id="4" en="Great Sword" category="Combat" />
+  <o id="5" en="Axe" category="Combat" />
+  <o id="6" en="Great Axe" category="Combat" />
+  <o id="7" en="Scythe" category="Combat" />
+  <o id="8" en="Polearm" category="Combat" />
+  <o id="9" en="Katana" category="Combat" />
+  <o id="10" en="Great Katana" category="Combat" />
+  <o id="11" en="Club" category="Combat" />
+  <o id="12" en="Staff" category="Combat" />
+  <o id="22" en="Automaton Melee" category="Puppet" />
+  <o id="23" en="Automaton Archery" category="Puppet" />
+  <o id="24" en="Automaton Magic" category="Puppet" />
+  <o id="25" en="Archery" category="Combat" />
+  <o id="26" en="Marksmanship" category="Combat" />
+  <o id="27" en="Throwing" category="Combat" />
+  <o id="28" en="Guard" category="Combat" />
+  <o id="29" en="Evasion" category="Combat" />
+  <o id="30" en="Shield" category="Combat" />
+  <o id="31" en="Parrying" category="Combat" />
+  <o id="32" en="Divine Magic" category="Magic" />
+  <o id="33" en="Healing Magic" category="Magic" />
+  <o id="34" en="Enhancing Magic" category="Magic" />
+  <o id="35" en="Enfeebling Magic" category="Magic" />
+  <o id="36" en="Elemental Magic" category="Magic" />
+  <o id="37" en="Dark Magic" category="Magic" />
+  <o id="38" en="Summoning Magic" category="Magic" />
+  <o id="39" en="Ninjutsu" category="Magic" />
+  <o id="40" en="Singing" category="Magic" />
+  <o id="41" en="Stringed Instrument" category="Magic" />
+  <o id="42" en="Wind Instrument" category="Magic" />
+  <o id="43" en="Blue Magic" category="Magic" />
+  <o id="44" en="Geomancy" category="Magic" />
+  <o id="45" en="Handbell" category="Magic" />
+  <o id="48" en="Fishing" category="Synthesis" />
+  <o id="49" en="Woodworking" category="Synthesis" />
+  <o id="50" en="Smithing" category="Synthesis" />
+  <o id="51" en="Goldsmithing" category="Synthesis" />
+  <o id="52" en="Clothcraft" category="Synthesis" />
+  <o id="53" en="Leathercraft" category="Synthesis" />
+  <o id="54" en="Bonecraft" category="Synthesis" />
+  <o id="55" en="Alchemy" category="Synthesis" />
+  <o id="56" en="Cooking" category="Synthesis" />
+  <o id="57" en="Synergy" category="Synthesis" />
+</skills>

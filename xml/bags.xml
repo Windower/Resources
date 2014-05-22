@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bags>
+  <o id="0" en="Inventory" access="Everywhere" />
+  <o id="1" en="Safe" access="Mog House" />
+  <o id="2" en="Storage" access="Mog House" />
+  <o id="3" en="Temporary" access="Situational" />
+  <o id="4" en="Locker" access="Mog House" />
+  <o id="5" en="Satchel" access="Everywhere" />
+  <o id="6" en="Sack" access="Everywhere" />
+  <o id="7" en="Case" access="Everywhere" />
+  <o id="8" en="Wardrobe" access="Everywhere" />
+</bags>

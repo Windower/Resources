@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<weather>
+  <o id="0" en="Fine patches" ja="快晴" de="Zeitweise bewölkt" fr="Beau temps" element="15" intensity="0" />
+  <o id="1" en="Sunshine" ja="晴れ" de="Sonne" fr="Soleil" element="15" intensity="0" />
+  <o id="2" en="Clouds" ja="くもり" de="Wolken" fr="Nuages" element="15" intensity="0" />
+  <o id="3" en="Fog" ja="霧" de="Nebel" fr="Brume" element="15" intensity="0" />
+  <o id="4" en="Hot spells" ja="熱波" de="Hitze" fr="Brûlant" element="0" intensity="1" />
+  <o id="5" en="Heat waves" ja="灼熱波" de="Hitzewellen" fr="Ardent" element="0" intensity="2" />
+  <o id="6" en="Rain" ja="雨" de="Regen" fr="Pluie" element="5" intensity="1" />
+  <o id="7" en="Squalls" ja="スコール" de="Böen" fr="Averse" element="5" intensity="2" />
+  <o id="8" en="Dust storms" ja="砂塵" de="Staubstürme" fr="Tempêtes de poussière" element="3" intensity="1" />
+  <o id="9" en="Sand storms" ja="砂嵐" de="Sandstürme" fr="Tempêtes de sable" element="3" intensity="2" />
+  <o id="10" en="Winds" ja="風" de="Wind" fr="Vents" element="2" intensity="1" />
+  <o id="11" en="Gales" ja="暴風" de="Orkane" fr="Rafales" element="2" intensity="2" />
+  <o id="12" en="Snow" ja="雪" de="Schnee" fr="Neige" element="1" intensity="1" />
+  <o id="13" en="Blizzards" ja="吹雪" de="Eissturm" fr="Blizzards" element="1" intensity="2" />
+  <o id="14" en="Thunder" ja="雷" de="Donner" fr="Orage" element="4" intensity="1" />
+  <o id="15" en="Thunderstorms" ja="雷雨" de="Gewitter" fr="Gros orage" element="4" intensity="2" />
+  <o id="16" en="Auroras" ja="オーロラ" de="Polarlicht" fr="Aurores boréales" element="6" intensity="1" />
+  <o id="17" en="Stellar glare" ja="神光" de="Sternenflut" fr="Aurores incandescentes" element="6" intensity="2" />
+  <o id="18" en="Gloom" ja="妖霧" de="Dunkelheit" fr="Pénombre" element="7" intensity="1" />
+  <o id="19" en="Darkness" ja="闇" de="Finsternis" fr="Obscurité" element="7" intensity="2" />
+</weather>

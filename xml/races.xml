@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<races>
+  <o id="0" en="Precomposed NPC" gender="None" />
+  <o id="1" en="Hume ♂" gender="♂" />
+  <o id="2" en="Hume ♀" gender="♀" />
+  <o id="3" en="Elvaan ♂" gender="♂" />
+  <o id="4" en="Elvaan ♀" gender="♀" />
+  <o id="5" en="Tarutaru ♂" gender="♂" />
+  <o id="6" en="Tarutaru ♀" gender="♀" />
+  <o id="7" en="Mithra" gender="♀" />
+  <o id="8" en="Galka" gender="♂" />
+  <o id="29" en="Mithra Child" gender="♀" />
+  <o id="30" en="Elv Hume Child ♀" gender="♀" />
+  <o id="31" en="Elv Hume Child ♂" gender="♂" />
+  <o id="32" en="Chocobo Rounsey" gender="None" />
+  <o id="33" en="Chocobo Destrier" gender="None" />
+  <o id="34" en="Chocobo Palfrey" gender="None" />
+  <o id="35" en="Chocobo Courser" gender="None" />
+  <o id="36" en="Chocobo Jennet" gender="None" />
+</races>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<jobs>
+  <o id="1" en="Warrior" short="WAR" />
+  <o id="2" en="Monk" short="MNK" />
+  <o id="3" en="White Mage" short="WHM" />
+  <o id="4" en="Black Mage" short="BLM" />
+  <o id="5" en="Red Mage" short="RDM" />
+  <o id="6" en="Thief" short="THF" />
+  <o id="7" en="Paladin" short="PLD" />
+  <o id="8" en="Dark Knight" short="DRK" />
+  <o id="9" en="Beastmaster" short="BST" />
+  <o id="10" en="Bard" short="BRD" />
+  <o id="11" en="Ranger" short="RNG" />
+  <o id="12" en="Samurai" short="SAM" />
+  <o id="13" en="Ninja" short="NIN" />
+  <o id="14" en="Dragoon" short="DRG" />
+  <o id="15" en="Summoner" short="SMN" />
+  <o id="16" en="Blue Mage" short="BLU" />
+  <o id="17" en="Corsair" short="COR" />
+  <o id="18" en="Puppetmaster" short="PUP" />
+  <o id="19" en="Dancer" short="DNC" />
+  <o id="20" en="Scholar" short="SCH" />
+  <o id="21" en="Geomancer" short="GEO" />
+  <o id="22" en="Rune Fencer" short="RUN" />
+  <o id="23" en="Monipulator" short="MON" />
+</jobs>
