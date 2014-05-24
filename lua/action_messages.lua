@@ -720,11 +720,12 @@ return {
     [727] = {id=727,en="You receive a bonus of ${number} bonecraft guild points!",color=121},
     [728] = {id=728,en="You receive a bonus of ${number} alchemy guild points!",color=121},
     [729] = {id=729,en="You receive a bonus of ${number} cooking guild points!",color=121},
-    [730] = {id=730,en="${actor} uses ${weapon_skill}${lb}${target}'s TP is reduced to ${number}.",color=101},
+    [730] = {id=730,en="${actor} uses ${ability}${lb}${target}'s TP is reduced to ${number}.",color=101},
     [731] = {id=731,en="Average item level: ${number}.",color=101},
     [732] = {id=732,en="Skillchain: Universal Enlightenment.${lb}${target} takes ${number} points of damage",color="D"},
     [733] = {id=733,en="${target}:",color=91},
     [734] = {id=734,en="${actor} uses ${ability} on ${target}.",color=91},
+    [735] = {id=735,en="Capacity chain #${number}!${lb}${actor} gains ${number2} capacity points.",color=91},
 }, {"id", "en", "color", "suffix", "prefix"}
 
 --[[

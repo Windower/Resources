@@ -719,9 +719,10 @@
   <o id="727" en="You receive a bonus of ${number} bonecraft guild points!" color="121" />
   <o id="728" en="You receive a bonus of ${number} alchemy guild points!" color="121" />
   <o id="729" en="You receive a bonus of ${number} cooking guild points!" color="121" />
-  <o id="730" en="${actor} uses ${weapon_skill}${lb}${target}'s TP is reduced to ${number}." color="101" />
+  <o id="730" en="${actor} uses ${ability}${lb}${target}'s TP is reduced to ${number}." color="101" />
   <o id="731" en="Average item level: ${number}." color="101" />
   <o id="732" en="Skillchain: Universal Enlightenment.${lb}${target} takes ${number} points of damage" color="D" />
   <o id="733" en="${target}:" color="91" />
   <o id="734" en="${actor} uses ${ability} on ${target}." color="91" />
+  <o id="735" en="Capacity chain #${number}!${lb}${actor} gains ${number2} capacity points." color="91" />
 </action_messages>

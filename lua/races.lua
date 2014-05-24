@@ -1,24 +1,24 @@
 -- Automatically generated file: Races
 
 return {
-    [0] = {id=0,en="Precomposed NPC",gender="None"},
-    [1] = {id=1,en="Hume ♂",gender="♂"},
-    [2] = {id=2,en="Hume ♀",gender="♀"},
-    [3] = {id=3,en="Elvaan ♂",gender="♂"},
-    [4] = {id=4,en="Elvaan ♀",gender="♀"},
-    [5] = {id=5,en="Tarutaru ♂",gender="♂"},
-    [6] = {id=6,en="Tarutaru ♀",gender="♀"},
-    [7] = {id=7,en="Mithra",gender="♀"},
-    [8] = {id=8,en="Galka",gender="♂"},
-    [29] = {id=29,en="Mithra Child",gender="♀"},
-    [30] = {id=30,en="Elv Hume Child ♀",gender="♀"},
-    [31] = {id=31,en="Elv Hume Child ♂",gender="♂"},
-    [32] = {id=32,en="Chocobo Rounsey",gender="None"},
-    [33] = {id=33,en="Chocobo Destrier",gender="None"},
-    [34] = {id=34,en="Chocobo Palfrey",gender="None"},
-    [35] = {id=35,en="Chocobo Courser",gender="None"},
-    [36] = {id=36,en="Chocobo Jennet",gender="None"},
-}, {"id", "en", "gender"}
+    [0] = {id=0,en="Precomposed NPC",ja="NPC",gender="None"},
+    [1] = {id=1,en="Hume ♂",ja="ヒューム ♂",gender="♂"},
+    [2] = {id=2,en="Hume ♀",ja="ヒューム ♀",gender="♀"},
+    [3] = {id=3,en="Elvaan ♂",ja="エㇽバン  ♂",gender="♂"},
+    [4] = {id=4,en="Elvaan ♀",ja="エㇽバン  ♀",gender="♀"},
+    [5] = {id=5,en="Tarutaru ♂",ja="タルタル ♂",gender="♂"},
+    [6] = {id=6,en="Tarutaru ♀",ja="タルタル ♀",gender="♀"},
+    [7] = {id=7,en="Mithra",ja="ミスラ",gender="♀"},
+    [8] = {id=8,en="Galka",ja="ガㇽカ",gender="♂"},
+    [29] = {id=29,en="Mithra Child",ja="ミスラの子",gender="♀"},
+    [30] = {id=30,en="Elv Hume Child ♀",ja="エㇽ　ヒュームの子 ♀",gender="♀"},
+    [31] = {id=31,en="Elv Hume Child ♂",ja="エㇽ　ヒュームの子 ♂",gender="♂"},
+    [32] = {id=32,en="Chocobo Rounsey",ja="チョコボ 黄",gender="None"},
+    [33] = {id=33,en="Chocobo Destrier",ja="チョコボ 黒",gender="None"},
+    [34] = {id=34,en="Chocobo Palfrey",ja="チョコボ 赤",gender="None"},
+    [35] = {id=35,en="Chocobo Courser",ja="チョコボ 青",gender="None"},
+    [36] = {id=36,en="Chocobo Jennet",ja="チョコボ 緑",gender="None"},
+}, {"id", "en", "ja", "gender"}
 
 --[[
 Copyright © 2013-2014, Windower

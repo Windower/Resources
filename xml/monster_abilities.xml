@@ -2714,4 +2714,28 @@
   <o id="3253" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Leaden Salute" ja="#3253" de="#3253" fr="." />
   <o id="3254" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Akimbo Shot" ja="#3254" de="#3254" fr="." />
   <o id="3255" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Grisly Horizon" ja="#3255" de="#3255" fr="." />
+  <o id="3256" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Hane Fubuki" ja="#3256" de="#3256" fr="." />
+  <o id="3257" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Shibaraku" ja="#3257" de="#3257" fr="." />
+  <o id="3258" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Shiko no Mitate" ja="#3258" de="#3258" fr="." />
+  <o id="3259" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Happobarai" ja="#3259" de="#3259" fr="." />
+  <o id="3260" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Rinpyotosha" ja="#3260" de="#3260" fr="." />
+  <o id="3261" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Bomb Toss" ja="#3261" de="#3261" fr="." />
+  <o id="3262" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Goblin Rush" ja="#3262" de="#3262" fr="." />
+  <o id="3263" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Bear Killer" ja="#3263" de="#3263" fr="." />
+  <o id="3264" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Salvation Scythe" ja="#3264" de="#3264" fr="." />
+  <o id="3265" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Elemental Sforzo" ja="#3265" de="#3265" fr="." />
+  <o id="3266" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Liement" ja="#3266" de="#3266" fr="." />
+  <o id="3275" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Burning Memories" ja="#3275" de="#3275" fr="." />
+  <o id="3276" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Kagedourou" ja="#3276" de="#3276" fr="." />
+  <o id="3277" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Karakuridourou" ja="#3277" de="#3277" fr="." />
+  <o id="3278" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Tsujikaze" ja="#3278" de="#3278" fr="." />
+  <o id="3279" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Sleepytime Boomboom" ja="#3279" de="#3279" fr="." />
+  <o id="3280" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Smelled It and Dealt It" ja="#3280" de="#3280" fr="." />
+  <o id="3281" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Somnic Shell" ja="#3281" de="#3281" fr="." />
+  <o id="3282" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Contaminating Concoction" ja="#3282" de="#3282" fr="." />
+  <o id="3283" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Iniquitous Stab" ja="#3283" de="#3283" fr="." />
+  <o id="3284" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Shockstorm Edge" ja="#3284" de="#3284" fr="." />
+  <o id="3285" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Choreographed Carnage" ja="#3285" de="#3285" fr="." />
+  <o id="3286" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Lock and Load" ja="#3286" de="#3286" fr="." />
+  <o id="3287" element="6" icon_id="46" targets="32" tp_cost="999" monster_level="-1" range="0" prefix="/monsterskill" en="Lunge" ja="#3287" de="#3287" fr="." />
 </monster_abilities>
