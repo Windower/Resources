@@ -10,7 +10,7 @@ return {
     [7] = {id=7,en="Paladin",ja="ナイト",ens="PLD",jas="ナ"},
     [8] = {id=8,en="Dark Knight",ja="暗黒騎士",ens="DRK",jas="暗"},
     [9] = {id=9,en="Beastmaster",ja="獣使い",ens="BST",jas="獣"},
-    [10] = {id=10,en="Bard",ja="吟遊詩人",ens="BRD",jas="吟"},
+    [10] = {id=10,en="Bard",ja="吟遊詩人",ens="BRD",jas="詩"},
     [11] = {id=11,en="Ranger",ja="狩人",ens="RNG",jas="狩"},
     [12] = {id=12,en="Samurai",ja="侍",ens="SAM",jas="侍"},
     [13] = {id=13,en="Ninja",ja="忍者",ens="NIN",jas="忍"},
