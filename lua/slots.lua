@@ -3,7 +3,7 @@
 return {
     [0] = {id=0,en="Main"},
     [1] = {id=1,en="Sub"},
-    [2] = {id=2,en="Ranged"},
+    [2] = {id=2,en="Range"},
     [3] = {id=3,en="Ammo"},
     [4] = {id=4,en="Head"},
     [5] = {id=5,en="Body"},
