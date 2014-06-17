@@ -154,7 +154,7 @@ return {
     [330] = {id=330,en="Gold Slime",ja="スライム族（黄）",de="Gold Slime",fr="Gold Slime",tp_moves={[431]=10,[432]=1,[433]=10,[1317]=20,[1319]=30}},
     [331] = {id=331,en="Boil (Slime)",ja="“ボイル”スライム族",de="Boil (Slime)",fr="Boil (Slime)",tp_moves={[2514]=40,[2548]=10,[2549]=1,[2550]=50,[2551]=20,[2552]=30}},
     [332] = {id=332,en="Gold Flan",ja="フラン族（黄）",de="Gold Flan",fr="Gold Flan",tp_moves={[1821]=1,[1822]=10,[1823]=20,[1824]=30,[1825]=40}},
-    [333] = {id=333,en="Alabaster Flan",ja="フラン族（白）",de="Alabaster Flan",fr="Alabaster Flan",tp_moves={[1821]=1,[1822]=10,[1823]=20,[1824]=30,[1825]=40,[2771]=50}},
+    [333] = {id=333,en="Blancmange (Flan)",ja="“ブラマンジェ”フラン族",de="Blancmange (Flan)",fr="Blancmange",tp_moves={[1821]=1,[1822]=10,[1823]=20,[1824]=30,[1825]=40,[2771]=50}},
     [334] = {id=334,en="Pygmy Sandworm",ja="小型のサンドウォーム族",de="Pygmy Sandworm",fr="Pygmy Sandworm",tp_moves={[2187]=1,[2188]=10,[2189]=20,[2190]=30,[2191]=90,[2604]=-25,[2605]=-25}},
     [335] = {id=335,en="Gigaworm (Sandworm)",ja="“ギガウォーム”サンドウォーム族",de="Gigaworm (Sandworm)",fr="Gigaworm (Sandworm)",tp_moves={[2187]=1,[2188]=10,[2189]=20,[2190]=30,[2191]=90,[2604]=-25,[2605]=-25,[2641]=70}},
     [336] = {id=336,en="Azure Leech",ja="リーチ族（青）",de="Azure Leech",fr="Azure Leech",tp_moves={[325]=10,[326]=70,[327]=80,[414]=1,[415]=30,[416]=20,[417]=50,[418]=40,[420]=50,[421]=50,[423]=60}},
