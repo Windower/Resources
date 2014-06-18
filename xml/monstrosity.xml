@@ -153,7 +153,7 @@
   <o id="330" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Gold Slime" ja="スライム族（黄）" de="Gold Slime" fr="Gold Slime" />
   <o id="331" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Boil (Slime)" ja="“ボイル”スライム族" de="Boil (Slime)" fr="Boil (Slime)" />
   <o id="332" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Gold Flan" ja="フラン族（黄）" de="Gold Flan" fr="Gold Flan" />
-  <o id="333" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Alabaster Flan" ja="フラン族（白）" de="Alabaster Flan" fr="Alabaster Flan" />
+  <o id="333" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Blancmange (Flan)" ja="“ブラマンジェ”フラン族" de="Blancmange (Flan)" fr="Blancmange" />
   <o id="334" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Pygmy Sandworm" ja="小型のサンドウォーム族" de="Pygmy Sandworm" fr="Pygmy Sandworm" />
   <o id="335" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Gigaworm (Sandworm)" ja="“ギガウォーム”サンドウォーム族" de="Gigaworm (Sandworm)" fr="Gigaworm (Sandworm)" />
   <o id="336" tp_moves="System.Collections.Generic.Dictionary`2[System.UInt16,System.SByte]" en="Azure Leech" ja="リーチ族（青）" de="Azure Leech" fr="Azure Leech" />

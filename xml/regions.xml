@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<regions>
+  <o id="0" en="San d'Oria" ja="サンドリア王国" de="San d'Oria" fr="San d'Oria" />
+  <o id="1" en="Bastok" ja="バストゥーク共和国" de="Bastok" fr="Bastok" />
+  <o id="2" en="Windurst" ja="ウィンダス連邦" de="Windurst" fr="Windurst" />
+  <o id="3" en="Jeuno" ja="ジュノ大公国" de="Jeuno" fr="Jeuno" />
+  <o id="4" en="Ronfaure" ja="ロンフォール" de="Ronfaure" fr="Ronfaure" />
+  <o id="5" en="Zulkheim" ja="ザルクヘイム" de="Zulkheim" fr="Zulkheim" />
+  <o id="6" en="Norvallen" ja="ノルバレン" de="Norvallen" fr="Norvallen" />
+  <o id="7" en="Gustaberg" ja="グスタベルグ" de="Gustaberg" fr="Gustaberg" />
+  <o id="8" en="Derfland" ja="デルフラント" de="Derfland" fr="Derfland" />
+  <o id="9" en="Sarutabaruta" ja="サルタバルタ" de="Sarutabaruta" fr="Sarutabaruta" />
+  <o id="10" en="Kolshushu" ja="コルシュシュ" de="Kolshushu" fr="Kolshushu" />
+  <o id="11" en="Aragoneu" ja="アラゴーニュ" de="Aragoneu" fr="Aragoneu" />
+  <o id="12" en="Fauregandi" ja="フォルガンディ" de="Fauregandi" fr="Fauregandi" />
+  <o id="13" en="Valdeaunia" ja="バルドニア" de="Valdeaunia" fr="Valdeaunia" />
+  <o id="14" en="Qufim" ja="クフィム" de="Qufim" fr="Qufim" />
+  <o id="15" en="Li'Telor" ja="リ・テロア" de="Li'Telor" fr="Li'Telor" />
+  <o id="16" en="Kuzotz" ja="クゾッツ" de="Kuzotz" fr="Kuzotz" />
+  <o id="17" en="Vollbow" ja="ヴォルボー" de="Vollbow" fr="Vollbow" />
+  <o id="18" en="Elshimo Lowlands" ja="低地エルシモ" de="Elshimo-Ebene" fr="Basses-Terres d'Elshimo" />
+  <o id="19" en="Elshimo Uplands" ja="高地エルシモ" de="Elshimo-Hochland" fr="Hautes-Terres d'Elshimo" />
+  <o id="20" en="Tu'Lia" ja="トゥー・リア" de="Tu'Lia" fr="Tu'Lia" />
+  <o id="21" en="Dynamis" ja="デュナミス" de="Dynamis" fr="Dynamis" />
+  <o id="22" en="Movalpolos" ja="ムバルポロス" de="Movalpolos" fr="Movalpolos" />
+  <o id="23" en="Tavnazian Marquisate" ja="タブナジア侯国" de="Tavnazische Marquisate" fr="Marquisat de Tavnazia" />
+  <o id="24" en="Tavnazian Archipelago" ja="タブナジア群島" de="Tavnazisches Archipel" fr="Archipel de Tavnazia" />
+  <o id="25" en="Promyvion" ja="プロミヴォン" de="Promyvion" fr="Promyvion" />
+  <o id="26" en="Lumoria" ja="ルモリア" de="Lumoria" fr="Lumoria" />
+  <o id="27" en="Limbus" ja="リンバス" de="Limbus" fr="Limbus" />
+  <o id="28" en="Empire of Aht Urhgan" ja="アトルガン皇国" de="Imperium von Aht Urhgan" fr="Empire d'Aht Urhgan" />
+  <o id="29" en="West Aht Urhgan" ja="西アトルガン地方" de="West-Aht Urhgan" fr="Aht Urhgan occidental" />
+  <o id="30" en="Mamool Ja Savagelands" ja="マムージャ蕃国" de="Wildnis der Mamool Ja" fr="Fief des Sauvages Mamool Ja" />
+  <o id="31" en="Halvung Territory" ja="ハルブーン傭兵団領" de="Halvung-Territorien" fr="Territoire Halvung" />
+  <o id="32" en="Arrapago Islands" ja="アラパゴ諸島" de="Arrapago-Inseln" fr="Iles d'Arrapago" />
+  <o id="33" en="Ruins of Alzadaal" ja="アルザダール文明遺跡群" de="Ruinen von Alzadaal" fr="Ruines d'Alzadaal" />
+  <o id="34" en="The Ronfaure Front" ja="ロンフォール戦線" de="Ronfaure-Front" fr="Front de Ronfaure" />
+  <o id="35" en="The Norvallen Front" ja="ノルバレン戦線" de="Norvallen-Front" fr="Front de Norvallen" />
+  <o id="36" en="The Gustaberg Front" ja="グスタベルグ戦線" de="Gustaberg-Front" fr="Front de Gustaberg" />
+  <o id="37" en="The Derfland Front" ja="デルフラント戦線" de="Derfland-Front" fr="Front de Derfland" />
+  <o id="38" en="The Sarutabaruta Front" ja="サルタバルタ戦線" de="Sarutabaruta-Front" fr="Front de Sarutabaruta" />
+  <o id="39" en="The Aragoneu Front" ja="アラゴーニュ戦線" de="Aragoneu-Front" fr="Front d'Aragoneu" />
+  <o id="40" en="The Fauregandi Front" ja="フォルガンディ戦線" de="Fauregandi-Front" fr="Front de Fauregandi" />
+  <o id="41" en="The Valdeaunia Front" ja="バルドニア戦線" de="Valdeaunia-Front" fr="Front de Valdeaunia" />
+  <o id="42" en="Orcish Hosts" ja="オーク帝国軍" de="Orc-Imperium" fr="Armée de l'empire orque" />
+  <o id="43" en="Quadav Shieldwarriors" ja="クゥダフ兵団" de="Quadav-Armeekorps" fr="Guerriers quadavs" />
+  <o id="44" en="Yagudo Theomilitary" ja="ヤグード教団軍" de="Yagudo-Theomilitär" fr="Théomilitaires yagudos" />
+  <o id="45" en="Dark Kindred" ja="闇の王親衛隊" de="Schwarze Garde" fr="Milice du Seigneur des ombres" />
+  <o id="46" en="Abyssea" ja="アビセア" de="Abyssea" fr="Abyssée" />
+  <o id="47" en="The Threshold" ja="スレッショルド" de="Grenzland" fr="Firmament" />
+  <o id="48" en="Abdhaljs" ja="アブダルス" de="Abdhaljs" fr="Abdhaljs" />
+  <o id="49" en="The Sacred City of Adoulin" ja="神聖アドゥリン都市同盟" de="Heiliger Adouliner Städtebund" fr="Sainte Cité d'Adoulin" />
+  <o id="50" en="The Adoulin Islands" ja="アドゥリン諸島" de="Adouliner Inseln" fr="Archipel d'Adoulin" />
+  <o id="51" en="East Ulbuka Territory" ja="東ウルブカ地方" de="Ost-Ulbuka" fr="Ulbuka oriental" />
+  <o id="52" en="Ra'Kaznar" ja="ラ・カザナル" de="Ra'Kaznar" fr="Ra'Kaznar" />
+</regions>

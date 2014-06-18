@@ -134,6 +134,7 @@
   <o id="136" recast="40" en="Animus Minuo" ja="暗中飛躍の策" de="Pacificatio" fr="Traité de cordialité" />
   <o id="137" recast="72" en="Adloquium" ja="鼓舞激励の策" de="Adloquium" fr="Traité d'exhortation" />
   <o id="138" recast="60" en="Erase" ja="イレース" de="Entfernen" fr="Gomme" />
+  <o id="139" recast="40" en="Crusade" ja="クルセード" de="Kreuzzug" fr="Croisade" />
   <o id="140" recast="40" en="Gain-STR" ja="ゲインスト" de="STR-Stimulus" fr="Gain-STR" />
   <o id="141" recast="40" en="Gain-DEX" ja="ゲインデック" de="DEX-Stimulus" fr="Gain-DEX" />
   <o id="142" recast="40" en="Gain-VIT" ja="ゲインバイト" de="VIT-Stimulus" fr="Gain-VIT" />
@@ -284,7 +285,6 @@
   <o id="294" recast="180" en="Noctohelix" ja="闇門の計" de="Plutos Kern" fr="Thèse crépuscul." />
   <o id="295" recast="180" en="Luminohelix" ja="光門の計" de="Apollos Kern" fr="Thèse aurorale" />
   <o id="296" recast="224" en="Impact" ja="インパクト" de="Impakt" fr="Aérolithe" />
-  <o id="297" recast="20" en="(magic 505)" ja="(予備)" de="a line help text" fr="." />
   <o id="310" recast="40" en="Blaze Spikes" ja="ブレイズスパイク" de="Flammenspitzen" fr="Pointes de feu" />
   <o id="311" recast="40" en="Ice Spikes" ja="アイススパイク" de="Eisspitzen" fr="Pointes de glace" />
   <o id="312" recast="40" en="Shock Spikes" ja="ショックスパイク" de="Schockspitzen" fr="Pointes de foudre" />
@@ -402,10 +402,12 @@
   <o id="439" recast="120" en="Yurin: Ichi" ja="幽林の術:壱" de="Yurin: Ichi" fr="Yurin : Ichi" />
   <o id="440" recast="120" en="Kakka: Ichi" ja="活火の術:壱" de="Kakka: Ichi" fr="Kakka : Ichi" />
   <o id="441" recast="224" en="Migawari: Ichi" ja="身替の術:壱" de="Migawari: Ichi" fr="Migawari : Ichi" />
+  <o id="442" recast="120" en="Gekka: Ichi" ja="月下の術:壱" de="Gekka: Ichi" fr="Gekka : Ichi" />
+  <o id="443" recast="120" en="Yain: Ichi" ja="夜陰の術:壱" de="Yain: Ichi" fr="Yain : Ichi" />
   <o id="445" recast="48" en="Indi-Regen" ja="インデリジェネ" de="Indi-Regenerieren" fr="Indi-Récup" />
   <o id="446" recast="48" en="Indi-Poison" ja="インデポイズン" de="Indi-Gift" fr="Indi-Poison" />
   <o id="447" recast="48" en="Indi-Refresh" ja="インデリフレシュ" de="Indi-Erfrischen" fr="Indi-Recharge" />
-  <o id="448" recast="48" en="magic(771)" ja="." de="." fr="." />
+  <o id="448" recast="48" en="magic(771)" ja="." de="Indi-Hast" fr="." />
   <o id="449" recast="48" en="Indi-STR" ja="インデスト" de="Indi-STR" fr="Indi-STR" />
   <o id="450" recast="48" en="Indi-DEX" ja="インデデック" de="Indi-DEX" fr="Indi-DEX" />
   <o id="451" recast="48" en="Indi-VIT" ja="インデバイト" de="Indi-VIT" fr="Indi-VIT" />
@@ -685,7 +687,7 @@
   <o id="820" recast="96" en="Protected Aria" ja="冷静と情熱のアリア" de="Arie des Schutzes" fr="Aria de protection" />
   <o id="821" recast="96" en="Advancing March" ja="無敵の進撃マーチ" de="Fortschritts-Marsch" fr="Marche d'entrain" />
   <o id="822" recast="96" en="Victory March" ja="栄光の凱旋マーチ" de="Sieges-Marsch" fr="Marche glorieuse" />
-  <o id="823" recast="96" en="(magic 511)" ja="(予備)" de="a line help text" fr="." />
+  <o id="823" recast="80" en="(magic 511)" ja="(予備)" de="Hast II" fr="." />
   <o id="824" recast="96" en="Battlefield Elegy" ja="戦場のエレジー" de="Schlachtfeld-Elegie" fr="Elégie du combat" />
   <o id="825" recast="96" en="Carnage Elegy" ja="修羅のエレジー" de="Gemetzel-Elegie" fr="Elégie du carnage" />
   <o id="826" recast="96" en="Massacre Elegy" ja="地獄のエレジー" de="Höllen-Elegie" fr="Elég. du massacre" />
@@ -747,11 +749,9 @@
   <o id="888" recast="200" en="Sleepga II" ja="スリプガII" de="Schlafga II" fr="OmniSommeil II" />
   <o id="889" recast="240" en="Graviga" ja="グラビガ" de="Schwerkraftga" fr="OmniPesanteur" />
   <o id="890" recast="40" en="Death" ja="デス" de="Tod" fr="Mort" />
-  <o id="891" recast="20" en="(magic 506)" ja="(予備)" de="a line help text" fr="." />
   <o id="892" recast="208" en="Meteor II" ja="メテオII" de="Meteor II" fr="Météore II" />
   <o id="893" recast="40" en="Virus" ja="ウィルス" de="Viren" fr="Virus" />
   <o id="894" recast="40" en="Curse" ja="カーズ" de="Fluch" fr="Maléfice" />
-  <o id="895" recast="96" en="(magic 476)" ja="(予備)" de="a line help text" fr="." />
   <o id="896" recast="192" en="Shantotto" ja="シャントット" de="Shantotto" fr="Shantotto" />
   <o id="897" recast="192" en="Naji" ja="ナジ" de="Naji" fr="Naji" />
   <o id="898" recast="192" en="Kupipi" ja="クピピ" de="Kupipi" fr="Kupipi" />
@@ -789,4 +789,8 @@
   <o id="932" recast="192" en="Fablinix" ja="ファブリニクス" de="Fablinix" fr="Fablinix" />
   <o id="933" recast="192" en="Maat" ja="マート" de="Maat" fr="Maat" />
   <o id="934" recast="192" en="D. Shantotto" ja="D.シャントット" de="D. Shantotto" fr="Délic. Shantotto" />
+  <o id="941" recast="192" en="Elivira" ja="エリヴィラ" de="Elivira" fr="Elivira" />
+  <o id="942" recast="192" en="Noillurie" ja="ノユリ" de="Noillurie" fr="Noillurie" />
+  <o id="943" recast="192" en="Lhu Mhakaracca" ja="ルー・マカラッカ" de="Lhu Mhakaracca" fr="Lhu Mhakar." />
+  <o id="944" recast="192" en="Ferreous Coffin" ja="フェリアスコフィン" de="Ferreous Coffin" fr="Ferreous Coffin" />
 </spell_recasts>
