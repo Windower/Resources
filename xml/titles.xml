@@ -1,844 +1,883 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <titles>
-  <o id="0" en="N/A" />
-  <o id="1" en="Fodderchief Flayer" />
-  <o id="2" en="Warchief Wrecker" />
-  <o id="3" en="Dread Dragon Slayer" />
-  <o id="4" en="Overlord Executioner" />
-  <o id="5" en="Dark Dragon Slayer" />
-  <o id="6" en="Adamantking Killer" />
-  <o id="7" en="Black Dragon Slayer" />
-  <o id="8" en="Manifest Mauler" />
-  <o id="9" en="Behemoth's Bane" />
-  <o id="10" en="Archmage Assassin" />
-  <o id="11" en="Hellsbane" />
-  <o id="12" en="Giant Killer" />
-  <o id="13" en="Lich Banisher" />
-  <o id="14" en="Jellybane" />
-  <o id="15" en="Bogeydowner" />
-  <o id="16" en="Beakbender" />
-  <o id="17" en="Skullcrusher" />
-  <o id="18" en="Morbolbane" />
-  <o id="19" en="Goliath Killer" />
-  <o id="20" en="Mary's Guide" />
-  <o id="21" en="Simurgh Poacher" />
-  <o id="22" en="Roc Star" />
-  <o id="23" en="Serket Breaker" />
-  <o id="24" en="Cassienova" />
-  <o id="25" en="The Hornsplitter" />
-  <o id="26" en="Tortoise Torturer" />
-  <o id="27" en="Mon Cherry" />
-  <o id="28" en="Behemoth Dethroner" />
-  <o id="29" en="The Vivisector" />
-  <o id="30" en="Dragon Asher" />
-  <o id="31" en="Expeditionary Trooper" />
-  <o id="32" en="Bearer of the Wisewoman's Hope" />
-  <o id="33" en="Bearer of the Eight Prayers" />
-  <o id="34" en="Lightweaver" />
-  <o id="35" en="Destroyer of Antiquity" />
-  <o id="36" en="Sealer of the Portal of the Gods" />
-  <o id="37" en="Burier of the Illusion" />
-  <o id="39" en="Family Counselor" />
-  <o id="41" en="Great Grappler Scorpio!?" />
-  <o id="42" en="Bond Fixer" />
-  <o id="43" en="Vampire Hunter D-Minus" />
-  <o id="44" en="Sheep's Milk Deliverer" />
-  <o id="45" en="Bean Cuisine Salter" />
-  <o id="46" en="Total Loser" />
-  <o id="47" en="Doctor Shantotto's Flavor of the Month" />
-  <o id="48" en="Pilgrim to Holla" />
-  <o id="49" en="Pilgrim to Dem" />
-  <o id="50" en="Pilgrim to Mea" />
-  <o id="51" en="Daybreak Gambler" />
-  <o id="52" en="The Pious One" />
-  <o id="53" en="A Moss Kind Person" />
-  <o id="54" en="Entrance Denied" />
-  <o id="55" en="Apiarist" />
-  <o id="56" en="Rabbiter" />
-  <o id="57" en="Royal Grave Keeper" />
-  <o id="58" en="Courier Extraordinaire" />
-  <o id="59" en="Ronfaurian Rescuer" />
-  <o id="60" en="Pickpocket Pincher" />
-  <o id="61" en="Fang Finder" />
-  <o id="62" en="Faith like a Candle" />
-  <o id="63" en="The Pure One" />
-  <o id="64" en="Lost Child Officer" />
-  <o id="65" en="Silencer of the Lambs" />
-  <o id="66" en="Lost &amp; Found Officer" />
-  <o id="67" en="Green Grocer" />
-  <o id="68" en="The Benevolent One" />
-  <o id="69" en="Knight in Training" />
-  <o id="70" en="Lizard Skinner" />
-  <o id="71" en="Bug Catcher" />
-  <o id="72" en="Spelunker" />
-  <o id="73" en="Arms Trader" />
-  <o id="74" en="Traveling Medicine Man" />
-  <o id="75" en="Cat Skinner" />
-  <o id="76" en="Carp Diem" />
-  <o id="77" en="Advertising Executive" />
-  <o id="78" en="Third-rate Organizer" />
-  <o id="79" en="Second-rate Organizer" />
-  <o id="80" en="First-rate Organizer" />
-  <o id="81" en="Bastok Welcoming Committee" />
-  <o id="82" en="Shell Outer" />
-  <o id="83" en="Bucket Fisher" />
-  <o id="84" en="Pursuer of the Past" />
-  <o id="85" en="Pursuer of the Truth" />
-  <o id="86" en="Mommy's Helper" />
-  <o id="87" en="Hot Dog" />
-  <o id="88" en="Stampeder" />
-  <o id="89" en="Qiji's Friend" />
-  <o id="90" en="Qiji's Rival" />
-  <o id="91" en="Contest Rigger" />
-  <o id="92" en="Ringbearer" />
-  <o id="93" en="Kulatz Bridge Companion" />
-  <o id="94" en="Beadeaux Surveyor" />
-  <o id="95" en="Avenger" />
-  <o id="96" en="Treasure Scavenger" />
-  <o id="97" en="Airship Denouncer" />
-  <o id="98" en="Zeruhn Sweeper" />
-  <o id="99" en="Tearjerker" />
-  <o id="100" en="Crab Crusher" />
-  <o id="101" en="Star of Ifrit" />
-  <o id="102" en="Sorrow Drowner" />
-  <o id="103" en="Brygid-approved" />
-  <o id="104" en="Drachenfall Ascetic" />
-  <o id="105" en="&quot;Steaming Sheep&quot; Regular" />
-  <o id="106" en="Purple Belt" />
-  <o id="107" en="Gustaberg Tourist" />
-  <o id="108" en="Sand Blaster" />
-  <o id="109" en="Black Death" />
-  <o id="111" en="Fresh &quot;North Winds&quot; Recruit" />
-  <o id="112" en="New &quot;Best of the West&quot; Recruit" />
-  <o id="113" en="New &quot;Buuma's Boomers&quot; Recruit" />
-  <o id="114" en="Heavens Tower Gatehouse Recruit" />
-  <o id="115" en="Cat Burglar Groupie" />
-  <o id="116" en="Crawler Culler" />
-  <o id="117" en="Savior of Knowledge" />
-  <o id="118" en="Star-ordained Warrior" />
-  <o id="119" en="Lower than the Lowest Tunnel Worm" />
-  <o id="120" en="Star Onion Brigade Member" />
-  <o id="121" en="Star Onion Brigadier" />
-  <o id="122" en="Quick Fixer" />
-  <o id="123" en="Fake-moustached Investigator" />
-  <o id="124" en="Hakkuru-Rinkuru's Benefactor" />
-  <o id="125" en="S.O.B. Super Hero" />
-  <o id="126" en="Editor's Hatchet Man" />
-  <o id="127" en="Doctor Shantotto's Guinea Pig" />
-  <o id="128" en="Spoilsport" />
-  <o id="129" en="Super Model" />
-  <o id="130" en="Ghostie Buster" />
-  <o id="131" en="Night Sky Navigator" />
-  <o id="132" en="Fast Food Deliverer" />
-  <o id="133" en="Cupid's Florist" />
-  <o id="134" en="Tarutaru Murder Suspect" />
-  <o id="135" en="Hexer Vexer" />
-  <o id="136" en="Cardian Tutor" />
-  <o id="137" en="Deliverer of Tearful News" />
-  <o id="138" en="Fossilized Sea Farer" />
-  <o id="139" en="Down Piper Pipe-upperer" />
-  <o id="140" en="Kisser Make-upper" />
-  <o id="141" en="Timekeeper" />
-  <o id="142" en="Fortune-teller in Training" />
-  <o id="143" en="Torchbearer" />
-  <o id="144" en="Tenshodo Member" />
-  <o id="145" en="Chocobo Trainer" />
-  <o id="146" en="Bringer of Bliss" />
-  <o id="147" en="Activist for Kindness" />
-  <o id="148" en="Envoy to the North" />
-  <o id="149" en="Exorcist in Training" />
-  <o id="150" en="Professional Loafer" />
-  <o id="151" en="Clock Tower Preservationist" />
-  <o id="152" en="Life Saver" />
-  <o id="153" en="Fool's Errand Runner" />
-  <o id="154" en="Card Collector" />
-  <o id="155" en="Researcher of Classics" />
-  <o id="156" en="Street Sweeper" />
-  <o id="157" en="Mercy Errand Runner" />
-  <o id="158" en="Two's Company" />
-  <o id="159" en="Believer of Altana" />
-  <o id="160" en="Trader of Mysteries" />
-  <o id="161" en="Trader of Antiquities" />
-  <o id="162" en="Trader of Renown" />
-  <o id="163" en="Brown Belt" />
-  <o id="164" en="Horizon Breaker" />
-  <o id="165" en="Goblin's Exclusive Fashion Mannequin" />
-  <o id="166" en="Summit Breaker" />
-  <o id="167" en="Sky Breaker" />
-  <o id="168" en="Cloud Breaker" />
-  <o id="169" en="Star Breaker" />
-  <o id="170" en="Greedalox" />
-  <o id="171" en="Certified Rhinostery Venturer" />
-  <o id="172" en="Cordon Bleu Fisher" />
-  <o id="173" en="Ace Angler" />
-  <o id="174" en="Lu Shang-like Fisher King" />
-  <o id="175" en="Matchmaker" />
-  <o id="176" en="Ecologist" />
-  <o id="177" en="Li'l Cupid" />
-  <o id="178" en="The Love Doctor" />
-  <o id="179" en="Savior of Love" />
-  <o id="180" en="Honorary Citizen of Selbina" />
-  <o id="181" en="Purveyor in Training" />
-  <o id="182" en="One-star Purveyor" />
-  <o id="183" en="Two-star Purveyor" />
-  <o id="184" en="Three-star Purveyor" />
-  <o id="185" en="Four-star Purveyor" />
-  <o id="186" en="Five-star Purveyor" />
-  <o id="187" en="Doctor Yoran-Oran Supporter" />
-  <o id="188" en="Doctor Shantotto Supporter" />
-  <o id="189" en="Professor Koru-Moru Supporter" />
-  <o id="190" en="Rainbow Weaver" />
-  <o id="191" en="Shadow Walker" />
-  <o id="192" en="Heir to the Holy Crest" />
-  <o id="193" en="Bushido Blade" />
-  <o id="195" en="Paragon of Paladin Excellence" />
-  <o id="196" en="Paragon of Beastmaster Excellence" />
-  <o id="197" en="Paragon of Ranger Excellence" />
-  <o id="198" en="Paragon of Dark Knight Excellence" />
-  <o id="199" en="Paragon of Bard Excellence" />
-  <o id="200" en="Paragon of Samurai Excellence" />
-  <o id="201" en="Paragon of Dragoon Excellence" />
-  <o id="202" en="Paragon of Ninja Excellence" />
-  <o id="203" en="Paragon of Summoner Excellence" />
-  <o id="206" en="New Adventurer" />
-  <o id="207" en="Certified Adventurer" />
-  <o id="208" en="Shadow Banisher" />
-  <o id="209" en="Tried and Tested Knight" />
-  <o id="210" en="Dark Sider" />
-  <o id="211" en="The Fanged One" />
-  <o id="212" en="Have Wings, Will Fly" />
-  <o id="213" en="Animal Trainer" />
-  <o id="214" en="Wandering Minstrel" />
-  <o id="215" en="Mog's Master" />
-  <o id="216" en="Mog's Kind Master" />
-  <o id="217" en="Mog's Exceptionally Kind Master" />
-  <o id="218" en="Paragon of Warrior Excellence" />
-  <o id="219" en="Paragon of Monk Excellence" />
-  <o id="220" en="Paragon of Red Mage Excellence" />
-  <o id="221" en="Paragon of Thief Excellence" />
-  <o id="222" en="Paragon of Black Mage Excellence" />
-  <o id="223" en="Paragon of White Mage Excellence" />
-  <o id="224" en="Mog's Loving Master" />
-  <o id="226" en="Royal Archer" />
-  <o id="227" en="Royal Spearman" />
-  <o id="228" en="Royal Squire" />
-  <o id="229" en="Royal Swordsman" />
-  <o id="230" en="Royal Cavalier" />
-  <o id="231" en="Royal Guard" />
-  <o id="232" en="Grand Knight of the Realm" />
-  <o id="233" en="Grand Temple Knight" />
-  <o id="234" en="Reserve Knight Captain" />
-  <o id="235" en="Elite Royal Guard" />
-  <o id="236" en="Legionnaire" />
-  <o id="237" en="Decurion" />
-  <o id="238" en="Centurion" />
-  <o id="239" en="Junior Musketeer" />
-  <o id="240" en="Senior Musketeer" />
-  <o id="241" en="Musketeer Commander" />
-  <o id="242" en="Gold Musketeer" />
-  <o id="243" en="Praefectus" />
-  <o id="244" en="Senior Gold Musketeer" />
-  <o id="245" en="Praefectus Castrorum" />
-  <o id="246" en="Freesword" />
-  <o id="247" en="Mercenary" />
-  <o id="248" en="Mercenary Captain" />
-  <o id="249" en="Combat Caster" />
-  <o id="250" en="Tactician Magician" />
-  <o id="251" en="Wise Wizard" />
-  <o id="252" en="Patriarch Protector" />
-  <o id="253" en="Caster Captain" />
-  <o id="254" en="Master Caster" />
-  <o id="255" en="Mercenary Major" />
-  <o id="256" en="Fugitive Minister Bounty Hunter" />
-  <o id="257" en="King of the Opo-opos" />
-  <o id="258" en="Excommunicate of Kazham" />
-  <o id="259" en="Kazham Caller" />
-  <o id="260" en="Dream Dweller" />
-  <o id="261" en="Apprentice Sommelier" />
-  <o id="262" en="Desert Hunter" />
-  <o id="263" en="Seeker of Truth" />
-  <o id="264" en="Kuftal Tourist" />
-  <o id="265" en="The Immortal Fisher, Lu Shang" />
-  <o id="266" en="Looks Sublime in a Subligar" />
-  <o id="267" en="Looks Good in Leggings" />
-  <o id="268" en="Honorary Doctorate, Majoring in Tonberries" />
-  <o id="269" en="Treasure-house Ransacker" />
-  <o id="270" en="Cracker of the Secret Code" />
-  <o id="271" en="Black Marketeer" />
-  <o id="272" en="Acquirer of Ancient Arcanum" />
-  <o id="273" en="Ya Done Good" />
-  <o id="274" en="Heir of the Great Fire" />
-  <o id="275" en="Heir of the Great Earth" />
-  <o id="276" en="Heir of the Great Water" />
-  <o id="277" en="Heir of the Great Wind" />
-  <o id="278" en="Heir of the Great Ice" />
-  <o id="279" en="Heir of the Great Lightning" />
-  <o id="280" en="Guider of Souls to the Sanctuary" />
-  <o id="281" en="Bearer of Bonds Beyond Time" />
-  <o id="282" en="Friend of the Opo-opos" />
-  <o id="283" en="Hero on Behalf of Windurst" />
-  <o id="284" en="Victor of the Balga Contest" />
-  <o id="285" en="Gullible's Travels" />
-  <o id="286" en="Even More Gullible's Travels" />
-  <o id="287" en="Heir of the New Moon" />
-  <o id="288" en="Assassin Reject" />
-  <o id="289" en="Black Belt" />
-  <o id="290" en="Vermillion Venturer" />
-  <o id="291" en="Cerulean Soldier" />
-  <o id="292" en="Emerald Exterminator" />
-  <o id="293" en="Guiding Star" />
-  <o id="294" en="Vestal Chamberlain" />
-  <o id="295" en="San d'Orian Royal Heir" />
-  <o id="296" en="Hero Among Heroes" />
-  <o id="297" en="Dynamis-San d'Oria Interloper" />
-  <o id="298" en="Dynamis-Bastok Interloper" />
-  <o id="299" en="Dynamis-Windurst Interloper" />
-  <o id="300" en="Dynamis-Jeuno Interloper" />
-  <o id="301" en="Dynamis-Beaucedine Interloper" />
-  <o id="302" en="Dynamis-Xarcabard Interloper" />
-  <o id="303" en="Discerning Individual" />
-  <o id="304" en="Very Discerning Individual" />
-  <o id="305" en="Extremely Discerning Individual" />
-  <o id="306" en="Royal Wedding Planner" />
-  <o id="307" en="Consort Candidate" />
-  <o id="308" en="Obsidian Storm" />
-  <o id="309" en="Pentacide Perpetrator" />
-  <o id="310" en="Wood Worshiper" />
-  <o id="311" en="Lumber Lather" />
-  <o id="312" en="Accomplished Carpenter" />
-  <o id="313" en="Anvil Advocate" />
-  <o id="314" en="Forge Fanatic" />
-  <o id="315" en="Accomplished Blacksmith" />
-  <o id="316" en="Trinket Turner" />
-  <o id="317" en="Silver Smelter" />
-  <o id="318" en="Accomplished Goldsmith" />
-  <o id="319" en="Knitting Know-It-All" />
-  <o id="320" en="Loom Lunatic" />
-  <o id="321" en="Accomplished Weaver" />
-  <o id="322" en="Formula Fiddler" />
-  <o id="323" en="Potion Potentate" />
-  <o id="324" en="Accomplished Alchemist" />
-  <o id="325" en="Bone Beautifier" />
-  <o id="326" en="Shell Scrimshander" />
-  <o id="327" en="Accomplished Boneworker" />
-  <o id="328" en="Hide Handler" />
-  <o id="329" en="Leather Lauder" />
-  <o id="330" en="Accomplished Tanner" />
-  <o id="331" en="Fastriver Fisher" />
-  <o id="332" en="Coastline Caster" />
-  <o id="333" en="Accomplished Angler" />
-  <o id="334" en="Gourmand Gratifier" />
-  <o id="335" en="Banquet Bestower" />
-  <o id="336" en="Accomplished Chef" />
-  <o id="337" en="Fine Tuner" />
-  <o id="338" en="Friend of the Helmed" />
-  <o id="339" en="Tavnazian Squire" />
-  <o id="340" en="Ducal Dupe" />
-  <o id="341" en="Hyper Ultra Sonic Adventurer" />
-  <o id="342" en="Rod Retriever" />
-  <o id="343" en="Deed Verifier" />
-  <o id="344" en="Chocobo Love Guru" />
-  <o id="345" en="Pick-up Artist" />
-  <o id="346" en="Trash Collector" />
-  <o id="347" en="Ancient Flame Follower" />
-  <o id="348" en="Tavnazian Traveler" />
-  <o id="349" en="Transient Dreamer" />
-  <o id="350" en="The Lost One" />
-  <o id="351" en="Treader of an Icy Past" />
-  <o id="352" en="Branded by Lightning" />
-  <o id="353" en="Seeker of the Light" />
-  <o id="354" en="Dead Body" />
-  <o id="355" en="Frozen Dead Body" />
-  <o id="356" en="Dreambreaker" />
-  <o id="357" en="Mist Melter" />
-  <o id="358" en="Delta Enforcer" />
-  <o id="359" en="Omega Ostracizer" />
-  <o id="360" en="Ultima Undertaker" />
-  <o id="361" en="Ulmia's Soulmate" />
-  <o id="362" en="Tenzen's Ally" />
-  <o id="363" en="Companion of Louverance" />
-  <o id="364" en="True Companion of Louverance" />
-  <o id="365" en="Prishe's Buddy" />
-  <o id="366" en="Nag'molada's Underling" />
-  <o id="367" en="Esha'ntarl's Comrade in Arms" />
-  <o id="368" en="The Chebukkis' Worst Nightmare" />
-  <o id="369" en="Brown Mage Guinea Pig" />
-  <o id="370" en="Brown Magic By-Product" />
-  <o id="371" en="Bastok's Second Best Dressed" />
-  <o id="372" en="Rookie Hero Instructor" />
-  <o id="373" en="Goblin in Disguise" />
-  <o id="374" en="Apostate for Hire" />
-  <o id="375" en="Talks with Tonberries" />
-  <o id="376" en="Rook Buster" />
-  <o id="377" en="Banneret" />
-  <o id="378" en="Gold Balli????star" />
-  <o id="379" en="Mythril Balli???star" />
-  <o id="380" en="Silver Balli??star" />
-  <o id="381" en="Bronze Balli?star" />
-  <o id="382" en="Searing?Star" />
-  <o id="383" en="Striking?Star" />
-  <o id="384" en="Soothing?Star" />
-  <o id="385" en="Sable?Star" />
-  <o id="386" en="Scarlet?Star" />
-  <o id="387" en="Sonic?Star" />
-  <o id="388" en="Saintly?Star" />
-  <o id="389" en="Shadowy?Star" />
-  <o id="390" en="Savage?Star" />
-  <o id="391" en="Singing?Star" />
-  <o id="392" en="Sniping?Star" />
-  <o id="393" en="Slicing?Star" />
-  <o id="394" en="Sneaking?Star" />
-  <o id="395" en="Spearing?Star" />
-  <o id="396" en="Summoning?Star" />
-  <o id="397" en="Putrid Purveyor of Pungent Petals" />
-  <o id="398" en="Unquenchable Light" />
-  <o id="399" en="Ballistager" />
-  <o id="400" en="Ultimate Champion of the World" />
-  <o id="401" en="Warrior of the Crystal" />
-  <o id="402" en="Indomitable Fisher" />
-  <o id="403" en="Averter of the Apocalypse" />
-  <o id="404" en="Banisher of Emptiness" />
-  <o id="405" en="Random Adventurer" />
-  <o id="406" en="Irresponsible Adventurer" />
-  <o id="407" en="Odorous Adventurer" />
-  <o id="408" en="Insignificant Adventurer" />
-  <o id="409" en="Final Balli????star" />
-  <o id="410" en="Balli????star Royale" />
-  <o id="411" en="Destined Fellow" />
-  <o id="412" en="Orcish Serjeant" />
-  <o id="413" en="Bronze Quadav" />
-  <o id="414" en="Yagudo Initiate" />
-  <o id="415" en="Moblin Kinsman" />
-  <o id="416" en="Sin Hunter Hunter" />
-  <o id="417" en="Disciple of Justice" />
-  <o id="418" en="Monarch Linn Patrol Guard" />
-  <o id="419" en="Team Player" />
-  <o id="420" en="Worthy of Trust" />
-  <o id="421" en="Conqueror of Fate" />
-  <o id="422" en="Breaker of the Chains" />
-  <o id="423" en="A Friend Indeed" />
-  <o id="424" en="Heir to the Realm of Dreams" />
-  <o id="425" en="Gold Hook" />
-  <o id="426" en="Mythril Hook" />
-  <o id="427" en="Silver Hook" />
-  <o id="428" en="Copper Hook" />
-  <o id="430" en="Dynamis-Valkurm Interloper" />
-  <o id="431" en="Dynamis-Buburimu Interloper" />
-  <o id="432" en="Dynamis-Qufim Interloper" />
-  <o id="433" en="Dynamis-Tavnazia Interloper" />
-  <o id="434" en="Confronter of Nightmares" />
-  <o id="435" en="Disturber of Slumber" />
-  <o id="436" en="Interrupter of Dreams" />
-  <o id="437" en="Sapphire?Star" />
-  <o id="438" en="Surging?Star" />
-  <o id="439" en="Swaying?Star" />
-  <o id="440" en="Dark Resistant" />
-  <o id="441" en="Bearer of the Mark of Zahak" />
-  <o id="442" en="Seagull Phratrie Crew Member" />
-  <o id="443" en="Proud Automaton Owner" />
-  <o id="444" en="Private Second Class" />
-  <o id="445" en="Private First Class" />
-  <o id="446" en="Superior Private" />
-  <o id="447" en="Wildcat Publicist" />
-  <o id="448" en="Adamantking Usurper" />
-  <o id="449" en="Overlord Overthrower" />
-  <o id="450" en="Deity Debunker" />
-  <o id="451" en="Fafnir Slayer" />
-  <o id="452" en="Aspidochelone Sinker" />
-  <o id="453" en="Nidhogg Slayer" />
-  <o id="454" en="Maat Masher" />
-  <o id="455" en="Kirin Captivator" />
-  <o id="456" en="Cactrot Desacelerador" />
-  <o id="457" en="Lifter of Shadows" />
-  <o id="458" en="Tiamat Trouncer" />
-  <o id="459" en="Vrtra Vanquisher" />
-  <o id="460" en="World Serpent Slayer" />
-  <o id="461" en="Xolotl Xtrapolator" />
-  <o id="462" en="Boroka Beleaguerer" />
-  <o id="463" en="Ouryu Overwhelmer" />
-  <o id="464" en="Vinegar Evaporator" />
-  <o id="465" en="Virtuous Saint" />
-  <o id="466" en="Bye-bye, Taisai" />
-  <o id="467" en="Temenos Liberator" />
-  <o id="468" en="Apollyon Ravager" />
-  <o id="469" en="Wyrm Astonisher" />
-  <o id="470" en="Nightmare Awakener" />
-  <o id="471" en="Cerberus Muzzler" />
-  <o id="472" en="Hydra Headhunter" />
-  <o id="473" en="Shining Scale Rifler" />
-  <o id="474" en="Troll Subjugator" />
-  <o id="475" en="Gorgonstone Sunderer" />
-  <o id="476" en="Khimaira Carver" />
-  <o id="477" en="Elite Einherjar" />
-  <o id="478" en="Star Charioteer" />
-  <o id="479" en="Sun Charioteer" />
-  <o id="480" en="Subduer of the Mamool Ja" />
-  <o id="481" en="Subduer of the Trolls" />
-  <o id="482" en="Subduer of the Undead Swarm" />
-  <o id="483" en="Agent of the Allied Forces" />
-  <o id="484" en="Scenic Snapshotter" />
-  <o id="485" en="Branded by the Five Serpents" />
-  <o id="486" en="Immortal Lion" />
-  <o id="487" en="Paragon of Blue Mage Excellence" />
-  <o id="488" en="Paragon of Corsair Excellence" />
-  <o id="489" en="Paragon of Puppetmaster Excellence" />
-  <o id="490" en="Lance Corporal" />
-  <o id="491" en="Corporal" />
-  <o id="492" en="Master of Ambition" />
-  <o id="493" en="Master of Chance" />
-  <o id="494" en="Master of Manipulation" />
-  <o id="495" en="Ovjang's Errand Runner" />
-  <o id="496" en="Sergeant" />
-  <o id="497" en="Sergeant Major" />
-  <o id="498" en="Karababa's Tour Guide" />
-  <o id="499" en="Karababa's Bodyguard" />
-  <o id="500" en="Karababa's Secret Agent" />
-  <o id="501" en="Skyserpent Aggrandizer" />
-  <o id="502" en="Chief Sergeant" />
-  <o id="503" en="Aphmau's Mercenary" />
-  <o id="504" en="Nashmeira's Mercenary" />
-  <o id="505" en="Chocorookie" />
-  <o id="506" en="Second Lieutenant" />
-  <o id="507" en="Galeserpent Guardian" />
-  <o id="508" en="Stoneserpent Shocktrooper" />
-  <o id="509" en="Photopticator Operator" />
-  <o id="510" en="Salaheem's Risk Assessor" />
-  <o id="511" en="Treasure Trove Tender" />
-  <o id="512" en="Gessho's Mercy" />
-  <o id="513" en="Emissary of the Empress" />
-  <o id="514" en="Endymion Paratrooper" />
-  <o id="515" en="Naja's Comrade-In-Arms" />
-  <o id="516" en="Nashmeira's Loyalist" />
-  <o id="517" en="Preventer of Ragnarok" />
-  <o id="518" en="Champion of Aht Urhgan" />
-  <o id="519" en="First Lieutenant" />
-  <o id="520" en="Captain" />
-  <o id="521" en="Crystal Stakes Cupholder" />
-  <o id="522" en="Winning Owner" />
-  <o id="523" en="Victorious Owner" />
-  <o id="524" en="Triumphant Owner" />
-  <o id="525" en="High Roller" />
-  <o id="526" en="Fortune's Favorite" />
-  <o id="527" en="Superhero" />
-  <o id="528" en="Superheroine" />
-  <o id="529" en="Bloody Berserker" />
-  <o id="530" en="The Sixth Serpent" />
-  <o id="531" en="Eternal Mercenary" />
-  <o id="532" en="Springserpent Sentry" />
-  <o id="533" en="Sprightly?Star" />
-  <o id="534" en="Sagacious?Star" />
-  <o id="535" en="Schultz Scholar" />
-  <o id="536" en="Knight of the Iron Ram" />
-  <o id="537" en="Fourth Division Soldier" />
-  <o id="538" en="Cobra Unit Mercenary" />
-  <o id="539" en="Windtalker" />
-  <o id="540" en="Lady Killer" />
-  <o id="541" en="Troupe Brilioth Dancer" />
-  <o id="542" en="Cait Sith's Assistant" />
-  <o id="543" en="Ajido-Marujido's Minder" />
-  <o id="544" en="Comet Charioteer" />
-  <o id="545" en="Moon Charioteer" />
-  <o id="546" en="Sandworm Wrangler" />
-  <o id="547" en="Ixion Hornbreaker" />
-  <o id="548" en="Lambton Worm Desegmenter" />
-  <o id="549" en="Pandemonium Queller" />
-  <o id="550" en="Debaser of Dynasties" />
-  <o id="551" en="Disperser of Darkness" />
-  <o id="552" en="Ender of Idolatry" />
-  <o id="553" en="Lugh Exorcist" />
-  <o id="554" en="Elatha Exorcist" />
-  <o id="555" en="Ethniu Exorcist" />
-  <o id="556" en="Tethra Exorcist" />
-  <o id="557" en="Buarainech Exorcist" />
-  <o id="558" en="Oupire Impaler" />
-  <o id="559" en="Scylla Skinner" />
-  <o id="560" en="Zirnitra Wingclipper" />
-  <o id="561" en="Dawon Trapper" />
-  <o id="562" en="Krabkatoa Steamer" />
-  <o id="563" en="Orcus Trophy Hunter" />
-  <o id="564" en="Blobdingnag Burster" />
-  <o id="565" en="Verthandi Ensnarer" />
-  <o id="566" en="Ruthven Entomber" />
-  <o id="567" en="Yilbegan Hideflayer" />
-  <o id="568" en="Torchbearer of the 1st Walk" />
-  <o id="569" en="Torchbearer of the 2nd Walk" />
-  <o id="570" en="Torchbearer of the 3rd Walk" />
-  <o id="571" en="Torchbearer of the 4th Walk" />
-  <o id="572" en="Torchbearer of the 5th Walk" />
-  <o id="573" en="Torchbearer of the 6th Walk" />
-  <o id="574" en="Torchbearer of the 7th Walk" />
-  <o id="575" en="Torchbearer of the 8th Walk" />
-  <o id="576" en="Furniture Store Owner" />
-  <o id="577" en="Armory Owner" />
-  <o id="578" en="Jewelry Store Owner" />
-  <o id="579" en="Boutique Owner" />
-  <o id="580" en="Apothecary Owner" />
-  <o id="581" en="Curiosity Shop Owner" />
-  <o id="582" en="Shoeshop Owner" />
-  <o id="583" en="Fishmonger Owner" />
-  <o id="584" en="Restaurant Owner" />
-  <o id="585" en="Assistant Detective" />
-  <o id="586" en="Promising Dancer" />
-  <o id="587" en="Stardust Dancer" />
-  <o id="588" en="Elegant Dancer" />
-  <o id="589" en="Dazzling Dance Diva" />
-  <o id="590" en="Friend of Lehko Habhoka" />
-  <o id="591" en="Summa Cum Laude" />
-  <o id="592" en="Grimoire Bearer" />
-  <o id="593" en="Seasoning Connoisseur" />
-  <o id="594" en="Fine Young Griffon" />
-  <o id="595" en="Babban's Traveling Companion" />
-  <o id="596" en="Fellow Fortifier" />
-  <o id="597" en="Chocochampion" />
-  <o id="598" en="Traverser of Time" />
-  <o id="599" en="Mythril Musketeer No. 6" />
-  <o id="600" en="Jewel of the Cobra Unit" />
-  <o id="601" en="Knight of the Swiftwing Griffin" />
-  <o id="602" en="Wyrmsworn Protector" />
-  <o id="603" en="Flameserpent Facilitator" />
-  <o id="604" en="Maze Wanderer" />
-  <o id="605" en="Maze Navigator" />
-  <o id="606" en="Maze Scholar" />
-  <o id="607" en="Maze Artisan" />
-  <o id="608" en="Maze Overlord" />
-  <o id="609" en="Swarminator" />
-  <o id="610" en="Battle of Jeuno Veteran" />
-  <o id="611" en="Grand Greedalox" />
-  <o id="612" en="Karaha-Baruha's Research Assistant" />
-  <o id="613" en="Honorary Knight of the Cardinal Stag" />
-  <o id="614" en="Detector of Deception" />
-  <o id="615" en="Silencer of the Echo" />
-  <o id="616" en="Bestrider of Futures" />
-  <o id="617" en="Mog House Handyperson" />
-  <o id="618" en="Presidential Protector" />
-  <o id="619" en="The Moon's Companion" />
-  <o id="620" en="Arrester of the Ascension" />
-  <o id="621" en="House Aurchiat Retainer" />
-  <o id="622" en="Wanderer of Time" />
-  <o id="623" en="Smiter of the Shadow" />
-  <o id="624" en="Heir of the Blessed Radiance" />
-  <o id="625" en="Heir of the Blighted Gloom" />
-  <o id="626" en="Sworn to the Dark Divinity" />
-  <o id="627" en="Temperer of Mythril" />
-  <o id="628" en="Star in the Azure Sky" />
-  <o id="629" en="Fangmonger Forestaller" />
-  <o id="630" en="Visitor to Abyssea" />
-  <o id="631" en="Friend of Abyssea" />
-  <o id="632" en="Warrior of Abyssea" />
-  <o id="633" en="Stormer of Abyssea" />
-  <o id="634" en="Devastator of Abyssea" />
-  <o id="635" en="Hero of Abyssea" />
-  <o id="636" en="Champion of Abyssea" />
-  <o id="637" en="Conqueror of Abyssea" />
-  <o id="638" en="Savior of Abyssea" />
-  <o id="639" en="Vanquisher of Spite" />
-  <o id="640" en="Hadhayosh Halterer" />
-  <o id="641" en="Briareus Feller" />
-  <o id="642" en="Karkinos Clawcrusher" />
-  <o id="643" en="Carabosse Quasher" />
-  <o id="644" en="Ovni Obliterator" />
-  <o id="645" en="Ruminator Confounder" />
-  <o id="646" en="Eccentricity Expunger" />
-  <o id="647" en="Fistule Drainer" />
-  <o id="648" en="Kukulkan Defanger" />
-  <o id="649" en="Turul Grounder" />
-  <o id="650" en="Bloodeye Banisher" />
-  <o id="651" en="Satiator Depriver" />
-  <o id="652" en="Iratham Capturer" />
-  <o id="653" en="Lacovie Capsizer" />
-  <o id="654" en="Chloris Uprooter" />
-  <o id="655" en="Myrmecoleon Tamer" />
-  <o id="656" en="Glavoid Stampeder" />
-  <o id="657" en="Usurper Deposer" />
-  <o id="658" en="Yaanei Crasher" />
-  <o id="659" en="Kutharei Unhorser" />
-  <o id="660" en="Sippoy Capturer" />
-  <o id="661" en="Titlacauan Dismemberer" />
-  <o id="662" en="Smok Defogger" />
-  <o id="663" en="Amhuluk Inundater" />
-  <o id="664" en="Pulverizer Dismantler" />
-  <o id="665" en="Durinn Deceiver" />
-  <o id="666" en="Karkadann Exoculator" />
-  <o id="667" en="Ulhuadshi Desiccator" />
-  <o id="668" en="Itzpapalotl Declawer" />
-  <o id="669" en="Sobek Mummifier" />
-  <o id="670" en="Cirein-croin Harpooner" />
-  <o id="671" en="Bukhis Tetherer" />
-  <o id="672" en="Sedna Tuskbreaker" />
-  <o id="673" en="Cleaver Dismantler" />
-  <o id="674" en="Executioner Dismantler" />
-  <o id="675" en="Severer Dismantler" />
-  <o id="676" en="Lusca Debunker" />
-  <o id="677" en="Tristitia Deliverer" />
-  <o id="678" en="Ketea Beacher" />
-  <o id="679" en="Rani Decrowner" />
-  <o id="680" en="Orthrus Decapitator" />
-  <o id="681" en="Dragua Slayer" />
-  <o id="682" en="Bennu Deplumer" />
-  <o id="683" en="Hedjedjet Destinger" />
-  <o id="684" en="Cuijatender Desiccator" />
-  <o id="685" en="Brulo Extinguisher" />
-  <o id="686" en="Pantokrator Disprover" />
-  <o id="687" en="Apademak Annihilator" />
-  <o id="688" en="Isgebind Defroster" />
-  <o id="689" en="Resheph Eradicator" />
-  <o id="690" en="Empousa Expurgator" />
-  <o id="691" en="Indrik Immolator" />
-  <o id="692" en="Ogopogo Overturner" />
-  <o id="693" en="Raja Regicide" />
-  <o id="694" en="Alfard Detoxifier" />
-  <o id="695" en="Azdaja Abolisher" />
-  <o id="696" en="Amphitrite Shucker" />
-  <o id="697" en="Fuath Purifier" />
-  <o id="698" en="Killakriq Excoriator" />
-  <o id="699" en="Maere Bestirrer" />
-  <o id="700" en="Wyrm God Defier" />
-  <o id="701" en="Hahava Condemner" />
-  <o id="702" en="Celaeno Silencer" />
-  <o id="703" en="Voidwrought Deconstructor" />
-  <o id="704" en="Devourer of Shadows" />
-  <o id="705" en="Kaggen Clobberer" />
-  <o id="706" en="Akvan Absterger" />
-  <o id="707" en="Pil Unfrocker" />
-  <o id="708" en="Qilin Contravener" />
-  <o id="709" en="Uptala Reprobator" />
-  <o id="710" en="Aello Abator" />
-  <o id="711" en="Torchbearer of the 9th Walk" />
-  <o id="712" en="Torchbearer of the 10th Walk" />
-  <o id="713" en="Torchbearer of the 11th Walk" />
-  <o id="714" en="Nightmare Illuminator" />
-  <o id="715" en="Gaunab Gutter" />
-  <o id="716" en="Kalasutrax Cremator" />
-  <o id="717" en="Ocythoe Overrider" />
-  <o id="718" en="Ig-Alima Inhumer" />
-  <o id="719" en="Botulus Rex Engorger" />
-  <o id="720" en="Torchbearer of the 12th Walk" />
-  <o id="721" en="Torchbearer of the 13th Walk" />
-  <o id="722" en="Torchbearer of the 14th Walk" />
-  <o id="723" en="Torchbearer of the 15th Walk" />
-  <o id="724" en="Delver of the Depths" />
-  <o id="725" en="Subjugator of the Lofty" />
-  <o id="726" en="Subjugator of the Mired" />
-  <o id="727" en="Subjugator of the Soaring" />
-  <o id="728" en="Subjugator of the Veiled" />
-  <o id="729" en="Legendary Legionnaire" />
-  <o id="730" en="Witness to Provenance" />
-  <o id="731" en="Bismarck Flenser" />
-  <o id="732" en="Morta Extirpator" />
-  <o id="733" en="Unsung Heroine" />
-  <o id="734" en="Epic Heroine" />
-  <o id="735" en="Epic Einherjar" />
-  <o id="736" en="Mender of Wings" />
-  <o id="737" en="Champion of the Dawn" />
-  <o id="738" en="Bushin Aspirant" />
-  <o id="739" en="Bushin-Ryu Inheritor" />
-  <o id="740" en="Temenos Emancipator" />
-  <o id="741" en="Apollyon Razer" />
-  <o id="742" en="Goldwing Squasher" />
-  <o id="743" en="Silagilith Detonator" />
-  <o id="744" en="Surtr Smotherer" />
-  <o id="745" en="Dreyruk Predominator" />
-  <o id="746" en="Samursk Vitiator" />
-  <o id="747" en="Umagrhk Manemangler" />
-  <o id="748" en="Supernal Savant" />
-  <o id="749" en="Solar Sage" />
-  <o id="750" en="Bolide Baron" />
-  <o id="751" en="Moon Maven" />
-  <o id="752" en="Izyx Vexer" />
-  <o id="753" en="Grannus Garroter" />
-  <o id="754" en="Svaha Striker" />
-  <o id="755" en="Melisseus Domesticator" />
-  <o id="756" en="Waterway Exemplar" />
-  <o id="757" en="Cavern Exemplar" />
-  <o id="758" en="Muyingwa Wingcrusher" />
-  <o id="759" en="Dakuwaqa Trawler" />
-  <o id="760" en="Tojil Douser" />
-  <o id="761" en="Colkhab Dethroner" />
-  <o id="762" en="Achuka Glaciator" />
-  <o id="763" en="Tchakka Desiccator" />
-  <o id="764" en="Weald Exemplar" />
-  <o id="765" en="Hurkan Birdlimeist" />
-  <o id="766" en="Yumcax Logger" />
-  <o id="767" en="Colkhab Hivecrusher" />
-  <o id="768" en="Achuka Coagulator" />
-  <o id="769" en="Tchakka Filleter" />
-  <o id="770" en="Rabbit Tussler" />
-  <o id="771" en="Helminth Mincer" />
-  <o id="772" en="Mandragardener" />
-  <o id="773" en="Moppet Massacrer" />
-  <o id="774" en="Rip-roaring Limbrender" />
-  <o id="775" en="Shell Shocker" />
-  <o id="776" en="Yagudo Coopkeeper" />
-  <o id="777" en="Gigasplosion Expert" />
-  <o id="778" en="Brother-in-arms" />
-  <o id="779" en="Antica Hunter" />
-  <o id="780" en="Amphibian Adulterator" />
-  <o id="781" en="Tonberry Toppler" />
-  <o id="782" en="Bloodline Corrupter" />
-  <o id="783" en="Kumhau Roaster" />
-  <o id="786" en="Ark Hume Humiliator" />
-  <o id="787" en="Ark Elvaan Eviscerator" />
-  <o id="788" en="Ark Mithra Maligner" />
-  <o id="789" en="Ark Tarutaru Trouncer" />
-  <o id="790" en="Ark Galka Gouger" />
-  <o id="791" en="Pentarch Pacifier" />
-  <o id="836" en="Geodancer" />
-  <o id="837" en="Runic Engraver" />
-  <o id="838" en="Apprentice Tarutaru Sauce Manager" />
-  <o id="839" en="Vegetable Revolutionary" />
-  <o id="840" en="Friend to Gluttons" />
-  <o id="841" en="Waypoint Warrior" />
-  <o id="842" en="Ulbukan Stalwart" />
-  <o id="843" en="Toxin Tussler" />
-  <o id="844" en="Spiritual?Star" />
-  <o id="845" en="Stippling?Star" />
-  <o id="846" en="Geomancipator" />
-  <o id="847" en="Trialed-and-True Runeist" />
-  <o id="848" en="Queen's Confidante" />
-  <o id="849" en="Princess's Partisan" />
-  <o id="850" en="Potation Pathfinder" />
-  <o id="851" en="Storied Geomancer" />
-  <o id="852" en="Ultimate Runeist" />
-  <o id="853" en="Mog Garden Seedling" />
-  <o id="854" en="Kit Empathizer" />
-  <o id="855" en="Jingly Dangler" />
-  <o id="856" en="Mole Manipulator" />
-  <o id="857" en="Agrarian Novice" />
-  <o id="858" en="Agrarian Initiate" />
-  <o id="859" en="Agrarian Professional" />
-  <o id="860" en="Agrarian Virtuoso" />
-  <o id="861" en="Agrarian Tutelar" />
-  <o id="862" en="Weed Praetor" />
-  <o id="863" en="Tree Praetor" />
-  <o id="864" en="Thicket Praetor" />
-  <o id="865" en="Forest Praetor" />
-  <o id="866" en="Jungle Praetor" />
-  <o id="867" en="Copper Mattock" />
-  <o id="868" en="Silver Mattock" />
-  <o id="869" en="Mythril Mattock" />
-  <o id="870" en="Gold Mattock" />
-  <o id="871" en="Adamanttock" />
-  <o id="872" en="Puddle Patron" />
-  <o id="873" en="Swamp Savant" />
-  <o id="874" en="Pond Preceptor" />
-  <o id="875" en="River Regent" />
-  <o id="876" en="Monke-Onke Master" />
-  <o id="877" en="Sardineophyte" />
-  <o id="878" en="Calamareeler" />
-  <o id="879" en="Octopotentate" />
-  <o id="880" en="Giant Squimperator" />
-  <o id="881" en="Leviauthority" />
-  <o id="882" en="Novice Nurseryman" />
-  <o id="883" en="Lesser Landscaper" />
-  <o id="884" en="Greater Gardener" />
-  <o id="885" en="Honored Horticulturist" />
-  <o id="886" en="Mog Gardener" />
-  <o id="887" en="Brygidesque Manager" />
-  <o id="888" en="Vegetable Evolutionary" />
-  <o id="889" en="Blade Enthusiast" />
-  <o id="890" en="Runic Emissary" />
-  <o id="891" en="Maester of Maddening" />
-  <o id="892" en="Sunshine Cadet" />
-  <o id="893" en="Quartet Captivator" />
-  <o id="894" en="The Trustworthy" />
+  <o id="0" en="N/A" ja="なし" de="N/A" fr="Aucun titre" />
+  <o id="1" en="Fodderchief Flayer" ja="フォッダーチーフ　フレーヤー" de="Fodderchief-Plünderer" fr="Rosseur de Fodderchief" />
+  <o id="2" en="Warchief Wrecker" ja="ウォーチーフ　レッカー" de="Warchief-Zerstörer" fr="Casseur de Warchief" />
+  <o id="3" en="Dread Dragon Slayer" ja="ドレッドドラゴン　スレーヤー" de="Dread Dragon-Totschläger" fr="Tueur de Dread Dragon" />
+  <o id="4" en="Overlord Executioner" ja="オーバーロード　エグゼキューショナー" de="Overlord-Henker" fr="Exécuteur d'Overlord" />
+  <o id="5" en="Dark Dragon Slayer" ja="ダークドラゴン　スレーヤー" de="Dark Dragon-Totschläger" fr="Tueur de Dark Dragon" />
+  <o id="6" en="Adamantking Killer" ja="アダマンキング　キラー" de="Adamantking-Killer" fr="Tueur d'Adamantking" />
+  <o id="7" en="Black Dragon Slayer" ja="ブラックドラゴン　スレーヤー" de="Black Dragon-Totschläger" fr="Tueur de Black Dragon" />
+  <o id="8" en="Manifest Mauler" ja="マニフェスト　モーラー" de="Manifest-Prügler" fr="Mutilateur de Manifest" />
+  <o id="9" en="Behemoth's Bane" ja="ベヒーモス　ベーン" de="Behemoths Bann" fr="Fléau de Béhémoth" />
+  <o id="10" en="Archmage Assassin" ja="アークメイジ　アサシン" de="Archmage-Mörder" fr="Assassin d'archimage" />
+  <o id="11" en="Hellsbane" ja="ヘルズベーン" de="Höllenbann" fr="Fléau de l'enfer" />
+  <o id="12" en="Giant Killer" ja="ジャイアントキラー" de="Riesenkiller" fr="Tueur de géant" />
+  <o id="13" en="Lich Banisher" ja="リッチ　バニッシャー" de="Lich-Vertreiber" fr="Bannisseur de Lich" />
+  <o id="14" en="Jellybane" ja="ジェリーベーン" de="Sülzenbann" fr="Fléau de Jelly" />
+  <o id="15" en="Bogeydowner" ja="ゴギー　ダウナー" de="Bogeydowner" fr="Tueur de Goggie" />
+  <o id="16" en="Beakbender" ja="ビークベンダー" de="Schnabelkrümmer" fr="Briseur de bec" />
+  <o id="17" en="Skullcrusher" ja="スカルクラッシャー" de="Schädelspalter" fr="Briseur de crâne" />
+  <o id="18" en="Morbolbane" ja="モルボル　ベーン" de="Morbolbann" fr="Fléau de Morbol" />
+  <o id="19" en="Goliath Killer" ja="ゴリアテ　キラー" de="Goliath-Killer" fr="Tueur de Goliath" />
+  <o id="20" en="Mary's Guide" ja="メリーズガイド" de="Marys Führer" fr="Guide de Mary" />
+  <o id="21" en="Simurgh Poacher" ja="シムルグ　スレーヤー" de="Simurgh-Wilddieb" fr="Eventreur de Simurgh" />
+  <o id="22" en="Roc Star" ja="ロック　スター" de="Roc-Star" fr="Star de Roc" />
+  <o id="23" en="Serket Breaker" ja="セルケト　ブレーカー" de="Serket-Brecher" fr="Briseur de Serket" />
+  <o id="24" en="Cassienova" ja="キャシノバ" de="Cassienova" fr="Cassienova" />
+  <o id="25" en="The Hornsplitter" ja="ホーンスプリッター" de="Der Hornspalter" fr="Fendeur de corne" />
+  <o id="26" en="Tortoise Torturer" ja="トータストーチャラー" de="Schildkröten-Folterer" fr="Tortionnaire de tortue" />
+  <o id="27" en="Mon Cherry" ja="モン　チェリー" de="Mon Cherry" fr="Mon Cherry" />
+  <o id="28" en="Behemoth Dethroner" ja="べヒーモス　デスローナー" de="Behemoth-Entthroner" fr="Détrôneur de Béhémoth" />
+  <o id="29" en="The Vivisector" ja="ビビセクター" de="Der Vivisezierer" fr="Vivisecteur" />
+  <o id="30" en="Dragon Asher" ja="ドラゴンアッシャー" de="Drachen-Einäscherer" fr="Brûleur de dragon" />
+  <o id="31" en="Expeditionary Trooper" ja="遠征軍遊撃隊員" de="Erkundungskavallerist" fr="Soldat expéditionnaire" />
+  <o id="32" en="Bearer of the Wisewoman's Hope" ja="賢者の希望を担いし者" de="Träger der Hoffnung der weisen Frau" fr="Porteur de l'espoir du Sage" />
+  <o id="33" en="Bearer of the Eight Prayers" ja="八つの祈りを帯びし者" de="Träger der acht Gebete" fr="Porteur des huit prières" />
+  <o id="34" en="Lightweaver" ja="光の紡ぎ手" de="Leichtweber" fr="Tisseur de lumière" />
+  <o id="35" en="Destroyer of Antiquity" ja="いにしえを屠る者" de="Zerstörer des Altertums" fr="Destructeur de l'Antiquité" />
+  <o id="36" en="Sealer of the Portal of the Gods" ja="神の扉を閉ざす者" de="Versiegler des Götterportals" fr="Scelleur du portail des dieux" />
+  <o id="37" en="Burier of the Illusion" ja="幻影を葬りし者" de="Begraber von Illusionen" fr="Fossoyeur de l'Illusion" />
+  <o id="39" en="Family Counselor" ja="小さな親切運動家" de="Familienberater" fr="Conseiller familial" />
+  <o id="41" en="Great Grappler Scorpio!?" ja="格闘家スコーピオン！？" de="Großgreiferskorpion!?" fr="Grand lutteur Scorpion !?" />
+  <o id="42" en="Bond Fixer" ja="絆の証人" de="Bandenreparierer" fr="Fixeur de lien" />
+  <o id="43" en="Vampire Hunter D-Minus" ja="低級ヴァンパイアハンター" de="Vampirjagd D-Minus" fr="Chasseur de vampires de bas étage" />
+  <o id="44" en="Sheep's Milk Deliverer" ja="羊乳配達人" de="Schafsmilchlieferant" fr="Livreur de lait de brebis" />
+  <o id="45" en="Bean Cuisine Salter" ja="マメ料理人手伝い" de="Bohnenküchen-Einsalzer" fr="Saleur de haricots" />
+  <o id="46" en="Total Loser" ja="ヘッポコくん" de="Totaler Verlierer" fr="Raté complet" />
+  <o id="47" en="Doctor Shantotto's Flavor of the Month" ja="シャントット博士のお気に入り" de="Doktor Shantottos Aroma des Monats" fr="Chouchou du Dr Shantotto" />
+  <o id="48" en="Pilgrim to Holla" ja="ホラの巡礼者" de="Pilger nach Holla" fr="Pèlerin de Holla" />
+  <o id="49" en="Pilgrim to Dem" ja="デムの巡礼者" de="Pilger nach Dem" fr="Pèlerin de Dem" />
+  <o id="50" en="Pilgrim to Mea" ja="メアの巡礼者" de="Pilger nach Mea" fr="Pèlerin de Mea" />
+  <o id="51" en="Daybreak Gambler" ja="暁の勝負師" de="Tagesanbruchs-Glücksspieler" fr="Joueur de l'aube" />
+  <o id="52" en="The Pious One" ja="信心深き者" de="Der Fromme" fr="Pieux" />
+  <o id="53" en="A Moss Kind Person" ja="心優しき者" de="Eine sehr nette Person" fr="Ame charitable" />
+  <o id="54" en="Entrance Denied" ja="門前払い" de="Zugang verwährt" fr="Entrée refusée" />
+  <o id="55" en="Apiarist" ja="ハチミツ博士" de="Imker" fr="Apiculteur" />
+  <o id="56" en="Rabbiter" ja="ワイルドハンター" de="Kaninchenzüchter" fr="Spécialiste en lapins" />
+  <o id="57" en="Royal Grave Keeper" ja="龍王の墓守" de="Königlicher Grabpfleger" fr="Gardien de tombe royale" />
+  <o id="58" en="Courier Extraordinaire" ja="凄腕の運び屋" de="Sonderbote" fr="Coursier hors du commun" />
+  <o id="59" en="Ronfaurian Rescuer" ja="森の救急隊員" de="Retter aus Ronfaure" fr="Sauveteur de Ronfaure" />
+  <o id="60" en="Pickpocket Pincher" ja="街の名探偵" de="Taschendieb-Klauer" fr="Pinceur de pickpockets" />
+  <o id="61" en="Fang Finder" ja="ファング" de="Zahnfinder" fr="Trouveur de crocs" />
+  <o id="62" en="Faith like a Candle" ja="炎の信者" de="Glauben wie eine Kerze" fr="Foi de cierge" />
+  <o id="63" en="The Pure One" ja="清らかなる者" de="Der Pure" fr="Ame pure" />
+  <o id="64" en="Lost Child Officer" ja="迷子引受人" de="Beauftragter für verirrte Kinder" fr="Agent des enfants perdus" />
+  <o id="65" en="Silencer of the Lambs" ja="沈黙の羊飼い" de="Schalldämpfer der Lämmer" fr="Silencieux des agneaux" />
+  <o id="66" en="Lost &amp; Found Officer" ja="遺失物捜索隊員" de="Fundbürobeamter" fr="Agent des objets trouvés" />
+  <o id="67" en="Green Grocer" ja="ベジタブル特急" de="Gemüsehändler" fr="Epicier" />
+  <o id="68" en="The Benevolent One" ja="慈悲深き者" de="Der Wohltätige" fr="Bienveillant" />
+  <o id="69" en="Knight in Training" ja="見習い騎士" de="Ritter in Ausbildung" fr="Chevalier en formation" />
+  <o id="70" en="Lizard Skinner" ja="リザードキラー" de="Eidechsenhäuter" fr="Dépeceur de lézards" />
+  <o id="71" en="Bug Catcher" ja="虫採り名人" de="Insektenfänger" fr="Attrapeur d'insectes" />
+  <o id="72" en="Spelunker" ja="洞窟探検隊" de="Höhlenforscher" fr="Spéléologue" />
+  <o id="73" en="Arms Trader" ja="取引代理人" de="Waffenhändler" fr="Marchand d'armes" />
+  <o id="74" en="Traveling Medicine Man" ja="旅の調剤士" de="Reisender Medizinmann" fr="Guérisseur itinérant" />
+  <o id="75" en="Cat Skinner" ja="虎ハンター" de="Katzenhäuter" fr="Dépeceur de chat" />
+  <o id="76" en="Carp Diem" ja="フナ釣りマイスター" de="Karpfen Diem" fr="Carpe diem" />
+  <o id="77" en="Advertising Executive" ja="呼び込み名人" de="Werbefachmann" fr="Publicitaire" />
+  <o id="78" en="Third-rate Organizer" ja="下級オーガナイザー" de="Drittklassiger Organisator" fr="Organisateur de troisième plan" />
+  <o id="79" en="Second-rate Organizer" ja="中級オーガナイザー" de="Zweitklassiger Organisator" fr="Organisateur de second plan" />
+  <o id="80" en="First-rate Organizer" ja="上級オーガナイザー" de="Erstklassiger Organisator" fr="Organisateur de premier plan" />
+  <o id="81" en="Bastok Welcoming Committee" ja="バストゥークの案内人" de="Begrüßungskomitee von Bastok" fr="Comité d'accueil de Bastok" />
+  <o id="82" en="Shell Outer" ja="甲羅からの解放者" de="Muschelholer" fr="Videur de coquille" />
+  <o id="83" en="Bucket Fisher" ja="バケツフィッシャー" de="Eimerfischer" fr="Pêcheur de seaux" />
+  <o id="84" en="Pursuer of the Past" ja="過去を垣間見る者" de="Verfolger der Vergangenheit" fr="Poursuivant du passé" />
+  <o id="85" en="Pursuer of the Truth" ja="真実の探求者" de="Verfolger der Wahrheit" fr="Poursuivant de la vérité" />
+  <o id="86" en="Mommy's Helper" ja="ママのお手伝い" de="Mamas Helfer" fr="Assistant de maman" />
+  <o id="87" en="Hot Dog" ja="スモーキー" de="Hot Dog" fr="Hot-dog" />
+  <o id="88" en="Stampeder" ja="スタンピオン" de="Stampeder" fr="Ecraseur" />
+  <o id="89" en="Qiji's Friend" ja="クィジの友人" de="Qijis Freund" fr="Ami de Qiji" />
+  <o id="90" en="Qiji's Rival" ja="クィジのライバル" de="Qijis Rivale" fr="Rival de Qiji" />
+  <o id="91" en="Contest Rigger" ja="勝負の采配人" de="Wettbewerbs-Rigger" fr="Organisateur de concours" />
+  <o id="92" en="Ringbearer" ja="怪しい運び屋" de="Ringträger" fr="Porteur de bagues" />
+  <o id="93" en="Kulatz Bridge Companion" ja="クラウツ橋の友人" de="Kulatz-Brückenkamerad" fr="Compagnon du pont de Kulatz" />
+  <o id="94" en="Beadeaux Surveyor" ja="ベドー調査員" de="Vermesser von Beadeaux" fr="Vigie de Beadeaux" />
+  <o id="95" en="Avenger" ja="死者を弔いし者" de="Rächer" fr="Vengeur" />
+  <o id="96" en="Treasure Scavenger" ja="トレジャーハンター" de="Schatzsammler" fr="Chasseur de trésors" />
+  <o id="97" en="Airship Denouncer" ja="飛空艇伝道師" de="Luftschiff-Verkünder" fr="Dénonciateur d'aéronef" />
+  <o id="98" en="Zeruhn Sweeper" ja="ツェールンスイーパー" de="Zeruhn-Räumboot" fr="Balayeur de Zeruhn" />
+  <o id="99" en="Tearjerker" ja="水辺に立つ者" de="Schmachtfetzen" fr="Tire-larmes" />
+  <o id="100" en="Crab Crusher" ja="クラブクラッシャー" de="Krabbenspalter" fr="Ecraseur de crabes" />
+  <o id="101" en="Star of Ifrit" ja="イフリートの空に向かう者" de="Stern von Ifrit" fr="Etoile d'Ifrit" />
+  <o id="102" en="Sorrow Drowner" ja="ラプソディコンダクター" de="Sorgenertränker" fr="Noyeur de chagrin" />
+  <o id="103" en="Brygid-approved" ja="ブリジッドのお墨付き" de="Brygid-anerkannt" fr="Approuvé par Brygid" />
+  <o id="104" en="Drachenfall Ascetic" ja="臥竜の験者" de="Drachenfall-Asket" fr="Ascète de Drachen" />
+  <o id="105" en="&quot;Steaming Sheep&quot; Regular" ja="「蒸気の羊」亭の常連客" de="Stammkunde im &quot;Dampfenden Schaf&quot;" fr="Habitué du Mouton Fumé" />
+  <o id="106" en="Purple Belt" ja="紫帯の有段者" de="Lila Gürtel" fr="Ceinture violette" />
+  <o id="107" en="Gustaberg Tourist" ja="グスタベルグツーリスト" de="Gustaberg-Tourist" fr="Touriste de Gustaberg" />
+  <o id="108" en="Sand Blaster" ja="砂の開拓者" de="Sandsturm" fr="Sableur" />
+  <o id="109" en="Black Death" ja="黒の死神" de="Schwarzer Tod" fr="Mort noire" />
+  <o id="111" en="Fresh &quot;North Winds&quot; Recruit" ja="北風団の新米" de="Frischer Rekrut von &quot;Nordwind&quot;" fr="Nouvelle recrue des &quot;Vents du nord&quot;" />
+  <o id="112" en="New &quot;Best of the West&quot; Recruit" ja="ウェスト・オブ・ビースト" de="Neuer Rekrut von &quot;Die Besten aus dem Westen&quot;" fr="Nouvelle recrue des &quot;Meilleurs de l'ouest&quot;" />
+  <o id="113" en="New &quot;Buuma's Boomers&quot; Recruit" ja="ブーマガードの新米" de="Neuer Rekrut von &quot;Buumas Wanderratten&quot;" fr="Nouvelle recrue des &quot;Boumeurs de Buuma&quot;" />
+  <o id="114" en="Heavens Tower Gatehouse Recruit" ja="天の塔前・魔戦士隊員" de="Rekrut vom Himmelsturm-Torhaus" fr="Recrue des gardes de la Tour des cieux" />
+  <o id="115" en="Cat Burglar Groupie" ja="泥棒ミスラのコブン" de="Katzeneinbrecher-Groupie" fr="Sous-fifre de la Chatpardeuse" />
+  <o id="116" en="Crawler Culler" ja="クロウラーバスター" de="Crawler-Aussonderer" fr="Casseur de Crawlers" />
+  <o id="117" en="Savior of Knowledge" ja="知識の守り手" de="Retter des Wissens" fr="Sauveur du savoir" />
+  <o id="118" en="Star-ordained Warrior" ja="星巡りの戦士" de="Mit Sternen geweihter Krieger" fr="Guerrier ordonné de l'étoile" />
+  <o id="119" en="Lower than the Lowest Tunnel Worm" ja="くさったバナナ" de="Der allertiefste Tunnel Worm" fr="Banane pourrie" />
+  <o id="120" en="Star Onion Brigade Member" ja="スターオニオンズ団員" de="Mitglied der Sternzwiebelbrigade" fr="Membre de la Brigade des oignons stellaires" />
+  <o id="121" en="Star Onion Brigadier" ja="オニオンヒーロー" de="Kommandeur der Sternzwiebelbrigade" fr="Brigadier des oignons stellaires" />
+  <o id="122" en="Quick Fixer" ja="お手軽修繕屋" de="Schnelllöser" fr="Réparateur rapide" />
+  <o id="123" en="Fake-moustached Investigator" ja="つけひげの名探偵" de="Ermittler mit falschem Schnurrbart" fr="Enquêteur à fausse moustache" />
+  <o id="124" en="Hakkuru-Rinkuru's Benefactor" ja="ハックルリンクルの恩人" de="Hakkuru-Rinkurus Wohltäter" fr="Bienfaiteur de Hakkuru-Rinkuru" />
+  <o id="125" en="S.O.B. Super Hero" ja="正義の味方" de="SZB-Superheld" fr="Super héros de la Brigade des oignons stellaires" />
+  <o id="126" en="Editor's Hatchet Man" ja="編集長の刺客" de="Zuchtmeister des Herausgebers" fr="Meurtrier du rédacteur" />
+  <o id="127" en="Doctor Shantotto's Guinea Pig" ja="シャントット博士の実験台" de="Doktor Shantottos Versuchskaninchen" fr="Cobaye du Dr Shantotto" />
+  <o id="128" en="Spoilsport" ja="マナー違反者" de="Spielverderber" fr="Mal élevé" />
+  <o id="129" en="Super Model" ja="ナイスモデル" de="Super Model" fr="Top modèle" />
+  <o id="130" en="Ghostie Buster" ja="ゴーストバスター" de="Ghostie Buster" fr="S.O.S. revenant" />
+  <o id="131" en="Night Sky Navigator" ja="夜空の航海士" de="Nachthimmel-Navigator" fr="Navigateur du ciel nocturne" />
+  <o id="132" en="Fast Food Deliverer" ja="買出し部隊員" de="Fast Food-Lieferant" fr="Livreur de restauration rapide" />
+  <o id="133" en="Cupid's Florist" ja="花鼻キューピッド" de="Amors Florist" fr="Fleuriste de Cupidon" />
+  <o id="134" en="Tarutaru Murder Suspect" ja="殺タルタル容疑者" de="Tarutaru-Mordverdächtiger" fr="Suspect d'un meurtre de Tarutaru" />
+  <o id="135" en="Hexer Vexer" ja="不幸な呪い師" de="Hexer-Plager" fr="Envoûteur malchanceux" />
+  <o id="136" en="Cardian Tutor" ja="カーディアン教育者" de="Cardianer Studienleiter" fr="Tuteur de Cardien" />
+  <o id="137" en="Deliverer of Tearful News" ja="銀色の涙の使者" de="Lieferant des Tränenblatts" fr="Porteur de tristes nouvelles" />
+  <o id="138" en="Fossilized Sea Farer" ja="太古の海人" de="Versteinerter Seefahrer" fr="Marin fossilisé" />
+  <o id="139" en="Down Piper Pipe-upperer" ja="栄光なる薔薇の笛吹き" de="Fallrohr-Rohrsteiger" fr="Flûtiste pipeauteur" />
+  <o id="140" en="Kisser Make-upper" ja="美の開拓者" de="Küsser Make-upper" fr="Grand maquilleur" />
+  <o id="141" en="Timekeeper" ja="時の旅人" de="Zeitmesser" fr="Chronométreur" />
+  <o id="142" en="Fortune-teller in Training" ja="見習い占い師" de="Wahrsager in der Ausbildung" fr="Voyant en formation" />
+  <o id="143" en="Torchbearer" ja="ともし火ランナー" de="Fackelträger" fr="Porteur de torche" />
+  <o id="144" en="Tenshodo Member" ja="天晶堂会員" de="Tenshodo-Mitglied" fr="Membre du Tenshodo" />
+  <o id="145" en="Chocobo Trainer" ja="チョコボ調教師" de="Chocobo-Ausbilder" fr="Dresseur de chocobo" />
+  <o id="146" en="Bringer of Bliss" ja="しあわせ宅配人" de="Glücksbringer" fr="Porteur de bénédiction" />
+  <o id="147" en="Activist for Kindness" ja="慈善活動家" de="Freundlichkeitsaktivist" fr="Activiste de la gentillesse" />
+  <o id="148" en="Envoy to the North" ja="北への使者" de="Abgesandter in den Norden" fr="Envoyé vers le nord" />
+  <o id="149" en="Exorcist in Training" ja="エクソシスト見習い" de="Exorzist in der Ausbildung" fr="Exorciste en formation" />
+  <o id="150" en="Professional Loafer" ja="街一番の油売り" de="Faulenzer von Beruf" fr="Fainéant professionnel" />
+  <o id="151" en="Clock Tower Preservationist" ja="時計塔保存嘆願者" de="Uhrturm-Denkmalschützer" fr="Conservateur de la tour de l'horloge" />
+  <o id="152" en="Life Saver" ja="命の恩人" de="Lebensretter" fr="Sauveur" />
+  <o id="153" en="Fool's Errand Runner" ja="下級ツカイッパー" de="Laufbursche" fr="Garçon de courses du fou" />
+  <o id="154" en="Card Collector" ja="カードコレクター" de="Kartensammler" fr="Collectionneur de cartes" />
+  <o id="155" en="Researcher of Classics" ja="古典研究家" de="Forscher des Klassischen Zeitalters" fr="Chercheur de classiques" />
+  <o id="156" en="Street Sweeper" ja="街の掃除人" de="Straßenfeger" fr="Balayeur des rues" />
+  <o id="157" en="Mercy Errand Runner" ja="上級ツカイッパー" de="Laufbursche aus Mitleid" fr="Coursier de la pitié" />
+  <o id="158" en="Two's Company" ja="第一発見者" de="Zwei-Mann-Betrieb" fr="Perdu de vue" />
+  <o id="159" en="Believer of Altana" ja="アルタナ教信者" de="Gläubiger von Altana" fr="Fidèle d'Altana" />
+  <o id="160" en="Trader of Mysteries" ja="迷トレーダー" de="Mysterienhändler" fr="Marchand de mystères" />
+  <o id="161" en="Trader of Antiquities" ja="お宝出品人" de="Antiquitätenhändler" fr="Marchand d'antiquités" />
+  <o id="162" en="Trader of Renown" ja="名トレーダー" de="Berühmter Händler" fr="Marchand de renom" />
+  <o id="163" en="Brown Belt" ja="茶帯の有段者" de="Brauner Gürtel" fr="Ceinture marron" />
+  <o id="164" en="Horizon Breaker" ja="オーバー・ザ・トップ" de="Horizontbrecher" fr="Briseur d'horizon" />
+  <o id="165" en="Goblin's Exclusive Fashion Mannequin" ja="ゴブリン専属モデル" de="Goblins Exklusivmoden-Modell" fr="Mannequin particulier du Goblin" />
+  <o id="166" en="Summit Breaker" ja="山の頂に立つ者" de="Gipfelbrecher" fr="Briseur de sommet" />
+  <o id="167" en="Sky Breaker" ja="風来坊" de="Himmelsbrecher" fr="Briseur de ciel" />
+  <o id="168" en="Cloud Breaker" ja="雲入道" de="Wolkenbrecher" fr="Briseur de nuage" />
+  <o id="169" en="Star Breaker" ja="ヴァナ・ディールのスター" de="Sternenbrecher" fr="Briseur d'étoile" />
+  <o id="170" en="Greedalox" ja="ヨバクリ" de="Greedalox" fr="Gourmandalox" />
+  <o id="171" en="Certified Rhinostery Venturer" ja="鼻の院認可冒険者" de="Zertifizierter Rhinosterie-Unternehmer" fr="Explorateur certifié du rhinostère" />
+  <o id="172" en="Cordon Bleu Fisher" ja="釣り名人" de="Cordon Bleu-Angler" fr="Pêcheur cordon bleu" />
+  <o id="173" en="Ace Angler" ja="釣り大名人" de="Ass-Angler" fr="Pêcheur d'élite" />
+  <o id="174" en="Lu Shang-like Fisher King" ja="太公望" de="Lu Shang-ähnlicher Fischerkönig" fr="Pêcheur légendaire" />
+  <o id="175" en="Matchmaker" ja="愛の仲人" de="Kuppler" fr="Entremetteur" />
+  <o id="176" en="Ecologist" ja="エコロジスト" de="Ökologe" fr="Ecologiste" />
+  <o id="177" en="Li'l Cupid" ja="愛のキューピッド" de="Li'l-Kupido" fr="P'tit Cupidon" />
+  <o id="178" en="The Love Doctor" ja="キング・オブ・ラブ" de="Der Liebesdoktor" fr="Docteur de l'amour" />
+  <o id="179" en="Savior of Love" ja="愛の救世主" de="Retter der Liebe" fr="Sauveur de l'amour" />
+  <o id="180" en="Honorary Citizen of Selbina" ja="セルビナ名誉市民" de="Ehrenbürger von Selbina" fr="Citoyen honoraire de Selbina" />
+  <o id="181" en="Purveyor in Training" ja="食材調達人見習い" de="Lieferant in der Ausbildung" fr="Fournisseur en formation" />
+  <o id="182" en="One-star Purveyor" ja="食材調達人" de="Ein-Stern-Lieferant" fr="Fournisseur 1 étoile" />
+  <o id="183" en="Two-star Purveyor" ja="目利きの調達人" de="Zwei-Sterne-Lieferant" fr="Fournisseur 2 étoiles" />
+  <o id="184" en="Three-star Purveyor" ja="調達人" de="Drei-Sterne-Lieferant" fr="Fournisseur 3 étoiles" />
+  <o id="185" en="Four-star Purveyor" ja="調達の達人" de="Vier-Sterne-Lieferant" fr="Fournisseur 4 étoiles" />
+  <o id="186" en="Five-star Purveyor" ja="孤高の調達人" de="Fünf-Sterne-Lieferant" fr="Fournisseur 5 étoiles" />
+  <o id="187" en="Doctor Yoran-Oran Supporter" ja="ヨランオラン博士の味方" de="Anhänger von Doktor Yoran-Oran" fr="Partisan du Dr Yoran-Oran" />
+  <o id="188" en="Doctor Shantotto Supporter" ja="シャントット博士の味方" de="Anhänger von Doktor Shantotto" fr="Partisan du Dr Shantotto" />
+  <o id="189" en="Professor Koru-Moru Supporter" ja="コルモル博士の味方" de="Anhänger von Professor Koru-Moru" fr="Partisan du Pr Koru-Moru" />
+  <o id="190" en="Rainbow Weaver" ja="虹を織りし者" de="Regenbogenweber" fr="Tisseur d'arc-en-ciel" />
+  <o id="191" en="Shadow Walker" ja="忍びの道を往く者" de="Schattenläufer" fr="Marcheur de l'ombre" />
+  <o id="192" en="Heir to the Holy Crest" ja="聖なる印を継ぐ者" de="Erbe des heiligen Wappens" fr="Héritier de l'écusson sacré" />
+  <o id="193" en="Bushido Blade" ja="ブシドー・ザ・ブレード" de="Bushido-Klinge" fr="Lame Bushido" />
+  <o id="195" en="Paragon of Paladin Excellence" ja="高雅なる大騎士" de="Vorbild an Paladin-Vortrefflichkeit" fr="Modèle d'excellence du paladin" />
+  <o id="196" en="Paragon of Beastmaster Excellence" ja="熾烈なる大獣使い" de="Vorbild an Bestienbändiger-Vortrefflichkeit" fr="Modèle d'excellence du dresseur" />
+  <o id="197" en="Paragon of Ranger Excellence" ja="果敢なる大狩人" de="Vorbild an Jäger-Vortrefflichkeit" fr="Modèle d'excellence du chasseur" />
+  <o id="198" en="Paragon of Dark Knight Excellence" ja="威風なる大暗黒騎士" de="Vorbild an Dunkelritter-Vortrefflichkeit" fr="Modèle d'excellence du chevalier noir" />
+  <o id="199" en="Paragon of Bard Excellence" ja="典麗なる大吟遊詩人" de="Vorbild an Barden-Vortrefflichkeit" fr="Modèle d'excellence du barde" />
+  <o id="200" en="Paragon of Samurai Excellence" ja="無双なる大武士" de="Vorbild an Samurai-Vortrefflichkeit" fr="Modèle d'excellence du samouraï" />
+  <o id="201" en="Paragon of Dragoon Excellence" ja="勇猛なる大竜騎士" de="Vorbild an Dragoon-Vortrefflichkeit" fr="Modèle d'excellence du chevalier dragon" />
+  <o id="202" en="Paragon of Ninja Excellence" ja="沈勇なる大忍者" de="Vorbild an Ninja-Vortrefflichkeit" fr="Modèle d'excellence du ninja" />
+  <o id="203" en="Paragon of Summoner Excellence" ja="博雅なる大召喚士" de="Vorbild an Beschwörer-Vortrefflichkeit" fr="Modèle d'excellence de l'invocateur" />
+  <o id="206" en="New Adventurer" ja="冒険者見習い" de="Neuer Abenteurer" fr="Nouvel aventurier" />
+  <o id="207" en="Certified Adventurer" ja="公認冒険者" de="Zertifizierter Abenteurer" fr="Aventurier certifié" />
+  <o id="208" en="Shadow Banisher" ja="闇を祓いし者" de="Schatten-Verbanner" fr="Bannisseur des ombres" />
+  <o id="209" en="Tried and Tested Knight" ja="騎士の魂宿りし者" de="Bewährter Ritter" fr="Chevalier vétéran" />
+  <o id="210" en="Dark Sider" ja="暗き業宿りし者" de="Dunkelseitiger" fr="Partisan des ténèbres" />
+  <o id="211" en="The Fanged One" ja="牙持つ者" de="Der mit den Reißzähnen" fr="Celui qui a des crocs" />
+  <o id="212" en="Have Wings, Will Fly" ja="翼持つ者" de="Habe Flügel, fliege gerne" fr="Celui qui a des ailes" />
+  <o id="213" en="Animal Trainer" ja="モンスター調教師" de="Tiertrainer" fr="Dresseur d'animaux" />
+  <o id="214" en="Wandering Minstrel" ja="心の歌うたい" de="Fahrender Sänger" fr="Ménestrel itinérant" />
+  <o id="215" en="Mog's Master" ja="モーグリのご主人さま" de="Meister des Mog" fr="Maître de moogle" />
+  <o id="216" en="Mog's Kind Master" ja="やさしいご主人さま" de="Guter Meister des Mog" fr="Bon maître de moogle" />
+  <o id="217" en="Mog's Exceptionally Kind Master" ja="すてきなご主人さま" de="Außergewöhnlich guter Meister des Mog" fr="Maître de moogle exceptionnel" />
+  <o id="218" en="Paragon of Warrior Excellence" ja="勇壮なる大戦士" de="Vorbild an Krieger-Vortrefflichkeit" fr="Modèle d'excellence du guerrier" />
+  <o id="219" en="Paragon of Monk Excellence" ja="孤高なる大格闘家" de="Vorbild an Mönch-Vortrefflichkeit" fr="Modèle d'excellence du moine" />
+  <o id="220" en="Paragon of Red Mage Excellence" ja="比類なき大赤魔道士" de="Vorbild an Rotmagier-Vortrefflichkeit" fr="Modèle d'excellence du mage rouge" />
+  <o id="221" en="Paragon of Thief Excellence" ja="華麗なる大盗賊" de="Vorbild an Diebes-Vortrefflichkeit" fr="Modèle d'excellence du voleur" />
+  <o id="222" en="Paragon of Black Mage Excellence" ja="偉大なる大黒魔道士" de="Vorbild an Schwarzmagier-Vortrefflichkeit" fr="Modèle d'excellence du mage noir" />
+  <o id="223" en="Paragon of White Mage Excellence" ja="高潔なる大白魔道士" de="Vorbild an Weißmagier-Vortrefflichkeit" fr="Modèle d'excellence du mage blanc" />
+  <o id="224" en="Mog's Loving Master" ja="ラブラブご主人さま" de="Liebender Meister des Mog" fr="Maître attentionné de moogle" />
+  <o id="226" en="Royal Archer" ja="王国弓兵" de="Königsschütze" fr="Archer royal" />
+  <o id="227" en="Royal Spearman" ja="王国槍兵" de="Königslanzier" fr="Lancier royal" />
+  <o id="228" en="Royal Squire" ja="王国従騎士" de="Königsknappe" fr="Ecuyer royal" />
+  <o id="229" en="Royal Swordsman" ja="王国剣士" de="Königsfechter" fr="Epéiste royal" />
+  <o id="230" en="Royal Cavalier" ja="王国騎士" de="Königsedelmann" fr="Cavalier royal" />
+  <o id="231" en="Royal Guard" ja="近衛騎士" de="Königsgarde" fr="Garde royal" />
+  <o id="232" en="Grand Knight of the Realm" ja="王国大騎士" de="Großritter des Königreichs" fr="Grand chevalier royal" />
+  <o id="233" en="Grand Temple Knight" ja="神殿大騎士" de="Groß-Tempelritter" fr="Grand templier" />
+  <o id="234" en="Reserve Knight Captain" ja="傭兵騎士団長" de="Reserveritter-Kommandant" fr="Capitaine chevalier de réserve" />
+  <o id="235" en="Elite Royal Guard" ja="上級近衛騎士" de="Elitenkönigsgarde" fr="Garde royal d'élite" />
+  <o id="236" en="Legionnaire" ja="共和軍団兵" de="Legionär" fr="Légionnaire républicain" />
+  <o id="237" en="Decurion" ja="十人隊長" de="Dekurion" fr="Décurion" />
+  <o id="238" en="Centurion" ja="百人隊長" de="Zenturion" fr="Centurion" />
+  <o id="239" en="Junior Musketeer" ja="准銃士" de="Junior-Musketier" fr="Mousquetaire cadet" />
+  <o id="240" en="Senior Musketeer" ja="正銃士" de="Höherer Musketier" fr="Mousquetaire titulaire" />
+  <o id="241" en="Musketeer Commander" ja="銃士隊長" de="Musketier-Kommandeur" fr="Capitaine mousquetaire" />
+  <o id="242" en="Gold Musketeer" ja="黄金銃士" de="Goldmusketier" fr="Mousquetaire d'or" />
+  <o id="243" en="Praefectus" ja="千人隊長" de="Präfekt" fr="Praefectus" />
+  <o id="244" en="Senior Gold Musketeer" ja="先任黄金銃士" de="Senioren-Goldmusketier" fr="Maître mousquetaire d'or" />
+  <o id="245" en="Praefectus Castrorum" ja="一番千人隊長" de="Praefectus Castrorum" fr="Praefectus Castrorum" />
+  <o id="246" en="Freesword" ja="義勇兵" de="Freischwert" fr="Conquérant" />
+  <o id="247" en="Mercenary" ja="傭兵" de="Söldner" fr="Mercenaire" />
+  <o id="248" en="Mercenary Captain" ja="傭兵隊長" de="Söldneroberst" fr="Capitaine mercenaire" />
+  <o id="249" en="Combat Caster" ja="連邦魔戦士" de="Schlachtenwerfer" fr="Mage guerrier" />
+  <o id="250" en="Tactician Magician" ja="連邦軍師" de="Taktischer Magier" fr="Tacticien fédéral" />
+  <o id="251" en="Wise Wizard" ja="連邦賢者" de="Weiser Hexer" fr="Sage de la Fédération" />
+  <o id="252" en="Patriarch Protector" ja="元老院警護隊士" de="Patriarchenbeschützer" fr="Garde des patriarches" />
+  <o id="253" en="Caster Captain" ja="連邦魔戦隊長" de="Werfer-Oberst" fr="Capitaine des mages guerriers" />
+  <o id="254" en="Master Caster" ja="筆頭魔戦隊長" de="Meisterwerfer" fr="Maître mage" />
+  <o id="255" en="Mercenary Major" ja="連邦傭兵団長" de="Söldnermajor" fr="Commandant des mercenaires" />
+  <o id="256" en="Fugitive Minister Bounty Hunter" ja="脱走院長追跡者" de="Kopfgeldjäger des fliehenden Ministers" fr="Chasseur de ministre en fuite" />
+  <o id="257" en="King of the Opo-opos" ja="オポオポ王" de="König der Opo-Opos" fr="Roi des Opo-opos" />
+  <o id="258" en="Excommunicate of Kazham" ja="カザム追放者" de="Exkommunizierter von Kazham " fr="Excommunié de Kazham" />
+  <o id="259" en="Kazham Caller" ja="カザムの客人" de="Kazham-Rufer" fr="Visiteur de Kazham" />
+  <o id="260" en="Dream Dweller" ja="夢の住人" de="Bewohner der Traumwelt" fr="Habitant des rêves" />
+  <o id="261" en="Apprentice Sommelier" ja="ソムリエ見習い" de="Kellermeisterlehrling" fr="Apprenti sommelier" />
+  <o id="262" en="Desert Hunter" ja="デザートハンター" de="Wüstenjäger" fr="Chasseur du désert" />
+  <o id="263" en="Seeker of Truth" ja="真理を垣間見た者" de="Wahrheitssuchender" fr="Chercheur de vérité" />
+  <o id="264" en="Kuftal Tourist" ja="クフタルツーリスト" de="Kuftal-Tourist" fr="Touriste de Kuftal" />
+  <o id="265" en="The Immortal Fisher, Lu Shang" ja="不死身の太公望" de="Der unsterbliche Fischer, Lu Shang" fr="Le pêcheur immortel, Lu Shang" />
+  <o id="266" en="Looks Sublime in a Subligar" ja="サブリガを輝かせる者" de="Sieht in Subligar grandios aus" fr="Sublime en Subligar" />
+  <o id="267" en="Looks Good in Leggings" ja="レギンスを輝かせる者" de="Sieht in Leggings gut aus" fr="Superbe en jambières" />
+  <o id="268" en="Honorary Doctorate, Majoring in Tonberries" ja="トンベリ博士" de="Ehrendoktortitel, Hauptfach Tonberries" fr="Docteur honoris causa, spécialité Tonberry" />
+  <o id="269" en="Treasure-house Ransacker" ja="宝物庫あらし" de="Schatzhaus-Plünderer" fr="Pilleur de trésors" />
+  <o id="270" en="Cracker of the Secret Code" ja="暗号？解読者" de="Knacker des Geheimcodes" fr="Décrypteur de code secret" />
+  <o id="271" en="Black Marketeer" ja="闇ブローカー" de="Schwarzmarkthändler" fr="Vendeur au marché noir" />
+  <o id="272" en="Acquirer of Ancient Arcanum" ja="古代秘法を継ぐ者" de="Erwerber alter Wundermittel" fr="Acheteur d'arcanes antiques" />
+  <o id="273" en="Ya Done Good" ja="アンタヤルーニャ" de="Haste gut gemacht" fr="Bien joué" />
+  <o id="274" en="Heir of the Great Fire" ja="大いなる火の継承者" de="Erbe des Großen Feuers" fr="Héritier du grand feu" />
+  <o id="275" en="Heir of the Great Earth" ja="大いなる土の継承者" de="Erbe der Großen Erde" fr="Héritier de la grande terre" />
+  <o id="276" en="Heir of the Great Water" ja="大いなる水の継承者" de="Erbe des Großen Wassers" fr="Héritier de la grande eau" />
+  <o id="277" en="Heir of the Great Wind" ja="大いなる風の継承者" de="Erbe des Großen Winds" fr="Héritier du grand vent" />
+  <o id="278" en="Heir of the Great Ice" ja="大いなる氷の継承者" de="Erbe des Großen Eises" fr="Héritier de la grande glace" />
+  <o id="279" en="Heir of the Great Lightning" ja="大いなる雷の継承者" de="Erbe des Großen Blitzes" fr="Héritier de la grande foudre" />
+  <o id="280" en="Guider of Souls to the Sanctuary" ja="聖地に魂導く者" de="Führer der Seelen des Heiligtums" fr="Guide des âmes vers le sanctuaire" />
+  <o id="281" en="Bearer of Bonds Beyond Time" ja="時を越えた絆持つ者" de="Träger der Bündnisse jenseits der Zeit" fr="Porteur des liens au-delà du temps" />
+  <o id="282" en="Friend of the Opo-opos" ja="オポオポの友" de="Freund der Opo-Opos" fr="Ami des Opo-opos" />
+  <o id="283" en="Hero on Behalf of Windurst" ja="ウィンダス代表の勇士" de="Held im Auftrag von Windurst" fr="Héros du camp de Windurst" />
+  <o id="284" en="Victor of the Balga Contest" ja="バルガ武闘会の勝利者" de="Sieger des Balga-Wettbewerbs" fr="Vainqueur du concours de Balga" />
+  <o id="285" en="Gullible's Travels" ja="いい人カモ" de="Unglaublicher Abenteurer" fr="Peut-être pas si mauvais" />
+  <o id="286" en="Even More Gullible's Travels" ja="もっといい人カモ" de="Noch unglaublicherer Abenteurer" fr="Pas si mauvais du tout" />
+  <o id="287" en="Heir of the New Moon" ja="新しい力の継承者" de="Erbe des Neumonds" fr="Héritier de la nouvelle lune" />
+  <o id="288" en="Assassin Reject" ja="アサシン不採用" de="Mordzurückweisung" fr="Assassin raté" />
+  <o id="289" en="Black Belt" ja="黒帯の有段者" de="Schwarzer Gürtel" fr="Ceinture noire" />
+  <o id="290" en="Vermillion Venturer" ja="紅霞の雇われハンター" de="Zinnober-Unternehmer" fr="Chasseur à gages vermillon" />
+  <o id="291" en="Cerulean Soldier" ja="蒼海の雇われハンター" de="Blauer Soldat" fr="Chasseur à gages azuré" />
+  <o id="292" en="Emerald Exterminator" ja="翠嶺の雇われハンター" de="Smaragd-Kammerjäger" fr="Chasseur à gages émeraude" />
+  <o id="293" en="Guiding Star" ja="導きの星" de="Leitstern" fr="Etoile guide" />
+  <o id="294" en="Vestal Chamberlain" ja="魔天のしるべ" de="Vestalischer Kammerherr" fr="Hôte d'honneur de la chambre vestale" />
+  <o id="295" en="San d'Orian Royal Heir" ja="次期サンドリア国王候補者" de="Königlicher Erbe von San d'Oria" fr="Héritier royal de San d'Oria" />
+  <o id="296" en="Hero Among Heroes" ja="英雄なき時代の英雄" de="Held unter Helden" fr="Héros des temps modernes" />
+  <o id="297" en="Dynamis-San d'Oria Interloper" ja="デュナミス～サンドリアの踏破者" de="Eindringling nach Dynamis - San d'Oria" fr="Explorateur de Dynamis - San d'Oria" />
+  <o id="298" en="Dynamis-Bastok Interloper" ja="デュナミス～バストゥークの踏破者" de="Eindringling nach Dynamis - Bastok" fr="Explorateur de Dynamis - Bastok" />
+  <o id="299" en="Dynamis-Windurst Interloper" ja="デュナミス～ウィンダスの踏破者" de="Eindringling nach Dynamis - Windurst" fr="Explorateur de Dynamis - Windurst" />
+  <o id="300" en="Dynamis-Jeuno Interloper" ja="デュナミス～ジュノの踏破者" de="Eindringling nach Dynamis - Jeuno" fr="Explorateur de Dynamis - Jeuno" />
+  <o id="301" en="Dynamis-Beaucedine Interloper" ja="デュナミス～ボスディンの踏破者" de="Eindringling nach Dynamis - Beaucedine" fr="Explorateur de Dynamis - Beaucedine" />
+  <o id="302" en="Dynamis-Xarcabard Interloper" ja="デュナミス～ザルカバードの踏破者" de="Eindringling nach Dynamis - Xarcabard" fr="Explorateur de Dynamis - Xarcabard" />
+  <o id="303" en="Discerning Individual" ja="違いの分かるヤツ" de="Kritische Person" fr="Individu perspicace" />
+  <o id="304" en="Very Discerning Individual" ja="とても違いの分かるヤツ" de="Sehr kritische Person" fr="Individu très perspicace" />
+  <o id="305" en="Extremely Discerning Individual" ja="とてもとても違いの分かるヤツ" de="Äußerst kritische Person" fr="Individu extrêmement perspicace" />
+  <o id="306" en="Royal Wedding Planner" ja="月下氷人" de="Königlicher Hochzeitsplaner" fr="Organisateur de mariage royal" />
+  <o id="307" en="Consort Candidate" ja="サンドリア王子妃候補" de="Geleitschutzkandidat" fr="Candidat consort" />
+  <o id="308" en="Obsidian Storm" ja="漆黒の稲妻" de="Obsidiansturm" fr="Tempête d'obsidienne" />
+  <o id="309" en="Pentacide Perpetrator" ja="神威" de="Pentazid-Täter" fr="Puissance divine" />
+  <o id="310" en="Wood Worshiper" ja="白樫の木彫師" de="Holzanbeter" fr="Adorateur du bois" />
+  <o id="311" en="Lumber Lather" ja="紫檀の木彫師" de="Nutzholz-Bearbeiter" fr="Amateur de bois" />
+  <o id="312" en="Accomplished Carpenter" ja="黒檀の木彫師" de="Ausgebildeter Tischler" fr="Charpentier accompli" />
+  <o id="313" en="Anvil Advocate" ja="青銅の鍛冶師" de="Amboss-Verfechter" fr="Avocat de l'enclume" />
+  <o id="314" en="Forge Fanatic" ja="黒鉄の鍛冶師" de="Schmieden-Fanatiker" fr="Fanatique de la forge" />
+  <o id="315" en="Accomplished Blacksmith" ja="超鋼の鍛冶師" de="Ausgebildeter Schmied" fr="Forgeron accompli" />
+  <o id="316" en="Trinket Turner" ja="真鍮の彫金師" de="Dreher wertlosen Schmucks" fr="Tourneur de babioles" />
+  <o id="317" en="Silver Smelter" ja="白銀の彫金師" de="Silberschmelzer" fr="Fondeur d'argent" />
+  <o id="318" en="Accomplished Goldsmith" ja="黄金の彫金師" de="Ausgebildeter Goldschmied" fr="Orfèvre accompli" />
+  <o id="319" en="Knitting Know-It-All" ja="木綿の裁縫師" de="Strickarbeit-Alleswisser" fr="Tricoteur expérimenté" />
+  <o id="320" en="Loom Lunatic" ja="別珍の裁縫師" de="Webstuhl-Narr" fr="Fou du tissage" />
+  <o id="321" en="Accomplished Weaver" ja="錦の裁縫師" de="Ausgebildeter Weber" fr="Tisserand accompli" />
+  <o id="322" en="Formula Fiddler" ja="博識の錬金術師" de="Formelgauner" fr="Mélangeur de formules" />
+  <o id="323" en="Potion Potentate" ja="神秘の錬金術師" de="Potion-Potentat" fr="Potasseur de potions" />
+  <o id="324" en="Accomplished Alchemist" ja="奇蹟の錬金術師" de="Ausgebildeter Alchemist" fr="Alchimiste accompli" />
+  <o id="325" en="Bone Beautifier" ja="白骨の骨彫師" de="Knochenverschönerer" fr="Embellisseur d'os" />
+  <o id="326" en="Shell Scrimshander" ja="亀甲の骨彫師" de="Muschel-Drückeberger" fr="Polisseur de carapace" />
+  <o id="327" en="Accomplished Boneworker" ja="珊瑚の骨彫師" de="Ausgebildeter Knochenwerker" fr="Ciseleur d'os accompli" />
+  <o id="328" en="Hide Handler" ja="羊皮の革細工師" de="Fellbehandler" fr="Polisseur de peau" />
+  <o id="329" en="Leather Lauder" ja="虎皮の革細工師" de="Lederwäscher" fr="Caresseur de cuir" />
+  <o id="330" en="Accomplished Tanner" ja="竜皮の革細工師" de="Ausgebildeter Gerber" fr="Tanneur accompli" />
+  <o id="331" en="Fastriver Fisher" ja="川釣りの漁師" de="Schnellfluss-Fischer" fr="Pêcheur pilote" />
+  <o id="332" en="Coastline Caster" ja="磯釣りの漁師" de="Küstenwerfer" fr="Coureur de côtes" />
+  <o id="333" en="Accomplished Angler" ja="沖釣りの漁師" de="Ausgebildeter Angler" fr="Pêcheur accompli" />
+  <o id="334" en="Gourmand Gratifier" ja="炎の調理師" de="Feinschmecker-Erfreuer" fr="Gourmand bon vivant" />
+  <o id="335" en="Banquet Bestower" ja="三ツ星の調理師" de="Bankett-Geber" fr="Cuisinier trois étoiles" />
+  <o id="336" en="Accomplished Chef" ja="至高の調理師" de="Ausgebildeter Koch" fr="Chef accompli" />
+  <o id="337" en="Fine Tuner" ja="死ぬ気で冒険者" de="Perfektionist" fr="Grand accordeur" />
+  <o id="338" en="Friend of the Helmed" ja="仮面同盟員" de="Freund der Behelmten" fr="Ami des porteurs de casque" />
+  <o id="339" en="Tavnazian Squire" ja="タブナジア侯国騎士見習" de="Tavnazischer Knappe" fr="Ecuyer de Tavnazia" />
+  <o id="340" en="Ducal Dupe" ja="搾取される弱者" de="Herzoglicher Tölpel" fr="Dupe du duc" />
+  <o id="341" en="Hyper Ultra Sonic Adventurer" ja="翼の名づけ親" de="Hyper-Ultraschall-Abenteurer" fr="Aventurier hyper ultra sonique" />
+  <o id="342" en="Rod Retriever" ja="勝訴の支援者" de="Angelzieher" fr="Défenseur des lésés" />
+  <o id="343" en="Deed Verifier" ja="千骸谷の逃亡者" de="Urkundenprüfer" fr="Vérificateur d'acte de propriété" />
+  <o id="344" en="Chocobo Love Guru" ja="チョコボの愛を解いた者" de="Chocobo-Liebesguru" fr="Ambassadeur des amours chocobos" />
+  <o id="345" en="Pick-up Artist" ja="ナンパな愛を解いた者" de="Aufsammelkünstler" fr="Sycophante des amours légères" />
+  <o id="346" en="Trash Collector" ja="ニィジャンスカルッヘープ" de="Müllsammler" fr="Eboueur" />
+  <o id="347" en="Ancient Flame Follower" ja="古のほむらに触れし者" de="Alter Flammenanhänger" fr="Disciple de la Flamme antique" />
+  <o id="348" en="Tavnazian Traveler" ja="聖者の島を訪れし者" de="Tavnazia-Tourist" fr="Voyageur à Tavnazia" />
+  <o id="349" en="Transient Dreamer" ja="うたかたなる夢を見し者" de="Vergänglicher Träumer" fr="Rêveur de passage" />
+  <o id="350" en="The Lost One" ja="迷いに心揺れし者" de="Der Verlorene" fr="Egaré" />
+  <o id="351" en="Treader of an Icy Past" ja="凍てつく過去を踏みしめる者" de="Reisender einer eisigen Vergangenheit" fr="Traceur d'un passé de glace" />
+  <o id="352" en="Branded by Lightning" ja="いかづちの洗礼を受けし者" de="Vom Blitz gebrandmarkt" fr="Marqué par la foudre" />
+  <o id="353" en="Seeker of the Light" ja="眩き世界を求むる者" de="Suchender des Lichts" fr="Chercheur de la lumière" />
+  <o id="354" en="Dead Body" ja="どざえもん" de="Leiche" fr="Cadavre" />
+  <o id="355" en="Frozen Dead Body" ja="ドザえもん" de="Gefrorene Leiche" fr="Cadavre gelé" />
+  <o id="356" en="Dreambreaker" ja="夢を断つ者" de="Traumbrecher" fr="Briseur de rêves" />
+  <o id="357" en="Mist Melter" ja="龍に応える者" de="Nebelschmelzer" fr="Dissipateur de brume" />
+  <o id="358" en="Delta Enforcer" ja="デルタを狩る者" de="Delta-Vollstrecker" fr="Prédateur de Delta" />
+  <o id="359" en="Omega Ostracizer" ja="オメガになる者" de="Omega-Ächter" fr="Successeur d'Omega" />
+  <o id="360" en="Ultima Undertaker" ja="アルテマになる者" de="Ultima-Bestatter" fr="Successeur d'Ultima" />
+  <o id="361" en="Ulmia's Soulmate" ja="ウルミアの理解者" de="Ulmias Seelenfreund" fr="Ame sœur d'Ulmia" />
+  <o id="362" en="Tenzen's Ally" ja="テンゼンの盟友" de="Tenzens Verbündeter" fr="Allié de Tenzen" />
+  <o id="363" en="Companion of Louverance" ja="ルーヴランスの友人" de="Kamerad von Louverance" fr="Compagnon de Louverance" />
+  <o id="364" en="True Companion of Louverance" ja="真のルーヴランスの友人" de="Wahrer Kamerad von Louverance" fr="Vrai compagnon de Louverance" />
+  <o id="365" en="Prishe's Buddy" ja="プリッシュの同志" de="Prishes Kumpel" fr="Copain de Prishe" />
+  <o id="366" en="Nag'molada's Underling" ja="ナグモラーダのなじみ" de="Nag'moladas Untergebener" fr="Sous-fifre de Nag'molada" />
+  <o id="367" en="Esha'ntarl's Comrade in Arms" ja="エシャンタールの戦友" de="Esha'ntarls Gefährte" fr="Compagnon d'armes d'Esha'ntarl" />
+  <o id="368" en="The Chebukkis' Worst Nightmare" ja="タルタル3人組の天敵" de="Der schlimmste Albtraum der Chebukkis" fr="Pire cauchemar des Chebukkis" />
+  <o id="369" en="Brown Mage Guinea Pig" ja="はらへにゃー" de="Braunmagier-Versuchskaninchen" fr="Cobaye du mage brun" />
+  <o id="370" en="Brown Magic By-Product" ja="はらピーゴロ" de="Braunmagier-Nebenprodukt" fr="Sous-produit du mage brun" />
+  <o id="371" en="Bastok's Second Best Dressed" ja="ベスト・オブ・サブリスト" de="Bastoks Zweitbest-Bekleideter" fr="Deuxième élégant de Bastok" />
+  <o id="372" en="Rookie Hero Instructor" ja="冒険初心者の師匠" de="Anfängerheld-Lehrer" fr="Instructeur de héros débutant" />
+  <o id="373" en="Goblin in Disguise" ja="ゴブリン人間" de="Verkleideter Goblin" fr="Goblin déguisé" />
+  <o id="374" en="Apostate for Hire" ja="雇われ背信者" de="Abtrünniger zu vermieten" fr="Apostat à louer" />
+  <o id="375" en="Talks with Tonberries" ja="残党の標的" de="Gespräche mit Tonberries" fr="Parle aux Tonberrys" />
+  <o id="376" en="Rook Buster" ja="ルーク・バスター" de="Gaunermeister" fr="Briseur de tours" />
+  <o id="377" en="Banneret" ja="バナレット" de="Bannerherr" fr="Banneret" />
+  <o id="378" en="Gold Balli☆☆☆☆star" ja="ゴールド・バリ☆☆☆☆スター" de="Goldener Balli☆☆☆☆star" fr="Balli☆☆☆☆star d'or" />
+  <o id="379" en="Mythril Balli☆☆☆star" ja="ミスリル・バリ☆☆☆スター" de="Mithril-Balli☆☆☆star" fr="Balli☆☆☆star de mithril" />
+  <o id="380" en="Silver Balli☆☆star" ja="シルバー・バリ☆☆スター" de="Silberner Balli☆☆star" fr="Balli☆☆star d'argent" />
+  <o id="381" en="Bronze Balli☆star" ja="ブロンズ・バリ☆スター" de="Bronze-Balli☆star" fr="Balli☆star de bronze" />
+  <o id="382" en="Searing★Star" ja="灼熱の★軍星" de="Sengender★Stern" fr="Etoile★incandescente" />
+  <o id="383" en="Striking★Star" ja="剛勇の★行星" de="Auffälliger★Stern" fr="Etoile★frappante" />
+  <o id="384" en="Soothing★Star" ja="白銀の★明星" de="Beruhigender★Stern" fr="Etoile★apaisante" />
+  <o id="385" en="Sable★Star" ja="黒衣の★巨星" de="Finsterer★Stern" fr="Etoile★obscure" />
+  <o id="386" en="Scarlet★Star" ja="赤心の★暁星" de="Scharlachroter★Stern" fr="Etoile★écarlate" />
+  <o id="387" en="Sonic★Star" ja="疾風の★流星" de="Schall-★Stern" fr="Etoile★sonique" />
+  <o id="388" en="Saintly★Star" ja="名誉の★瑞星" de="Heiliger★Stern" fr="Etoile★sacrée" />
+  <o id="389" en="Shadowy★Star" ja="無情の★将星" de="Schattiger★Stern" fr="Etoile★d'ombre" />
+  <o id="390" en="Savage★Star" ja="百獣の★群星" de="Wilder★Stern" fr="Etoile★sauvage" />
+  <o id="391" en="Singing★Star" ja="博愛の★極星" de="Singender★Stern" fr="Etoile★chantante" />
+  <o id="392" en="Sniping★Star" ja="神速の★彗星" de="Hinterhältiger★Stern" fr="Etoile★chasseresse" />
+  <o id="393" en="Slicing★Star" ja="万夫の★魁星" de="Schneidender★Stern" fr="Etoile★tranchante" />
+  <o id="394" en="Sneaking★Star" ja="雲影の★妖星" de="Gemeiner★Stern" fr="Etoile★furtive" />
+  <o id="395" en="Spearing★Star" ja="竜座の★双星" de="Durchbohrender★Stern" fr="Etoile★perforante" />
+  <o id="396" en="Summoning★Star" ja="夢幻の★遊星" de="Beschwörender★Stern" fr="Etoile★invocatrice" />
+  <o id="397" en="Putrid Purveyor of Pungent Petals" ja="ちょっと臭う人" de="Fauliger Lieferant stark riechender Blüten" fr="Fournisseur putride de pétales virulents" />
+  <o id="398" en="Unquenchable Light" ja="花散る嵐起こす者" de="Unlöschbares Licht" fr="Lumière inextinguible" />
+  <o id="399" en="Ballistager" ja="バリステイジャー" de="Ballista-Erfahrener" fr="Organisateur de Ballista" />
+  <o id="400" en="Ultimate Champion of the World" ja="天下無双魔阿斗戦覇者" de="Ultimativer Weltmeister" fr="Champion du monde suprême" />
+  <o id="401" en="Warrior of the Crystal" ja="クリスタルの戦士" de="Krieger des Kristalls" fr="Guerrier du Cristal" />
+  <o id="402" en="Indomitable Fisher" ja="釣神流免許皆伝" de="Unbeugsamer Fischer" fr="Pêcheur indomptable" />
+  <o id="403" en="Averter of the Apocalypse" ja="世界の終わりを繰る者" de="Abwender der Apokalypse" fr="Détourneur de l'Apocalypse" />
+  <o id="404" en="Banisher of Emptiness" ja="虚ろなる闇に涙する者" de="Verbanner des Nichts" fr="Bannisseur du néant" />
+  <o id="405" en="Random Adventurer" ja="適当な冒険者" de="Willkürlicher Abenteurer" fr="Aventurier négligent" />
+  <o id="406" en="Irresponsible Adventurer" ja="いい加減な冒険者" de="Verantwortungsloser Abenteurer" fr="Aventurier irresponsable" />
+  <o id="407" en="Odorous Adventurer" ja="生臭冒険者" de="Wohlriechender Abenteurer" fr="Aventurier odorant" />
+  <o id="408" en="Insignificant Adventurer" ja="歌う価値もない冒険者" de="Unbedeutender Abenteurer" fr="Aventurier insignifiant" />
+  <o id="409" en="Final Balli☆☆☆☆star" ja="ファイナバリ☆☆☆☆スター" de="Letzter Balli☆☆☆☆star" fr="Balli☆☆☆☆star final" />
+  <o id="410" en="Balli☆☆☆☆star Royale" ja="バリ☆☆☆☆スター・ロワイヤル" de="Balli☆☆☆☆star Royale" fr="Balli☆☆☆☆star royal" />
+  <o id="411" en="Destined Fellow" ja="導となる者" de="Auserwählter Begleiter" fr="Personne destinée" />
+  <o id="412" en="Orcish Serjeant" ja="オーキシュサージェント" de="Orcish-Sergeant" fr="Orcish Serjeant" />
+  <o id="413" en="Bronze Quadav" ja="ブロンズクゥダフ" de="Bronze-Quadav" fr="Bronze Quadav" />
+  <o id="414" en="Yagudo Initiate" ja="ヤグードイニシエート" de="Yagudo-Initiate" fr="Yagudo Initiate" />
+  <o id="415" en="Moblin Kinsman" ja="モブリンキンズマン" de="Moblin-Kinsman" fr="Compagnon moblin" />
+  <o id="416" en="Sin Hunter Hunter" ja="決闘の勝利者" de="Jäger des Sündenjägers" fr="Chasseur de chasseuses du péché" />
+  <o id="417" en="Disciple of Justice" ja="正義の勝利者" de="Jünger des Rechts" fr="Disciple de la justice" />
+  <o id="418" en="Monarch Linn Patrol Guard" ja="帝龍の飛泉調査員" de="Königsfall-Forscher" fr="Patrouilleur du précipice du monarque" />
+  <o id="419" en="Team Player" ja="志を共にせし者" de="Hüter des Teamgeists" fr="As du travail d'équipe" />
+  <o id="420" en="Worthy of Trust" ja="心の糧となりし者" de="Vertrauter der Seele" fr="Digne de confiance" />
+  <o id="421" en="Conqueror of Fate" ja="人の系譜を開く者" de="Eroberer des Schicksals" fr="Conquérant du destin" />
+  <o id="422" en="Breaker of the Chains" ja="呪縛を葬りし者" de="Kettenbrecher" fr="Briseur de chaînes" />
+  <o id="423" en="A Friend Indeed" ja="助け合う者" de="Rettende Hand" fr="Un véritable ami" />
+  <o id="424" en="Heir to the Realm of Dreams" ja="夢渡る力の継承者" de="Erbe des Königreichs der Träume" fr="Héritier du royaume des rêves" />
+  <o id="425" en="Gold Hook" ja="ゴールドフック" de="Goldhaken" fr="Crochet d'or" />
+  <o id="426" en="Mythril Hook" ja="ミスリルフック" de="Mithrilhaken" fr="Crochet de mithril" />
+  <o id="427" en="Silver Hook" ja="シルバーフック" de="Silberhaken" fr="Crochet d'argent" />
+  <o id="428" en="Copper Hook" ja="カッパーフック" de="Kupferhaken" fr="Crochet de cuivre" />
+  <o id="430" en="Dynamis-Valkurm Interloper" ja="デュナミス～バルクルムの踏破者" de="Eindringling nach Dynamis - Valkurm" fr="Explorateur de Dynamis - Valkurm" />
+  <o id="431" en="Dynamis-Buburimu Interloper" ja="デュナミス～ブブリムの踏破者" de="Eindringling nach Dynamis - Buburimu" fr="Explorateur de Dynamis - Buburimu" />
+  <o id="432" en="Dynamis-Qufim Interloper" ja="デュナミス～クフィムの踏破者" de="Eindringling nach Dynamis - Qufim" fr="Explorateur de Dynamis - Qufim" />
+  <o id="433" en="Dynamis-Tavnazia Interloper" ja="デュナミス～タブナジアの踏破者" de="Eindringling nach Dynamis - Tavnazia" fr="Explorateur de Dynamis - Tavnazia" />
+  <o id="434" en="Confronter of Nightmares" ja="悪夢ヲ喰らい合ウ者" de="Albtraum-Konfrontierer" fr="Braveur de cauchemars" />
+  <o id="435" en="Disturber of Slumber" ja="目覚めしかんなぎ" de="Schlafstörer" fr="Troubleur du sommeil" />
+  <o id="436" en="Interrupter of Dreams" ja="眠り浅きまれびと" de="Traumunterbrecher" fr="Interrupteur de rêves" />
+  <o id="437" en="Sapphire★Star" ja="青雲の★客星" de="Saphir★star" fr="Etoile★saphir" />
+  <o id="438" en="Surging★Star" ja="四海の★奔星" de="Fluten★star" fr="Etoile★déferlante" />
+  <o id="439" en="Swaying★Star" ja="志操の★連星" de="Macht★star" fr="Etoile★automatique" />
+  <o id="440" en="Dark Resistant" ja="冥闇への抵抗者" de="Widersacher der Finsternis" fr="Opposant aux ténèbres" />
+  <o id="441" en="Bearer of the Mark of Zahak" ja="双頭蛇の印背負いしモノ" de="Träger des Zeichens des Zahak" fr="Porteur de la marque de Zahak" />
+  <o id="442" en="Seagull Phratrie Crew Member" ja="海猫党クルー" de="Mitglied der Seemöwen-Bande" fr="Membre d'équipage de la Phratrie du Goéland" />
+  <o id="443" en="Proud Automaton Owner" ja="からくりオーナー" de="Stolzer Automaten-Besitzer" fr="Propriétaire d'un automate" />
+  <o id="444" en="Private Second Class" ja="山猫二等傭兵" de="Gefreiter Zweiter Klasse" fr="Soldat seconde classe" />
+  <o id="445" en="Private First Class" ja="山猫一等傭兵" de="Gefreiter Erster Klasse" fr="Soldat première classe" />
+  <o id="446" en="Superior Private" ja="山猫上等傭兵" de="Untergefreiter" fr="Soldat supérieur" />
+  <o id="447" en="Wildcat Publicist" ja="山猫宣伝員" de="Wildkatzen-Werbeträger" fr="Publicitaire du Chat sauvage" />
+  <o id="448" en="Adamantking Usurper" ja="アダマントキング　ユザーパー" de="Adamantking-Usurpator" fr="Usurpateur d'Adamantking" />
+  <o id="449" en="Overlord Overthrower" ja="オーバーロード　オーバースロワー" de="Overlord-Bezwinger" fr="Renverseur d'Overlord" />
+  <o id="450" en="Deity Debunker" ja="デイティーデバンカー" de="Gottheiten-Entlarver" fr="Démystificateur" />
+  <o id="451" en="Fafnir Slayer" ja="ファヴニル　スレーヤー" de="Fafnir-Totschläger" fr="Tueur de Fafnir" />
+  <o id="452" en="Aspidochelone Sinker" ja="アスピドケロン　シンカー" de="Aspidochelone-Versenker" fr="Couleur d'Aspidochelone" />
+  <o id="453" en="Nidhogg Slayer" ja="ニーズヘッグ　スレーヤー" de="Nidhogg-Totschläger" fr="Tueur de Nidhogg" />
+  <o id="454" en="Maat Masher" ja="マート　マッシャー" de="Maat-Stampfer" fr="Ecraseur de Maat" />
+  <o id="455" en="Kirin Captivator" ja="キリン　キャプティヴェイター" de="Kirin-Fessler" fr="Captureur de Kirin" />
+  <o id="456" en="Cactrot Desacelerador" ja="カクトロット　デサセレラドール" de="Cactrot Desacelerador" fr="Ralentisseur de Cactrot" />
+  <o id="457" en="Lifter of Shadows" ja="リフター　オブ　シャドーズ" de="Enthüller der Schatten" fr="Leveur d'ombres" />
+  <o id="458" en="Tiamat Trouncer" ja="ティアマット　トラウンサー" de="Tiamat-Prügler" fr="Cogneur de Tiamat" />
+  <o id="459" en="Vrtra Vanquisher" ja="ヴリトラ　ヴァンクィシャー" de="Vrtra-Überwältiger" fr="Vainqueur de Vrtra" />
+  <o id="460" en="World Serpent Slayer" ja="ワールドサーペントスレーヤー" de="Weltschlangen-Totschläger" fr="Tueur du serpent du monde" />
+  <o id="461" en="Xolotl Xtrapolator" ja="ショロトル　エクストラポレーター" de="Xolotl-Xtrapolator" fr="Extrapolateur de Xolotl" />
+  <o id="462" en="Boroka Beleaguerer" ja="ボロカ　ベリーガラー" de="Boroka-Belagerer" fr="Triomphateur de Boroka" />
+  <o id="463" en="Ouryu Overwhelmer" ja="應龍調伏猛士" de="Ouryu-Überwältiger" fr="Tueur d'Ouryu" />
+  <o id="464" en="Vinegar Evaporator" ja="ビネガーエヴァポレーター" de="Essigverdunster" fr="Evaporateur de vinaigre" />
+  <o id="465" en="Virtuous Saint" ja="ヴァーチャスセイント" de="Virtuoser Heiliger" fr="Saint vertueux" />
+  <o id="466" en="Bye-bye, Taisai" ja="さよなら太歳" de="Lebe wohl, Taisai" fr="Au revoir, Taisai" />
+  <o id="467" en="Temenos Liberator" ja="テメナスリバレーター" de="Temenos-Befreier" fr="Libérateur de Temenos" />
+  <o id="468" en="Apollyon Ravager" ja="アポリオンラベジャー" de="Verwüster Apollyons" fr="Ravageur d'Apollyon" />
+  <o id="469" en="Wyrm Astonisher" ja="ウィルムアストニシャー" de="Wyrm-Schreck" fr="Stupéfieur de wyrm" />
+  <o id="470" en="Nightmare Awakener" ja="ナイトメア　アウェイクナー" de="Der Albtraum-Erwecker" fr="Eveilleur de cauchemar" />
+  <o id="471" en="Cerberus Muzzler" ja="ケルベロスマズラー" de="Cerberus-Bändiger" fr="Museleur de Cerberus" />
+  <o id="472" en="Hydra Headhunter" ja="ハイドラヘッドハンター" de="Hydra-Kopfgeldjäger" fr="Chasseur de tête d'Hydra" />
+  <o id="473" en="Shining Scale Rifler" ja="スケールライフラー" de="Schuppenplünderer" fr="Agitateur des Ecailles brillantes" />
+  <o id="474" en="Troll Subjugator" ja="トロールサブジュゲーター" de="Troll-Unterjocher" fr="Dominateur de trolls" />
+  <o id="475" en="Gorgonstone Sunderer" ja="ゴーゴンストーンサンダラー" de="Gorgonstone-Spalter" fr="Ecarteleur de gorgone" />
+  <o id="476" en="Khimaira Carver" ja="キマイラカーバー" de="Khimaira-Killer" fr="Equarrisseur de khimaira" />
+  <o id="477" en="Elite Einherjar" ja="エインヘリヤルエリート" de="Einheriar-Elite" fr="Elite Einherjar" />
+  <o id="478" en="Star Charioteer" ja="スターチャリオッティア" de="Stern-Streitwagenlenker" fr="Aurige des étoiles" />
+  <o id="479" en="Sun Charioteer" ja="サンチャリオッティア" de="Sonnen-Streitwagenlenker" fr="Aurige du soleil" />
+  <o id="480" en="Subduer of the Mamool Ja" ja="マムークサブドゥア" de="Mamool Ja-Bezwinger" fr="Conquérant des Mamool Ja" />
+  <o id="481" en="Subduer of the Trolls" ja="ハルブーンサブドゥア" de="Troll-Bezwinger" fr="Conquérant des Trolls" />
+  <o id="482" en="Subduer of the Undead Swarm" ja="アンデッドサブドゥア" de="Untoten-Bezwinger" fr="Conquérant de la Légion des Morts-Vivants" />
+  <o id="483" en="Agent of the Allied Forces" ja="アルタナ同盟エージェント" de="Agent der verbündeten Streitkräfte" fr="Agent de la coalition d'Altana" />
+  <o id="484" en="Scenic Snapshotter" ja="風景記録の達人" de="Landschaftsbildaufnehmer" fr="Preneur de paysages" />
+  <o id="485" en="Branded by the Five Serpents" ja="五蛇の烙印押されしモノ" de="Gezeichnet von den Fünf Schlangen" fr="Marqué des cinq Serpents" />
+  <o id="486" en="Immortal Lion" ja="蒼き獅子" de="Unsterblicher Löwe" fr="Lion bleu" />
+  <o id="487" en="Paragon of Blue Mage Excellence" ja="冷厳なる大青魔道士" de="Vorbild an Blaumagier-Vortrefflichkeit" fr="Modèle d'excellence du mage bleu" />
+  <o id="488" en="Paragon of Corsair Excellence" ja="剛胆なる大海賊" de="Vorbild an Freibeuter-Vortrefflichkeit" fr="Modèle d'excellence du corsaire" />
+  <o id="489" en="Paragon of Puppetmaster Excellence" ja="痛快なる大からくり士" de="Vorbild an Puppenmeister-Vortrefflichkeit" fr="Modèle d'excellence du marionnettiste" />
+  <o id="490" en="Lance Corporal" ja="山猫傭兵長" de="Obergefreiter" fr="Sous-caporal" />
+  <o id="491" en="Corporal" ja="山猫伍長" de="Hauptgefreiter" fr="Caporal" />
+  <o id="492" en="Master of Ambition" ja="慧眼を断つモノ" de="Meister der Ambitionen" fr="Maître de l'ambition" />
+  <o id="493" en="Master of Chance" ja="碧海の勝負師" de="Meister des Glücks" fr="Maître de la chance" />
+  <o id="494" en="Master of Manipulation" ja="奔放不羈の業人" de="Meister der Manipulation" fr="Expert en manipulation" />
+  <o id="495" en="Ovjang's Errand Runner" ja="アヴゼンの小間使い" de="Ovjangs Laufbursche" fr="Larbin d'Ovjang" />
+  <o id="496" en="Sergeant" ja="山猫軍曹" de="Sergeant" fr="Sergent" />
+  <o id="497" en="Sergeant Major" ja="山猫曹長" de="Obersergeant" fr="Sergent-chef" />
+  <o id="498" en="Karababa's Tour Guide" ja="カラババの現地ガイド" de="Karababas Stadtführer" fr="Guide de Karababa" />
+  <o id="499" en="Karababa's Bodyguard" ja="カラババのボディガード" de="Karababas Leibwächter" fr="Garde du corps de Karababa" />
+  <o id="500" en="Karababa's Secret Agent" ja="カラババの特命エージェント" de="Karababas Spion" fr="Agent secret de Karababa" />
+  <o id="501" en="Skyserpent Aggrandizer" ja="天蛇将の遊撃隊" de="Himmelsschlangen-Held" fr="Soldat du Serpent Céleste" />
+  <o id="502" en="Chief Sergeant" ja="山猫特務曹長" de="Feldwebel" fr="Sergent-major" />
+  <o id="503" en="Aphmau's Mercenary" ja="アフマウの傭兵" de="Aphmaus Söldner" fr="Mercenaire d'Aphmau" />
+  <o id="504" en="Nashmeira's Mercenary" ja="ナシュメラの傭兵" de="Nashmeiras Söldner" fr="Mercenaire de Nashmeira" />
+  <o id="505" en="Chocorookie" ja="チョコボレースのルーキー" de="Chocobo-Rennen-Amateur" fr="Novice des courses de chocobo" />
+  <o id="506" en="Second Lieutenant" ja="山猫少尉" de="Oberfeldwebel" fr="Sous-lieutenant" />
+  <o id="507" en="Galeserpent Guardian" ja="風蛇将の教導隊" de="Sturmschlangen-Kamerad" fr="Conseiller du Général du Serpent du Vent" />
+  <o id="508" en="Stoneserpent Shocktrooper" ja="土蛇将の突撃隊" de="Steinschlangen-SEK-Beamter" fr="Soldat du Général du Serpent de Terre" />
+  <o id="509" en="Photopticator Operator" ja="バラカフ発明品の使い手" de="Balakafs Kamera-Assi" fr="Utilisateur des inventions de Balakaf" />
+  <o id="510" en="Salaheem's Risk Assessor" ja="サラヒムの斥候" de="Salaheems Späher" fr="Eclaireur des Sentinelles" />
+  <o id="511" en="Treasure Trove Tender" ja="財宝の番兵" de="Schatzwächter" fr="Trésorier" />
+  <o id="512" en="Gessho's Mercy" ja="月照の介錯人" de="Gesshos Sekundant" fr="Juge de Gessho" />
+  <o id="513" en="Emissary of the Empress" ja="聖皇の密使" de="Kaiserlicher Geheimbote" fr="Emissaire de l'Impératrice" />
+  <o id="514" en="Endymion Paratrooper" ja="エンディミオン空艇隊員" de="Crewmitglied der Endymion" fr="Parachutiste de l'Endymion" />
+  <o id="515" en="Naja's Comrade-In-Arms" ja="ナジャの戦友" de="Najas Waffenbruder" fr="Compagnon d'armes de Naja" />
+  <o id="516" en="Nashmeira's Loyalist" ja="ナシュメラの腹心" de="Nashmeiras Busenfreund" fr="Fidèle de Nashmeira" />
+  <o id="517" en="Preventer of Ragnarok" ja="ラグナロクの調停者" de="Abwender der Ragnarök" fr="Juge du Ragnarok" />
+  <o id="518" en="Champion of Aht Urhgan" ja="アトルガンの守護者" de="Aht Urhgans Schutzpatron" fr="Protecteur d'Aht Urhgan" />
+  <o id="519" en="First Lieutenant" ja="山猫中尉" de="Leutnant" fr="Lieutenant" />
+  <o id="520" en="Captain" ja="山猫大尉" de="Oberleutnant" fr="Capitaine" />
+  <o id="521" en="Crystal Stakes Cupholder" ja="クリスタルステークス覇者" de="Meister des Kristallrennens" fr="Champion du Prix du Cristal" />
+  <o id="522" en="Winning Owner" ja="勝鳥オーナー" de="Stolzer Besitzer eines Siegerhuhns" fr="Eleveur de gagnants" />
+  <o id="523" en="Victorious Owner" ja="猛鳥オーナー" de="Stolzer Besitzer eines Raubvogels" fr="Eleveur de vainqueurs" />
+  <o id="524" en="Triumphant Owner" ja="覇鳥オーナー" de="Stolzer Besitzer eines blaublütigen Huhns" fr="Eleveur de champions" />
+  <o id="525" en="High Roller" ja="幸運の勝負師" de="Glückskind" fr="Turfiste chanceux" />
+  <o id="526" en="Fortune's Favorite" ja="強運の勝負師" de="Glückspilz" fr="Turfiste d'une chance insolente" />
+  <o id="527" en="Superhero" ja="スーパーヒーロー" de="Superheld" fr="Super héros" />
+  <o id="528" en="Superheroine" ja="スーパーヒロイン" de="Superheldin" fr="Super héroïne" />
+  <o id="529" en="Bloody Berserker" ja="ブラッディバーサーカー" de="Blutrünstiger Berserker" fr="Berserk sanguinaire" />
+  <o id="530" en="The Sixth Serpent" ja="准蛇将" de="Schlangengeneral ehrenhalber" fr="Le sixième Serpent" />
+  <o id="531" en="Eternal Mercenary" ja="エターナルマーシナリー" de="Söldner lebenslänglich" fr="Eternel mercenaire" />
+  <o id="532" en="Springserpent Sentry" ja="水蛇将の親衛隊" de="Wasserschlangen-Leibwächter" fr="Garde du Général du Serpent de l'Eau" />
+  <o id="533" en="Sprightly★Star" ja="魅惑の★眩星" de="Verführerischer★Stern" fr="Etoile★ensorcelante" />
+  <o id="534" en="Sagacious★Star" ja="明哲の★識星" de="Weiser★Stern" fr="Etoile★philosophique" />
+  <o id="535" en="Schultz Scholar" ja="見習い軍学者" de="Student" fr="Apprenti stratège" />
+  <o id="536" en="Knight of the Iron Ram" ja="鉄羊騎士" de="Ritter des Eisernen Ram" fr="Bélier d'acier" />
+  <o id="537" en="Fourth Division Soldier" ja="第四共和軍団兵" de="Soldat der 4. Armee der Republik" fr="Soldat de la quatrième division républicaine" />
+  <o id="538" en="Cobra Unit Mercenary" ja="コブラ傭兵" de="Kobra-Söldner" fr="Mercenaire Cobra" />
+  <o id="539" en="Windtalker" ja="舞台裏の目撃者" de="Deus ex machina" fr="Révélateur de supercherie" />
+  <o id="540" en="Lady Killer" ja="レディキラー" de="Lady(bug)killer" fr="Dépouilleur de bêtes à bon dieu" />
+  <o id="541" en="Troupe Brilioth Dancer" ja="ブリリオート舞踏団ダンサー" de="Brilioths Primaballerina" fr="Petit rat de la troupe Brilioth" />
+  <o id="542" en="Cait Sith's Assistant" ja="ケット・シーの助手" de="Cait Sith' Helfer" fr="Aide de Cait Sith" />
+  <o id="543" en="Ajido-Marujido's Minder" ja="アジドマルジドの救世主" de="Ajido-Marujidos Erziehungsberechtigter" fr="Messie d'Ajido-Marujido" />
+  <o id="544" en="Comet Charioteer" ja="コメットチャリオッティア" de="Kometen-Streitwagenlenker" fr="Aurige des comètes" />
+  <o id="545" en="Moon Charioteer" ja="ムーンチャリオッティア" de="Mond-Streitwagenlenker" fr="Aurige de la lune" />
+  <o id="546" en="Sandworm Wrangler" ja="サンドウォームキャッチャー" de="Sandworm-Fänger" fr="Chevaucheur de ver des sables" />
+  <o id="547" en="Ixion Hornbreaker" ja="イクシオンホーンブレイカー" de="Ixion-Flüsterer" fr="Arracheur de la corne d'Ixion" />
+  <o id="548" en="Lambton Worm Desegmenter" ja="ラムトンウォームデセグメンター" de="Lambton-Entwurmer" fr="Dessegmenteur de ver" />
+  <o id="549" en="Pandemonium Queller" ja="パンデモニウムクウェラー" de="Pandemonium-Entwirrer" fr="Apaiseur du Pandémonium" />
+  <o id="550" en="Debaser of Dynasties" ja="ダイナスティディベーサー" de="Dynastien-Stürzer" fr="Annihilateur de dynastie" />
+  <o id="551" en="Disperser of Darkness" ja="ダークネスディスパーサー" de="Dämmerlichtbringer" fr="Disperseur des ténèbres" />
+  <o id="552" en="Ender of Idolatry" ja="アイドラトリーエンダー" de="Götzenbild-Zerkauer" fr="Iconoclaste" />
+  <o id="553" en="Lugh Exorcist" ja="ルー　エクソシスト" de="Lugh-Exorzist" fr="Conjurateur de Lugh" />
+  <o id="554" en="Elatha Exorcist" ja="エラサ　エクソシスト" de="Elatha-Exorzist" fr="Conjurateur d'Elatha" />
+  <o id="555" en="Ethniu Exorcist" ja="エスニウ　エクソシスト" de="Ethniu-Exorzist" fr="Conjurateur d'Ethniu" />
+  <o id="556" en="Tethra Exorcist" ja="テスラ　エクソシスト" de="Tethra-Exorzist" fr="Conjurateur de Tethra" />
+  <o id="557" en="Buarainech Exorcist" ja="ブーリンナク　エクソシスト" de="Buarainech-Exorzist" fr="Conjurateur de Buarainech" />
+  <o id="558" en="Oupire Impaler" ja="ウピール　インペーラー" de="Oupire-Pfähler" fr="Empaleur d'Oupire" />
+  <o id="559" en="Scylla Skinner" ja="スキュラ　スキンナー" de="Scylla-Häuter" fr="Dépeceur de Scylla" />
+  <o id="560" en="Zirnitra Wingclipper" ja="ジルニトラ　ウィングクリッパー" de="Zirnitra-Flügelstutzer" fr="Trancheur d'ailes de Zirnitra" />
+  <o id="561" en="Dawon Trapper" ja="ドゥントラッパー" de="Dawon-Wilderer" fr="Piégeur de Dawon" />
+  <o id="562" en="Krabkatoa Steamer" ja="クラブカタウ　スチーマー" de="Krabkatoa-Dünster" fr="Erupteur du Krabkatoa" />
+  <o id="563" en="Orcus Trophy Hunter" ja="オルクス　トロフィーハンター" de="Orcus-Trophäenjäger" fr="Chasseur de trophée d'Orcus" />
+  <o id="564" en="Blobdingnag Burster" ja="ブロブディンナグ　バースター" de="Blobdingnag-Sprenger" fr="Perceur de Blobdingnag" />
+  <o id="565" en="Verthandi Ensnarer" ja="ヴェルザンディ　エンスネアラー" de="Verthandi-Verführer" fr="Attrapeur de Verthandi" />
+  <o id="566" en="Ruthven Entomber" ja="ルスベン　エントゥーマー" de="Ruthven-Bestatter" fr="Fossoyeur de Ruthven" />
+  <o id="567" en="Yilbegan Hideflayer" ja="イルベガン　ハイドフレーヤー" de="Yilbegan-Häuter" fr="Mégisseur de Yilbegan" />
+  <o id="568" en="Torchbearer of the 1st Walk" ja="第1ウォークのトーチベアラー" de="Fackelträger des ersten Ganges" fr="Porteur de la torche du premier promenoir" />
+  <o id="569" en="Torchbearer of the 2nd Walk" ja="第2ウォークのトーチベアラー" de="Fackelträger des zweiten Ganges" fr="Porteur de la torche du second promenoir" />
+  <o id="570" en="Torchbearer of the 3rd Walk" ja="第3ウォークのトーチベアラー" de="Fackelträger des dritten Ganges" fr="Porteur de la torche du troisième promenoir" />
+  <o id="571" en="Torchbearer of the 4th Walk" ja="第4ウォークのトーチベアラー" de="Fackelträger des vierten Ganges" fr="Porteur de la torche du quatrième promenoir" />
+  <o id="572" en="Torchbearer of the 5th Walk" ja="第5ウォークのトーチベアラー" de="Fackelträger des fünften Ganges" fr="Porteur de la torche du cinquième promenoir" />
+  <o id="573" en="Torchbearer of the 6th Walk" ja="第6ウォークのトーチベアラー" de="Fackelträger des sechsten Ganges" fr="Porteur de la torche du sixième promenoir" />
+  <o id="574" en="Torchbearer of the 7th Walk" ja="第7ウォークのトーチベアラー" de="Fackelträger des siebten Ganges" fr="Porteur de la torche du septième promenoir" />
+  <o id="575" en="Torchbearer of the 8th Walk" ja="第8ウォークのトーチベアラー" de="Fackelträger des achten Ganges" fr="Porteur de la torche du huitième promenoir" />
+  <o id="576" en="Furniture Store Owner" ja="ファーニチャーストアオーナー" de="Möbelhändler" fr="Ebéniste" />
+  <o id="577" en="Armory Owner" ja="アーモリーオーナー" de="Waffenschieber" fr="Armurier" />
+  <o id="578" en="Jewelry Store Owner" ja="ジュエリーストアオーナー" de="Juwelier" fr="Joaillier" />
+  <o id="579" en="Boutique Owner" ja="ブティックオーナー" de="Boutique-Besitzer" fr="Tailleur" />
+  <o id="580" en="Apothecary Owner" ja="アポケサリオーナー" de="Apotheker" fr="Apothicaire" />
+  <o id="581" en="Curiosity Shop Owner" ja="キュリオシティショップオーナー" de="Krämer" fr="Bimbelotier" />
+  <o id="582" en="Shoeshop Owner" ja="シューショップオーナー" de="Schuster" fr="Cordonnier" />
+  <o id="583" en="Fishmonger Owner" ja="フィッシュモンガーオーナー" de="Fischhändler" fr="Poissonnier" />
+  <o id="584" en="Restaurant Owner" ja="レストランオーナー" de="Restaurantbesitzer" fr="Traiteur" />
+  <o id="585" en="Assistant Detective" ja="ミスリル銃士隊探偵助手" de="Mithril-Spürnase" fr="Détective assistant des mousquetaires de mithril" />
+  <o id="586" en="Promising Dancer" ja="才気あるダンサー" de="Tanztalent" fr="Coryphée" />
+  <o id="587" en="Stardust Dancer" ja="星くずのダンサー" de="Musikliebhaber" fr="Sujet" />
+  <o id="588" en="Elegant Dancer" ja="流麗なる大舞踏家" de="Prima-Ballerina" fr="Premier danseur" />
+  <o id="589" en="Dazzling Dance Diva" ja="輝く星の踊り子" de="Tänzer des Leuchtenden Sterns" fr="Danseur étoile" />
+  <o id="590" en="Friend of Lehko Habhoka" ja="レコ・ハボッカの友人" de="Katzenliebhaber" fr="Ami de Lehko Habhoka" />
+  <o id="591" en="Summa Cum Laude" ja="聡明なる大学者" de="Musterschüler" fr="Sage des sages" />
+  <o id="592" en="Grimoire Bearer" ja="グリモアを継ぐもの" de="Diplom-Kriegswissenschaftler" fr="Héritier du Grimoire" />
+  <o id="593" en="Seasoning Connoisseur" ja="塩ソムリエ" de="Feinschmecker" fr="Expert en cassoulet" />
+  <o id="594" en="Fine Young Griffon" ja="少年騎士団のエース" de="Königsgreif" fr="As des jeunes griffons" />
+  <o id="595" en="Babban's Traveling Companion" ja="ウェイレアの旅の仲間" de="Mheilleas Reisegefährte" fr="Compagnon de route de Mheillea" />
+  <o id="596" en="Fellow Fortifier" ja="高め合う者" de="Duellant" fr="Camarade de duel" />
+  <o id="597" en="Chocochampion" ja="チョコボレースのホープ" de="Hoffnung des Chocobo-Rennens" fr="Espoir des courses de chocobos" />
+  <o id="598" en="Traverser of Time" ja="往代を巡りし者" de="Per Anhalter durch die Generationen" fr="Argonaute des temps jadis" />
+  <o id="599" en="Mythril Musketeer No. 6" ja="ミスリル銃士隊No.6" de="Mithril-Musketier Nr.6" fr="Sixième mousquetaire de mithril" />
+  <o id="600" en="Jewel of the Cobra Unit" ja="コブラ傭兵団の秘蔵っ子" de="Königskobra" fr="Atout secret des Mercenaires Cobra" />
+  <o id="601" en="Knight of the Swiftwing Griffin" ja="鷲獅子騎士" de="Ritter der Geflügelten Löwen" fr="Chevalier de l'Ordre du griffon" />
+  <o id="602" en="Wyrmsworn Protector" ja="気高き龍の盟友" de="Verbündeter des hochehrwürdigen Drachen" fr="Allié du fier dragon" />
+  <o id="603" en="Flameserpent Facilitator" ja="炎蛇将の特攻隊" de="Einer, der durchs Feuer geht" fr="Espion du Général du Serpent de Feu" />
+  <o id="604" en="Maze Wanderer" ja="迷宮を彷徨う者" de="Sich-im-Irrgarten-Verläufer" fr="Vagabond des labyrinthes" />
+  <o id="605" en="Maze Navigator" ja="迷宮を行交う者" de="Irrgarten-Auf-und-Abwanderer" fr="Itinérant des labyrinthes" />
+  <o id="606" en="Maze Scholar" ja="迷宮を知る者" de="Sich-im-Irrgarten-Auskenner" fr="Dilettante des labyrinthes" />
+  <o id="607" en="Maze Artisan" ja="迷宮を創る者" de="Schöpfer der Irrgärten" fr="Architecte de labyrinthes" />
+  <o id="608" en="Maze Overlord" ja="迷宮を統べる者" de="Irrgarten-Monarch" fr="Connétable des labyrinthes" />
+  <o id="609" en="Swarminator" ja="スウォーミネーター" de="Schwarminator" fr="Déverminateur" />
+  <o id="610" en="Battle of Jeuno Veteran" ja="ジュノ攻防戦の功労者" de="Held von Jeuno" fr="Héros de la bataille de Jeuno" />
+  <o id="611" en="Grand Greedalox" ja="ゴウツバクリ" de="Nimmersatt" fr="Ultime gloutox" />
+  <o id="612" en="Karaha-Baruha's Research Assistant" ja="隠者の協力者" de="Verbündeter des Eremiten" fr="Collaborateur de l'ermite" />
+  <o id="613" en="Honorary Knight of the Cardinal Stag" ja="赤鹿の名誉騎士" de="Geflügelter Löwe" fr="Chevalier honoraire des Cerfs écarlates" />
+  <o id="614" en="Detector of Deception" ja="仮面を砕きし者" de="Kommissar" fr="Briseur de masque" />
+  <o id="615" en="Silencer of the Echo" ja="神の頌歌に返せる者" de="Auslöscher des kataklystischen Lieds" fr="Eradicateur d'ode divine" />
+  <o id="616" en="Bestrider of Futures" ja="境界に生きる者" de="Spiegelweltenwandler" fr="Errant à la frontière des temps" />
+  <o id="617" en="Mog House Handyperson" ja="モグハウス・キーパー" de="Mog-Hauswart" fr="Maître Mog" />
+  <o id="618" en="Presidential Protector" ja="真実を追う者" de="Sonderermittler" fr="Découvreur de la vérité" />
+  <o id="619" en="The Moon's Companion" ja="星月に寄り添う者" de="Eingeweihter der Sterne und des Mondes" fr="Plus près des étoiles et de la lune" />
+  <o id="620" en="Arrester of the Ascension" ja="シャントット帝国反乱分子" de="Agent im Auftrag Ihrer Majestät Shantotto" fr="Renégat de l'Empire shantottois" />
+  <o id="621" en="House Aurchiat Retainer" ja="伯爵家の客分" de="Rechter Arm des Racheengels" fr="Compagnon d'armes du jeune comte" />
+  <o id="622" en="Wanderer of Time" ja="失はれた者" de="Verlorener der Zeit" fr="Perdu dans les abîmes du temps" />
+  <o id="623" en="Smiter of the Shadow" ja="シャドウスマイター" de="Schattenzerschmetterer" fr="Jugulateur des ombres" />
+  <o id="624" en="Heir of the Blessed Radiance" ja="大いなる天光の継承者" de="Erbe des Großen Lichts" fr="Héritier de la grande lumière" />
+  <o id="625" en="Heir of the Blighted Gloom" ja="大いなる冥闇の継承者" de="Erbe der Großen Finsternis" fr="Héritier de la grande ombre" />
+  <o id="626" en="Sworn to the Dark Divinity" ja="冥路の騎士" de="Spielkamerad des Dunklen Reiters" fr="Chevalier des Ombres" />
+  <o id="627" en="Temperer of Mythril" ja="ミスリル銃士隊No.0" de="Die fantastische Null" fr="Mousquetaire de mithril n°0" />
+  <o id="628" en="Star in the Azure Sky" ja="蒼天のしるべ" de="Meister des Azurbogens" fr="Azur du firmament" />
+  <o id="629" en="Fangmonger Forestaller" ja="コロッサスデストロイヤー" de="Zogbogs Nemesis" fr="Destructeur de colosse" />
+  <o id="630" en="Visitor to Abyssea" ja="異界の訪問者" de="Wallfahrer" fr="Visiteur d'Abyssée" />
+  <o id="631" en="Friend of Abyssea" ja="異界の協力者" de="Abysseanischer Aktivist" fr="Coopérateur d'Abyssée" />
+  <o id="632" en="Warrior of Abyssea" ja="異界の戦士" de="Abysseanischer Krieger" fr="Combattant d'Abyssée" />
+  <o id="633" en="Stormer of Abyssea" ja="異界の強襲者" de="Jäger der Erwachten" fr="Attaquant d'Abyssée" />
+  <o id="634" en="Devastator of Abyssea" ja="異界の破壊者" de="Vernichter der Erwachten" fr="Démolisseur d'Abyssée" />
+  <o id="635" en="Hero of Abyssea" ja="異界の勇者" de="Hoffnungsträger Abysseas" fr="Brave d'Abyssée" />
+  <o id="636" en="Champion of Abyssea" ja="異界の英雄" de="Held Abysseas" fr="Héros d'Abyssée" />
+  <o id="637" en="Conqueror of Abyssea" ja="異界の覇者" de="Retter Abysseas" fr="Conquérant d'Abyssée" />
+  <o id="638" en="Savior of Abyssea" ja="異界の救世主" de="Legendärer Held Abysseas" fr="Sauveur d'Abyssée" />
+  <o id="639" en="Vanquisher of Spite" ja="盤上の覇者" de="Entwirrer Abysseas" fr="Maître de l'échiquier" />
+  <o id="640" en="Hadhayosh Halterer" ja="ハダヨッシュホルタラー" de="Hadhayosh-Herr" fr="Dompteur de Hadhayosh" />
+  <o id="641" en="Briareus Feller" ja="ブリアレオスフェラー" de="Briareus-Fäller" fr="Abatteur de Briareus" />
+  <o id="642" en="Karkinos Clawcrusher" ja="カルキノスクロークラッシャー" de="Karkinos-Scherenschredderer" fr="Briseur des pinces de Karkinos" />
+  <o id="643" en="Carabosse Quasher" ja="カラボスクワッシャー" de="Carabosse-Zerklatscher" fr="Ecraseur de Carabosse" />
+  <o id="644" en="Ovni Obliterator" ja="オヴニオブリテレイター" de="Ovni-Forscher" fr="Anéantisseur d'Ovni" />
+  <o id="645" en="Ruminator Confounder" ja="ルミネイターコンファウンダー" de="Ruminator-Verwirrer" fr="Vainqueur de Ruminator" />
+  <o id="646" en="Eccentricity Expunger" ja="エクセントリセティエクスパンジャー" de="Exzentriker" fr="Eradicateur d'excentricité" />
+  <o id="647" en="Fistule Drainer" ja="フィスチュルドレイナー" de="Fistule-Ausdrücker" fr="Ponctionneur de Fistule" />
+  <o id="648" en="Kukulkan Defanger" ja="ククルカンデファンガー" de="Kukulkan-Zahnzieher" fr="Arracheur de croc de Kukulkan" />
+  <o id="649" en="Turul Grounder" ja="トゥルルグラウンダー" de="Turul-Fänger" fr="Terrasseur de Turul" />
+  <o id="650" en="Bloodeye Banisher" ja="ブラッドアイバニッシャー" de="Vileberry-Verbanner" fr="Bannisseur de Bloodeye" />
+  <o id="651" en="Satiator Depriver" ja="セイシエーターデプライバー" de="Satiator-Enthalter" fr="Dépouilleur de Satiator" />
+  <o id="652" en="Iratham Capturer" ja="イラタムキャプチャラー" de="Iratham-Mattsetzer" fr="Preneur d'Iratham" />
+  <o id="653" en="Lacovie Capsizer" ja="ラコビキャプサイザー" de="Lacovie-Kenterer" fr="Basculeur de Lacovie" />
+  <o id="654" en="Chloris Uprooter" ja="クロリスアップルーター" de="Chloris-Entwurzeler" fr="Déracineur de Chloris" />
+  <o id="655" en="Myrmecoleon Tamer" ja="メルメコレオンテイマー" de="Myrmecoleon-Bändiger" fr="Apprivoiseur de Myrmecoleon" />
+  <o id="656" en="Glavoid Stampeder" ja="グラヴォイドスタンピーダー" de="Glavoid-Gladiator" fr="Assaillant de Glavoid" />
+  <o id="657" en="Usurper Deposer" ja="ユーサーパーデポーザー" de="Usurper-Umstürzer" fr="Déposeur d'Usurper" />
+  <o id="658" en="Yaanei Crasher" ja="ヤーネイ　クラッシャー" de="Yaanei-Zermalmer" fr="Briseur de Yaanei" />
+  <o id="659" en="Kutharei Unhorser" ja="クタレイ　アンホーサー" de="Kutharei-Bändiger" fr="Désarçonneur de Kutharei" />
+  <o id="660" en="Sippoy Capturer" ja="シポイ　キャプチャラー" de="Sippoy-Fänger" fr="Preneur de Sippoy" />
+  <o id="661" en="Titlacauan Dismemberer" ja="ティトラカワン　ディスメンベラー" de="Titlacauan-Zerleger" fr="Démembreur de Titlacauan" />
+  <o id="662" en="Smok Defogger" ja="ズモク　ディフォッガー" de="Smok-Entnebler" fr="Désenfumeur de Smok" />
+  <o id="663" en="Amhuluk Inundater" ja="アムルック　イナンデーター" de="Amhuluk-Ertränker" fr="Noyeur d'Amhuluk" />
+  <o id="664" en="Pulverizer Dismantler" ja="パルバライザー　ディスマンテラー" de="Pulverizer-Deaktivierer" fr="Désarmeur de Pulverizer" />
+  <o id="665" en="Durinn Deceiver" ja="ドゥリン　ディシーバー" de="Durinn-Täuscher" fr="Dupeur de Durinn" />
+  <o id="666" en="Karkadann Exoculator" ja="カーカダン　エクスオキュレーター" de="Karkadann-Blender" fr="Aveugleur de Karkadann" />
+  <o id="667" en="Ulhuadshi Desiccator" ja="ウルハドシ　デシケーター" de="Ulhuadshi-Trockner" fr="Dessiccateur d'Ulhuadshi" />
+  <o id="668" en="Itzpapalotl Declawer" ja="イツパパロツル　ディクローアー" de="Itzpapalotl-Krallenzieher" fr="Arracheur de griffe d'Itzpapalotl" />
+  <o id="669" en="Sobek Mummifier" ja="ソベク　マミファイアー" de="Sobek-Mumifizierer" fr="Momifieur de Sobek" />
+  <o id="670" en="Cirein-croin Harpooner" ja="キレイン・キロイン　ハープーナー" de="Cirein-croin-Harpuner" fr="Harponneur de Cirein-croin" />
+  <o id="671" en="Bukhis Tetherer" ja="ブッキス　テザラー" de="Bukhis-Anleiner" fr="Atteleur de Bukhis" />
+  <o id="672" en="Sedna Tuskbreaker" ja="セドナ　タスクブレーカー" de="Sedna-Zahnbrecher" fr="Briseur de défense de Sedna" />
+  <o id="673" en="Cleaver Dismantler" ja="クリーバー　ディスマンテラー" de="Cleaver-Deaktivierer" fr="Désarmeur de Cleaver" />
+  <o id="674" en="Executioner Dismantler" ja="エクセキュショナー　ディスマンテラー" de="Executioner-Deaktivierer" fr="Désarmeur d'Executioner" />
+  <o id="675" en="Severer Dismantler" ja="セバラー　ディスマンテラー" de="Severer-Deaktivierer" fr="Désarmeur de Severer" />
+  <o id="676" en="Lusca Debunker" ja="ルスカ　ディバンカー" de="Lusca-Entlarver" fr="Discréditeur de Lusca" />
+  <o id="677" en="Tristitia Deliverer" ja="トリスティシア　デリバラー" de="Tristitia-Befreier" fr="Apaiseur de Tristitia" />
+  <o id="678" en="Ketea Beacher" ja="ケテア　ビーチャー" de="Ketea-Strander" fr="Ensableur de Ketea" />
+  <o id="679" en="Rani Decrowner" ja="ラーニー　デクラウナー" de="Rani-Entkroner" fr="Découronneur de Rani" />
+  <o id="680" en="Orthrus Decapitator" ja="オルトロス　デカピテーター" de="Orthrus-Enthaupter" fr="Décapiteur d'Orthrus" />
+  <o id="681" en="Dragua Slayer" ja="ドラグア　スレイヤー" de="Dragua-Schlächter" fr="Pourfendeur de Dragua" />
+  <o id="682" en="Bennu Deplumer" ja="ベンヌ　デプルーマー" de="Bennu-Rupfer" fr="Plumeur de Bennu" />
+  <o id="683" en="Hedjedjet Destinger" ja="ヘデデット　デスティンガー" de="Hedjedjet-Entstachler" fr="Arracheur de dard de Hedjedjet" />
+  <o id="684" en="Cuijatender Desiccator" ja="クイジャテンダー　デシケイター" de="Cuijatender-Austrockner" fr="Dessiccateur de Cuijatender" />
+  <o id="685" en="Brulo Extinguisher" ja="ブルーロ　エクスティングイシャー" de="Brulo-Auslöscher" fr="Extincteur de Brulo" />
+  <o id="686" en="Pantokrator Disprover" ja="パントクラトル　ディスプルーバー" de="Pantokrator-Widerleger" fr="Réfutateur de Pantokrator" />
+  <o id="687" en="Apademak Annihilator" ja="アペデマク　アナイアレーター" de="Apademak-Annihilator" fr="Annihilateur d'Apademak" />
+  <o id="688" en="Isgebind Defroster" ja="イスゲビンド　デフロスター" de="Isgebind-Entfroster" fr="Décongeleur d'Isgebind" />
+  <o id="689" en="Resheph Eradicator" ja="レシェフ　エラディケイター" de="Resheph-Ausmerzer" fr="Eradicateur de Resheph" />
+  <o id="690" en="Empousa Expurgator" ja="エンプーサ　エクスパーゲイター" de="Empousa-Schrubber" fr="Expurgeur d'Empousa" />
+  <o id="691" en="Indrik Immolator" ja="インドリック　イモレイター" de="Indrik-Schlächter" fr="Immolateur d'Indrik" />
+  <o id="692" en="Ogopogo Overturner" ja="オゴポゴ　オウバーターナー" de="Ogopogo-Trockenleger" fr="Renverseur d'Ogopogo" />
+  <o id="693" en="Raja Regicide" ja="ラージャー　レジサイド" de="Raja-Königsmörder" fr="Régicide de Raja" />
+  <o id="694" en="Alfard Detoxifier" ja="アルファルド　デトックシファイアー" de="Alfard-Entgifter" fr="Désintoxicateur d'Alfard" />
+  <o id="695" en="Azdaja Abolisher" ja="アジュダヤ　アボリシャー" de="Azdaja-Stürzer" fr="Abolisseur d'Azdaja" />
+  <o id="696" en="Amphitrite Shucker" ja="アムピトリーテー　シャッカー" de="Amphitrite-Enthülser" fr="Décoquilleur d'Amphitrite" />
+  <o id="697" en="Fuath Purifier" ja="フーア　ピュリファイアー" de="Fuath-Läuterer" fr="Purificateur de Fuath" />
+  <o id="698" en="Killakriq Excoriator" ja="キラクリック　エクスコリエイター" de="Killakriq-Wundschürfer" fr="Condamnateur de Killakriq" />
+  <o id="699" en="Maere Bestirrer" ja="メーア　ベスターラー" de="Maere-Schieber" fr="Adjurateur de Maere" />
+  <o id="700" en="Wyrm God Defier" ja="神竜を葬りし者" de="Befreier des Abyssus" fr="Triomphateur de Shinryu" />
+  <o id="701" en="Hahava Condemner" ja="ハハヴァ　コンデンマー" de="Hahava-Verdammer" fr="Condamnateur de Hahava" />
+  <o id="702" en="Celaeno Silencer" ja="セラエノ　サイレンサー" de="Celaeno-Verstummer" fr="Cloueur de bec de Celaeno" />
+  <o id="703" en="Voidwrought Deconstructor" ja="ヴォイドロート　デコンストラクター" de="Voidwrought-Zerleger" fr="Démolisseur de Voidwrought" />
+  <o id="704" en="Devourer of Shadows" ja="デバウアー　オブ　シャドーズ" de="Vertilger der Schatten" fr="Dévoreur d'ombres" />
+  <o id="705" en="Kaggen Clobberer" ja="カッゲン　クロッバラー" de="Kaggen-Knüppler" fr="Tabasseur de Kaggen" />
+  <o id="706" en="Akvan Absterger" ja="アクヴァン　アブスタージャー" de="Akvan-Entschlacker" fr="Abstergeur d'Akvan" />
+  <o id="707" en="Pil Unfrocker" ja="フィル　アンフロッカー" de="Pil-Entfracker" fr="Défroqueur de Pil" />
+  <o id="708" en="Qilin Contravener" ja="チーリン　コントラビーナー" de="Qilin-Verstoßer" fr="Renieur de Qilin" />
+  <o id="709" en="Uptala Reprobator" ja="ウプタラ　レプロベーター" de="Uptala-Verdammer" fr="Réprouveur d'Uptala" />
+  <o id="710" en="Aello Abator" ja="アイエロ　アベイター" de="Aello-Dämpfer" fr="Abatteur d'Aello" />
+  <o id="711" en="Torchbearer of the 9th Walk" ja="第9ウォークのトーチベアラー" de="Fackelträger des neunten Ganges" fr="Porteur de la torche du neuvième promenoir" />
+  <o id="712" en="Torchbearer of the 10th Walk" ja="第10ウォークのトーチベアラー" de="Fackelträger des zehnten Ganges" fr="Porteur de la torche du dixième promenoir" />
+  <o id="713" en="Torchbearer of the 11th Walk" ja="第11ウォークのトーチベアラー" de="Fackelträger des elften Ganges" fr="Porteur de la torche du onzième promenoir" />
+  <o id="714" en="Nightmare Illuminator" ja="ナイトメア　イルミネーター" de="Nachtmahr-Illuminierer" fr="Illuminateur des cauchemars" />
+  <o id="715" en="Gaunab Gutter" ja="ガウナブ　ガッター" de="Gaunab-Röster" fr="Etripeur de Gaunab" />
+  <o id="716" en="Kalasutrax Cremator" ja="カラストラクス　クリーメーター" de="Kalasutrax-Kremator" fr="Crémateur de Kalasutrax" />
+  <o id="717" en="Ocythoe Overrider" ja="オシトエ　オバーライダー" de="Ocythoe-Überwinder" fr="Neutralisateur d'Ocythoe" />
+  <o id="718" en="Ig-Alima Inhumer" ja="イッグ・アリマ　インヒューマー" de="Ig-Alima-Beisetzer" fr="Inhumateur d'Ig-Alima" />
+  <o id="719" en="Botulus Rex Engorger" ja="ボチュルス・レックス　エンゴージャー" de="Botulus Rex-Verschlinger" fr="Avaleur de Botulus Rex" />
+  <o id="720" en="Torchbearer of the 12th Walk" ja="第12ウォークのトーチベアラー" de="Fackelträger des zwölften Ganges" fr="Porteur de la torche du douzième promenoir" />
+  <o id="721" en="Torchbearer of the 13th Walk" ja="第13ウォークのトーチベアラー" de="Fackelträger des dreizehnten Ganges" fr="Porteur de la torche du treizième promenoir" />
+  <o id="722" en="Torchbearer of the 14th Walk" ja="第14ウォークのトーチベアラー" de="Fackelträger des vierzehnten Ganges" fr="Porteur de la torche du quatorzième promenoir" />
+  <o id="723" en="Torchbearer of the 15th Walk" ja="第15ウォークのトーチベアラー" de="Fackelträger des fünfzehnten Ganges" fr="Porteur de la torche du quinzième promenoir" />
+  <o id="724" en="Delver of the Depths" ja="未踏領域を踏破せし者" de="Durchquerer unerforschter Lande" fr="Grand explorateur impérial" />
+  <o id="725" en="Subjugator of the Lofty" ja="ロフティレギオン　サブジュゲーター" de="Himmelsstürmer" fr="Dominateur de la chambre du ciel" />
+  <o id="726" en="Subjugator of the Mired" ja="マイアーレギオン　サブジュゲーター" de="Erdenstürmer" fr="Dominateur de la chambre de la terre" />
+  <o id="727" en="Subjugator of the Soaring" ja="ソアリングレギオン　サブジュゲーター" de="Luftstürmer" fr="Dominateur de la chambre du vent" />
+  <o id="728" en="Subjugator of the Veiled" ja="ベールレギオン　サブジュゲーター" de="Wolkenstürmer" fr="Dominateur de la chambre des nuages" />
+  <o id="729" en="Legendary Legionnaire" ja="パラマウントレギオン　サブジュゲーター" de="Kosmosstürmer" fr="Dominateur de la chambre du firmament" />
+  <o id="730" en="Witness to Provenance" ja="原初の輝きに触れし者" de="Vom ersten Licht Berührter" fr="Contemplateur de la Provenance" />
+  <o id="731" en="Bismarck Flenser" ja="ビスマルク　フレンサー" de="Bismarck-Flenser" fr="Dépeceur de Bismarck" />
+  <o id="732" en="Morta Extirpator" ja="モルタ　エクスターペイター" de="Morta-Jäter" fr="Extirpateur de Morta" />
+  <o id="733" en="Unsung Heroine" ja="アンサングヒロイン" de="Unbesungener Held" fr="Héroïne oubliée" />
+  <o id="734" en="Epic Heroine" ja="エピックヒロイン" de="Gefeierter Held" fr="Héroïne célébrée" />
+  <o id="735" en="Epic Einherjar" ja="エインヘリヤルエピック" de="Epischer Einheriar" fr="Einherjar épique" />
+  <o id="736" en="Mender of Wings" ja="翼を抱きし者" de="Reminiszenzen-Wächter" fr="Porteur d'aile de la Déesse" />
+  <o id="737" en="Champion of the Dawn" ja="アルタナの神兵" de="Flügel der Göttin" fr="Guerrier de la Déesse" />
+  <o id="738" en="Bushin Aspirant" ja="武神の門出に立つ者" de="Mit 99 Leveln, da fängt das Leben an" fr="Aspirant au Bushin" />
+  <o id="739" en="Bushin-Ryu Inheritor" ja="武神流免許皆伝" de="Wanderer auf dem Weg des Bushin" fr="Combattant indomptable" />
+  <o id="740" en="Temenos Emancipator" ja="テメナスエマンシペーター" de="Temenos-Erlöser" fr="Emancipateur de Temenos" />
+  <o id="741" en="Apollyon Razer" ja="アポリオンレイザー" de="Apollyon-Auslöscher" fr="Dévastateur d'Apollyon" />
+  <o id="742" en="Goldwing Squasher" ja="ゴールドウィング　スクァッシャー" de="Goldwing-Zerquetscher" fr="Ecraseur de Goldwing" />
+  <o id="743" en="Silagilith Detonator" ja="サイレジャリス　デトネーター" de="Silagilith-Sprenger" fr="Dynamiteur de Silagilith" />
+  <o id="744" en="Surtr Smotherer" ja="スルト　スマザラー" de="Surtr-Besänftiger" fr="Etouffeur de Surtr" />
+  <o id="745" en="Dreyruk Predominator" ja="ドレールック　プレドミネーター" de="Dreyruk-Dompteur" fr="Prédominateur de Dreyruk" />
+  <o id="746" en="Samursk Vitiator" ja="サムルスク　ビティエター" de="Samursk-Vernichter" fr="Viciateur de Samursk" />
+  <o id="747" en="Umagrhk Manemangler" ja="ウマゲルク　メーンマングラー" de="Umagrhk-Torero" fr="Piétineur de crinière d'Umagrhk" />
+  <o id="748" en="Supernal Savant" ja="スパーナルサバント" de="Astronom" fr="Savant supernel" />
+  <o id="749" en="Solar Sage" ja="ソーラーセージ" de="Sonnenweiser" fr="Sage solaire" />
+  <o id="750" en="Bolide Baron" ja="ボライドバロン" de="Bolidbaron" fr="Baron des bolides" />
+  <o id="751" en="Moon Maven" ja="ムーンメ―ヴェン" de="Mondgelehrter" fr="Expert lunaire" />
+  <o id="752" en="Izyx Vexer" ja="イジックス　ヴェックサー" de="Izyx-Irritator" fr="Perturbateur d'Izyx" />
+  <o id="753" en="Grannus Garroter" ja="グランナス　ガロッター" de="Grannus-Garotteur" fr="Garrotteur de Grannus" />
+  <o id="754" en="Svaha Striker" ja="スヴァッハ　ストライカー" de="Svaha-Isolator" fr="Cogneur de Svaha" />
+  <o id="755" en="Melisseus Domesticator" ja="メリシアス　ドメステケイター" de="Melisseus-Domestizierer" fr="Apprivoiseur de Melisseus" />
+  <o id="756" en="Waterway Exemplar" ja="ウォーターウェー　エグゼンプラー" de="Aquädukt-Aushängeschild" fr="Marmouset des voies d'eau" />
+  <o id="757" en="Cavern Exemplar" ja="カーヴァン　エグゼンプラー" de="Höhlen-Heroe" fr="Marmouset des cavernes" />
+  <o id="758" en="Muyingwa Wingcrusher" ja="ムイングワ　ウイングクラッシャー" de="Muyingwa-Flügelstutzer" fr="Pesticide de Muyingwa" />
+  <o id="759" en="Dakuwaqa Trawler" ja="ダクワカ　トローラー" de="Dakuwaqa-Drescher" fr="Chalutier de Dakuwaqa" />
+  <o id="760" en="Tojil Douser" ja="トヒル　ダウザー" de="Tojil-Ausknipser" fr="Arroseur de Tojil" />
+  <o id="761" en="Colkhab Dethroner" ja="コルカブ　デスローナー" de="Colkhab-Entthroner" fr="Ecrabouilleur de Colkhab" />
+  <o id="762" en="Achuka Glaciator" ja="アチュカ　グレイシエイター" de="Achuka-Brandmeister" fr="Extincteur d'Achuka" />
+  <o id="763" en="Tchakka Desiccator" ja="チャッカ　デシケイター" de="Tchakka-Fliegenfischer" fr="Pourfendeur de Tchakka" />
+  <o id="764" en="Weald Exemplar" ja="ウィールド　エグゼンプラー" de="Naturforscher" fr="Marmouset des forêts" />
+  <o id="765" en="Hurkan Birdlimeist" ja="フルカン　バードライミスト" de="Hurkan-Flügelstutzer" fr="Bagueur de Hurkan" />
+  <o id="766" en="Yumcax Logger" ja="ユムカクス　ローガー" de="Yumcax-Fäller" fr="Bûcheron de Yumcax" />
+  <o id="767" en="Colkhab Hivecrusher" ja="コルカブ　ハイヴクラッシャー" de="Colkhab-Schwarmzerstörer" fr="Ecraseur de ruche de Colkhab" />
+  <o id="768" en="Achuka Coagulator" ja="アチュカ　コアギュレイター" de="Achuka-Koagulans" fr="Coagulateur d'Achuka" />
+  <o id="769" en="Tchakka Filleter" ja="チャッカ　フィレーヤー" de="Tchakka-Filetierer" fr="Déchiqueteur de Tchakka" />
+  <o id="770" en="Rabbit Tussler" ja="ラビット　タッスラー" de="Rabbit-Raufbold" fr="Ennemi des lapins" />
+  <o id="771" en="Helminth Mincer" ja="ヘルミンス　ミンサー" de="Darmwurm-Häcksler" fr="Eminceur de vers" />
+  <o id="772" en="Mandragardener" ja="マンドラ　ガーデナー" de="Mandra-Gärtner" fr="Jardinier des mandragoras" />
+  <o id="773" en="Moppet Massacrer" ja="モペット　マサカーラー" de="Moppet-Massakrierer" fr="Massacreur de poupées" />
+  <o id="774" en="Rip-roaring Limbrender" ja="ローリング　リムレンダー" de="Knochenberster" fr="Démembreur rugissant" />
+  <o id="775" en="Shell Shocker" ja="シェル　ショッカー" de="Shell-Spalter" fr="Dynamiteur de carapace" />
+  <o id="776" en="Yagudo Coopkeeper" ja="ヤグード　クップキーパー" de="Yagudo-Nesttrampler" fr="Gardien de poulailler" />
+  <o id="777" en="Gigasplosion Expert" ja="ギガスプロード　エキスパート" de="Giga-Sprengexperte" fr="Expert en gigasplosion" />
+  <o id="778" en="Brother-in-arms" ja="ブラザーインアームズ" de="Kampfgefährte" fr="Frère d'armes" />
+  <o id="779" en="Antica Hunter" ja="アンティカ　ハンター" de="Antica-Jäger" fr="Chasseur d'Anticas" />
+  <o id="780" en="Amphibian Adulterator" ja="アンフィ　アダルタレイター" de="Amphibien-Adulterator" fr="Décimeur d'amphibiens" />
+  <o id="781" en="Tonberry Toppler" ja="トンベリ　トップラー" de="Tonberry-Tackler" fr="Tombeur de Tonberry" />
+  <o id="782" en="Bloodline Corrupter" ja="ブラッドライン　コラプター" de="Blutlinien-Korrumpierer" fr="Corrupteur de lignée" />
+  <o id="783" en="Kumhau Roaster" ja="クムハウ　ロースター" de="Kumhau-Röster" fr="Rôtisseur de Kumhau" />
+  <o id="784" en="Brilliance Manifest" ja="ブリリアンス　マニフェスト" de="m" fr="M" />
+  <o id="785" en="Quieter of Ancient Thoughts" ja="エンシェントソート　クワイエター" de="Verstummer antiker Gedanken" fr="Effaceur d'anciennes pensées" />
+  <o id="786" en="Ark Hume Humiliator" ja="アークヒューム　ヒューミリアター" de="Ark Angel Hume-Vernichter" fr="Insulteur d'Ark Hume" />
+  <o id="787" en="Ark Elvaan Eviscerator" ja="アークエルヴァーン　エビサレイター" de="Ark Angel Elvaan-Erniedriger" fr="Eviscérateur d'Ark Elvaan" />
+  <o id="788" en="Ark Mithra Maligner" ja="アークミスラ　マライナー" de="Ark Angel Mithra-Bezwinger" fr="Calomniateur d'Ark Mithra" />
+  <o id="789" en="Ark Tarutaru Trouncer" ja="アークタルタル　トラウンサー" de="Ark Angel Tarutaru-Drangsalierer" fr="Etrilleur d'Ark Tarutaru" />
+  <o id="790" en="Ark Galka Gouger" ja="アークガルカ　ガウジャー" de="Ark Angel Galka-Triumphator" fr="Escroqueur d'Ark Galka" />
+  <o id="791" en="Pentarch Pacifier" ja="ペンターク　パシファイアー" de="Pentark-Peiniger" fr="Pacificateur de pentarchie" />
+  <o id="792" en="Dream Distiller" ja="ドリーム　デスティラー" de="Traum-Destillateur" fr="Distilleur de rêves" />
+  <o id="793" en="Ra'Kaznar Exemplar" ja="ラ・カザナル　エグゼンプラー" de="Ra’Kaznar-Recke" fr="Exemplaire de Ra'Kaznar" />
+  <o id="794" en="Utkux Peltburner" ja="アットクックス　ペルトバーナー" de="Utkux-Pelzverbrenner" fr="Brûleur de pelage d'Utkux" />
+  <o id="795" en="Cailimh Plumageplucker" ja="カイルイム　プルメッジプラッカー" de="Cailimh-Rupfer" fr="Déplumeur de Cailimh" />
+  <o id="796" en="Wopket Trunksplitter" ja="ウォップケット　トランクスプリッター" de="Wopket-Stammspalter" fr="Fendeur de tronc de Wopket" />
+  <o id="797" en="Ouryu Obfuscator" ja="オウリュウ　オブフスケイター" de="Ouryu-Obsieger" fr="Dérouteur d'Ouryu" />
+  <o id="798" en="Unwavering Blaze" ja="アンウェーヴ　ブレイズ" de="Standhafte Flamme" fr="Flamme éternelle" />
+  <o id="799" en="Lancelord Divester" ja="ランスロード　ディベスター" de="Lancelord-Entblößer" fr="Dépouilleur de Gaheel Ja" />
+  <o id="800" en="Gessho Pinioner" ja="ゲッショー　ピニオナー" de="Gessho-Flügelstutzer" fr="Déplumeur de Gessho" />
+  <o id="801" en="Sin Purger" ja="シン　パージャー" de="m" fr="M" />
+  <o id="836" en="Geodancer" ja="見習い風水士" de="Stolzer Luopan-Besitzer" fr="Timide géomancien" />
+  <o id="837" en="Runic Engraver" ja="ルーンを刻みし者" de="Runenfechter-Novize" fr="Tatoué runique" />
+  <o id="838" en="Apprentice Tarutaru Sauce Manager" ja="タルタル★ソース・マネージャー見習い" de="Manager wider Willen" fr="Apprenti impresario des Sauce★tarutaru" />
+  <o id="839" en="Vegetable Revolutionary" ja="ベジタブルレボリューションヘルパー" de="Rübenrevoluzzer" fr="Contributeur de la révolution légumière" />
+  <o id="840" en="Friend to Gluttons" ja="食いしん坊の友" de="Geduldiger Proviantmeister" fr="Ami des gourmands" />
+  <o id="841" en="Waypoint Warrior" ja="シャルルのお気に入り" de="Sharurus bester Freund" fr="Favori de Sharuru" />
+  <o id="842" en="Ulbukan Stalwart" ja="混沌への抵抗者" de="Familientherapeut" fr="Rassureur de famille paranoïaque" />
+  <o id="843" en="Toxin Tussler" ja="どくどくざえもん" de="Freischwimmer" fr="Maître-nageur de la Zoldeff" />
+  <o id="844" en="Spiritual★Star" ja="万象の★地星" de="Ganzheitlicher★Stern" fr="Etoile★universelle" />
+  <o id="845" en="Stippling★Star" ja="刻印の★剣星" de="Gezeichneter★Stern" fr="Etoile★gravée" />
+  <o id="846" en="Geomancipator" ja="自然の理解者" de="Naturversteher" fr="Amoureux de la nature" />
+  <o id="847" en="Trialed-and-True Runeist" ja="理の執行者" de="Vernunft-Vollstrecker" fr="Clairvoyant avisé" />
+  <o id="848" en="Queen's Confidante" ja="女王の信頼を得し者" de="Vertrauter der Königin" fr="Bras droit de la reine" />
+  <o id="849" en="Princess's Partisan" ja="若姫さまの守り手" de="Beschützer der Prinzessin" fr="Protecteur de la princesse" />
+  <o id="850" en="Potation Pathfinder" ja="ドリンクエクスプローラー" de="Flaschenkind" fr="Spécialiste des boissons" />
+  <o id="851" en="Storied Geomancer" ja="深淵なる大風水士" de="Grandioser Geomant" fr="Grand géomancien des abysses" />
+  <o id="852" en="Ultimate Runeist" ja="灼然なる大魔導剣士" de="Wundervoller Runenfechter" fr="Grand épéiste flamboyant" />
+  <o id="853" en="Mog Garden Seedling" ja="モグガーデンのタマゴ" de="Ein Ei im Mog-Garten" fr="Petite graine des Jardins Mog" />
+  <o id="854" en="Kit Empathizer" ja="にぅにぅオーナー" de="Ein Herz für Kätzchen" fr="Pro de l'empathie" />
+  <o id="855" en="Jingly Dangler" ja="ちゃりちゃりオーナー" de="Ein Herz für Langnasen" fr="Pro de la corde" />
+  <o id="856" en="Mole Manipulator" ja="アニキのオーナー" de="Ein Herz für Maulwürfe" fr="Maître des taupes" />
+  <o id="857" en="Agrarian Novice" ja="農耕初心者" de="Unkundiger Bauer" fr="Agriculteur débutant" />
+  <o id="858" en="Agrarian Initiate" ja="農耕中級者" de="Beschlagener Bauer" fr="Agriculteur confirmé" />
+  <o id="859" en="Agrarian Professional" ja="農耕上級者" de="Hingebungsvoller Landwirt" fr="Agriculteur professionnel" />
+  <o id="860" en="Agrarian Virtuoso" ja="農耕の達人" de="Sachkundiger Landwirt" fr="Agriculteur expert" />
+  <o id="861" en="Agrarian Tutelar" ja="農耕の超人" de="Agronom" fr="Maître agriculteur" />
+  <o id="862" en="Weed Praetor" ja="草木の守り手" de="Wächter der Gräser" fr="Sauveur de la verdure" />
+  <o id="863" en="Tree Praetor" ja="樹木の守り手" de="Wächter der Bäume" fr="Sauveur des arbres" />
+  <o id="864" en="Thicket Praetor" ja="林の守り手" de="Wächter des Forsts" fr="Sauveur des bois" />
+  <o id="865" en="Forest Praetor" ja="森の守り手" de="Wächter des Waldes" fr="Sauveur de la forêt" />
+  <o id="866" en="Jungle Praetor" ja="ジャングルの守り手" de="Wächter des Dschungels" fr="Sauveur de la jungle" />
+  <o id="867" en="Copper Mattock" ja="カッパーマトック" de="Kupfernes Haueisen" fr="Pioche de cuivre" />
+  <o id="868" en="Silver Mattock" ja="シルバーマトック" de="Silbernes Haueisen" fr="Pioche d'argent" />
+  <o id="869" en="Mythril Mattock" ja="ミスリルマトック" de="Mithril-Haueisen" fr="Pioche de mithril" />
+  <o id="870" en="Gold Mattock" ja="ゴールドマトック" de="Goldenes Haueisen" fr="Pioche d'or" />
+  <o id="871" en="Adamanttock" ja="アダマンマトック" de="Adamantium-Haueisen" fr="Pioche d'adamantium" />
+  <o id="872" en="Puddle Patron" ja="水溜まり師匠" de="Pfützenmeister" fr="Expert en points d'eau" />
+  <o id="873" en="Swamp Savant" ja="沼師匠" de="Tümpelmeister" fr="Expert en marais" />
+  <o id="874" en="Pond Preceptor" ja="池師匠" de="Teichmeister" fr="Précepteur pour étangs" />
+  <o id="875" en="River Regent" ja="渓流師匠" de="Seemeister" fr="Régent des rivières" />
+  <o id="876" en="Monke-Onke Master" ja="モンケオンケ師匠" de="Monke-Onke-Meister" fr="Maître des monke-onkes" />
+  <o id="877" en="Sardineophyte" ja="サーディンちゃん" de="Sardinchen" fr="Sardinéophyte" />
+  <o id="878" en="Calamareeler" ja="カラマリちゃん" de="Mini-Kalmar" fr="Pêcheur de calmars" />
+  <o id="879" en="Octopotentate" ja="オクトパちゃん" de="Mini-Oktopus" fr="Maître des pieuvres" />
+  <o id="880" en="Giant Squimperator" ja="スキッドちゃん" de="Tintenfischlein" fr="Empereur des calmars" />
+  <o id="881" en="Leviauthority" ja="リヴァイアちゃん" de="Leviathanchen" fr="Autorité des colosses" />
+  <o id="882" en="Novice Nurseryman" ja="園丁" de="Hobbygärtner" fr="Pépiniériste amateur" />
+  <o id="883" en="Lesser Landscaper" ja="主任庭師" de="Erfahrener Gärtner" fr="Paysagiste inférieur" />
+  <o id="884" en="Greater Gardener" ja="上級庭師" de="Gartenprofi" fr="Jardinier de renom" />
+  <o id="885" en="Honored Horticulturist" ja="宮廷庭師" de="Königlicher Gärtner" fr="Horticulteur célèbre" />
+  <o id="886" en="Mog Gardener" ja="モグガーデナー" de="Mog-Gärtner" fr="Jardinier Mog" />
+  <o id="887" en="Brygidesque Manager" ja="ブリジッド系マネージャー見習い" de="Manager in Ausbildung" fr="Apprenti manager chez Brygid" />
+  <o id="888" en="Vegetable Evolutionary" ja="ベジタブルエボリューションヘルパー" de="Rübenevoluzzer" fr="Visionnaire ès légumes" />
+  <o id="889" en="Blade Enthusiast" ja="魔導マニア" de="Runenfetischist" fr="Epéiste fanatique" />
+  <o id="890" en="Runic Emissary" ja="ルーン宅配人" de="Runenlieferant" fr="Livreur de runes" />
+  <o id="891" en="Maester of Maddening" ja="焦らしマイスター" de="Brennender Meister" fr="Maître provocateur" />
+  <o id="892" en="Sunshine Cadet" ja="雲飛ばす東風" de="Wolkenvertreiber" fr="Porteur d'espoir venu de l'Est" />
+  <o id="893" en="Quartet Captivator" ja="クワッどコア" de="Mog-Garten-Animateur" fr="Animateur de Jardin Mog" />
+  <o id="894" en="The Trustworthy" ja="信頼・親愛・友情を抱く者" de="Vertrauensschöpfer" fr="Meilleur ami" />
+  <o id="895" en="The Lovelorn" ja="ラブラブウォッチャー" de="Amors Gehilfe" fr="Voyeur de tourtereaux" />
+  <o id="896" en="Inventor Extraordinaire" ja="INV.ワークスツカイッパー" de="Erfinderzunft-Briefträger" fr="Coursier des Ingénieurs" />
+  <o id="897" en="Boomy and Busty" ja="お遊戯王" de="Zocker-König" fr="Joueur dans l'âme" />
+  <o id="898" en="Weatherer of Brumal Climes" ja="絶零の開拓者" de="Blitzfrostiger Pionier" fr="Diplomate des glaces" />
+  <o id="899" en="White Knight" ja="姫を救いし勇者" de="Prinzessinnen-Retter" fr="Héros de Sa Majesté" />
+  <o id="900" en="Light of Dawn" ja="大いなる暁の継承者" de="Erbe der Morgendämmerung" fr="Héritier de la grande aube" />
+  <o id="901" en="Observer of Fateful Cubes" ja="一天地六の観測者" de="Würfelexperte" fr="Jeteur de dés" />
+  <o id="902" en="Knower of Untruths" ja="無知なる知者" de="Unwissender Weise" fr="Renvoyé à ses études" />
+  <o id="903" en="Ulbukan Understudy" ja="ウルブカの守護者見習い" de="Angehender Ulbuka-Beschützer" fr="Apprenti gardien d'Ulbuka" />
+  <o id="904" en="Keeper of Ulbuka" ja="ウルブカの守護者" de="Ulbuka-Beschützer" fr="Gardien d'Ulbuka" />
+  <o id="905" en="Radiance of Daybreak" ja="暁の光" de="Licht der Morgendämmerung" fr="Lumière de l'aube" />
+  <o id="906" en="Wibbly Wobbly Woozy Warrior" ja="あばばばヒーラー" de="Moogle-Ruhestifter" fr="Guérisseur de tous les états" />
+  <o id="908" en="Prospective Pamperer" ja="初級なでなで士" />
+  <o id="909" en="Novice Nuzzler" ja="下級なでなで士" />
+  <o id="910" en="Serious Snuggler" ja="上級なでなで士" />
+  <o id="911" en="Cultivated Coddler" ja="特級なでなで士" />
+  <o id="912" en="Respected Ruffler" ja="なでなで魔神" />
+  <o id="913" en="Dung Disseminator" ja="生き物係" />
+  <o id="914" en="Fauna Feeder" ja="牧童" />
+  <o id="915" en="Confident Caretaker" ja="牧人" />
+  <o id="916" en="Glorious Groomer" ja="牧場主" />
+  <o id="917" en="Transcendental Tamer" ja="牧畜マスター" />
+  <o id="918" en="Bond-building Breeder" ja="心つながるモンスター" />
+  <o id="919" en="Clumsy Cleaver" ja="解剖学生" />
+  <o id="920" en="Disciplined Dissector" ja="解剖術士" />
+  <o id="921" en="Established Examiner" ja="解剖マスター" />
+  <o id="922" en="Sublime Slicer" ja="命をかける飼育士" />
 </titles>

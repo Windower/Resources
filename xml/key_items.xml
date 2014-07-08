@@ -417,17 +417,17 @@
   <o id="415" en="map of the Li'Telor region" ja="リ・テロア地方地図" de="Karte� des Kuzotz-Gebiets" fr="carte des Jardins de Ru'Aun" category="Magical Maps" />
   <o id="416" en="map of the Ru'Aun Gardens" ja="ル・オンの庭地図" de="Karte� des Li'Telor-Gebiets" fr="carte de Norg" category="Magical Maps" />
   <o id="417" en="map of Norg" ja="ノーグ地図" de="Karte� der Ru'Aun-Gärten" fr="carte du Temple de Uggalepih" category="Magical Maps" />
-  <o id="418" en="map of the Temple of Uggalepih" ja="ウガレピ寺院地図" de="Karte� von Norg" fr="carte de la Tanière de la rancœur" category="Magical Maps" />
+  <o id="418" en="map of Temple of Uggalepih" ja="ウガレピ寺院地図" de="Karte� von Norg" fr="carte de la Tanière de la rancœur" category="Magical Maps" />
   <o id="419" en="map of the Den of Rancor" ja="怨念洞地図" de="Karte� des Uggalepih-Tempels" fr="carte du Tunnel de Korroloka" category="Magical Maps" />
   <o id="420" en="map of the Korroloka Tunnel" ja="コロロカの洞門地図" de="Karte� der Höhle des Hasses" fr="carte du Tunnel de Kuftal" category="Magical Maps" />
   <o id="421" en="map of the Kuftal Tunnel" ja="クフタルの洞門地図" de="Karte� des Korroloka-Tunnels" fr="carte de l'Arbre de Boyahda" category="Magical Maps" />
   <o id="422" en="map of the Boyahda Tree" ja="ボヤーダ樹地図" de="Karte� des Kuftal-Tunnels" fr="carte du Palais de Ve'Lugannon" category="Magical Maps" />
-  <o id="423" en="map of the Ve'Lugannon Palace" ja="ヴェ・ルガノン宮殿地図" de="Karte� des Boyahda-Baums" fr="carte du Chaudron d'Ifrit" category="Magical Maps" />
+  <o id="423" en="map of Ve'Lugannon Palace" ja="ヴェ・ルガノン宮殿地図" de="Karte� des Boyahda-Baums" fr="carte du Chaudron d'Ifrit" category="Magical Maps" />
   <o id="424" en="map of Ifrit's Cauldron" ja="イフリートの釜地図" de="Karte� des Ve'Lugannon-Palasts" fr="carte des Caves des sables mouv." category="Magical Maps" />
   <o id="425" en="map of the Quicksand Caves" ja="流砂洞地図" de="Karte� des Ifrit-Kessels" fr="carte de la Gr. du serpent de mer" category="Magical Maps" />
-  <o id="426" en="map of the Sea Serpent Grotto" ja="海蛇の岩窟地図" de="Karte� der Treibsand-Höhlen" fr="carte de la région de Vollbow" category="Magical Maps" />
+  <o id="426" en="map of Sea Serpent Grotto" ja="海蛇の岩窟地図" de="Karte� der Treibsand-Höhlen" fr="carte de la région de Vollbow" category="Magical Maps" />
   <o id="427" en="map of the Vollbow region" ja="ヴォルボー地方地図" de="Karte� der Seeschlangen-Grotte" fr="carte du Labyrinthe d'Onzozo" category="Magical Maps" />
-  <o id="428" en="map of the Labyrinth of Onzozo" ja="オンゾゾの迷路地図" de="Karte� des Vollbow-Gebiets" fr="carte de la Jetée des charpentiers" category="Magical Maps" />
+  <o id="428" en="map of Labyrinth of Onzozo" ja="オンゾゾの迷路地図" de="Karte� des Vollbow-Gebiets" fr="carte de la Jetée des charpentiers" category="Magical Maps" />
   <o id="429" en="map of Carpenters' Landing" ja="ギルド桟橋地図" de="Karte� des Labyrinths von Onzozo" fr="carte de la Baie de Bibiki" category="Magical Maps" />
   <o id="430" en="map of Bibiki Bay" ja="ビビキー湾地図" de="Karte� der Zimmerer-Anlegestelle" fr="carte de la Chaîne d'Uleguerand" category="Magical Maps" />
   <o id="431" en="map of the Uleguerand Range" ja="ウルガラン山脈地図" de="Karte� der Bibiki-Bucht" fr="carte du Gouffre d'Attohwa" category="Magical Maps" />
@@ -2485,5 +2485,5 @@
   <o id="2592" en="piece of a SCT Coalition report" ja="スカウトワークス日報の切れ端" de="Pergamentfetzen� „Kundschafterbericht“" fr="note cryptique" category="Temporary Key Items" />
   <o id="2593" en="cryptic memorandum" ja="なぞの記述が浮き出たメモ" de="rätselhaft� Notiz�" fr="note des Voies d'eau de Rala" category="Temporary Key Items" />
   <o id="2594" en="memo found in Rala Waterways" ja="ララ水道の不思議メモ" de="seltsam� Notiz� aus dem Rala-Aquädukt" fr="- Possessions temporaires" category="Temporary Key Items" />
-  <o id="2595" en="??? phantom gem" ja="ファントムクォーツ【？？】" de="Geheimnis-Phantomquarz�" fr="coupon de cuivre (A.M.A.N.)" category="Temporary Key Items" />
+  <o id="2595" en="Head Wind phantom gem" ja="ファントムクォーツ【罪狩】" de="Geheimnis-Phantomquarz�" fr="coupon de cuivre (A.M.A.N.)" category="Temporary Key Items" />
 </key_items>

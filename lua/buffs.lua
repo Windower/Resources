@@ -566,6 +566,7 @@ return {
     [578] = {id=578,en="Fishy Intuition",ja="釣り師のセンス",de="Angelsinn",fr="Instinct de pêcheur",enl="Fishy Intuition",jal="釣り師のセンス",del="Angelsinn",frl="Instinct de pêcheur"},
     [579] = {id=579,en="Commitment",ja="一心",de="Entschlossenheit",fr="Application",enl="Commitment",jal="一心",del="Entschlossenheit",frl="Application"},
     [580] = {id=580,en="Haste",ja="ヘイスト",de=".",fr="Hâte",enl="hastened",jal="ヘイスト",del=".",frl="Hâte"},
+    [581] = {id=581,en="Flurry",ja="スナップ",de=".",fr=".",enl="Flurry",jal="スナップ",del=".",frl="."},
 }, {"id", "en", "ja", "de", "fr", "enl", "jal", "del", "frl", "duration"}
 
 --[[
