@@ -1,15 +1,15 @@
 -- Automatically generated file: Days
 
 return {
-    [0] = {id=0,en="Firesday",ja="火",de="Feuertag",fr="Jour du feu",element=0},
-    [1] = {id=1,en="Earthsday",ja="土",de="Erdentag",fr="Jour de la terre",element=3},
-    [2] = {id=2,en="Watersday",ja="水",de="Wassertag",fr="Jour de l'eau",element=5},
-    [3] = {id=3,en="Windsday",ja="風",de="Windtag",fr="Jour du vent",element=2},
-    [4] = {id=4,en="Iceday",ja="氷",de="Eistag",fr="Jour de la glace",element=1},
-    [5] = {id=5,en="Lightningsday",ja="雷",de="Blitztag",fr="Jour de la foudre",element=4},
-    [6] = {id=6,en="Lightsday",ja="光",de="Lichttag",fr="Jour de la lumière",element=6},
-    [7] = {id=7,en="Darksday",ja="闇",de="Dunkeltag",fr="Jour des ténèbres",element=7},
-}, {"id", "en", "ja", "de", "fr", "element"}
+    [0] = {id=0,en="Firesday",ja="火",element=0},
+    [1] = {id=1,en="Earthsday",ja="土",element=3},
+    [2] = {id=2,en="Watersday",ja="水",element=5},
+    [3] = {id=3,en="Windsday",ja="風",element=2},
+    [4] = {id=4,en="Iceday",ja="氷",element=1},
+    [5] = {id=5,en="Lightningsday",ja="雷",element=4},
+    [6] = {id=6,en="Lightsday",ja="光",element=6},
+    [7] = {id=7,en="Darksday",ja="闇",element=7},
+}, {"id", "en", "ja", "element"}
 
 --[[
 Copyright © 2013-2014, Windower

@@ -1,809 +1,809 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <spell_recasts>
-  <o id="1" recast="20" en="Cure" ja="ケアル" de="Heilen" fr="Soin" />
-  <o id="2" recast="22" en="Cure II" ja="ケアルII" de="Heilen II" fr="Soin II" />
-  <o id="3" recast="24" en="Cure III" ja="ケアルIII" de="Heilen III" fr="Soin III" />
-  <o id="4" recast="32" en="Cure IV" ja="ケアルIV" de="Heilen IV" fr="Soin IV" />
-  <o id="5" recast="40" en="Cure V" ja="ケアルV" de="Heilen V" fr="Soin V" />
-  <o id="6" recast="60" en="Cure VI" ja="ケアルVI" de="Heilen VI" fr="Soin VI" />
-  <o id="7" recast="40" en="Curaga" ja="ケアルガ" de="Heilga" fr="OmniSoin" />
-  <o id="8" recast="41" en="Curaga II" ja="ケアルガII" de="Heilga II" fr="OmniSoin II" />
-  <o id="9" recast="42" en="Curaga III" ja="ケアルガIII" de="Heilga III" fr="OmniSoin III" />
-  <o id="10" recast="43" en="Curaga IV" ja="ケアルガIV" de="Heilga IV" fr="OmniSoin IV" />
-  <o id="11" recast="44" en="Curaga V" ja="ケアルガV" de="Heilga V" fr="OmniSoin V" />
-  <o id="12" recast="120" en="Cura" ja="ケアルラ" de="Vitra" fr="MultiSoin" />
-  <o id="13" recast="160" en="Cura II" ja="ケアルラII" de="Vitra II" fr="MultiSoin II" />
-  <o id="14" recast="200" en="Cura III" ja="ケアルラIII" de="Vitra III" fr="MultiSoin III" />
-  <o id="15" recast="240" en="Raise" ja="レイズ" de="Wiederbeleben" fr="Vie" />
-  <o id="16" recast="240" en="Raise II" ja="レイズII" de="Wiederbeleben II" fr="Vie II" />
-  <o id="17" recast="240" en="Raise III" ja="レイズIII" de="Wiederbeleben III" fr="Vie III" />
-  <o id="18" recast="224" en="Arise" ja="アレイズ" de="Erzengel" fr="Résurrection" />
-  <o id="19" recast="240" en="Reraise" ja="リレイズ" de="Wiederauferstehen" fr="Revie" />
-  <o id="20" recast="240" en="Reraise II" ja="リレイズII" de="Wiederauferst. II" fr="Revie II" />
-  <o id="21" recast="240" en="Reraise III" ja="リレイズIII" de="Wiederauferst. III" fr="Revie III" />
-  <o id="22" recast="20" en="Poisona" ja="ポイゾナ" de="Giftna" fr="CuraPoison" />
-  <o id="23" recast="20" en="Paralyna" ja="パラナ" de="Paralyna" fr="CuraParalysie" />
-  <o id="24" recast="40" en="Blindna" ja="ブライナ" de="Blindna" fr="CuraCécité" />
-  <o id="25" recast="20" en="Silena" ja="サイレナ" de="Schweigna" fr="CuraSilence" />
-  <o id="26" recast="20" en="Stona" ja="ストナ" de="Steina" fr="CuraPétrification" />
-  <o id="27" recast="20" en="Viruna" ja="ウィルナ" de="Viruna" fr="CuraVirus" />
-  <o id="28" recast="40" en="Cursna" ja="カーズナ" de="Fluchna" fr="CuraMaléfice" />
-  <o id="29" recast="120" en="Sacrifice" ja="サクリファイス" de="Aufopfern" fr="Sacrifice" />
-  <o id="30" recast="120" en="Esuna" ja="エスナ" de="Medica" fr="Guérison" />
-  <o id="35" recast="240" en="Holy" ja="ホーリー" de="Heilig" fr="Miracle" />
-  <o id="36" recast="240" en="Holy II" ja="ホーリーII" de="Heilig II" fr="Miracle II" />
-  <o id="37" recast="60" en="Banish" ja="バニシュ" de="Verbannen" fr="Bannissement" />
-  <o id="38" recast="120" en="Banish II" ja="バニシュII" de="Verbannen II" fr="Bannissement II" />
-  <o id="39" recast="180" en="Banish III" ja="バニシュIII" de="Verbannen III" fr="Bannissement III" />
-  <o id="40" recast="180" en="Banish IV" ja="バニシュIV" de="Verbannen IV" fr="Bannissement IV" />
-  <o id="41" recast="240" en="Banish V" ja="バニシュV" de="Verbannen V" fr="Bannissement V" />
-  <o id="42" recast="60" en="Banishga" ja="バニシュガ" de="Verbannga" fr="OmniBannissement" />
-  <o id="43" recast="120" en="Banishga II" ja="バニシュガII" de="Verbannga II" fr="OmniBanniss. II" />
-  <o id="44" recast="180" en="Banishga III" ja="バニシュガIII" de="Verbannga III" fr="OmniBanniss. III" />
-  <o id="45" recast="240" en="Banishga IV" ja="バニシュガIV" de="Verbannga IV" fr="OmniBanniss. IV" />
-  <o id="46" recast="240" en="Banishga V" ja="バニシュガV" de="Verbannga V" fr="OmniBanniss. V" />
-  <o id="47" recast="120" en="Repose" ja="リポーズ" de="Schlummer" fr="Sérénité" />
-  <o id="48" recast="180" en="Flash" ja="フラッシュ" de="Blitzlicht" fr="Flash" />
-  <o id="49" recast="120" en="Enlight" ja="エンライト" de="Licht +" fr="EndoLumière" />
-  <o id="50" recast="20" en="Protect" ja="プロテス" de="Schutz" fr="Bouclier" />
-  <o id="51" recast="21" en="Protect II" ja="プロテスII" de="Schutz II" fr="Bouclier II" />
-  <o id="52" recast="22" en="Protect III" ja="プロテスIII" de="Schutz III" fr="Bouclier III" />
-  <o id="53" recast="23" en="Protect IV" ja="プロテスIV" de="Schutz IV" fr="Bouclier IV" />
-  <o id="54" recast="24" en="Protect V" ja="プロテスV" de="Schutz V" fr="Bouclier V" />
-  <o id="55" recast="20" en="Shell" ja="シェル" de="Schutzschirm" fr="Barrière" />
-  <o id="56" recast="21" en="Shell II" ja="シェルII" de="Schutzschirm II" fr="Barrière II" />
-  <o id="57" recast="22" en="Shell III" ja="シェルIII" de="Schutzschirm III" fr="Barrière III" />
-  <o id="58" recast="23" en="Shell IV" ja="シェルIV" de="Schutzschirm IV" fr="Barrière IV" />
-  <o id="59" recast="24" en="Shell V" ja="シェルV" de="Schutzschirm V" fr="Barrière V" />
-  <o id="60" recast="60" en="Protectra" ja="プロテア" de="Schutzra" fr="OmniBouclier" />
-  <o id="61" recast="64" en="Protectra II" ja="プロテアII" de="Schutzra II" fr="OmniBouclier II" />
-  <o id="62" recast="68" en="Protectra III" ja="プロテアIII" de="Schutzra III" fr="OmniBouclier III" />
-  <o id="63" recast="72" en="Protectra IV" ja="プロテアIV" de="Schutzra IV" fr="OmniBouclier IV" />
-  <o id="64" recast="76" en="Protectra V" ja="プロテアV" de="Schutzra V" fr="OmniBouclier V" />
-  <o id="65" recast="60" en="Shellra" ja="シェルラ" de="Schutzschirmra" fr="OmniBarrière" />
-  <o id="66" recast="64" en="Shellra II" ja="シェルラII" de="Schutzschirmra II" fr="OmniBarrière II" />
-  <o id="67" recast="68" en="Shellra III" ja="シェルラIII" de="Schutzschirmra III" fr="OmniBarrière III" />
-  <o id="68" recast="72" en="Shellra IV" ja="シェルラIV" de="Schutzschirmra IV" fr="OmniBarrière IV" />
-  <o id="69" recast="76" en="Shellra V" ja="シェルラV" de="Schutzschirmra V" fr="OmniBarrière V" />
-  <o id="70" recast="40" en="Blink" ja="ブリンク" de="Spiegelschimmer" fr="Faux-semblant" />
-  <o id="71" recast="120" en="Stoneskin" ja="ストンスキン" de="Steinhaut" fr="Cuirasse" />
-  <o id="72" recast="40" en="Aquaveil" ja="アクアベール" de="Wasserschleier" fr="Aquavoile" />
-  <o id="73" recast="40" en="Phalanx" ja="ファランクス" de="Phalanx" fr="Phalange" />
-  <o id="74" recast="40" en="Phalanx II" ja="ファランクスII" de="Phalanx II" fr="Phalange II" />
-  <o id="75" recast="208" en="Reprisal" ja="リアクト" de="Reflexion" fr="Représailles" />
-  <o id="76" recast="180" en="Foil" ja="フォイル" de="Traverse" fr="Désengagement" />
-  <o id="77" recast="80" en="Haste" ja="ヘイスト" de="Hast" fr="Hâte" />
-  <o id="78" recast="80" en="Haste II" ja="ヘイストII" de="Hast II" fr="." />
-  <o id="79" recast="80" en="Flurry" ja="スナップ" de="." fr="." />
-  <o id="80" recast="80" en="Flurry II" ja="スナップII" de="." fr="." />
-  <o id="81" recast="40" en="Barfire" ja="バファイ" de="Feuerriegel" fr="AntiFeu" />
-  <o id="82" recast="40" en="Barblizzard" ja="バブリザ" de="Eisriegel" fr="AntiGlace" />
-  <o id="83" recast="40" en="Baraero" ja="バエアロ" de="Windriegel" fr="AntiVent" />
-  <o id="84" recast="40" en="Barstone" ja="バストン" de="Erdenriegel" fr="AntiPierre" />
-  <o id="85" recast="40" en="Barthunder" ja="バサンダ" de="Donnerriegel" fr="AntiFoudre" />
-  <o id="86" recast="40" en="Barwater" ja="バウォタ" de="Wasserriegel" fr="AntiEau" />
-  <o id="87" recast="40" en="Barfira" ja="バファイラ" de="Feuerriegelra" fr="OmniAntiFeu" />
-  <o id="88" recast="40" en="Barblizzara" ja="バブリザラ" de="Eisriegelra" fr="OmniAntiGlace" />
-  <o id="89" recast="40" en="Baraera" ja="バエアロラ" de="Windriegelra" fr="OmniAntiVent" />
-  <o id="90" recast="40" en="Barstonra" ja="バストンラ" de="Erdenriegelra" fr="OmniAntiPierre" />
-  <o id="91" recast="40" en="Barthundra" ja="バサンダラ" de="Donnerriegelra" fr="OmniAntiFoudre" />
-  <o id="92" recast="40" en="Barwatera" ja="バウォタラ" de="Wasserriegelra" fr="OmniAntiEau" />
-  <o id="93" recast="40" en="Barsleep" ja="バスリプル" de="Schlafriegel" fr="AntiSommeil" />
-  <o id="94" recast="40" en="Barpoison" ja="バポイズン" de="Giftriegel" fr="AntiPoison" />
-  <o id="95" recast="40" en="Barparalyze" ja="バパライズ" de="Paralyseriegel" fr="AntiParalysie" />
-  <o id="96" recast="40" en="Barblind" ja="バブライン" de="Blindriegel" fr="AntiCécité" />
-  <o id="97" recast="40" en="Barsilence" ja="バサイレス" de="Schweigriegel" fr="AntiSilence" />
-  <o id="98" recast="40" en="Barpetrify" ja="バブレイク" de="Steinriegel" fr="AntiPétrification" />
-  <o id="99" recast="40" en="Barvirus" ja="バウィルス" de="Virenriegel" fr="AntiVirus" />
-  <o id="100" recast="40" en="Baramnesia" ja="バアムネジア" de="Amnesieriegel" fr="AntiAmnésie" />
-  <o id="101" recast="40" en="Barsleepra" ja="バスリプラ" de="Schlafriegelra" fr="OmniAntiSommeil" />
-  <o id="102" recast="40" en="Barpoisonra" ja="バポイゾラ" de="Giftriegelra" fr="OmniAntiPoison" />
-  <o id="103" recast="40" en="Barparalyzra" ja="バパライラ" de="Paralyseriegelra" fr="OmniAntiParalysie" />
-  <o id="104" recast="40" en="Barblindra" ja="バブライラ" de="Blindriegelra" fr="OmniAntiCécité" />
-  <o id="105" recast="40" en="Barsilencera" ja="バサイレラ" de="Schweigriegelra" fr="OmniAntiSilence" />
-  <o id="106" recast="40" en="Barpetra" ja="バブレクラ" de="Steinriegelra" fr="OmniAntiPétrif." />
-  <o id="107" recast="40" en="Barvira" ja="バウィルラ" de="Virenriegelra" fr="OmniAntiVirus" />
-  <o id="108" recast="40" en="Baramnesra" ja="バアムネジラ" de="Amnesieriegelra" fr="OmniAntiAmnésie" />
-  <o id="109" recast="40" en="Enfire" ja="エンファイア" de="Feuer +" fr="EndoFeu" />
-  <o id="110" recast="120" en="Enfire II" ja="エンファイアII" de="Feuer ++" fr="EndoFeu II" />
-  <o id="111" recast="40" en="Enblizzard" ja="エンブリザド" de="Eis +" fr="EndoGlace" />
-  <o id="112" recast="120" en="Enblizzard II" ja="エンブリザドII" de="Eis ++" fr="EndoGlace II" />
-  <o id="113" recast="40" en="Enaero" ja="エンエアロ" de="Wind +" fr="EndoVent" />
-  <o id="114" recast="120" en="Enaero II" ja="エンエアロII" de="Wind ++" fr="EndoVent II" />
-  <o id="115" recast="40" en="Enstone" ja="エンストーン" de="Erde +" fr="EndoPierre" />
-  <o id="116" recast="120" en="Enstone II" ja="エンストーンII" de="Erde ++" fr="EndoPierre II" />
-  <o id="117" recast="40" en="Enthunder" ja="エンサンダー" de="Donner +" fr="EndoFoudre" />
-  <o id="118" recast="120" en="Enthunder II" ja="エンサンダーII" de="Donner ++" fr="EndoFoudre II" />
-  <o id="119" recast="40" en="Enwater" ja="エンウォータ" de="Wasser +" fr="EndoEau" />
-  <o id="120" recast="120" en="Enwater II" ja="エンウォータII" de="Wasser ++" fr="EndoEau II" />
-  <o id="121" recast="40" en="Auspice" ja="オースピス" de="Auspizium" fr="Auspice" />
-  <o id="122" recast="120" en="Temper" ja="ストライ" de="Temperament" fr="Irritation" />
-  <o id="123" recast="48" en="Regen" ja="リジェネ" de="Regenerieren" fr="Récup" />
-  <o id="124" recast="64" en="Regen II" ja="リジェネII" de="Regenerieren II" fr="Récup II" />
-  <o id="125" recast="80" en="Regen III" ja="リジェネIII" de="Regenerieren III" fr="Récup III" />
-  <o id="126" recast="96" en="Regen IV" ja="リジェネIV" de="Regenerieren IV" fr="Récup IV" />
-  <o id="127" recast="112" en="Regen V" ja="リジェネV" de="Regenerieren V" fr="Récup V" />
-  <o id="128" recast="72" en="Refresh" ja="リフレシュ" de="Erfrischen" fr="Recharge" />
-  <o id="129" recast="108" en="Refresh II" ja="リフレシュII" de="Erfrischen II" fr="Recharge II" />
-  <o id="130" recast="72" en="Sandstorm" ja="砂塵の陣" de="Staubfront" fr="Loi de la sécher." />
-  <o id="131" recast="72" en="Rainstorm" ja="豪雨の陣" de="Regenfront" fr="Loi des averses" />
-  <o id="132" recast="72" en="Windstorm" ja="烈風の陣" de="Sturmfront" fr="Loi des ouragans" />
-  <o id="133" recast="72" en="Firestorm" ja="熱波の陣" de="Feuerfront" fr="Loi de la canicule" />
-  <o id="134" recast="72" en="Hailstorm" ja="吹雪の陣" de="Hagelfront" fr="Loi du blizzard" />
-  <o id="135" recast="72" en="Thunderstorm" ja="疾雷の陣" de="Gewitterfront" fr="Loi des orages" />
-  <o id="136" recast="72" en="Voidstorm" ja="妖霧の陣" de="Nebelfront" fr="Loi du crépuscule" />
-  <o id="137" recast="72" en="Aurorastorm" ja="極光の陣" de="Aurorafront" fr="Loi de l'aurore" />
-  <o id="138" recast="40" en="Animus Augeo" ja="悪事千里の策" de="Hostilia" fr="Traité d'animosité" />
-  <o id="139" recast="40" en="Animus Minuo" ja="暗中飛躍の策" de="Pacificatio" fr="Traité de cordialité" />
-  <o id="140" recast="72" en="Adloquium" ja="鼓舞激励の策" de="Adloquium" fr="Traité d'exhortation" />
-  <o id="141" recast="60" en="Erase" ja="イレース" de="Entfernen" fr="Gomme" />
-  <o id="142" recast="40" en="Crusade" ja="クルセード" de="Kreuzzug" fr="Croisade" />
-  <o id="143" recast="40" en="Gain-STR" ja="ゲインスト" de="STR-Stimulus" fr="Gain-STR" />
-  <o id="144" recast="40" en="Gain-DEX" ja="ゲインデック" de="DEX-Stimulus" fr="Gain-DEX" />
-  <o id="145" recast="40" en="Gain-VIT" ja="ゲインバイト" de="VIT-Stimulus" fr="Gain-VIT" />
-  <o id="146" recast="40" en="Gain-AGI" ja="ゲインアジル" de="AGI-Stimulus" fr="Gain-AGI" />
-  <o id="147" recast="40" en="Gain-INT" ja="ゲインイン" de="INT-Stimulus" fr="Gain-INT" />
-  <o id="148" recast="40" en="Gain-MND" ja="ゲインマイン" de="MND-Stimulus" fr="Gain-MND" />
-  <o id="149" recast="40" en="Gain-CHR" ja="ゲインカリス" de="CHR-Stimulus" fr="Gain-CHR" />
-  <o id="150" recast="40" en="Boost-STR" ja="アディスト" de="STR-Augmen" fr="Augment-STR" />
-  <o id="151" recast="40" en="Boost-DEX" ja="アディデック" de="DEX-Augmen" fr="Augment-DEX" />
-  <o id="152" recast="40" en="Boost-VIT" ja="アディバイト" de="VIT-Augmen" fr="Augment-VIT" />
-  <o id="153" recast="40" en="Boost-AGI" ja="アディアジル" de="AGI-Augmen" fr="Augment-AGI" />
-  <o id="154" recast="40" en="Boost-INT" ja="アディイン" de="INT-Augmen" fr="Augment-INT" />
-  <o id="155" recast="40" en="Boost-MND" ja="アディマイン" de="MND-Augmen" fr="Augment-MND" />
-  <o id="156" recast="40" en="Boost-CHR" ja="アディカリス" de="CHR-Augmen" fr="Augment-CHR" />
-  <o id="157" recast="40" en="Teleport-Holla" ja="テレポホラ" de="Teleport-Holla" fr="Téléport-Holla" />
-  <o id="158" recast="40" en="Teleport-Dem" ja="テレポデム" de="Teleport-Dem" fr="Téléport-Dem" />
-  <o id="159" recast="40" en="Teleport-Mea" ja="テレポメア" de="Teleport-Mea" fr="Téléport-Mea" />
-  <o id="160" recast="40" en="Teleport-Yhoat" ja="テレポヨト" de="Teleport-Yhoat" fr="Téléport-Yhoat" />
-  <o id="161" recast="40" en="Teleport-Altep" ja="テレポルテ" de="Teleport-Altep" fr="Téléport-Altep" />
-  <o id="162" recast="40" en="Teleport-Vahzl" ja="テレポヴァズ" de="Teleport-Vahzl" fr="Téléport-Vahzl" />
-  <o id="163" recast="40" en="Recall-Jugner" ja="リコールジャグ" de="Retroport-Jug" fr="Rappel-Jugner" />
-  <o id="164" recast="40" en="Recall-Pashh" ja="リコールパシュ" de="Retroport-Pash" fr="Rappel-Pashh" />
-  <o id="165" recast="40" en="Recall-Meriph" ja="リコールメリファ" de="Retroport-Meri" fr="Rappel-Mériph" />
-  <o id="166" recast="40" en="Invisible" ja="インビジ" de="Unsichtbarkeit" fr="Invisible" />
-  <o id="167" recast="40" en="Sneak" ja="スニーク" de="Schleichen" fr="Furtivité" />
-  <o id="168" recast="32" en="Deodorize" ja="デオード" de="Parfümieren" fr="Inodore" />
-  <o id="169" recast="24" en="Embrava" ja="オーラ" de="Embrava" fr="Hardiesse" />
-  <o id="170" recast="20" en="Dia" ja="ディア" de="Dia" fr="Lumen" />
-  <o id="171" recast="24" en="Dia II" ja="ディアII" de="Dia II" fr="Lumen II" />
-  <o id="172" recast="28" en="Dia III" ja="ディアIII" de="Dia III" fr="Lumen III" />
-  <o id="173" recast="32" en="Dia IV" ja="ディアIV" de="Dia IV" fr="Lumen IV" />
-  <o id="174" recast="36" en="Dia V" ja="ディアV" de="Dia V" fr="Lumen V" />
-  <o id="175" recast="24" en="Diaga" ja="ディアガ" de="Diaga" fr="OmniLumen" />
-  <o id="176" recast="25" en="Diaga II" ja="ディアガII" de="Diaga II" fr="OmniLumen II" />
-  <o id="177" recast="26" en="Diaga III" ja="ディアガIII" de="Diaga III" fr="OmniLumen III" />
-  <o id="178" recast="27" en="Diaga IV" ja="ディアガIV" de="Diaga IV" fr="OmniLumen IV" />
-  <o id="179" recast="28" en="Diaga V" ja="ディアガV" de="Diaga V" fr="OmniLumen V" />
-  <o id="180" recast="80" en="Slow" ja="スロウ" de="Gemach" fr="Lenteur" />
-  <o id="181" recast="80" en="Slow II" ja="スロウII" de="Gemach II" fr="Lenteur II" />
-  <o id="182" recast="40" en="Paralyze" ja="パライズ" de="Paralyse" fr="Paralysie" />
-  <o id="183" recast="80" en="Paralyze II" ja="パライズII" de="Paralyse II" fr="Paralysie II" />
-  <o id="184" recast="40" en="Silence" ja="サイレス" de="Schweigen" fr="Silence" />
-  <o id="185" recast="80" en="Addle" ja="アドル" de="Geist-Vernebelung" fr="Egarement" />
-  <o id="190" recast="8" en="Fire" ja="ファイア" de="Feuer" fr="Feu" />
-  <o id="191" recast="24" en="Fire II" ja="ファイアII" de="Feuer II" fr="Feu II" />
-  <o id="192" recast="60" en="Fire III" ja="ファイアIII" de="Feuer III" fr="Feu III" />
-  <o id="193" recast="120" en="Fire IV" ja="ファイアIV" de="Feuer IV" fr="Feu IV" />
-  <o id="194" recast="180" en="Fire V" ja="ファイアV" de="Feuer V" fr="Feu V" />
-  <o id="195" recast="8" en="Blizzard" ja="ブリザド" de="Eis" fr="Glace" />
-  <o id="196" recast="24" en="Blizzard II" ja="ブリザドII" de="Eis II" fr="Glace II" />
-  <o id="197" recast="60" en="Blizzard III" ja="ブリザドIII" de="Eis III" fr="Glace III" />
-  <o id="198" recast="120" en="Blizzard IV" ja="ブリザドIV" de="Eis IV" fr="Glace IV" />
-  <o id="199" recast="180" en="Blizzard V" ja="ブリザドV" de="Eis V" fr="Glace V" />
-  <o id="200" recast="8" en="Aero" ja="エアロ" de="Wind" fr="Vent" />
-  <o id="201" recast="24" en="Aero II" ja="エアロII" de="Wind II" fr="Vent II" />
-  <o id="202" recast="60" en="Aero III" ja="エアロIII" de="Wind III" fr="Vent III" />
-  <o id="203" recast="120" en="Aero IV" ja="エアロIV" de="Wind IV" fr="Vent IV" />
-  <o id="204" recast="180" en="Aero V" ja="エアロV" de="Wind V" fr="Vent V" />
-  <o id="205" recast="8" en="Stone" ja="ストーン" de="Erde" fr="Pierre" />
-  <o id="206" recast="24" en="Stone II" ja="ストーンII" de="Erde II" fr="Pierre II" />
-  <o id="207" recast="60" en="Stone III" ja="ストーンIII" de="Erde III" fr="Pierre III" />
-  <o id="208" recast="120" en="Stone IV" ja="ストーンIV" de="Erde IV" fr="Pierre IV" />
-  <o id="209" recast="180" en="Stone V" ja="ストーンV" de="Erde V" fr="Pierre V" />
-  <o id="210" recast="8" en="Thunder" ja="サンダー" de="Donner" fr="Foudre" />
-  <o id="211" recast="24" en="Thunder II" ja="サンダーII" de="Donner II" fr="Foudre II" />
-  <o id="212" recast="60" en="Thunder III" ja="サンダーIII" de="Donner III" fr="Foudre III" />
-  <o id="213" recast="120" en="Thunder IV" ja="サンダーIV" de="Donner IV" fr="Foudre IV" />
-  <o id="214" recast="180" en="Thunder V" ja="サンダーV" de="Donner V" fr="Foudre V" />
-  <o id="215" recast="8" en="Water" ja="ウォータ" de="Wasser" fr="Eau" />
-  <o id="216" recast="24" en="Water II" ja="ウォータII" de="Wasser II" fr="Eau II" />
-  <o id="217" recast="60" en="Water III" ja="ウォータIII" de="Wasser III" fr="Eau III" />
-  <o id="218" recast="120" en="Water IV" ja="ウォータIV" de="Wasser IV" fr="Eau IV" />
-  <o id="219" recast="180" en="Water V" ja="ウォータV" de="Wasser V" fr="Eau V" />
-  <o id="220" recast="20" en="Firaga" ja="ファイガ" de="Feuerga" fr="OmniFeu" />
-  <o id="221" recast="40" en="Firaga II" ja="ファイガII" de="Feuerga II" fr="OmniFeu II" />
-  <o id="222" recast="100" en="Firaga III" ja="ファイガIII" de="Feuerga III" fr="OmniFeu III" />
-  <o id="223" recast="160" en="Firaga IV" ja="ファイガIV" de="Feuerga IV" fr="OmniFeu IV" />
-  <o id="224" recast="240" en="Firaga V" ja="ファイガV" de="Feuerga V" fr="OmniFeu V" />
-  <o id="225" recast="20" en="Blizzaga" ja="ブリザガ" de="Eisga" fr="OmniGlace" />
-  <o id="226" recast="40" en="Blizzaga II" ja="ブリザガII" de="Eisga II" fr="OmniGlace II" />
-  <o id="227" recast="100" en="Blizzaga III" ja="ブリザガIII" de="Eisga III" fr="OmniGlace III" />
-  <o id="228" recast="160" en="Blizzaga IV" ja="ブリザガIV" de="Eisga IV" fr="OmniGlace IV" />
-  <o id="229" recast="240" en="Blizzaga V" ja="ブリザガV" de="Eisga V" fr="OmniGlace V" />
-  <o id="230" recast="20" en="Aeroga" ja="エアロガ" de="Windga" fr="OmniVent" />
-  <o id="231" recast="40" en="Aeroga II" ja="エアロガII" de="Windga II" fr="OmniVent II" />
-  <o id="232" recast="100" en="Aeroga III" ja="エアロガIII" de="Windga III" fr="OmniVent III" />
-  <o id="233" recast="160" en="Aeroga IV" ja="エアロガIV" de="Windga IV" fr="OmniVent IV" />
-  <o id="234" recast="240" en="Aeroga V" ja="エアロガV" de="Windga V" fr="OmniVent V" />
-  <o id="235" recast="20" en="Stonega" ja="ストンガ" de="Erdenga" fr="OmniPierre" />
-  <o id="236" recast="40" en="Stonega II" ja="ストンガII" de="Erdenga II" fr="OmniPierre II" />
-  <o id="237" recast="100" en="Stonega III" ja="ストンガIII" de="Erdenga III" fr="OmniPierre III" />
-  <o id="238" recast="160" en="Stonega IV" ja="ストンガIV" de="Erdenga IV" fr="OmniPierre IV" />
-  <o id="239" recast="240" en="Stonega V" ja="ストンガV" de="Erdenga V" fr="OmniPierre V" />
-  <o id="240" recast="20" en="Thundaga" ja="サンダガ" de="Donnerga" fr="OmniFoudre" />
-  <o id="241" recast="40" en="Thundaga II" ja="サンダガII" de="Donnerga II" fr="OmniFoudre II" />
-  <o id="242" recast="100" en="Thundaga III" ja="サンダガIII" de="Donnerga III" fr="OmniFoudre III" />
-  <o id="243" recast="160" en="Thundaga IV" ja="サンダガIV" de="Donnerga IV" fr="OmniFoudre IV" />
-  <o id="244" recast="240" en="Thundaga V" ja="サンダガV" de="Donnerga V" fr="OmniFoudre V" />
-  <o id="245" recast="20" en="Waterga" ja="ウォタガ" de="Wasserga" fr="OmniEau" />
-  <o id="246" recast="40" en="Waterga II" ja="ウォタガII" de="Wasserga II" fr="OmniEau II" />
-  <o id="247" recast="100" en="Waterga III" ja="ウォタガIII" de="Wasserga III" fr="OmniEau III" />
-  <o id="248" recast="160" en="Waterga IV" ja="ウォタガIV" de="Wasserga IV" fr="OmniEau IV" />
-  <o id="249" recast="240" en="Waterga V" ja="ウォタガV" de="Wasserga V" fr="OmniEau V" />
-  <o id="250" recast="180" en="Firaja" ja="ファイジャ" de="Feuerka" fr="MaxiFeu" />
-  <o id="251" recast="180" en="Blizzaja" ja="ブリザジャ" de="Eiska" fr="MaxiGlace" />
-  <o id="252" recast="180" en="Aeroja" ja="エアロジャ" de="Windka" fr="MaxiVent" />
-  <o id="253" recast="180" en="Stoneja" ja="ストンジャ" de="Erdenka" fr="MaxiPierre" />
-  <o id="254" recast="180" en="Thundaja" ja="サンダジャ" de="Donnerka" fr="MaxiFoudre" />
-  <o id="255" recast="180" en="Waterja" ja="ウォタジャ" de="Wasserka" fr="MaxiEau" />
-  <o id="256" recast="20" en="Fira" ja="ファイラ" de="Feura" fr="MultiFeu" />
-  <o id="257" recast="60" en="Fira II" ja="ファイラII" de="Feura II" fr="MultiFeu II" />
-  <o id="258" recast="20" en="Blizzara" ja="ブリザラ" de="Eisra" fr="MultiGlace" />
-  <o id="259" recast="60" en="Blizzara II" ja="ブリザラII" de="Eisra II" fr="MultiGlace II" />
-  <o id="260" recast="20" en="Aerora" ja="エアロラ" de="Windra" fr="MultiVent" />
-  <o id="261" recast="60" en="Aerora II" ja="エアロラII" de="Windra II" fr="MultiVent II" />
-  <o id="262" recast="20" en="Stonera" ja="ストンラ" de="Erdenra" fr="MultiPierre" />
-  <o id="263" recast="60" en="Stonera II" ja="ストンラII" de="Erdenra II" fr="MultiPierre II" />
-  <o id="264" recast="20" en="Thundara" ja="サンダラ" de="Donnerra" fr="MultiFoudre" />
-  <o id="265" recast="60" en="Thundara II" ja="サンダラII" de="Donnerra II" fr="MultiFoudre II" />
-  <o id="266" recast="20" en="Watera" ja="ウォタラ" de="Wasserra" fr="MultiEau" />
-  <o id="267" recast="60" en="Watera II" ja="ウォタラII" de="Wasserra II" fr="MultiEau II" />
-  <o id="268" recast="240" en="Flare" ja="フレア" de="Flimmern" fr="Brasier" />
-  <o id="269" recast="240" en="Flare II" ja="フレアII" de="Flimmern II" fr="Brasier II" />
-  <o id="270" recast="240" en="Freeze" ja="フリーズ" de="Einfrieren" fr="Gel" />
-  <o id="271" recast="240" en="Freeze II" ja="フリーズII" de="Einfrieren II" fr="Gel II" />
-  <o id="272" recast="240" en="Tornado" ja="トルネド" de="Tornado" fr="Tornade" />
-  <o id="273" recast="240" en="Tornado II" ja="トルネドII" de="Tornado II" fr="Tornade II" />
-  <o id="274" recast="240" en="Quake" ja="クエイク" de="Beben" fr="Séisme" />
-  <o id="275" recast="240" en="Quake II" ja="クエイクII" de="Beben II" fr="Séisme II" />
-  <o id="276" recast="240" en="Burst" ja="バースト" de="Einschlag" fr="Eclair" />
-  <o id="277" recast="240" en="Burst II" ja="バーストII" de="Einschlag II" fr="Eclair II" />
-  <o id="278" recast="240" en="Flood" ja="フラッド" de="Flut" fr="Déluge" />
-  <o id="279" recast="240" en="Flood II" ja="フラッドII" de="Flut II" fr="Déluge II" />
-  <o id="280" recast="208" en="Meteor" ja="メテオ" de="Meteor" fr="Météore" />
-  <o id="281" recast="180" en="Comet" ja="コメット" de="Komet" fr="Comète" />
-  <o id="282" recast="40" en="Burn" ja="バーン" de="Brennen" fr="Combustion" />
-  <o id="283" recast="40" en="Frost" ja="フロスト" de="Frost" fr="Givre" />
-  <o id="284" recast="40" en="Choke" ja="チョーク" de="Drossel" fr="Suffocation" />
-  <o id="285" recast="40" en="Rasp" ja="ラスプ" de="Raspel" fr="Râpe" />
-  <o id="286" recast="40" en="Shock" ja="ショック" de="Schock" fr="Choc" />
-  <o id="287" recast="40" en="Drown" ja="ドラウン" de="Ertrinken" fr="Submersion" />
-  <o id="288" recast="180" en="Geohelix" ja="土門の計" de="Terras Kern" fr="Thèse tellurique" />
-  <o id="289" recast="180" en="Hydrohelix" ja="水門の計" de="Neptuns Kern" fr="Thèse aquifère" />
-  <o id="290" recast="180" en="Anemohelix" ja="風門の計" de="Austers Kern" fr="Thèse cyclonique" />
-  <o id="291" recast="180" en="Pyrohelix" ja="火門の計" de="Vulkans Kern" fr="Thèse pyrogène" />
-  <o id="292" recast="180" en="Cryohelix" ja="氷門の計" de="Aquilos Kern" fr="Thèse cryogène" />
-  <o id="293" recast="180" en="Ionohelix" ja="雷門の計" de="Jupiters Kern" fr="Thèse ionique" />
-  <o id="294" recast="180" en="Noctohelix" ja="闇門の計" de="Plutos Kern" fr="Thèse crépuscul." />
-  <o id="295" recast="180" en="Luminohelix" ja="光門の計" de="Apollos Kern" fr="Thèse aurorale" />
-  <o id="296" recast="224" en="Impact" ja="インパクト" de="Impakt" fr="Aérolithe" />
-  <o id="310" recast="40" en="Blaze Spikes" ja="ブレイズスパイク" de="Flammenspitzen" fr="Pointes de feu" />
-  <o id="311" recast="40" en="Ice Spikes" ja="アイススパイク" de="Eisspitzen" fr="Pointes de glace" />
-  <o id="312" recast="40" en="Shock Spikes" ja="ショックスパイク" de="Schockspitzen" fr="Pointes de foudre" />
-  <o id="313" recast="40" en="Retrace" ja="リトレース" de="Retrowarp" fr="Réminiscence" />
-  <o id="314" recast="40" en="Warp" ja="デジョン" de="Warp" fr="Rapatriement" />
-  <o id="315" recast="40" en="Warp II" ja="デジョンII" de="Warp II" fr="Rapatriement II" />
-  <o id="316" recast="240" en="Escape" ja="エスケプ" de="Flucht" fr="Echappatoire" />
-  <o id="319" recast="20" en="Poison" ja="ポイズン" de="Gift" fr="Poison" />
-  <o id="320" recast="20" en="Poison II" ja="ポイズンII" de="Gift II" fr="Poison II" />
-  <o id="321" recast="20" en="Poison III" ja="ポイズンIII" de="Gift III" fr="Poison III" />
-  <o id="322" recast="20" en="Poison IV" ja="ポイズンIV" de="Gift IV" fr="Poison IV" />
-  <o id="323" recast="20" en="Poison V" ja="ポイズンV" de="Gift V" fr="Poison V" />
-  <o id="324" recast="40" en="Poisonga" ja="ポイゾガ" de="Giftga" fr="OmniPoison" />
-  <o id="325" recast="40" en="Poisonga II" ja="ポイゾガII" de="Giftga II" fr="OmniPoison II" />
-  <o id="326" recast="40" en="Poisonga III" ja="ポイゾガIII" de="Giftga III" fr="OmniPoison III" />
-  <o id="327" recast="40" en="Poisonga IV" ja="ポイゾガIV" de="Giftga IV" fr="OmniPoison IV" />
-  <o id="328" recast="40" en="Poisonga V" ja="ポイゾガV" de="Giftga V" fr="OmniPoison V" />
-  <o id="329" recast="120" en="Sleep" ja="スリプル" de="Schlaf" fr="Sommeil" />
-  <o id="330" recast="120" en="Sleep II" ja="スリプルII" de="Schlaf II" fr="Sommeil II" />
-  <o id="331" recast="120" en="Sleepga" ja="スリプガ" de="Schlafga" fr="OmniSommeil" />
-  <o id="332" recast="180" en="Sleepga II" ja="スリプガII" de="Schlafga II" fr="OmniSommeil II" />
-  <o id="333" recast="40" en="Blind" ja="ブライン" de="Blind" fr="Cécité" />
-  <o id="334" recast="80" en="Blind II" ja="ブラインII" de="Blind II" fr="Cécité II" />
-  <o id="335" recast="120" en="Break" ja="ブレイク" de="Stillstand" fr="Brèche" />
-  <o id="336" recast="180" en="Breakga" ja="ブレクガ" de="Stillstandga" fr="OmniBrèche" />
-  <o id="337" recast="160" en="Bind" ja="バインド" de="Fessel" fr="Entrave" />
-  <o id="338" recast="40" en="Dispel" ja="ディスペル" de="Entzaubern" fr="Dissipation" />
-  <o id="339" recast="240" en="Gravity" ja="グラビデ" de="Schwerkraft" fr="Pesanteur" />
-  <o id="340" recast="44" en="Gravity II" ja="グラビデII" de="Schwerkraft II" fr="Pesanteur II" />
-  <o id="341" recast="40" en="Distract" ja="ディストラ" de="." fr="." />
-  <o id="342" recast="40" en="Distract II" ja="ディストラII" de="." fr="." />
-  <o id="343" recast="40" en="Frazzle" ja="フラズル" de="." fr="." />
-  <o id="344" recast="40" en="Frazzle II" ja="フラズルII" de="." fr="." />
-  <o id="345" recast="20" en="Bio" ja="バイオ" de="Bio" fr="Bactérie" />
-  <o id="346" recast="20" en="Bio II" ja="バイオII" de="Bio II" fr="Bactérie II" />
-  <o id="347" recast="60" en="Bio III" ja="バイオIII" de="Bio III" fr="Bactérie III" />
-  <o id="348" recast="20" en="Bio IV" ja="バイオIV" de="Bio IV" fr="Bactérie IV" />
-  <o id="349" recast="20" en="Bio V" ja="バイオV" de="Bio V" fr="Bactérie V" />
-  <o id="350" recast="240" en="Drain" ja="ドレイン" de="Aussaugen" fr="Spoliation" />
-  <o id="351" recast="208" en="Drain II" ja="ドレインII" de="Aussaugen II" fr="Spoliation II" />
-  <o id="352" recast="240" en="Aspir" ja="アスピル" de="Osmose" fr="Aspiration" />
-  <o id="353" recast="44" en="Aspir II" ja="アスピルII" de="Osmose II" fr="Aspiration II" />
-  <o id="354" recast="180" en="Stun" ja="スタン" de="Betäubung" fr="Etourdissement" />
-  <o id="355" recast="40" en="Tractor" ja="トラクタ" de="Schlepper" fr="Traction" />
-  <o id="356" recast="40" en="Tractor II" ja="トラクタII" de="Schlepper II" fr="Traction II" />
-  <o id="357" recast="240" en="Absorb-STR" ja="アブゾースト" de="Absorb-STR" fr="Absorb-STR" />
-  <o id="358" recast="240" en="Absorb-DEX" ja="アブゾデック" de="Absorb-DEX" fr="Absorb-DEX" />
-  <o id="359" recast="240" en="Absorb-VIT" ja="アブゾバイト" de="Absorb-VIT" fr="Absorb-VIT" />
-  <o id="360" recast="240" en="Absorb-AGI" ja="アブゾアジル" de="Absorb-AGI" fr="Absorb-AGI" />
-  <o id="361" recast="240" en="Absorb-INT" ja="アブゾイン" de="Absorb-INT" fr="Absorb-INT" />
-  <o id="362" recast="240" en="Absorb-MND" ja="アブゾマイン" de="Absorb-MND" fr="Absorb-MND" />
-  <o id="363" recast="240" en="Absorb-CHR" ja="アブゾカリス" de="Absorb-CHR" fr="Absorb-CHR" />
-  <o id="364" recast="240" en="Absorb-TP" ja="アブゾタック" de="Absorb-TP" fr="Absorb-TP" />
-  <o id="365" recast="240" en="Absorb-ACC" ja="アブゾアキュル" de="Absorb-ACC" fr="Absorb-Précision" />
-  <o id="366" recast="240" en="Absorb-Attri" ja="アブゾアトリ" de="Absorb-Attri" fr="Absorb-Attribut" />
-  <o id="367" recast="208" en="Dread Spikes" ja="ドレッドスパイク" de="Furchtspitzen" fr="Pointes d'effroi" />
-  <o id="368" recast="120" en="Endark" ja="エンダーク" de="Dunkel +" fr="EndoTénèbres" />
-  <o id="369" recast="208" en="Klimaform" ja="虚誘掩殺の策" de="Prognostica" fr="Traité de réflexion" />
-  <o id="370" recast="120" en="Kaustra" ja="メルトン" de="Kaustra" fr="Kaustra" />
-  <o id="375" recast="20" en="Fire Spirit" ja="火精霊召喚" de="Feuergeist" fr="Esprit du feu" />
-  <o id="376" recast="20" en="Ice Spirit" ja="氷精霊召喚" de="Eisgeist" fr="Esprit de la glace" />
-  <o id="377" recast="20" en="Air Spirit" ja="風精霊召喚" de="Luftgeist" fr="Esprit du vent" />
-  <o id="378" recast="20" en="Earth Spirit" ja="土精霊召喚" de="Erdgeist" fr="Esprit de la terre" />
-  <o id="379" recast="20" en="Thunder Spirit" ja="雷精霊召喚" de="Donnergeist" fr="Esprit de la foudre" />
-  <o id="380" recast="20" en="Water Spirit" ja="水精霊召喚" de="Wassergeist" fr="Esprit de l'eau" />
-  <o id="381" recast="20" en="Light Spirit" ja="光精霊召喚" de="Lichtgeist" fr="Esprit de la lumière" />
-  <o id="382" recast="20" en="Dark Spirit" ja="闇精霊召喚" de="Dunkelgeist" fr="Esprit des ténèbres" />
-  <o id="383" recast="20" en="Carbuncle" ja="カーバンクル召喚" de="Carbuncle" fr="Carbuncle" />
-  <o id="384" recast="20" en="Fenrir" ja="フェンリル召喚" de="Fenrir" fr="Fenrir" />
-  <o id="385" recast="20" en="Ifrit" ja="イフリート召喚" de="Ifrit" fr="Ifrit" />
-  <o id="386" recast="20" en="Titan" ja="タイタン召喚" de="Titan" fr="Titan" />
-  <o id="387" recast="20" en="Leviathan" ja="リヴァイアサン召喚" de="Leviathan" fr="Leviathan" />
-  <o id="388" recast="20" en="Garuda" ja="ガルーダ召喚" de="Garuda" fr="Garuda" />
-  <o id="389" recast="20" en="Shiva" ja="シヴァ召喚" de="Shiva" fr="Shiva" />
-  <o id="390" recast="20" en="Ramuh" ja="ラムウ召喚" de="Ramuh" fr="Ramuh" />
-  <o id="391" recast="20" en="Diabolos" ja="ディアボロス召喚" de="Diabolos" fr="Diabolos" />
-  <o id="392" recast="240" en="Odin" ja="オーディン召喚" de="Odin" fr="Odin" />
-  <o id="393" recast="240" en="Alexander" ja="アレキサンダー召喚" de="Alexander" fr="Alexander" />
-  <o id="394" recast="20" en="Cait Sith" ja="ケット・シー召喚" de="Cait Sith" fr="Cait Sith" />
-  <o id="400" recast="120" en="Katon: Ichi" ja="火遁の術:壱" de="Katon: Ichi" fr="Katon : Ichi" />
-  <o id="401" recast="180" en="Katon: Ni" ja="火遁の術:弐" de="Katon: Ni" fr="Katon : Ni" />
-  <o id="402" recast="240" en="Katon: San" ja="火遁の術:参" de="Katon: San" fr="Katon : San" />
-  <o id="403" recast="120" en="Hyoton: Ichi" ja="氷遁の術:壱" de="Hyoton: Ichi" fr="Hyoton : Ichi" />
-  <o id="404" recast="180" en="Hyoton: Ni" ja="氷遁の術:弐" de="Hyoton: Ni" fr="Hyoton : Ni" />
-  <o id="405" recast="240" en="Hyoton: San" ja="氷遁の術:参" de="Hyoton: San" fr="Hyoton : San" />
-  <o id="406" recast="120" en="Huton: Ichi" ja="風遁の術:壱" de="Huton: Ichi" fr="Huton : Ichi" />
-  <o id="407" recast="180" en="Huton: Ni" ja="風遁の術:弐" de="Huton: Ni" fr="Huton : Ni" />
-  <o id="408" recast="240" en="Huton: San" ja="風遁の術:参" de="Huton: San" fr="Huton : San" />
-  <o id="409" recast="120" en="Doton: Ichi" ja="土遁の術:壱" de="Doton: Ichi" fr="Doton : Ichi" />
-  <o id="410" recast="180" en="Doton: Ni" ja="土遁の術:弐" de="Doton: Ni" fr="Doton : Ni" />
-  <o id="411" recast="240" en="Doton: San" ja="土遁の術:参" de="Doton: San" fr="Doton : San" />
-  <o id="412" recast="120" en="Raiton: Ichi" ja="雷遁の術:壱" de="Raiton: Ichi" fr="Raiton : Ichi" />
-  <o id="413" recast="180" en="Raiton: Ni" ja="雷遁の術:弐" de="Raiton: Ni" fr="Raiton : Ni" />
-  <o id="414" recast="240" en="Raiton: San" ja="雷遁の術:参" de="Raiton: San" fr="Raiton : San" />
-  <o id="415" recast="120" en="Suiton: Ichi" ja="水遁の術:壱" de="Suiton: Ichi" fr="Suiton : Ichi" />
-  <o id="416" recast="180" en="Suiton: Ni" ja="水遁の術:弐" de="Suiton: Ni" fr="Suiton : Ni" />
-  <o id="417" recast="240" en="Suiton: San" ja="水遁の術:参" de="Suiton: San" fr="Suiton : San" />
-  <o id="418" recast="120" en="Utsusemi: Ichi" ja="空蝉の術:壱" de="Utsusemi: Ichi" fr="Utsusemi : Ichi" />
-  <o id="419" recast="180" en="Utsusemi: Ni" ja="空蝉の術:弐" de="Utsusemi: Ni" fr="Utsusemi : Ni" />
-  <o id="420" recast="240" en="Utsusemi: San" ja="空蝉の術:参" de="Utsusemi: San" fr="Utsusemi : San" />
-  <o id="421" recast="120" en="Jubaku: Ichi" ja="呪縛の術:壱" de="Jubaku: Ichi" fr="Jubaku : Ichi" />
-  <o id="422" recast="180" en="Jubaku: Ni" ja="呪縛の術:弐" de="Jubaku: Ni" fr="Jubaku : Ni" />
-  <o id="423" recast="240" en="Jubaku: San" ja="呪縛の術:参" de="Jubaku: San" fr="Jubaku : San" />
-  <o id="424" recast="120" en="Hojo: Ichi" ja="捕縄の術:壱" de="Hojo: Ichi" fr="Hojo : Ichi" />
-  <o id="425" recast="180" en="Hojo: Ni" ja="捕縄の術:弐" de="Hojo: Ni" fr="Hojo : Ni" />
-  <o id="426" recast="240" en="Hojo: San" ja="捕縄の術:参" de="Hojo: San" fr="Hojo : San" />
-  <o id="427" recast="120" en="Kurayami: Ichi" ja="暗闇の術:壱" de="Kurayami: Ichi" fr="Kurayami : Ichi" />
-  <o id="428" recast="180" en="Kurayami: Ni" ja="暗闇の術:弐" de="Kurayami: Ni" fr="Kurayami : Ni" />
-  <o id="429" recast="240" en="Kurayami: San" ja="暗闇の術:参" de="Kurayami: San" fr="Kurayami : San" />
-  <o id="430" recast="120" en="Dokumori: Ichi" ja="毒盛の術:壱" de="Dokumori: Ichi" fr="Dokumori : Ichi" />
-  <o id="431" recast="180" en="Dokumori: Ni" ja="毒盛の術:弐" de="Dokumori: Ni" fr="Dokumori : Ni" />
-  <o id="432" recast="240" en="Dokumori: San" ja="毒盛の術:参" de="Dokumori: San" fr="Dokumori : San" />
-  <o id="433" recast="120" en="Tonko: Ichi" ja="遁甲の術:壱" de="Tonko: Ichi" fr="Tonko : Ichi" />
-  <o id="434" recast="180" en="Tonko: Ni" ja="遁甲の術:弐" de="Tonko: Ni" fr="Tonko : Ni" />
-  <o id="435" recast="240" en="Tonko: San" ja="遁甲の術:参" de="Tonko: San" fr="Tonko : San" />
-  <o id="436" recast="120" en="Monomi: Ichi" ja="物見の術:壱" de="Monomi: Ichi" fr="Monomi : Ichi" />
-  <o id="437" recast="120" en="Aisha: Ichi" ja="哀車の術:壱" de="Aisha: Ichi" fr="Aisha : Ichi" />
-  <o id="438" recast="120" en="Myoshu: Ichi" ja="妙手の術:壱" de="Myoshu: Ichi" fr="Myoshu : Ichi" />
-  <o id="439" recast="120" en="Yurin: Ichi" ja="幽林の術:壱" de="Yurin: Ichi" fr="Yurin : Ichi" />
-  <o id="440" recast="120" en="Kakka: Ichi" ja="活火の術:壱" de="Kakka: Ichi" fr="Kakka : Ichi" />
-  <o id="441" recast="224" en="Migawari: Ichi" ja="身替の術:壱" de="Migawari: Ichi" fr="Migawari : Ichi" />
-  <o id="442" recast="120" en="Gekka: Ichi" ja="月下の術:壱" de="Gekka: Ichi" fr="Gekka : Ichi" />
-  <o id="443" recast="120" en="Yain: Ichi" ja="夜陰の術:壱" de="Yain: Ichi" fr="Yain : Ichi" />
-  <o id="445" recast="48" en="Indi-Regen" ja="インデリジェネ" de="Indi-Regenerieren" fr="Indi-Récup" />
-  <o id="446" recast="48" en="Indi-Poison" ja="インデポイズン" de="Indi-Gift" fr="Indi-Poison" />
-  <o id="447" recast="48" en="Indi-Refresh" ja="インデリフレシュ" de="Indi-Erfrischen" fr="Indi-Recharge" />
-  <o id="448" recast="48" en="Indi-Haste" ja="インデヘイスト" de="Indi-Hast" fr="." />
-  <o id="449" recast="48" en="Indi-STR" ja="インデスト" de="Indi-STR" fr="Indi-STR" />
-  <o id="450" recast="48" en="Indi-DEX" ja="インデデック" de="Indi-DEX" fr="Indi-DEX" />
-  <o id="451" recast="48" en="Indi-VIT" ja="インデバイト" de="Indi-VIT" fr="Indi-VIT" />
-  <o id="452" recast="48" en="Indi-AGI" ja="インデアジル" de="Indi-AGI" fr="Indi-AGI" />
-  <o id="453" recast="48" en="Indi-INT" ja="インデイン" de="Indi-INT" fr="Indi-INT" />
-  <o id="454" recast="48" en="Indi-MND" ja="インデマイン" de="Indi-MND" fr="Indi-MND" />
-  <o id="455" recast="48" en="Indi-CHR" ja="インデカリス" de="Indi-CHR" fr="Indi-CHR" />
-  <o id="456" recast="48" en="Indi-Fury" ja="インデフューリー" de="Indi-Furor" fr="Indi-Fureur" />
-  <o id="457" recast="48" en="Indi-Barrier" ja="インデバリア" de="Indi-Barriere" fr="Indi-Défense" />
-  <o id="458" recast="48" en="Indi-Acumen" ja="インデアキュメン" de="Indi-Esprit" fr="Indi-Sagacité" />
-  <o id="459" recast="48" en="Indi-Fend" ja="インデフェンド" de="Indi-Fürsorge" fr="Indi-Sagesse" />
-  <o id="460" recast="48" en="Indi-Precision" ja="インデプレサイス" de="Indi-Akribie" fr="Indi-Habileté" />
-  <o id="461" recast="48" en="Indi-Voidance" ja="インデヴォイダンス" de="Indi-Reflex" fr="Indi-Dérobade" />
-  <o id="462" recast="48" en="Indi-Focus" ja="インデフォーカス" de="Indi-Fokus" fr="Indi-Focus" />
-  <o id="463" recast="48" en="Indi-Attunement" ja="インデアトゥーン" de="Indi-Anpassung" fr="Indi-Harmonie" />
-  <o id="464" recast="48" en="Indi-Wilt" ja="インデウィルト" de="Indi-Ermüdung" fr="Indi-Faiblesse" />
-  <o id="465" recast="48" en="Indi-Frailty" ja="インデフレイル" de="Indi-Fragilität" fr="Indi-Fragilité" />
-  <o id="466" recast="48" en="Indi-Fade" ja="インデフェイド" de="Indi-Schwund" fr="Indi-Déficience" />
-  <o id="467" recast="48" en="Indi-Malaise" ja="インデマレーズ" de="Indi-Malaise" fr="Indi-Malaise" />
-  <o id="468" recast="48" en="Indi-Slip" ja="インデスリップ" de="Indi-Sturz" fr="Indi-Maladresse" />
-  <o id="469" recast="48" en="Indi-Torpor" ja="インデトーパー" de="Indi-Starre" fr="Indi-Torpeur" />
-  <o id="470" recast="48" en="Indi-Vex" ja="インデヴェックス" de="Indi-Irritation" fr="Indi-Dispersion" />
-  <o id="471" recast="48" en="Indi-Languor" ja="インデランゴール" de="Indi-Ermattung" fr="Indi-Langueur" />
-  <o id="472" recast="48" en="Indi-Slow" ja="インデスロウ" de="Indi-Gemach" fr="Indi-Lenteur" />
-  <o id="473" recast="48" en="Indi-Paralysis" ja="インデパライズ" de="Indi-Paralyse" fr="Indi-Paralysie" />
-  <o id="474" recast="48" en="Indi-Gravity" ja="インデグラビデ" de="Indi-Schwerkraft" fr="Indi-Pesanteur" />
-  <o id="475" recast="48" en="Geo-Regen" ja="ジオリジェネ" de="Geo-Regenerieren" fr="Géo-Récup" />
-  <o id="476" recast="48" en="Geo-Poison" ja="ジオポイズン" de="Geo-Gift" fr="Géo-Poison" />
-  <o id="477" recast="48" en="Geo-Refresh" ja="ジオリフレシュ" de="Geo-Erfrischen" fr="Géo-Recharge" />
-  <o id="478" recast="48" en="Geo-Haste" ja="ジオヘイスト" de="." fr="." />
-  <o id="479" recast="48" en="Geo-STR" ja="ジオスト" de="Geo-STR" fr="Géo-STR" />
-  <o id="480" recast="48" en="Geo-DEX" ja="ジオデック" de="Geo-DEX" fr="Géo-DEX" />
-  <o id="481" recast="48" en="Geo-VIT" ja="ジオバイト" de="Geo-VIT" fr="Géo-VIT" />
-  <o id="482" recast="48" en="Geo-AGI" ja="ジオアジル" de="Geo-AGI" fr="Géo-AGI" />
-  <o id="483" recast="48" en="Geo-INT" ja="ジオイン" de="Geo-INT" fr="Géo-INT" />
-  <o id="484" recast="48" en="Geo-MND" ja="ジオマイン" de="Geo-MND" fr="Géo-MND" />
-  <o id="485" recast="48" en="Geo-CHR" ja="ジオカリス" de="Geo-CHR" fr="Géo-CHR" />
-  <o id="486" recast="48" en="Geo-Fury" ja="ジオフューリー" de="Geo-Furor" fr="Géo-Fureur" />
-  <o id="487" recast="48" en="Geo-Barrier" ja="ジオバリア" de="Geo-Barriere" fr="Géo-Défense" />
-  <o id="488" recast="48" en="Geo-Acumen" ja="ジオアキュメン" de="Geo-Esprit" fr="Géo-Sagacité" />
-  <o id="489" recast="48" en="Geo-Fend" ja="ジオフェンド" de="Geo-Fürsorge" fr="Géo-Sagesse" />
-  <o id="490" recast="48" en="Geo-Precision" ja="ジオプレサイス" de="Geo-Akribie" fr="Géo-Habileté" />
-  <o id="491" recast="48" en="Geo-Voidance" ja="ジオヴォイダンス" de="Geo-Reflex" fr="Géo-Dérobade" />
-  <o id="492" recast="48" en="Geo-Focus" ja="ジオフォーカス" de="Geo-Fokus" fr="Géo-Focus" />
-  <o id="493" recast="48" en="Geo-Attunement" ja="ジオアトゥーン" de="Geo-Anpassung" fr="Géo-Harmonie" />
-  <o id="494" recast="48" en="Geo-Wilt" ja="ジオウィルト" de="Geo-Ermüdung" fr="Géo-Faiblesse" />
-  <o id="495" recast="48" en="Geo-Frailty" ja="ジオフレイル" de="Geo-Fragilität" fr="Géo-Fragilité" />
-  <o id="496" recast="48" en="Geo-Fade" ja="ジオフェイド" de="Geo-Schwund" fr="Géo-Déficience" />
-  <o id="497" recast="48" en="Geo-Malaise" ja="ジオマレーズ" de="Geo-Malaise" fr="Géo-Malaise" />
-  <o id="498" recast="48" en="Geo-Slip" ja="ジオスリップ" de="Geo-Sturz" fr="Géo-Maladresse" />
-  <o id="499" recast="48" en="Geo-Torpor" ja="ジオトーパー" de="Geo-Starre" fr="Géo-Torpeur" />
-  <o id="500" recast="48" en="Geo-Vex" ja="ジオヴェックス" de="Geo-Irritation" fr="Géo-Dispersion" />
-  <o id="501" recast="48" en="Geo-Languor" ja="ジオランゴール" de="Geo-Ermattung" fr="Géo-Langueur" />
-  <o id="502" recast="48" en="Geo-Slow" ja="ジオスロウ" de="Geo-Gemach" fr="Géo-Lenteur" />
-  <o id="503" recast="48" en="Geo-Paralysis" ja="ジオパライズ" de="Geo-Paralyse" fr="Géo-Paralysie" />
-  <o id="504" recast="48" en="Geo-Gravity" ja="ジオグラビデ" de="Geo-Schwerkraft" fr="Géo-Pesanteur" />
-  <o id="512" recast="26" en="Foot Kick" ja="フットキック" de="Fußtritt" fr="Coup de patte" />
-  <o id="513" recast="29" en="Power Attack" ja="パワーアタック" de="Kraft-Attacke" fr="Attaque en force" />
-  <o id="514" recast="29" en="Sprout Smack" ja="スプラウトスマック" de="Sprossenklatsche" fr="Germe gifleur" />
-  <o id="515" recast="29" en="Wild Oats" ja="種まき" de="Wilder Hafer" fr="Germination" />
-  <o id="516" recast="60" en="Queasyshroom" ja="マヨイタケ" de="Übelpilz" fr="Champi-nausée" />
-  <o id="517" recast="40" en="Battle Dance" ja="バトルダンス" de="Kriegstanz" fr="Danse de combat" />
-  <o id="518" recast="40" en="Head Butt" ja="ヘッドバット" de="Kopfnuss" fr="Coup de tête" />
-  <o id="519" recast="40" en="Feather Storm" ja="羽根吹雪" de="Federsturm" fr="Déluge de plumes" />
-  <o id="520" recast="45" en="Helldive" ja="ヘルダイブ" de="Höllentaucher" fr="Plongée en enfer" />
-  <o id="521" recast="47" en="Bludgeon" ja="メッタ打ち" de="Knüppel" fr="Matraque" />
-  <o id="522" recast="79" en="Claw Cyclone" ja="クローサイクロン" de="Klauenwirbel" fr="Cyclone griffu" />
-  <o id="523" recast="56" en="Screwdriver" ja="S.ドライバー" de="Schraubenzieher" fr="Tournevis" />
-  <o id="524" recast="57" en="Grand Slam" ja="グランドスラム" de="Grand Slam" fr="Grande claque" />
-  <o id="525" recast="52" en="Smite of Rage" ja="怒りの一撃" de="Schlag des Zorns" fr="Coup de rage" />
-  <o id="526" recast="106" en="Pinecone Bomb" ja="まつぼっくり爆弾" de="Kienappel-Bombe" fr="Bombe conifère" />
-  <o id="528" recast="92" en="Jet Stream" ja="ジェットストリーム" de="Düsenstrahl" fr="Jet-stream" />
-  <o id="529" recast="71" en="Uppercut" ja="アッパーカット" de="Uppercut" fr="Uppercut" />
-  <o id="530" recast="84" en="Terror Touch" ja="テラータッチ" de="Terrorberührung" fr="Toucher de terreur" />
-  <o id="531" recast="77" en="Mandibular Bite" ja="M.バイト" de="Mandibeln-Biss" fr="Mandibule" />
-  <o id="532" recast="81" en="Sickle Slash" ja="シックルスラッシュ" de="Sichelhieb" fr="Entaille de faucille" />
-  <o id="533" recast="98" en="Death Scissors" ja="デスシザース" de="Todesscheren" fr="Ciseaux mortels" />
-  <o id="534" recast="95" en="Dimensional Death" ja="次元殺" de="Dimensionaler Fluch" fr="Distorsion fatale" />
-  <o id="535" recast="180" en="Spiral Spin" ja="スパイラルスピン" de="Spiral-Angriff" fr="Vrille tournoyante" />
-  <o id="536" recast="144" en="Seedspray" ja="シードスプレー" de="Sporenspray" fr="Crachat de graines" />
-  <o id="537" recast="111" en="Body Slam" ja="ボディプレス" de="Bodyslam" fr="Charge physique" />
-  <o id="538" recast="114" en="Spinal Cleave" ja="スパイナルクリーブ" de="Gratspalter" fr="Taillade spinale" />
-  <o id="539" recast="114" en="Frenetic Rip" ja="F.リップ" de="Frenetischer Riss" fr="Griffes effrénées" />
-  <o id="540" recast="104" en="Frypan" ja="フライパン" de="Bratpfanne" fr="Poêle à frire" />
-  <o id="541" recast="104" en="Hydro Shot" ja="ハイドロショット" de="Hydro-Schuss" fr="Hydro-coup" />
-  <o id="542" recast="114" en="Tail Slap" ja="テールスラップ" de="Schweifklapser" fr="Gifle caudale" />
-  <o id="543" recast="114" en="Hysteric Barrage" ja="H.バラージ" de="Hysterische Sperre" fr="Assaut hystérique" />
-  <o id="544" recast="114" en="Cannonball" ja="キャノンボール" de="Kanonenkugel" fr="Canon" />
-  <o id="545" recast="240" en="Asuran Claws" ja="アシュラクロー" de="Asura-Klauen" fr="Griffes d'Asura" />
-  <o id="546" recast="131" en="Disseverment" ja="ディセバーメント" de="Abtrennung" fr="Ecartèlement" />
-  <o id="547" recast="131" en="Sub-zero Smash" ja="サブゼロスマッシュ" de="Unter-Null-Schlag" fr="Cryo-impact" />
-  <o id="548" recast="139" en="Ram Charge" ja="ラムチャージ" de="Widderangriff" fr="Coup du bélier" />
-  <o id="549" recast="149" en="Vertical Cleave" ja="バーチカルクリーヴ" de="Vertikale Zerteilung" fr="Fente verticale" />
-  <o id="550" recast="44" en="Final Sting" ja="ファイナルスピア" de="Letzter Stich" fr="Dernier dard" />
-  <o id="551" recast="102" en="Goblin Rush" ja="ゴブリンラッシュ" de="Goblin-Rausch" fr="Charge du Goblin" />
-  <o id="552" recast="169" en="Vanity Dive" ja="バニティダイブ" de="Eitelk.-Abtauch." fr="Plongée vanités" />
-  <o id="553" recast="124" en="Whirl of Rage" ja="怒りの旋風" de="Wirbel d. Zorns" fr="Tourbillon fureur" />
-  <o id="554" recast="192" en="Benthic Typhoon" ja="ベンシクタイフーン" de="Benth. Taifun" fr="Typh. benthique" />
-  <o id="555" recast="127" en="Quad. Continuum" ja="四連突" de="Quadr. Kont." fr="Continuum quad." />
-  <o id="556" recast="163" en="Empty Thrash" ja="エンプティスラッシュ" de="Leere Prügel" fr="Rossée du néant" />
-  <o id="557" recast="60" en="Delta Thrust" ja="デルタスラスト" de="Delta-Stich" fr="Morsure triang." />
-  <o id="558" recast="112" en="Heavy Strike" ja="重い一撃" de="Schwerer Schlag" fr="Frappe lourde" />
-  <o id="559" recast="60" en="Sudden Lunge" ja="サドンランジ" de="Plötzlicher Satz" fr="Piqué brutal" />
-  <o id="560" recast="170" en="Quadrastrike" ja="クアドラストライク" de="Vierfach-Schlag" fr="Quadra-frappe" />
-  <o id="561" recast="233" en="Amorphic Spikes" ja="槍玉" de="Amorphe Stacheln" fr="Point. amorphes" />
-  <o id="562" recast="88" en="Barbed Crescent" ja="偃月刃" de="Stachel-Halbmond" fr="Croissant barbelé" />
-  <o id="563" recast="60" en="Paralyzing Triad" ja="パラライズトライアド" de="Lähmende Triade" fr="Triade paralys." />
-  <o id="564" recast="24" en="Glutinous Dart" ja="グルーティナスダート" de="Klebriger Pfeil" fr="Dard glutineux" />
-  <o id="565" recast="240" en="Thrashing Assault" ja="S.アッサルト" de="jet-stream-attack" fr="jet-stream-attack" />
-  <o id="591" recast="60" en="Blastbomb" ja="炸裂弾" de="Druckwellen-Bombe" fr="Obus" />
-  <o id="592" recast="98" en="Bomb Toss" ja="爆弾投げ" de="Bombenwurf" fr="Lancer de bombe" />
-  <o id="593" recast="120" en="Sound Blast" ja="サウンドブラスト" de="Schallstoß" fr="Rafale de son" />
-  <o id="594" recast="84" en="Self-Destruct" ja="自爆" de="Selbstzerstörung" fr="Auto-destruction" />
-  <o id="595" recast="171" en="Firespit" ja="ファイアースピット" de="Feuerspucke" fr="Crachat embrasé" />
-  <o id="596" recast="224" en="Lowing" ja="ロウイン" de="Erniedrigung" fr="Beuglement" />
-  <o id="597" recast="196" en="Heat Breath" ja="火炎の息" de="Hitzeatem" fr="Souffle chaud" />
-  <o id="598" recast="104" en="Triumphant Roar" ja="共鳴" de="Triumphgeheul" fr="Résonance" />
-  <o id="599" recast="240" en="Exuviation" ja="イグジュビエーション" de="Exuviation" fr="Exuviation" />
-  <o id="600" recast="180" en="Blazing Bound" ja="ブレーズバウンド" de="Lodernder Bann" fr="Plongeon ardent" />
-  <o id="601" recast="40" en="Fantod" ja="ファンタッド" de="Fantod" fr="Accès de rage" />
-  <o id="602" recast="32" en="Thermal Pulse" ja="サーマルパルス" de="Thermischer Puls" fr="Pulsat. thermique" />
-  <o id="603" recast="44" en="O. Counterstance" ja="カウンタースタンス" de="Gegenschlag" fr="Qui-vive orque" />
-  <o id="604" recast="240" en="Nat. Meditation" ja="N.メディテイト" de="Stille der Natur" fr="Méditation nat." />
-  <o id="606" recast="135" en="Ice Break" ja="アイスブレイク" de="Eis-Brecher" fr="Rupture de glace" />
-  <o id="607" recast="240" en="Cold Wave" ja="コールドウェーブ" de="Kältewelle" fr="Vague de froid" />
-  <o id="608" recast="224" en="Memento Mori" ja="メメントモーリ" de="Memento Mori" fr="Memento Mori" />
-  <o id="609" recast="240" en="Infrasonics" ja="超低周波" de="Infraschall" fr="Infrasonique" />
-  <o id="610" recast="171" en="Frost Breath" ja="フロストブレス" de="Frostatem" fr="Souffle de glace" />
-  <o id="611" recast="240" en="Reactor Cool" ja="反応炉冷却" de="Reaktorkühler" fr="Cryoréacteur" />
-  <o id="616" recast="60" en="Healing Breeze" ja="いやしの風" de="Heilbrise" fr="Brise curative" />
-  <o id="617" recast="40" en="Chaotic Eye" ja="カオティックアイ" de="Chaosauge" fr="Œil de chaos" />
-  <o id="618" recast="98" en="Mysterious Light" ja="神秘の光" de="Mysteriöses Licht" fr="Eclat mystérieux" />
-  <o id="619" recast="240" en="Stinking Gas" ja="スティンキングガス" de="Stinkgas" fr="Gaz puant" />
-  <o id="620" recast="120" en="Refueling" ja="リフュエリング" de="Auftanken" fr="Ravitaillement" />
-  <o id="621" recast="80" en="Frightful Roar" ja="フライトフルロア" de="Grausames Gebrüll" fr="Grogne effroyable" />
-  <o id="622" recast="135" en="Hecatomb Wave" ja="ヘカトンウェーブ" de="Hecatomb-Welle" fr="Vague hécatombe" />
-  <o id="623" recast="224" en="Feather Barrier" ja="フェザーバリア" de="Federbarriere" fr="Barrière de plumes" />
-  <o id="624" recast="138" en="Flying Hip Press" ja="F.ヒッププレス" de="Sturm-Hüftpresse" fr="Prise aérienne" />
-  <o id="625" recast="104" en="Feather Tickle" ja="フェザーティックル" de="Federkribbeln" fr="Chatouillement" />
-  <o id="626" recast="224" en="Voracious Trunk" ja="吸印" de="Gieriger Rüssel" fr="Trompe vorace" />
-  <o id="627" recast="240" en="Zephyr Mantle" ja="ゼファーマント" de="Zephyr-Mantel" fr="Mante de zéphyr" />
-  <o id="628" recast="4" en="Leafstorm" ja="リーフストーム" de="Blättersturm" fr="Tempête feuilles" />
-  <o id="629" recast="180" en="Animating Wail" ja="鯨波" de="Lebensklage" fr="Plainte encourag." />
-  <o id="630" recast="240" en="Auroral Drape" ja="オーロラルドレープ" de="Dämmervorh." fr="Drapé auroral" />
-  <o id="631" recast="104" en="Occultation" ja="オカルテーション" de="Okkultation" fr="Occultation" />
-  <o id="632" recast="104" en="Reaving Wind" ja="リービンウィンド" de="Plünderschwinge" fr="Vent saccageur" />
-  <o id="633" recast="90" en="White Wind" ja="ホワイトウィンド" de="Weißer Wind" fr="Vent blanc" />
-  <o id="634" recast="118" en="Wind Breath" ja="ウィンドブレス" de="Windatem" fr="Souffle de vent" />
-  <o id="635" recast="48" en="Tem. Upheaval" ja="T.アップヒーヴ" de="Stürm. Emporschn." fr="Battement temp." />
-  <o id="636" recast="20" en="Subduction" ja="サブダックション" de="jet-stream-attack" fr="jet-stream-attack" />
-  <o id="637" recast="180" en="Erratic Flutter" ja="エラチックフラッター" de="jet-stream-attack" fr="jet-stream-attack" />
-  <o id="639" recast="39" en="Sandspin" ja="土竜巻" de="Sandkreisel" fr="Trombe de sable" />
-  <o id="640" recast="240" en="Metallic Body" ja="メタルボディ" de="Metallkörper" fr="Corps métallique" />
-  <o id="641" recast="240" en="Cocoon" ja="コクーン" de="Kokon" fr="Cocon" />
-  <o id="642" recast="117" en="Magnetite Cloud" ja="磁鉄粉" de="Magnetit-Wolke" fr="Nuage magnétique" />
-  <o id="643" recast="80" en="Filamented Hold" ja="F.ホールド" de="Fadenhalt" fr="Prise filandreuse" />
-  <o id="644" recast="224" en="Bad Breath" ja="臭い息" de="Schlechter Atem" fr="Mauvaise haleine" />
-  <o id="645" recast="104" en="Diamondhide" ja="金剛身" de="Diamantenhaut" fr="Peau de diamant" />
-  <o id="646" recast="224" en="Warm-Up" ja="ワームアップ" de="Aufwärmen" fr="Echauffement" />
-  <o id="647" recast="80" en="Cimicine Discharge" ja="C.ディスチャージ" de="Stinkendes Sekret" fr="Transs. polluante" />
-  <o id="648" recast="240" en="Barrier Tusk" ja="牙門" de="Stoßzahnbarriere" fr="Défenses protec." />
-  <o id="649" recast="96" en="Embalming Earth" ja="エンバームアース" de="Erdgrab" fr="Terre embaum." />
-  <o id="651" recast="117" en="Blitzstrahl" ja="B.シュトラール" de="Blitzstrahl" fr="Blitzstrahl" />
-  <o id="652" recast="224" en="Temporal Shift" ja="テンポラルシフト" de="Zeitverschiebung" fr="Décalage temporel" />
-  <o id="653" recast="120" en="Mind Blast" ja="マインドブラスト" de="Gedankenpresse" fr="Explosion mentale" />
-  <o id="654" recast="240" en="Plasma Charge" ja="プラズマチャージ" de="Plasma-Entladung" fr="Charge de plasma" />
-  <o id="655" recast="92" en="Charged Whisker" ja="チャージドホイスカー" de="Gelad. Schnurrhaar" fr="Poil survolté" />
-  <o id="656" recast="192" en="Thunder Breath" ja="サンダーブレス" de="Donneratem" fr="Souffle foudroyant" />
-  <o id="661" recast="78" en="Cursed Sphere" ja="カースドスフィア" de="Fluchkugel" fr="Sphère de maléfice" />
-  <o id="662" recast="78" en="Poison Breath" ja="ポイズンブレス" de="Giftatem" fr="Haleine souillée" />
-  <o id="663" recast="180" en="Venom Shell" ja="ベノムシェル" de="Gifthülle" fr="Conque de venin" />
-  <o id="664" recast="240" en="Awful Eye" ja="アーフルアイ" de="Furchtbares Auge" fr="Œil damné" />
-  <o id="665" recast="156" en="Maelstrom" ja="メイルシュトロム" de="Maelstrom" fr="Maëlstrom" />
-  <o id="666" recast="120" en="Corrosive Ooze" ja="コローシブウーズ" de="Säureschleim" fr="Mucus corrosif" />
-  <o id="667" recast="98" en="Regurgitation" ja="リガージテーション" de="Erbrechen" fr="Régurgitation" />
-  <o id="668" recast="224" en="Amplification" ja="ねたみ種" de="Verstärkerfeld" fr="Amplification" />
-  <o id="669" recast="92" en="Acrid Stream" ja="アクリッドストリーム" de="Beißender Strom" fr="Projection âcre" />
-  <o id="670" recast="100" en="Demoralizing Roar" ja="D.ロア" de="Demoral. Gebrüll" fr="Rug. démoralisant" />
-  <o id="671" recast="129" en="Water Bomb" ja="水風船爆弾" de="Wasserbombe" fr="Bombe à eau" />
-  <o id="672" recast="76" en="Vapor Spray" ja="ヴェイパースプレー" de="Dampfspray" fr="Spray de vapeur" />
-  <o id="673" recast="140" en="Rending Deluge" ja="R.デルージュ" de="Zerr. Wasserstoß" fr="Déluge déchir." />
-  <o id="674" recast="240" en="Foul Waters" ja="ファウルウォーター" de="Brackwasser" fr="Eaux usées" />
-  <o id="676" recast="20" en="Pollen" ja="花粉" de="Pollen" fr="Pollen" />
-  <o id="677" recast="240" en="Sheep Song" ja="シープソング" de="Schaflied" fr="Chant ovin" />
-  <o id="678" recast="24" en="Wild Carrot" ja="ワイルドカロット" de="Wilde Möhre" fr="Carotte sauvage" />
-  <o id="679" recast="40" en="Blank Gaze" ja="ブランクゲイズ" de="Leerer Blick" fr="Regard vide" />
-  <o id="680" recast="135" en="Radiant Breath" ja="R.ブレス" de="Strahlenatem" fr="Souffle radiant" />
-  <o id="681" recast="24" en="Magic Fruit" ja="マジックフルーツ" de="Magische Frucht" fr="Fruit magique" />
-  <o id="682" recast="240" en="Light of Penance" ja="贖罪の光" de="Licht der Buße" fr="Lumière pénitence" />
-  <o id="683" recast="224" en="1000 Needles" ja="針千本" de="1000 Nadeln" fr="1000 épines" />
-  <o id="684" recast="240" en="Yawn" ja="ヤーン" de="Gähn" fr="Bâillement" />
-  <o id="685" recast="240" en="Saline Coat" ja="セイリーンコート" de="Salzmantel" fr="Manteau salin" />
-  <o id="686" recast="240" en="Actinic Burst" ja="A.バースト" de="Strahlungsausbruch" fr="Eclat actinique" />
-  <o id="687" recast="208" en="Magic Hammer" ja="マジックハンマー" de="Magischer Hammer" fr="Marteau magique" />
-  <o id="688" recast="48" en="Plenilune Embrace" ja="P.エンブレイス" de="Mondsucht" fr="Onction pleine lune" />
-  <o id="689" recast="240" en="Regeneration" ja="リジェネレーション" de="Regenerierung" fr="Régénération" />
-  <o id="690" recast="44" en="Battery Charge" ja="バッテリーチャージ" de="Batterieladung" fr="Rechargement" />
-  <o id="691" recast="70" en="Winds of Promy." ja="虚無の風" de="Promyvion-Winde" fr="Vents Promyvion" />
-  <o id="692" recast="180" en="Retinal Glare" ja="レテナグレア" de="Auge des Zorns" fr="Regard rétinien" />
-  <o id="696" recast="104" en="Blood Drain" ja="吸血" de="Blutsauger" fr="Suceur de sang" />
-  <o id="697" recast="104" en="Soporific" ja="サペリフィック" de="Einschläfern" fr="Somnifère" />
-  <o id="698" recast="117" en="Death Ray" ja="デスレイ" de="Todesstrahl" fr="Rayon de la mort" />
-  <o id="699" recast="104" en="Digest" ja="消化" de="Extrakt" fr="Digestion" />
-  <o id="700" recast="104" en="MP Drainkiss" ja="MP吸収キッス" de="MP-Vampirkuss" fr="Succion de MP" />
-  <o id="701" recast="120" en="Geist Wall" ja="ガイストウォール" de="Geisterwand" fr="Mur Geist" />
-  <o id="702" recast="104" en="Blood Saber" ja="ブラッドセイバー" de="Blutsäbel" fr="Sabre ensanglanté" />
-  <o id="703" recast="224" en="Jettatura" ja="ジェタチュラ" de="Jettatura" fr="Jettatura" />
-  <o id="704" recast="117" en="Eyes On Me" ja="アイズオンミー" de="Augen auf mich" fr="Eyes On Me" />
-  <o id="705" recast="104" en="Sandspray" ja="サンドスプレー" de="Sandsprüher" fr="Aspersion de sable" />
-  <o id="706" recast="240" en="Enervation" ja="吶喊" de="Entkräftung" fr="Amollissement" />
-  <o id="707" recast="240" en="Magic Barrier" ja="マジックバリア" de="Mag. Barriere" fr="Barrière magique" />
-  <o id="708" recast="224" en="Osmosis" ja="オスモーシス" de="Seelensog" fr="Osmose" />
-  <o id="709" recast="180" en="Dream Flower" ja="夢想花" de="Traumblume" fr="Fleur de rêves" />
-  <o id="710" recast="74" en="Evryone. Grudge" ja="みんなの怨み" de="Keine Widerrede" fr="Rancune collect." />
-  <o id="711" recast="88" en="Mortal Ray" ja="モータルレイ" de="Tödlicher Strahl" fr="Rayon mortel" />
-  <o id="712" recast="32" en="Dark Orb" ja="ダークオーブ" de="Dunkle Sphäre" fr="Orbe noir" />
-  <o id="736" recast="120" en="Tourbillion" ja="トゥールビヨン" de="Tourbillion" fr="Tourbillon" />
-  <o id="737" recast="120" en="Bilgestorm" ja="ビルジストーム" de="Bilgensturm" fr="Déluge putride" />
-  <o id="738" recast="120" en="Bloodrake" ja="ブラッドレイク" de="Blutharke" fr="Succion sang" />
-  <o id="742" recast="120" en="Gates of Hades" ja="ゲーツオブハデス" de="Tor des Hades" fr="Portes d'Hadès" />
-  <o id="744" recast="120" en="Carcharian Verve" ja="カルカリアンヴァーヴ" de="Carchar.-Schwung" fr="Verve carchar." />
-  <o id="746" recast="120" en="Droning Whirlwind" ja="D.ワールウィンド" de="Surrender Sturm" fr="Tourbillon bourd." />
-  <o id="748" recast="120" en="Harden Shell" ja="甲羅強化" de="Harte Schale" fr="Durcis. coquille" />
-  <o id="750" recast="120" en="Thunderbolt" ja="サンダーボルト" de="Donnerkeil" fr="Traits de foudre" />
-  <o id="752" recast="120" en="Pyric Bulwark" ja="ポーラーブルワーク" de="Hitzebollwerk" fr="Remp. pyrogène" />
-  <o id="754" recast="120" en="Absolute Terror" ja="アブソルートテラー" de="Absoluter Terror" fr="Terreur absolue" />
-  <o id="755" recast="120" en="Blistering Roar" ja="ブリスターローア" de="Brennendes Brüllen" fr="Rugissement tor." />
-  <o id="768" recast="96" en="Foe Requiem" ja="魔物のレクイエム" de="Feindesrequiem" fr="Requiem ennemi" />
-  <o id="769" recast="96" en="Foe Requiem II" ja="魔物のレクイエムII" de="Feindesrequiem II" fr="Requiem ennemi II" />
-  <o id="770" recast="96" en="Foe Requiem III" ja="魔物のレクイエムIII" de="Feindesrequiem III" fr="Requiem ennemi III" />
-  <o id="771" recast="96" en="Foe Requiem IV" ja="魔物のレクイエムIV" de="Feindesrequiem IV" fr="Requiem ennemi IV" />
-  <o id="772" recast="96" en="Foe Requiem V" ja="魔物のレクイエムV" de="Feindesrequiem V" fr="Requiem ennemi V" />
-  <o id="773" recast="96" en="Foe Requiem VI" ja="魔物のレクイエムVI" de="Feindesrequiem VI" fr="Requiem ennemi VI" />
-  <o id="774" recast="96" en="Foe Requiem VII" ja="魔物のレクイエムVII" de="Feindesrequiem VII" fr="Requ. ennemi VII" />
-  <o id="775" recast="96" en="Foe Requiem VIII" ja="魔物のレクイエムVIII" de="Feindesrequiem VIII" fr="Requ. ennemi VIII" />
-  <o id="776" recast="96" en="Foe Lullaby" ja="魔物のララバイ" de="Feind.-Wiegenlied" fr="Berceuse hostile" />
-  <o id="777" recast="96" en="Foe Lullaby II" ja="魔物のララバイII" de="Feind.-Wiegenl. II" fr="Berc. hostile II" />
-  <o id="778" recast="96" en="Horde Lullaby" ja="魔物達のララバイ" de="Wiegenl. d. Horde" fr="Berceuse du clan" />
-  <o id="779" recast="96" en="Horde Lullaby II" ja="魔物達のララバイII" de="Wiegenl. d. Horde II" fr="Berc. du clan II" />
-  <o id="780" recast="96" en="Army's Paeon" ja="戦士達のピーアン" de="Armee-Paeon" fr="Péan martial" />
-  <o id="781" recast="96" en="Army's Paeon II" ja="戦士達のピーアンII" de="Armee-Paeon II" fr="Péan martial II" />
-  <o id="782" recast="96" en="Army's Paeon III" ja="戦士達のピーアンIII" de="Armee-Paeon III" fr="Péan martial III" />
-  <o id="783" recast="96" en="Army's Paeon IV" ja="戦士達のピーアンIV" de="Armee-Paeon IV" fr="Péan martial IV" />
-  <o id="784" recast="96" en="Army's Paeon V" ja="戦士達のピーアンV" de="Armee-Paeon V" fr="Péan martial V" />
-  <o id="785" recast="96" en="Army's Paeon VI" ja="戦士達のピーアンVI" de="Armee-Paeon VI" fr="Péan martial VI" />
-  <o id="786" recast="96" en="Army's Paeon VII" ja="戦士達のピーアンVII" de="Armee-Paeon VII" fr="Péan martial VII" />
-  <o id="787" recast="96" en="Army's Paeon VIII" ja="戦士達のピーアンVIII" de="Armee-Paeon VIII" fr="Péan martial VIII" />
-  <o id="788" recast="96" en="Mage's Ballad" ja="魔道士のバラード" de="Magier-Ballade" fr="Ballade du mage" />
-  <o id="789" recast="96" en="Mage's Ballad II" ja="魔道士のバラードII" de="Magier-Ballade II" fr="Ball. du mage II" />
-  <o id="790" recast="96" en="Mage's Ballad III" ja="魔道士のバラードIII" de="Magier-Ballade III" fr="Ball. du mage III" />
-  <o id="791" recast="96" en="Knight's Minne" ja="重装騎兵のミンネ" de="Ritter-Minne" fr="Lied du chevalier" />
-  <o id="792" recast="96" en="Knight's Minne II" ja="重装騎兵のミンネII" de="Ritter-Minne II" fr="Lied du chev. II" />
-  <o id="793" recast="96" en="Knight's Minne III" ja="重装騎兵のミンネIII" de="Ritter-Minne III" fr="Lied du chev. III" />
-  <o id="794" recast="96" en="Knight's Minne IV" ja="重装騎兵のミンネIV" de="Ritter-Minne IV" fr="Lied du chev. IV" />
-  <o id="795" recast="96" en="Knight's Minne V" ja="重装騎兵のミンネV" de="Ritter-Minne V" fr="Lied du chev. V" />
-  <o id="796" recast="96" en="Valor Minuet" ja="猛者のメヌエット" de="Mut-Menuett" fr="Menuet vaillant" />
-  <o id="797" recast="96" en="Valor Minuet II" ja="猛者のメヌエットII" de="Mut-Menuett II" fr="Menuet vaillant II" />
-  <o id="798" recast="96" en="Valor Minuet III" ja="猛者のメヌエットIII" de="Mut-Menuett III" fr="Menuet vaillant III" />
-  <o id="799" recast="96" en="Valor Minuet IV" ja="猛者のメヌエットIV" de="Mut-Menuett IV" fr="Menuet vaillant IV" />
-  <o id="800" recast="96" en="Valor Minuet V" ja="猛者のメヌエットV" de="Mut-Menuett V" fr="Menuet vaillant V" />
-  <o id="801" recast="96" en="Sword Madrigal" ja="剣闘士のマドリガル" de="Schwert-Madrigal" fr="Madrigal épéiste" />
-  <o id="802" recast="96" en="Blade Madrigal" ja="剣豪のマドリガル" de="Klingen-Madrigal" fr="Madrigal du duel" />
-  <o id="803" recast="96" en="Hunter's Prelude" ja="狩人のプレリュード" de="Jäger-Prolog" fr="Prélude chasseur" />
-  <o id="804" recast="96" en="Archer's Prelude" ja="弓師のプレリュード" de="Schützen-Prolog" fr="Prélude archer" />
-  <o id="805" recast="96" en="Sheepfoe Mambo" ja="闘羊士のマンボ" de="Schaf-Mambo" fr="Mambo du berger" />
-  <o id="806" recast="96" en="Dragonfoe Mambo" ja="闘龍士のマンボ" de="Drachen-Mambo" fr="Mambo du dragon" />
-  <o id="807" recast="96" en="Fowl Aubade" ja="鶏のオーバード" de="Perlhuhn-Aubade" fr="Aubade des ailes" />
-  <o id="808" recast="96" en="Herb Pastoral" ja="薬草のパストラル" de="Kräuter-Psalm" fr="Past. des simples" />
-  <o id="809" recast="96" en="Chocobo Hum" ja="チョコボのハミング" de="Chocobo-Summen" fr="Chant chocobo" />
-  <o id="810" recast="96" en="Shining Fantasia" ja="光明のファンタジア" de="Glanzfantasia" fr="Fantaisie brillante" />
-  <o id="811" recast="96" en="Scop's Operetta" ja="小話のオペレッタ" de="Scop-Operette" fr="Opérette du barde" />
-  <o id="812" recast="96" en="Puppet's Operetta" ja="腹話のオペレッタ" de="Puppen-Operette" fr="Opérette du pantin" />
-  <o id="813" recast="96" en="Jester's Operetta" ja="道化のオペレッタ" de="Narren-Operette" fr="Opér. du bouffon" />
-  <o id="814" recast="96" en="Gold Capriccio" ja="黄金のカプリチオ" de="Gold-Capriccio" fr="Capriccio d'or" />
-  <o id="815" recast="96" en="Devotee Serenade" ja="献身のセレナーデ" de="Jünger-Serenade" fr="Sérén. fervente" />
-  <o id="816" recast="96" en="Warding Round" ja="破邪のロンド" de="Antifluch-Rondo" fr="Rondo du gardien" />
-  <o id="817" recast="96" en="Goblin Gavotte" ja="ゴブリンのガボット" de="Goblin-Gavotte" fr="Gavotte gobline" />
-  <o id="818" recast="96" en="Cactuar Fugue" ja="サボテンダーフーガ" de="Cactuar-Fuge" fr="Fugue du cactuar" />
-  <o id="819" recast="96" en="Moogle Rhapsody" ja="モーグリのラプソディ" de="Moogle-Rhapsodie" fr="Rhapsodie moogle" />
-  <o id="820" recast="96" en="Protected Aria" ja="冷静と情熱のアリア" de="Arie des Schutzes" fr="Aria de protection" />
-  <o id="821" recast="96" en="Advancing March" ja="無敵の進撃マーチ" de="Fortschritts-Marsch" fr="Marche d'entrain" />
-  <o id="822" recast="96" en="Victory March" ja="栄光の凱旋マーチ" de="Sieges-Marsch" fr="Marche glorieuse" />
-  <o id="824" recast="96" en="Battlefield Elegy" ja="戦場のエレジー" de="Schlachtfeld-Elegie" fr="Elégie du combat" />
-  <o id="825" recast="96" en="Carnage Elegy" ja="修羅のエレジー" de="Gemetzel-Elegie" fr="Elégie du carnage" />
-  <o id="826" recast="96" en="Massacre Elegy" ja="地獄のエレジー" de="Höllen-Elegie" fr="Elég. du massacre" />
-  <o id="827" recast="96" en="Sinewy Etude" ja="剛力のエチュード" de="Sehnige Etüde" fr="Etude inflexible" />
-  <o id="828" recast="96" en="Dextrous Etude" ja="器用のエチュード" de="Geschickte Etüde" fr="Etude agile" />
-  <o id="829" recast="96" en="Vivacious Etude" ja="元気のエチュード" de="Lebhafte Etüde" fr="Etude vivace" />
-  <o id="830" recast="96" en="Quick Etude" ja="機敏のエチュード" de="Schnelle Etüde" fr="Etude prompte" />
-  <o id="831" recast="96" en="Learned Etude" ja="知恵のエチュード" de="Lehrreiche Etüde" fr="Etude savante" />
-  <o id="832" recast="96" en="Spirited Etude" ja="精神のエチュード" de="Feurige Etüde" fr="Etude spirituelle" />
-  <o id="833" recast="96" en="Enchanting Etude" ja="魅了のエチュード" de="Verzaub. Etüde" fr="Etude enchantée" />
-  <o id="834" recast="96" en="Herculean Etude" ja="怪力のエチュード" de="Herkules-Etüde" fr="Etude herculéenne" />
-  <o id="835" recast="96" en="Uncanny Etude" ja="妙技のエチュード" de="Unheiml. Etüde" fr="Etude habile" />
-  <o id="836" recast="96" en="Vital Etude" ja="活力のエチュード" de="Lebendige Etüde" fr="Etude vitale" />
-  <o id="837" recast="96" en="Swift Etude" ja="俊敏のエチュード" de="Flinke Etüde" fr="Etude rapide" />
-  <o id="838" recast="96" en="Sage Etude" ja="英知のエチュード" de="Kluge Etüde" fr="Etude sage" />
-  <o id="839" recast="96" en="Logical Etude" ja="理力のエチュード" de="Logische Etüde" fr="Etude logique" />
-  <o id="840" recast="96" en="Bewitching Etude" ja="魅惑のエチュード" de="Verhexende Etüde" fr="Et. ensorcelante" />
-  <o id="841" recast="96" en="Fire Carol" ja="耐火カロル第一楽章" de="Feuer-Gesang" fr="Cantique de feu" />
-  <o id="842" recast="96" en="Ice Carol" ja="耐寒カロル第一楽章" de="Eis-Gesang" fr="Cantique de glace" />
-  <o id="843" recast="96" en="Wind Carol" ja="耐風カロル第一楽章" de="Wind-Gesang" fr="Cantique de vent" />
-  <o id="844" recast="96" en="Earth Carol" ja="耐震カロル第一楽章" de="Erden-Gesang" fr="Cantique de terre" />
-  <o id="845" recast="96" en="Lightning Carol" ja="耐電カロル第一楽章" de="Blitz-Gesang" fr="Cant. de foudre" />
-  <o id="846" recast="96" en="Water Carol" ja="耐波カロル第一楽章" de="Wasser-Gesang" fr="Cantique d'eau" />
-  <o id="847" recast="96" en="Light Carol" ja="耐光カロル第一楽章" de="Licht-Gesang" fr="Cantique lumière" />
-  <o id="848" recast="96" en="Dark Carol" ja="耐闇カロル第一楽章" de="Dunkel-Gesang" fr="Cant. ténèbres" />
-  <o id="849" recast="96" en="Fire Carol II" ja="耐火カロル第二楽章" de="Feuer-Gesang II" fr="Cantique de feu II" />
-  <o id="850" recast="96" en="Ice Carol II" ja="耐寒カロル第二楽章" de="Eis-Gesang II" fr="Cant. de glace II" />
-  <o id="851" recast="96" en="Wind Carol II" ja="耐風カロル第二楽章" de="Wind-Gesang II" fr="Cant. de vent II" />
-  <o id="852" recast="96" en="Earth Carol II" ja="耐震カロル第二楽章" de="Erden-Gesang II" fr="Cant. de terre II" />
-  <o id="853" recast="96" en="Lightning Carol II" ja="耐電カロル第二楽章" de="Blitz-Gesang II" fr="Cant. de foudre II" />
-  <o id="854" recast="96" en="Water Carol II" ja="耐波カロル第二楽章" de="Wasser-Gesang II" fr="Cantique d'eau II" />
-  <o id="855" recast="96" en="Light Carol II" ja="耐光カロル第二楽章" de="Licht-Gesang II" fr="Cant. lumière II" />
-  <o id="856" recast="96" en="Dark Carol II" ja="耐闇カロル第二楽章" de="Dunkel-Gesang II" fr="Cant. ténèbres II" />
-  <o id="857" recast="96" en="Fire Threnody" ja="炎のスレノディ" de="Feuer-Threnodie" fr="Thrène de feu" />
-  <o id="858" recast="96" en="Ice Threnody" ja="氷のスレノディ" de="Eis-Threnodie" fr="Thrène de glace" />
-  <o id="859" recast="96" en="Wind Threnody" ja="風のスレノディ" de="Wind-Threnodie" fr="Thrène de vent" />
-  <o id="860" recast="96" en="Earth Threnody" ja="土のスレノディ" de="Erden-Threnodie" fr="Thrène de terre" />
-  <o id="861" recast="96" en="Ltng. Threnody" ja="雷のスレノディ" de="Blitz-Threnodie" fr="Thrène de foudre" />
-  <o id="862" recast="96" en="Water Threnody" ja="水のスレノディ" de="Wasser-Threnodie" fr="Thrène d'eau" />
-  <o id="863" recast="96" en="Light Threnody" ja="光のスレノディ" de="Licht-Threnodie" fr="Thr. de lumière" />
-  <o id="864" recast="96" en="Dark Threnody" ja="闇のスレノディ" de="Dunkel-Threnodie" fr="Thr. des ténèbres" />
-  <o id="865" recast="96" en="Magic Finale" ja="魔法のフィナーレ" de="Magisches Finale" fr="Finale magique" />
-  <o id="866" recast="96" en="Goddess's Hymnus" ja="女神のヒムヌス" de="Hymne der Göttin" fr="Hymne divin" />
-  <o id="867" recast="96" en="Raptor Mazurka" ja="ラプトルのマズルカ" de="Raptor-Mazurka" fr="Mazurka raptor" />
-  <o id="868" recast="240" en="Chocobo Mazurka" ja="チョコボのマズルカ" de="Chocobo-Mazurka" fr="Mazurka chocobo" />
-  <o id="869" recast="240" en="Maiden's Virelai" ja="乙女のヴィルレー" de="Jungfr.-Virelai" fr="Virelai inaugural" />
-  <o id="870" recast="96" en="Foe Sirvente" ja="魔物のシルベント" de="Feindes-Sirvente" fr="Sirvente ennemi" />
-  <o id="871" recast="96" en="Adventurer's Dirge" ja="冒険者のダージュ" de="Abent.-Klagelied" fr="Mélopée amie" />
-  <o id="872" recast="96" en="Sentinel's Scherzo" ja="警戒のスケルツォ" de="Wächter-Scherzo" fr="Scherzo sentinelle" />
-  <o id="873" recast="96" en="Pining Nocturne" ja="恋情のノクターン" de="Sehnsucht-Nocturne" fr="Noct. languissant" />
-  <o id="880" recast="80" en="Paralyga" ja="パライガ" de="Paralyga" fr="OmniParalysie" />
-  <o id="881" recast="120" en="Slowga" ja="スロウガ" de="Gemachga" fr="OmniLenteur" />
-  <o id="882" recast="120" en="Hastega" ja="ヘイスガ" de="Hastga" fr="OmniHâte" />
-  <o id="883" recast="80" en="Silencega" ja="サイレガ" de="Schweiga" fr="OmniSilence" />
-  <o id="884" recast="240" en="Dispelga" ja="ディスペガ" de="Entzauberga" fr="OmniDissipation" />
-  <o id="885" recast="80" en="Blindga" ja="ブライガ" de="Blindga" fr="OmniCécité" />
-  <o id="886" recast="200" en="Bindga" ja="バインガ" de="Fesselga" fr="OmniEntrave" />
-  <o id="887" recast="160" en="Sleepga" ja="スリプガ" de="Schlafga" fr="OmniSommeil" />
-  <o id="888" recast="200" en="Sleepga II" ja="スリプガII" de="Schlafga II" fr="OmniSommeil II" />
-  <o id="889" recast="240" en="Graviga" ja="グラビガ" de="Schwerkraftga" fr="OmniPesanteur" />
-  <o id="890" recast="40" en="Death" ja="デス" de="Tod" fr="Mort" />
-  <o id="892" recast="208" en="Meteor II" ja="メテオII" de="Meteor II" fr="Météore II" />
-  <o id="893" recast="40" en="Virus" ja="ウィルス" de="Viren" fr="Virus" />
-  <o id="894" recast="40" en="Curse" ja="カーズ" de="Fluch" fr="Maléfice" />
-  <o id="896" recast="192" en="Shantotto" ja="シャントット" de="Shantotto" fr="Shantotto" />
-  <o id="897" recast="192" en="Naji" ja="ナジ" de="Naji" fr="Naji" />
-  <o id="898" recast="192" en="Kupipi" ja="クピピ" de="Kupipi" fr="Kupipi" />
-  <o id="899" recast="192" en="Excenmille" ja="エグセニミル" de="Excenmille" fr="Excenmille" />
-  <o id="900" recast="192" en="Ayame" ja="アヤメ" de="Ayame" fr="Ayame" />
-  <o id="901" recast="192" en="Nanaa Mihgo" ja="ナナー・ミーゴ" de="Nanaa Mihgo" fr="Nanaa Mihgo" />
-  <o id="902" recast="192" en="Curilla" ja="クリルラ" de="Curilla" fr="Curilla" />
-  <o id="903" recast="192" en="Volker" ja="フォルカー" de="Volker" fr="Volker" />
-  <o id="904" recast="192" en="Ajido-Marujido" ja="アジドマルジド" de="Ajido-Marujido" fr="Ajido-Marujido" />
-  <o id="905" recast="192" en="Trion" ja="トリオン" de="Trion" fr="Trion" />
-  <o id="906" recast="192" en="Zeid" ja="ザイド" de="Zeid" fr="Zeid" />
-  <o id="907" recast="192" en="Lion" ja="ライオン" de="Lion" fr="Lion" />
-  <o id="908" recast="192" en="Tenzen" ja="テンゼン" de="Tenzen" fr="Tenzen" />
-  <o id="909" recast="192" en="Mihli Aliapoh" ja="ミリ・アリアポー" de="Mihli Aliapoh" fr="Mihli Aliapoh" />
-  <o id="910" recast="192" en="Valaineral" ja="ヴァレンラール" de="Valaineral" fr="Valaineral" />
-  <o id="911" recast="192" en="Joachim" ja="ヨアヒム" de="Joachim" fr="Joachim" />
-  <o id="912" recast="192" en="Naja Salaheem" ja="ナジャ・サラヒム" de="Naja Salaheem" fr="Naja Salaheem" />
-  <o id="913" recast="192" en="Prishe" ja="プリッシュ" de="Prishe" fr="Prishe" />
-  <o id="914" recast="192" en="Ulmia" ja="ウルミア" de="Ulmia" fr="Ulmia" />
-  <o id="916" recast="192" en="Cherukiki" ja="チェルキキ" de="Cherukiki" fr="Cherukiki" />
-  <o id="917" recast="192" en="Iron Eater" ja="アイアンイーター" de="Iron Eater" fr="Iron Eater" />
-  <o id="918" recast="192" en="Gessho" ja="ゲッショー" de="Gessho" fr="Gessho" />
-  <o id="919" recast="192" en="Gadalar" ja="ガダラル" de="Gadalar" fr="Gadalar" />
-  <o id="921" recast="192" en="Ingrid" ja="イングリッド" de="Ingrid" fr="Ingrid" />
-  <o id="922" recast="192" en="Lehko Habhoka" ja="レコ・ハボッカ" de="Lehko Habhoka" fr="Lehko Habhoka" />
-  <o id="923" recast="192" en="Nashmeira" ja="ナシュメラ" de="Nashmeira" fr="Nashmeira" />
-  <o id="924" recast="192" en="Zazarg" ja="ザザーグ" de="Zazarg" fr="Zazarg" />
-  <o id="925" recast="192" en="Ovjang" ja="アヴゼン" de="Ovjang" fr="Ovjang" />
-  <o id="926" recast="192" en="Mnejing" ja="メネジン" de="Mnejing" fr="Mnejing" />
-  <o id="927" recast="192" en="Sakura" ja="サクラ" de="Sakura" fr="Sakura" />
-  <o id="928" recast="192" en="Luzaf" ja="ルザフ" de="Luzaf" fr="Luzaf" />
-  <o id="929" recast="192" en="Najelith" ja="ナジュリス" de="Najelith" fr="Najelith" />
-  <o id="930" recast="192" en="Aldo" ja="アルド" de="Aldo" fr="Aldo" />
-  <o id="931" recast="192" en="Moogle" ja="モーグリ" de="Moogle" fr="Moogle" />
-  <o id="932" recast="192" en="Fablinix" ja="ファブリニクス" de="Fablinix" fr="Fablinix" />
-  <o id="933" recast="192" en="Maat" ja="マート" de="Maat" fr="Maat" />
-  <o id="934" recast="192" en="D. Shantotto" ja="D.シャントット" de="D. Shantotto" fr="Délic. Shantotto" />
-  <o id="935" recast="192" en="Star Sibyl" ja="星の神子" de="." fr="." />
-  <o id="941" recast="192" en="Elivira" ja="エリヴィラ" de="Elivira" fr="Elivira" />
-  <o id="942" recast="192" en="Noillurie" ja="ノユリ" de="Noillurie" fr="Noillurie" />
-  <o id="943" recast="192" en="Lhu Mhakaracca" ja="ルー・マカラッカ" de="Lhu Mhakaracca" fr="Lhu Mhakar." />
-  <o id="944" recast="192" en="Ferreous Coffin" ja="フェリアスコフィン" de="Ferreous Coffin" fr="Ferreous Coffin" />
-  <o id="945" recast="192" en="magic(945)" ja="." de="." fr="." />
-  <o id="946" recast="192" en="Mumor" ja="ミュモル" de="." fr="." />
-  <o id="947" recast="192" en="Uka Totlihn" ja="ウカ・トトゥリン" de="." fr="." />
+  <o id="1" recast="20" en="Cure" ja="ケアル" />
+  <o id="2" recast="22" en="Cure II" ja="ケアルII" />
+  <o id="3" recast="24" en="Cure III" ja="ケアルIII" />
+  <o id="4" recast="32" en="Cure IV" ja="ケアルIV" />
+  <o id="5" recast="40" en="Cure V" ja="ケアルV" />
+  <o id="6" recast="60" en="Cure VI" ja="ケアルVI" />
+  <o id="7" recast="40" en="Curaga" ja="ケアルガ" />
+  <o id="8" recast="41" en="Curaga II" ja="ケアルガII" />
+  <o id="9" recast="42" en="Curaga III" ja="ケアルガIII" />
+  <o id="10" recast="43" en="Curaga IV" ja="ケアルガIV" />
+  <o id="11" recast="44" en="Curaga V" ja="ケアルガV" />
+  <o id="12" recast="120" en="Cura" ja="ケアルラ" />
+  <o id="13" recast="160" en="Cura II" ja="ケアルラII" />
+  <o id="14" recast="200" en="Cura III" ja="ケアルラIII" />
+  <o id="15" recast="240" en="Raise" ja="レイズ" />
+  <o id="16" recast="240" en="Raise II" ja="レイズII" />
+  <o id="17" recast="240" en="Raise III" ja="レイズIII" />
+  <o id="18" recast="224" en="Arise" ja="アレイズ" />
+  <o id="19" recast="240" en="Reraise" ja="リレイズ" />
+  <o id="20" recast="240" en="Reraise II" ja="リレイズII" />
+  <o id="21" recast="240" en="Reraise III" ja="リレイズIII" />
+  <o id="22" recast="20" en="Poisona" ja="ポイゾナ" />
+  <o id="23" recast="20" en="Paralyna" ja="パラナ" />
+  <o id="24" recast="40" en="Blindna" ja="ブライナ" />
+  <o id="25" recast="20" en="Silena" ja="サイレナ" />
+  <o id="26" recast="20" en="Stona" ja="ストナ" />
+  <o id="27" recast="20" en="Viruna" ja="ウィルナ" />
+  <o id="28" recast="40" en="Cursna" ja="カーズナ" />
+  <o id="29" recast="120" en="Sacrifice" ja="サクリファイス" />
+  <o id="30" recast="120" en="Esuna" ja="エスナ" />
+  <o id="35" recast="240" en="Holy" ja="ホーリー" />
+  <o id="36" recast="240" en="Holy II" ja="ホーリーII" />
+  <o id="37" recast="60" en="Banish" ja="バニシュ" />
+  <o id="38" recast="120" en="Banish II" ja="バニシュII" />
+  <o id="39" recast="180" en="Banish III" ja="バニシュIII" />
+  <o id="40" recast="180" en="Banish IV" ja="バニシュIV" />
+  <o id="41" recast="240" en="Banish V" ja="バニシュV" />
+  <o id="42" recast="60" en="Banishga" ja="バニシュガ" />
+  <o id="43" recast="120" en="Banishga II" ja="バニシュガII" />
+  <o id="44" recast="180" en="Banishga III" ja="バニシュガIII" />
+  <o id="45" recast="240" en="Banishga IV" ja="バニシュガIV" />
+  <o id="46" recast="240" en="Banishga V" ja="バニシュガV" />
+  <o id="47" recast="120" en="Repose" ja="リポーズ" />
+  <o id="48" recast="180" en="Flash" ja="フラッシュ" />
+  <o id="49" recast="120" en="Enlight" ja="エンライト" />
+  <o id="50" recast="20" en="Protect" ja="プロテス" />
+  <o id="51" recast="21" en="Protect II" ja="プロテスII" />
+  <o id="52" recast="22" en="Protect III" ja="プロテスIII" />
+  <o id="53" recast="23" en="Protect IV" ja="プロテスIV" />
+  <o id="54" recast="24" en="Protect V" ja="プロテスV" />
+  <o id="55" recast="20" en="Shell" ja="シェル" />
+  <o id="56" recast="21" en="Shell II" ja="シェルII" />
+  <o id="57" recast="22" en="Shell III" ja="シェルIII" />
+  <o id="58" recast="23" en="Shell IV" ja="シェルIV" />
+  <o id="59" recast="24" en="Shell V" ja="シェルV" />
+  <o id="60" recast="60" en="Protectra" ja="プロテア" />
+  <o id="61" recast="64" en="Protectra II" ja="プロテアII" />
+  <o id="62" recast="68" en="Protectra III" ja="プロテアIII" />
+  <o id="63" recast="72" en="Protectra IV" ja="プロテアIV" />
+  <o id="64" recast="76" en="Protectra V" ja="プロテアV" />
+  <o id="65" recast="60" en="Shellra" ja="シェルラ" />
+  <o id="66" recast="64" en="Shellra II" ja="シェルラII" />
+  <o id="67" recast="68" en="Shellra III" ja="シェルラIII" />
+  <o id="68" recast="72" en="Shellra IV" ja="シェルラIV" />
+  <o id="69" recast="76" en="Shellra V" ja="シェルラV" />
+  <o id="70" recast="40" en="Blink" ja="ブリンク" />
+  <o id="71" recast="120" en="Stoneskin" ja="ストンスキン" />
+  <o id="72" recast="40" en="Aquaveil" ja="アクアベール" />
+  <o id="73" recast="40" en="Phalanx" ja="ファランクス" />
+  <o id="74" recast="40" en="Phalanx II" ja="ファランクスII" />
+  <o id="75" recast="208" en="Reprisal" ja="リアクト" />
+  <o id="76" recast="180" en="Foil" ja="フォイル" />
+  <o id="77" recast="80" en="Haste" ja="ヘイスト" />
+  <o id="78" recast="80" en="Haste II" ja="ヘイストII" />
+  <o id="79" recast="80" en="Flurry" ja="スナップ" />
+  <o id="80" recast="80" en="Flurry II" ja="スナップII" />
+  <o id="81" recast="40" en="Barfire" ja="バファイ" />
+  <o id="82" recast="40" en="Barblizzard" ja="バブリザ" />
+  <o id="83" recast="40" en="Baraero" ja="バエアロ" />
+  <o id="84" recast="40" en="Barstone" ja="バストン" />
+  <o id="85" recast="40" en="Barthunder" ja="バサンダ" />
+  <o id="86" recast="40" en="Barwater" ja="バウォタ" />
+  <o id="87" recast="40" en="Barfira" ja="バファイラ" />
+  <o id="88" recast="40" en="Barblizzara" ja="バブリザラ" />
+  <o id="89" recast="40" en="Baraera" ja="バエアロラ" />
+  <o id="90" recast="40" en="Barstonra" ja="バストンラ" />
+  <o id="91" recast="40" en="Barthundra" ja="バサンダラ" />
+  <o id="92" recast="40" en="Barwatera" ja="バウォタラ" />
+  <o id="93" recast="40" en="Barsleep" ja="バスリプル" />
+  <o id="94" recast="40" en="Barpoison" ja="バポイズン" />
+  <o id="95" recast="40" en="Barparalyze" ja="バパライズ" />
+  <o id="96" recast="40" en="Barblind" ja="バブライン" />
+  <o id="97" recast="40" en="Barsilence" ja="バサイレス" />
+  <o id="98" recast="40" en="Barpetrify" ja="バブレイク" />
+  <o id="99" recast="40" en="Barvirus" ja="バウィルス" />
+  <o id="100" recast="40" en="Baramnesia" ja="バアムネジア" />
+  <o id="101" recast="40" en="Barsleepra" ja="バスリプラ" />
+  <o id="102" recast="40" en="Barpoisonra" ja="バポイゾラ" />
+  <o id="103" recast="40" en="Barparalyzra" ja="バパライラ" />
+  <o id="104" recast="40" en="Barblindra" ja="バブライラ" />
+  <o id="105" recast="40" en="Barsilencera" ja="バサイレラ" />
+  <o id="106" recast="40" en="Barpetra" ja="バブレクラ" />
+  <o id="107" recast="40" en="Barvira" ja="バウィルラ" />
+  <o id="108" recast="40" en="Baramnesra" ja="バアムネジラ" />
+  <o id="109" recast="40" en="Enfire" ja="エンファイア" />
+  <o id="110" recast="120" en="Enfire II" ja="エンファイアII" />
+  <o id="111" recast="40" en="Enblizzard" ja="エンブリザド" />
+  <o id="112" recast="120" en="Enblizzard II" ja="エンブリザドII" />
+  <o id="113" recast="40" en="Enaero" ja="エンエアロ" />
+  <o id="114" recast="120" en="Enaero II" ja="エンエアロII" />
+  <o id="115" recast="40" en="Enstone" ja="エンストーン" />
+  <o id="116" recast="120" en="Enstone II" ja="エンストーンII" />
+  <o id="117" recast="40" en="Enthunder" ja="エンサンダー" />
+  <o id="118" recast="120" en="Enthunder II" ja="エンサンダーII" />
+  <o id="119" recast="40" en="Enwater" ja="エンウォータ" />
+  <o id="120" recast="120" en="Enwater II" ja="エンウォータII" />
+  <o id="121" recast="40" en="Auspice" ja="オースピス" />
+  <o id="122" recast="120" en="Temper" ja="ストライ" />
+  <o id="123" recast="48" en="Regen" ja="リジェネ" />
+  <o id="124" recast="64" en="Regen II" ja="リジェネII" />
+  <o id="125" recast="80" en="Regen III" ja="リジェネIII" />
+  <o id="126" recast="96" en="Regen IV" ja="リジェネIV" />
+  <o id="127" recast="112" en="Regen V" ja="リジェネV" />
+  <o id="128" recast="72" en="Refresh" ja="リフレシュ" />
+  <o id="129" recast="108" en="Refresh II" ja="リフレシュII" />
+  <o id="130" recast="72" en="Sandstorm" ja="砂塵の陣" />
+  <o id="131" recast="72" en="Rainstorm" ja="豪雨の陣" />
+  <o id="132" recast="72" en="Windstorm" ja="烈風の陣" />
+  <o id="133" recast="72" en="Firestorm" ja="熱波の陣" />
+  <o id="134" recast="72" en="Hailstorm" ja="吹雪の陣" />
+  <o id="135" recast="72" en="Thunderstorm" ja="疾雷の陣" />
+  <o id="136" recast="72" en="Voidstorm" ja="妖霧の陣" />
+  <o id="137" recast="72" en="Aurorastorm" ja="極光の陣" />
+  <o id="138" recast="40" en="Animus Augeo" ja="悪事千里の策" />
+  <o id="139" recast="40" en="Animus Minuo" ja="暗中飛躍の策" />
+  <o id="140" recast="72" en="Adloquium" ja="鼓舞激励の策" />
+  <o id="141" recast="60" en="Erase" ja="イレース" />
+  <o id="142" recast="40" en="Crusade" ja="クルセード" />
+  <o id="143" recast="40" en="Gain-STR" ja="ゲインスト" />
+  <o id="144" recast="40" en="Gain-DEX" ja="ゲインデック" />
+  <o id="145" recast="40" en="Gain-VIT" ja="ゲインバイト" />
+  <o id="146" recast="40" en="Gain-AGI" ja="ゲインアジル" />
+  <o id="147" recast="40" en="Gain-INT" ja="ゲインイン" />
+  <o id="148" recast="40" en="Gain-MND" ja="ゲインマイン" />
+  <o id="149" recast="40" en="Gain-CHR" ja="ゲインカリス" />
+  <o id="150" recast="40" en="Boost-STR" ja="アディスト" />
+  <o id="151" recast="40" en="Boost-DEX" ja="アディデック" />
+  <o id="152" recast="40" en="Boost-VIT" ja="アディバイト" />
+  <o id="153" recast="40" en="Boost-AGI" ja="アディアジル" />
+  <o id="154" recast="40" en="Boost-INT" ja="アディイン" />
+  <o id="155" recast="40" en="Boost-MND" ja="アディマイン" />
+  <o id="156" recast="40" en="Boost-CHR" ja="アディカリス" />
+  <o id="157" recast="40" en="Teleport-Holla" ja="テレポホラ" />
+  <o id="158" recast="40" en="Teleport-Dem" ja="テレポデム" />
+  <o id="159" recast="40" en="Teleport-Mea" ja="テレポメア" />
+  <o id="160" recast="40" en="Teleport-Yhoat" ja="テレポヨト" />
+  <o id="161" recast="40" en="Teleport-Altep" ja="テレポルテ" />
+  <o id="162" recast="40" en="Teleport-Vahzl" ja="テレポヴァズ" />
+  <o id="163" recast="40" en="Recall-Jugner" ja="リコールジャグ" />
+  <o id="164" recast="40" en="Recall-Pashh" ja="リコールパシュ" />
+  <o id="165" recast="40" en="Recall-Meriph" ja="リコールメリファ" />
+  <o id="166" recast="40" en="Invisible" ja="インビジ" />
+  <o id="167" recast="40" en="Sneak" ja="スニーク" />
+  <o id="168" recast="32" en="Deodorize" ja="デオード" />
+  <o id="169" recast="24" en="Embrava" ja="オーラ" />
+  <o id="170" recast="20" en="Dia" ja="ディア" />
+  <o id="171" recast="24" en="Dia II" ja="ディアII" />
+  <o id="172" recast="28" en="Dia III" ja="ディアIII" />
+  <o id="173" recast="32" en="Dia IV" ja="ディアIV" />
+  <o id="174" recast="36" en="Dia V" ja="ディアV" />
+  <o id="175" recast="24" en="Diaga" ja="ディアガ" />
+  <o id="176" recast="25" en="Diaga II" ja="ディアガII" />
+  <o id="177" recast="26" en="Diaga III" ja="ディアガIII" />
+  <o id="178" recast="27" en="Diaga IV" ja="ディアガIV" />
+  <o id="179" recast="28" en="Diaga V" ja="ディアガV" />
+  <o id="180" recast="80" en="Slow" ja="スロウ" />
+  <o id="181" recast="80" en="Slow II" ja="スロウII" />
+  <o id="182" recast="40" en="Paralyze" ja="パライズ" />
+  <o id="183" recast="80" en="Paralyze II" ja="パライズII" />
+  <o id="184" recast="40" en="Silence" ja="サイレス" />
+  <o id="185" recast="80" en="Addle" ja="アドル" />
+  <o id="190" recast="8" en="Fire" ja="ファイア" />
+  <o id="191" recast="24" en="Fire II" ja="ファイアII" />
+  <o id="192" recast="60" en="Fire III" ja="ファイアIII" />
+  <o id="193" recast="120" en="Fire IV" ja="ファイアIV" />
+  <o id="194" recast="180" en="Fire V" ja="ファイアV" />
+  <o id="195" recast="8" en="Blizzard" ja="ブリザド" />
+  <o id="196" recast="24" en="Blizzard II" ja="ブリザドII" />
+  <o id="197" recast="60" en="Blizzard III" ja="ブリザドIII" />
+  <o id="198" recast="120" en="Blizzard IV" ja="ブリザドIV" />
+  <o id="199" recast="180" en="Blizzard V" ja="ブリザドV" />
+  <o id="200" recast="8" en="Aero" ja="エアロ" />
+  <o id="201" recast="24" en="Aero II" ja="エアロII" />
+  <o id="202" recast="60" en="Aero III" ja="エアロIII" />
+  <o id="203" recast="120" en="Aero IV" ja="エアロIV" />
+  <o id="204" recast="180" en="Aero V" ja="エアロV" />
+  <o id="205" recast="8" en="Stone" ja="ストーン" />
+  <o id="206" recast="24" en="Stone II" ja="ストーンII" />
+  <o id="207" recast="60" en="Stone III" ja="ストーンIII" />
+  <o id="208" recast="120" en="Stone IV" ja="ストーンIV" />
+  <o id="209" recast="180" en="Stone V" ja="ストーンV" />
+  <o id="210" recast="8" en="Thunder" ja="サンダー" />
+  <o id="211" recast="24" en="Thunder II" ja="サンダーII" />
+  <o id="212" recast="60" en="Thunder III" ja="サンダーIII" />
+  <o id="213" recast="120" en="Thunder IV" ja="サンダーIV" />
+  <o id="214" recast="180" en="Thunder V" ja="サンダーV" />
+  <o id="215" recast="8" en="Water" ja="ウォータ" />
+  <o id="216" recast="24" en="Water II" ja="ウォータII" />
+  <o id="217" recast="60" en="Water III" ja="ウォータIII" />
+  <o id="218" recast="120" en="Water IV" ja="ウォータIV" />
+  <o id="219" recast="180" en="Water V" ja="ウォータV" />
+  <o id="220" recast="20" en="Firaga" ja="ファイガ" />
+  <o id="221" recast="40" en="Firaga II" ja="ファイガII" />
+  <o id="222" recast="100" en="Firaga III" ja="ファイガIII" />
+  <o id="223" recast="160" en="Firaga IV" ja="ファイガIV" />
+  <o id="224" recast="240" en="Firaga V" ja="ファイガV" />
+  <o id="225" recast="20" en="Blizzaga" ja="ブリザガ" />
+  <o id="226" recast="40" en="Blizzaga II" ja="ブリザガII" />
+  <o id="227" recast="100" en="Blizzaga III" ja="ブリザガIII" />
+  <o id="228" recast="160" en="Blizzaga IV" ja="ブリザガIV" />
+  <o id="229" recast="240" en="Blizzaga V" ja="ブリザガV" />
+  <o id="230" recast="20" en="Aeroga" ja="エアロガ" />
+  <o id="231" recast="40" en="Aeroga II" ja="エアロガII" />
+  <o id="232" recast="100" en="Aeroga III" ja="エアロガIII" />
+  <o id="233" recast="160" en="Aeroga IV" ja="エアロガIV" />
+  <o id="234" recast="240" en="Aeroga V" ja="エアロガV" />
+  <o id="235" recast="20" en="Stonega" ja="ストンガ" />
+  <o id="236" recast="40" en="Stonega II" ja="ストンガII" />
+  <o id="237" recast="100" en="Stonega III" ja="ストンガIII" />
+  <o id="238" recast="160" en="Stonega IV" ja="ストンガIV" />
+  <o id="239" recast="240" en="Stonega V" ja="ストンガV" />
+  <o id="240" recast="20" en="Thundaga" ja="サンダガ" />
+  <o id="241" recast="40" en="Thundaga II" ja="サンダガII" />
+  <o id="242" recast="100" en="Thundaga III" ja="サンダガIII" />
+  <o id="243" recast="160" en="Thundaga IV" ja="サンダガIV" />
+  <o id="244" recast="240" en="Thundaga V" ja="サンダガV" />
+  <o id="245" recast="20" en="Waterga" ja="ウォタガ" />
+  <o id="246" recast="40" en="Waterga II" ja="ウォタガII" />
+  <o id="247" recast="100" en="Waterga III" ja="ウォタガIII" />
+  <o id="248" recast="160" en="Waterga IV" ja="ウォタガIV" />
+  <o id="249" recast="240" en="Waterga V" ja="ウォタガV" />
+  <o id="250" recast="180" en="Firaja" ja="ファイジャ" />
+  <o id="251" recast="180" en="Blizzaja" ja="ブリザジャ" />
+  <o id="252" recast="180" en="Aeroja" ja="エアロジャ" />
+  <o id="253" recast="180" en="Stoneja" ja="ストンジャ" />
+  <o id="254" recast="180" en="Thundaja" ja="サンダジャ" />
+  <o id="255" recast="180" en="Waterja" ja="ウォタジャ" />
+  <o id="256" recast="20" en="Fira" ja="ファイラ" />
+  <o id="257" recast="60" en="Fira II" ja="ファイラII" />
+  <o id="258" recast="20" en="Blizzara" ja="ブリザラ" />
+  <o id="259" recast="60" en="Blizzara II" ja="ブリザラII" />
+  <o id="260" recast="20" en="Aerora" ja="エアロラ" />
+  <o id="261" recast="60" en="Aerora II" ja="エアロラII" />
+  <o id="262" recast="20" en="Stonera" ja="ストンラ" />
+  <o id="263" recast="60" en="Stonera II" ja="ストンラII" />
+  <o id="264" recast="20" en="Thundara" ja="サンダラ" />
+  <o id="265" recast="60" en="Thundara II" ja="サンダラII" />
+  <o id="266" recast="20" en="Watera" ja="ウォタラ" />
+  <o id="267" recast="60" en="Watera II" ja="ウォタラII" />
+  <o id="268" recast="240" en="Flare" ja="フレア" />
+  <o id="269" recast="240" en="Flare II" ja="フレアII" />
+  <o id="270" recast="240" en="Freeze" ja="フリーズ" />
+  <o id="271" recast="240" en="Freeze II" ja="フリーズII" />
+  <o id="272" recast="240" en="Tornado" ja="トルネド" />
+  <o id="273" recast="240" en="Tornado II" ja="トルネドII" />
+  <o id="274" recast="240" en="Quake" ja="クエイク" />
+  <o id="275" recast="240" en="Quake II" ja="クエイクII" />
+  <o id="276" recast="240" en="Burst" ja="バースト" />
+  <o id="277" recast="240" en="Burst II" ja="バーストII" />
+  <o id="278" recast="240" en="Flood" ja="フラッド" />
+  <o id="279" recast="240" en="Flood II" ja="フラッドII" />
+  <o id="280" recast="208" en="Meteor" ja="メテオ" />
+  <o id="281" recast="180" en="Comet" ja="コメット" />
+  <o id="282" recast="40" en="Burn" ja="バーン" />
+  <o id="283" recast="40" en="Frost" ja="フロスト" />
+  <o id="284" recast="40" en="Choke" ja="チョーク" />
+  <o id="285" recast="40" en="Rasp" ja="ラスプ" />
+  <o id="286" recast="40" en="Shock" ja="ショック" />
+  <o id="287" recast="40" en="Drown" ja="ドラウン" />
+  <o id="288" recast="180" en="Geohelix" ja="土門の計" />
+  <o id="289" recast="180" en="Hydrohelix" ja="水門の計" />
+  <o id="290" recast="180" en="Anemohelix" ja="風門の計" />
+  <o id="291" recast="180" en="Pyrohelix" ja="火門の計" />
+  <o id="292" recast="180" en="Cryohelix" ja="氷門の計" />
+  <o id="293" recast="180" en="Ionohelix" ja="雷門の計" />
+  <o id="294" recast="180" en="Noctohelix" ja="闇門の計" />
+  <o id="295" recast="180" en="Luminohelix" ja="光門の計" />
+  <o id="296" recast="224" en="Impact" ja="インパクト" />
+  <o id="310" recast="40" en="Blaze Spikes" ja="ブレイズスパイク" />
+  <o id="311" recast="40" en="Ice Spikes" ja="アイススパイク" />
+  <o id="312" recast="40" en="Shock Spikes" ja="ショックスパイク" />
+  <o id="313" recast="40" en="Retrace" ja="リトレース" />
+  <o id="314" recast="40" en="Warp" ja="デジョン" />
+  <o id="315" recast="40" en="Warp II" ja="デジョンII" />
+  <o id="316" recast="240" en="Escape" ja="エスケプ" />
+  <o id="319" recast="20" en="Poison" ja="ポイズン" />
+  <o id="320" recast="20" en="Poison II" ja="ポイズンII" />
+  <o id="321" recast="20" en="Poison III" ja="ポイズンIII" />
+  <o id="322" recast="20" en="Poison IV" ja="ポイズンIV" />
+  <o id="323" recast="20" en="Poison V" ja="ポイズンV" />
+  <o id="324" recast="40" en="Poisonga" ja="ポイゾガ" />
+  <o id="325" recast="40" en="Poisonga II" ja="ポイゾガII" />
+  <o id="326" recast="40" en="Poisonga III" ja="ポイゾガIII" />
+  <o id="327" recast="40" en="Poisonga IV" ja="ポイゾガIV" />
+  <o id="328" recast="40" en="Poisonga V" ja="ポイゾガV" />
+  <o id="329" recast="120" en="Sleep" ja="スリプル" />
+  <o id="330" recast="120" en="Sleep II" ja="スリプルII" />
+  <o id="331" recast="120" en="Sleepga" ja="スリプガ" />
+  <o id="332" recast="180" en="Sleepga II" ja="スリプガII" />
+  <o id="333" recast="40" en="Blind" ja="ブライン" />
+  <o id="334" recast="80" en="Blind II" ja="ブラインII" />
+  <o id="335" recast="120" en="Break" ja="ブレイク" />
+  <o id="336" recast="180" en="Breakga" ja="ブレクガ" />
+  <o id="337" recast="160" en="Bind" ja="バインド" />
+  <o id="338" recast="40" en="Dispel" ja="ディスペル" />
+  <o id="339" recast="240" en="Gravity" ja="グラビデ" />
+  <o id="340" recast="44" en="Gravity II" ja="グラビデII" />
+  <o id="341" recast="40" en="Distract" ja="ディストラ" />
+  <o id="342" recast="40" en="Distract II" ja="ディストラII" />
+  <o id="343" recast="40" en="Frazzle" ja="フラズル" />
+  <o id="344" recast="40" en="Frazzle II" ja="フラズルII" />
+  <o id="345" recast="20" en="Bio" ja="バイオ" />
+  <o id="346" recast="20" en="Bio II" ja="バイオII" />
+  <o id="347" recast="60" en="Bio III" ja="バイオIII" />
+  <o id="348" recast="20" en="Bio IV" ja="バイオIV" />
+  <o id="349" recast="20" en="Bio V" ja="バイオV" />
+  <o id="350" recast="240" en="Drain" ja="ドレイン" />
+  <o id="351" recast="208" en="Drain II" ja="ドレインII" />
+  <o id="352" recast="240" en="Aspir" ja="アスピル" />
+  <o id="353" recast="44" en="Aspir II" ja="アスピルII" />
+  <o id="354" recast="180" en="Stun" ja="スタン" />
+  <o id="355" recast="40" en="Tractor" ja="トラクタ" />
+  <o id="356" recast="40" en="Tractor II" ja="トラクタII" />
+  <o id="357" recast="240" en="Absorb-STR" ja="アブゾースト" />
+  <o id="358" recast="240" en="Absorb-DEX" ja="アブゾデック" />
+  <o id="359" recast="240" en="Absorb-VIT" ja="アブゾバイト" />
+  <o id="360" recast="240" en="Absorb-AGI" ja="アブゾアジル" />
+  <o id="361" recast="240" en="Absorb-INT" ja="アブゾイン" />
+  <o id="362" recast="240" en="Absorb-MND" ja="アブゾマイン" />
+  <o id="363" recast="240" en="Absorb-CHR" ja="アブゾカリス" />
+  <o id="364" recast="240" en="Absorb-TP" ja="アブゾタック" />
+  <o id="365" recast="240" en="Absorb-ACC" ja="アブゾアキュル" />
+  <o id="366" recast="240" en="Absorb-Attri" ja="アブゾアトリ" />
+  <o id="367" recast="208" en="Dread Spikes" ja="ドレッドスパイク" />
+  <o id="368" recast="120" en="Endark" ja="エンダーク" />
+  <o id="369" recast="208" en="Klimaform" ja="虚誘掩殺の策" />
+  <o id="370" recast="120" en="Kaustra" ja="メルトン" />
+  <o id="375" recast="20" en="Fire Spirit" ja="火精霊召喚" />
+  <o id="376" recast="20" en="Ice Spirit" ja="氷精霊召喚" />
+  <o id="377" recast="20" en="Air Spirit" ja="風精霊召喚" />
+  <o id="378" recast="20" en="Earth Spirit" ja="土精霊召喚" />
+  <o id="379" recast="20" en="Thunder Spirit" ja="雷精霊召喚" />
+  <o id="380" recast="20" en="Water Spirit" ja="水精霊召喚" />
+  <o id="381" recast="20" en="Light Spirit" ja="光精霊召喚" />
+  <o id="382" recast="20" en="Dark Spirit" ja="闇精霊召喚" />
+  <o id="383" recast="20" en="Carbuncle" ja="カーバンクル召喚" />
+  <o id="384" recast="20" en="Fenrir" ja="フェンリル召喚" />
+  <o id="385" recast="20" en="Ifrit" ja="イフリート召喚" />
+  <o id="386" recast="20" en="Titan" ja="タイタン召喚" />
+  <o id="387" recast="20" en="Leviathan" ja="リヴァイアサン召喚" />
+  <o id="388" recast="20" en="Garuda" ja="ガルーダ召喚" />
+  <o id="389" recast="20" en="Shiva" ja="シヴァ召喚" />
+  <o id="390" recast="20" en="Ramuh" ja="ラムウ召喚" />
+  <o id="391" recast="20" en="Diabolos" ja="ディアボロス召喚" />
+  <o id="392" recast="240" en="Odin" ja="オーディン召喚" />
+  <o id="393" recast="240" en="Alexander" ja="アレキサンダー召喚" />
+  <o id="394" recast="20" en="Cait Sith" ja="ケット・シー召喚" />
+  <o id="400" recast="120" en="Katon: Ichi" ja="火遁の術:壱" />
+  <o id="401" recast="180" en="Katon: Ni" ja="火遁の術:弐" />
+  <o id="402" recast="240" en="Katon: San" ja="火遁の術:参" />
+  <o id="403" recast="120" en="Hyoton: Ichi" ja="氷遁の術:壱" />
+  <o id="404" recast="180" en="Hyoton: Ni" ja="氷遁の術:弐" />
+  <o id="405" recast="240" en="Hyoton: San" ja="氷遁の術:参" />
+  <o id="406" recast="120" en="Huton: Ichi" ja="風遁の術:壱" />
+  <o id="407" recast="180" en="Huton: Ni" ja="風遁の術:弐" />
+  <o id="408" recast="240" en="Huton: San" ja="風遁の術:参" />
+  <o id="409" recast="120" en="Doton: Ichi" ja="土遁の術:壱" />
+  <o id="410" recast="180" en="Doton: Ni" ja="土遁の術:弐" />
+  <o id="411" recast="240" en="Doton: San" ja="土遁の術:参" />
+  <o id="412" recast="120" en="Raiton: Ichi" ja="雷遁の術:壱" />
+  <o id="413" recast="180" en="Raiton: Ni" ja="雷遁の術:弐" />
+  <o id="414" recast="240" en="Raiton: San" ja="雷遁の術:参" />
+  <o id="415" recast="120" en="Suiton: Ichi" ja="水遁の術:壱" />
+  <o id="416" recast="180" en="Suiton: Ni" ja="水遁の術:弐" />
+  <o id="417" recast="240" en="Suiton: San" ja="水遁の術:参" />
+  <o id="418" recast="120" en="Utsusemi: Ichi" ja="空蝉の術:壱" />
+  <o id="419" recast="180" en="Utsusemi: Ni" ja="空蝉の術:弐" />
+  <o id="420" recast="240" en="Utsusemi: San" ja="空蝉の術:参" />
+  <o id="421" recast="120" en="Jubaku: Ichi" ja="呪縛の術:壱" />
+  <o id="422" recast="180" en="Jubaku: Ni" ja="呪縛の術:弐" />
+  <o id="423" recast="240" en="Jubaku: San" ja="呪縛の術:参" />
+  <o id="424" recast="120" en="Hojo: Ichi" ja="捕縄の術:壱" />
+  <o id="425" recast="180" en="Hojo: Ni" ja="捕縄の術:弐" />
+  <o id="426" recast="240" en="Hojo: San" ja="捕縄の術:参" />
+  <o id="427" recast="120" en="Kurayami: Ichi" ja="暗闇の術:壱" />
+  <o id="428" recast="180" en="Kurayami: Ni" ja="暗闇の術:弐" />
+  <o id="429" recast="240" en="Kurayami: San" ja="暗闇の術:参" />
+  <o id="430" recast="120" en="Dokumori: Ichi" ja="毒盛の術:壱" />
+  <o id="431" recast="180" en="Dokumori: Ni" ja="毒盛の術:弐" />
+  <o id="432" recast="240" en="Dokumori: San" ja="毒盛の術:参" />
+  <o id="433" recast="120" en="Tonko: Ichi" ja="遁甲の術:壱" />
+  <o id="434" recast="180" en="Tonko: Ni" ja="遁甲の術:弐" />
+  <o id="435" recast="240" en="Tonko: San" ja="遁甲の術:参" />
+  <o id="436" recast="120" en="Monomi: Ichi" ja="物見の術:壱" />
+  <o id="437" recast="120" en="Aisha: Ichi" ja="哀車の術:壱" />
+  <o id="438" recast="120" en="Myoshu: Ichi" ja="妙手の術:壱" />
+  <o id="439" recast="120" en="Yurin: Ichi" ja="幽林の術:壱" />
+  <o id="440" recast="120" en="Kakka: Ichi" ja="活火の術:壱" />
+  <o id="441" recast="224" en="Migawari: Ichi" ja="身替の術:壱" />
+  <o id="442" recast="120" en="Gekka: Ichi" ja="月下の術:壱" />
+  <o id="443" recast="120" en="Yain: Ichi" ja="夜陰の術:壱" />
+  <o id="445" recast="48" en="Indi-Regen" ja="インデリジェネ" />
+  <o id="446" recast="48" en="Indi-Poison" ja="インデポイズン" />
+  <o id="447" recast="48" en="Indi-Refresh" ja="インデリフレシュ" />
+  <o id="448" recast="48" en="Indi-Haste" ja="インデヘイスト" />
+  <o id="449" recast="48" en="Indi-STR" ja="インデスト" />
+  <o id="450" recast="48" en="Indi-DEX" ja="インデデック" />
+  <o id="451" recast="48" en="Indi-VIT" ja="インデバイト" />
+  <o id="452" recast="48" en="Indi-AGI" ja="インデアジル" />
+  <o id="453" recast="48" en="Indi-INT" ja="インデイン" />
+  <o id="454" recast="48" en="Indi-MND" ja="インデマイン" />
+  <o id="455" recast="48" en="Indi-CHR" ja="インデカリス" />
+  <o id="456" recast="48" en="Indi-Fury" ja="インデフューリー" />
+  <o id="457" recast="48" en="Indi-Barrier" ja="インデバリア" />
+  <o id="458" recast="48" en="Indi-Acumen" ja="インデアキュメン" />
+  <o id="459" recast="48" en="Indi-Fend" ja="インデフェンド" />
+  <o id="460" recast="48" en="Indi-Precision" ja="インデプレサイス" />
+  <o id="461" recast="48" en="Indi-Voidance" ja="インデヴォイダンス" />
+  <o id="462" recast="48" en="Indi-Focus" ja="インデフォーカス" />
+  <o id="463" recast="48" en="Indi-Attunement" ja="インデアトゥーン" />
+  <o id="464" recast="48" en="Indi-Wilt" ja="インデウィルト" />
+  <o id="465" recast="48" en="Indi-Frailty" ja="インデフレイル" />
+  <o id="466" recast="48" en="Indi-Fade" ja="インデフェイド" />
+  <o id="467" recast="48" en="Indi-Malaise" ja="インデマレーズ" />
+  <o id="468" recast="48" en="Indi-Slip" ja="インデスリップ" />
+  <o id="469" recast="48" en="Indi-Torpor" ja="インデトーパー" />
+  <o id="470" recast="48" en="Indi-Vex" ja="インデヴェックス" />
+  <o id="471" recast="48" en="Indi-Languor" ja="インデランゴール" />
+  <o id="472" recast="48" en="Indi-Slow" ja="インデスロウ" />
+  <o id="473" recast="48" en="Indi-Paralysis" ja="インデパライズ" />
+  <o id="474" recast="48" en="Indi-Gravity" ja="インデグラビデ" />
+  <o id="475" recast="48" en="Geo-Regen" ja="ジオリジェネ" />
+  <o id="476" recast="48" en="Geo-Poison" ja="ジオポイズン" />
+  <o id="477" recast="48" en="Geo-Refresh" ja="ジオリフレシュ" />
+  <o id="478" recast="48" en="Geo-Haste" ja="ジオヘイスト" />
+  <o id="479" recast="48" en="Geo-STR" ja="ジオスト" />
+  <o id="480" recast="48" en="Geo-DEX" ja="ジオデック" />
+  <o id="481" recast="48" en="Geo-VIT" ja="ジオバイト" />
+  <o id="482" recast="48" en="Geo-AGI" ja="ジオアジル" />
+  <o id="483" recast="48" en="Geo-INT" ja="ジオイン" />
+  <o id="484" recast="48" en="Geo-MND" ja="ジオマイン" />
+  <o id="485" recast="48" en="Geo-CHR" ja="ジオカリス" />
+  <o id="486" recast="48" en="Geo-Fury" ja="ジオフューリー" />
+  <o id="487" recast="48" en="Geo-Barrier" ja="ジオバリア" />
+  <o id="488" recast="48" en="Geo-Acumen" ja="ジオアキュメン" />
+  <o id="489" recast="48" en="Geo-Fend" ja="ジオフェンド" />
+  <o id="490" recast="48" en="Geo-Precision" ja="ジオプレサイス" />
+  <o id="491" recast="48" en="Geo-Voidance" ja="ジオヴォイダンス" />
+  <o id="492" recast="48" en="Geo-Focus" ja="ジオフォーカス" />
+  <o id="493" recast="48" en="Geo-Attunement" ja="ジオアトゥーン" />
+  <o id="494" recast="48" en="Geo-Wilt" ja="ジオウィルト" />
+  <o id="495" recast="48" en="Geo-Frailty" ja="ジオフレイル" />
+  <o id="496" recast="48" en="Geo-Fade" ja="ジオフェイド" />
+  <o id="497" recast="48" en="Geo-Malaise" ja="ジオマレーズ" />
+  <o id="498" recast="48" en="Geo-Slip" ja="ジオスリップ" />
+  <o id="499" recast="48" en="Geo-Torpor" ja="ジオトーパー" />
+  <o id="500" recast="48" en="Geo-Vex" ja="ジオヴェックス" />
+  <o id="501" recast="48" en="Geo-Languor" ja="ジオランゴール" />
+  <o id="502" recast="48" en="Geo-Slow" ja="ジオスロウ" />
+  <o id="503" recast="48" en="Geo-Paralysis" ja="ジオパライズ" />
+  <o id="504" recast="48" en="Geo-Gravity" ja="ジオグラビデ" />
+  <o id="512" recast="26" en="Foot Kick" ja="フットキック" />
+  <o id="513" recast="29" en="Power Attack" ja="パワーアタック" />
+  <o id="514" recast="29" en="Sprout Smack" ja="スプラウトスマック" />
+  <o id="515" recast="29" en="Wild Oats" ja="種まき" />
+  <o id="516" recast="60" en="Queasyshroom" ja="マヨイタケ" />
+  <o id="517" recast="40" en="Battle Dance" ja="バトルダンス" />
+  <o id="518" recast="40" en="Head Butt" ja="ヘッドバット" />
+  <o id="519" recast="40" en="Feather Storm" ja="羽根吹雪" />
+  <o id="520" recast="45" en="Helldive" ja="ヘルダイブ" />
+  <o id="521" recast="47" en="Bludgeon" ja="メッタ打ち" />
+  <o id="522" recast="79" en="Claw Cyclone" ja="クローサイクロン" />
+  <o id="523" recast="56" en="Screwdriver" ja="S.ドライバー" />
+  <o id="524" recast="57" en="Grand Slam" ja="グランドスラム" />
+  <o id="525" recast="52" en="Smite of Rage" ja="怒りの一撃" />
+  <o id="526" recast="106" en="Pinecone Bomb" ja="まつぼっくり爆弾" />
+  <o id="528" recast="92" en="Jet Stream" ja="ジェットストリーム" />
+  <o id="529" recast="71" en="Uppercut" ja="アッパーカット" />
+  <o id="530" recast="84" en="Terror Touch" ja="テラータッチ" />
+  <o id="531" recast="77" en="Mandibular Bite" ja="M.バイト" />
+  <o id="532" recast="81" en="Sickle Slash" ja="シックルスラッシュ" />
+  <o id="533" recast="98" en="Death Scissors" ja="デスシザース" />
+  <o id="534" recast="95" en="Dimensional Death" ja="次元殺" />
+  <o id="535" recast="180" en="Spiral Spin" ja="スパイラルスピン" />
+  <o id="536" recast="144" en="Seedspray" ja="シードスプレー" />
+  <o id="537" recast="111" en="Body Slam" ja="ボディプレス" />
+  <o id="538" recast="114" en="Spinal Cleave" ja="スパイナルクリーブ" />
+  <o id="539" recast="114" en="Frenetic Rip" ja="F.リップ" />
+  <o id="540" recast="104" en="Frypan" ja="フライパン" />
+  <o id="541" recast="104" en="Hydro Shot" ja="ハイドロショット" />
+  <o id="542" recast="114" en="Tail Slap" ja="テールスラップ" />
+  <o id="543" recast="114" en="Hysteric Barrage" ja="H.バラージ" />
+  <o id="544" recast="114" en="Cannonball" ja="キャノンボール" />
+  <o id="545" recast="240" en="Asuran Claws" ja="アシュラクロー" />
+  <o id="546" recast="131" en="Disseverment" ja="ディセバーメント" />
+  <o id="547" recast="131" en="Sub-zero Smash" ja="サブゼロスマッシュ" />
+  <o id="548" recast="139" en="Ram Charge" ja="ラムチャージ" />
+  <o id="549" recast="149" en="Vertical Cleave" ja="バーチカルクリーヴ" />
+  <o id="550" recast="44" en="Final Sting" ja="ファイナルスピア" />
+  <o id="551" recast="102" en="Goblin Rush" ja="ゴブリンラッシュ" />
+  <o id="552" recast="169" en="Vanity Dive" ja="バニティダイブ" />
+  <o id="553" recast="124" en="Whirl of Rage" ja="怒りの旋風" />
+  <o id="554" recast="192" en="Benthic Typhoon" ja="ベンシクタイフーン" />
+  <o id="555" recast="127" en="Quad. Continuum" ja="四連突" />
+  <o id="556" recast="163" en="Empty Thrash" ja="エンプティスラッシュ" />
+  <o id="557" recast="60" en="Delta Thrust" ja="デルタスラスト" />
+  <o id="558" recast="112" en="Heavy Strike" ja="重い一撃" />
+  <o id="559" recast="60" en="Sudden Lunge" ja="サドンランジ" />
+  <o id="560" recast="170" en="Quadrastrike" ja="クアドラストライク" />
+  <o id="561" recast="233" en="Amorphic Spikes" ja="槍玉" />
+  <o id="562" recast="88" en="Barbed Crescent" ja="偃月刃" />
+  <o id="563" recast="60" en="Paralyzing Triad" ja="パラライズトライアド" />
+  <o id="564" recast="24" en="Glutinous Dart" ja="グルーティナスダート" />
+  <o id="565" recast="240" en="Thrashing Assault" ja="S.アッサルト" />
+  <o id="591" recast="60" en="Blastbomb" ja="炸裂弾" />
+  <o id="592" recast="98" en="Bomb Toss" ja="爆弾投げ" />
+  <o id="593" recast="120" en="Sound Blast" ja="サウンドブラスト" />
+  <o id="594" recast="84" en="Self-Destruct" ja="自爆" />
+  <o id="595" recast="171" en="Firespit" ja="ファイアースピット" />
+  <o id="596" recast="224" en="Lowing" ja="ロウイン" />
+  <o id="597" recast="196" en="Heat Breath" ja="火炎の息" />
+  <o id="598" recast="104" en="Triumphant Roar" ja="共鳴" />
+  <o id="599" recast="240" en="Exuviation" ja="イグジュビエーション" />
+  <o id="600" recast="180" en="Blazing Bound" ja="ブレーズバウンド" />
+  <o id="601" recast="40" en="Fantod" ja="ファンタッド" />
+  <o id="602" recast="32" en="Thermal Pulse" ja="サーマルパルス" />
+  <o id="603" recast="44" en="O. Counterstance" ja="カウンタースタンス" />
+  <o id="604" recast="240" en="Nat. Meditation" ja="N.メディテイト" />
+  <o id="606" recast="135" en="Ice Break" ja="アイスブレイク" />
+  <o id="607" recast="240" en="Cold Wave" ja="コールドウェーブ" />
+  <o id="608" recast="224" en="Memento Mori" ja="メメントモーリ" />
+  <o id="609" recast="240" en="Infrasonics" ja="超低周波" />
+  <o id="610" recast="171" en="Frost Breath" ja="フロストブレス" />
+  <o id="611" recast="240" en="Reactor Cool" ja="反応炉冷却" />
+  <o id="616" recast="60" en="Healing Breeze" ja="いやしの風" />
+  <o id="617" recast="40" en="Chaotic Eye" ja="カオティックアイ" />
+  <o id="618" recast="98" en="Mysterious Light" ja="神秘の光" />
+  <o id="619" recast="240" en="Stinking Gas" ja="スティンキングガス" />
+  <o id="620" recast="120" en="Refueling" ja="リフュエリング" />
+  <o id="621" recast="80" en="Frightful Roar" ja="フライトフルロア" />
+  <o id="622" recast="135" en="Hecatomb Wave" ja="ヘカトンウェーブ" />
+  <o id="623" recast="224" en="Feather Barrier" ja="フェザーバリア" />
+  <o id="624" recast="138" en="Flying Hip Press" ja="F.ヒッププレス" />
+  <o id="625" recast="104" en="Feather Tickle" ja="フェザーティックル" />
+  <o id="626" recast="224" en="Voracious Trunk" ja="吸印" />
+  <o id="627" recast="240" en="Zephyr Mantle" ja="ゼファーマント" />
+  <o id="628" recast="4" en="Leafstorm" ja="リーフストーム" />
+  <o id="629" recast="180" en="Animating Wail" ja="鯨波" />
+  <o id="630" recast="240" en="Auroral Drape" ja="オーロラルドレープ" />
+  <o id="631" recast="104" en="Occultation" ja="オカルテーション" />
+  <o id="632" recast="104" en="Reaving Wind" ja="リービンウィンド" />
+  <o id="633" recast="90" en="White Wind" ja="ホワイトウィンド" />
+  <o id="634" recast="118" en="Wind Breath" ja="ウィンドブレス" />
+  <o id="635" recast="48" en="Tem. Upheaval" ja="T.アップヒーヴ" />
+  <o id="636" recast="20" en="Subduction" ja="サブダックション" />
+  <o id="637" recast="180" en="Erratic Flutter" ja="エラチックフラッター" />
+  <o id="639" recast="39" en="Sandspin" ja="土竜巻" />
+  <o id="640" recast="240" en="Metallic Body" ja="メタルボディ" />
+  <o id="641" recast="240" en="Cocoon" ja="コクーン" />
+  <o id="642" recast="117" en="Magnetite Cloud" ja="磁鉄粉" />
+  <o id="643" recast="80" en="Filamented Hold" ja="F.ホールド" />
+  <o id="644" recast="224" en="Bad Breath" ja="臭い息" />
+  <o id="645" recast="104" en="Diamondhide" ja="金剛身" />
+  <o id="646" recast="224" en="Warm-Up" ja="ワームアップ" />
+  <o id="647" recast="80" en="Cimicine Discharge" ja="C.ディスチャージ" />
+  <o id="648" recast="240" en="Barrier Tusk" ja="牙門" />
+  <o id="649" recast="96" en="Embalming Earth" ja="エンバームアース" />
+  <o id="651" recast="117" en="Blitzstrahl" ja="B.シュトラール" />
+  <o id="652" recast="224" en="Temporal Shift" ja="テンポラルシフト" />
+  <o id="653" recast="120" en="Mind Blast" ja="マインドブラスト" />
+  <o id="654" recast="240" en="Plasma Charge" ja="プラズマチャージ" />
+  <o id="655" recast="92" en="Charged Whisker" ja="チャージドホイスカー" />
+  <o id="656" recast="192" en="Thunder Breath" ja="サンダーブレス" />
+  <o id="661" recast="78" en="Cursed Sphere" ja="カースドスフィア" />
+  <o id="662" recast="78" en="Poison Breath" ja="ポイズンブレス" />
+  <o id="663" recast="180" en="Venom Shell" ja="ベノムシェル" />
+  <o id="664" recast="240" en="Awful Eye" ja="アーフルアイ" />
+  <o id="665" recast="156" en="Maelstrom" ja="メイルシュトロム" />
+  <o id="666" recast="120" en="Corrosive Ooze" ja="コローシブウーズ" />
+  <o id="667" recast="98" en="Regurgitation" ja="リガージテーション" />
+  <o id="668" recast="224" en="Amplification" ja="ねたみ種" />
+  <o id="669" recast="92" en="Acrid Stream" ja="アクリッドストリーム" />
+  <o id="670" recast="100" en="Demoralizing Roar" ja="D.ロア" />
+  <o id="671" recast="129" en="Water Bomb" ja="水風船爆弾" />
+  <o id="672" recast="76" en="Vapor Spray" ja="ヴェイパースプレー" />
+  <o id="673" recast="140" en="Rending Deluge" ja="R.デルージュ" />
+  <o id="674" recast="240" en="Foul Waters" ja="ファウルウォーター" />
+  <o id="676" recast="20" en="Pollen" ja="花粉" />
+  <o id="677" recast="240" en="Sheep Song" ja="シープソング" />
+  <o id="678" recast="24" en="Wild Carrot" ja="ワイルドカロット" />
+  <o id="679" recast="40" en="Blank Gaze" ja="ブランクゲイズ" />
+  <o id="680" recast="135" en="Radiant Breath" ja="R.ブレス" />
+  <o id="681" recast="24" en="Magic Fruit" ja="マジックフルーツ" />
+  <o id="682" recast="240" en="Light of Penance" ja="贖罪の光" />
+  <o id="683" recast="224" en="1000 Needles" ja="針千本" />
+  <o id="684" recast="240" en="Yawn" ja="ヤーン" />
+  <o id="685" recast="240" en="Saline Coat" ja="セイリーンコート" />
+  <o id="686" recast="240" en="Actinic Burst" ja="A.バースト" />
+  <o id="687" recast="208" en="Magic Hammer" ja="マジックハンマー" />
+  <o id="688" recast="48" en="Plenilune Embrace" ja="P.エンブレイス" />
+  <o id="689" recast="240" en="Regeneration" ja="リジェネレーション" />
+  <o id="690" recast="44" en="Battery Charge" ja="バッテリーチャージ" />
+  <o id="691" recast="70" en="Winds of Promy." ja="虚無の風" />
+  <o id="692" recast="180" en="Retinal Glare" ja="レテナグレア" />
+  <o id="696" recast="104" en="Blood Drain" ja="吸血" />
+  <o id="697" recast="104" en="Soporific" ja="サペリフィック" />
+  <o id="698" recast="117" en="Death Ray" ja="デスレイ" />
+  <o id="699" recast="104" en="Digest" ja="消化" />
+  <o id="700" recast="104" en="MP Drainkiss" ja="MP吸収キッス" />
+  <o id="701" recast="120" en="Geist Wall" ja="ガイストウォール" />
+  <o id="702" recast="104" en="Blood Saber" ja="ブラッドセイバー" />
+  <o id="703" recast="224" en="Jettatura" ja="ジェタチュラ" />
+  <o id="704" recast="117" en="Eyes On Me" ja="アイズオンミー" />
+  <o id="705" recast="104" en="Sandspray" ja="サンドスプレー" />
+  <o id="706" recast="240" en="Enervation" ja="吶喊" />
+  <o id="707" recast="240" en="Magic Barrier" ja="マジックバリア" />
+  <o id="708" recast="224" en="Osmosis" ja="オスモーシス" />
+  <o id="709" recast="180" en="Dream Flower" ja="夢想花" />
+  <o id="710" recast="74" en="Evryone. Grudge" ja="みんなの怨み" />
+  <o id="711" recast="88" en="Mortal Ray" ja="モータルレイ" />
+  <o id="712" recast="32" en="Dark Orb" ja="ダークオーブ" />
+  <o id="736" recast="120" en="Tourbillion" ja="トゥールビヨン" />
+  <o id="737" recast="120" en="Bilgestorm" ja="ビルジストーム" />
+  <o id="738" recast="120" en="Bloodrake" ja="ブラッドレイク" />
+  <o id="742" recast="120" en="Gates of Hades" ja="ゲーツオブハデス" />
+  <o id="744" recast="120" en="Carcharian Verve" ja="カルカリアンヴァーヴ" />
+  <o id="746" recast="120" en="Droning Whirlwind" ja="D.ワールウィンド" />
+  <o id="748" recast="120" en="Harden Shell" ja="甲羅強化" />
+  <o id="750" recast="120" en="Thunderbolt" ja="サンダーボルト" />
+  <o id="752" recast="120" en="Pyric Bulwark" ja="ポーラーブルワーク" />
+  <o id="754" recast="120" en="Absolute Terror" ja="アブソルートテラー" />
+  <o id="755" recast="120" en="Blistering Roar" ja="ブリスターローア" />
+  <o id="768" recast="96" en="Foe Requiem" ja="魔物のレクイエム" />
+  <o id="769" recast="96" en="Foe Requiem II" ja="魔物のレクイエムII" />
+  <o id="770" recast="96" en="Foe Requiem III" ja="魔物のレクイエムIII" />
+  <o id="771" recast="96" en="Foe Requiem IV" ja="魔物のレクイエムIV" />
+  <o id="772" recast="96" en="Foe Requiem V" ja="魔物のレクイエムV" />
+  <o id="773" recast="96" en="Foe Requiem VI" ja="魔物のレクイエムVI" />
+  <o id="774" recast="96" en="Foe Requiem VII" ja="魔物のレクイエムVII" />
+  <o id="775" recast="96" en="Foe Requiem VIII" ja="魔物のレクイエムVIII" />
+  <o id="776" recast="96" en="Foe Lullaby" ja="魔物のララバイ" />
+  <o id="777" recast="96" en="Foe Lullaby II" ja="魔物のララバイII" />
+  <o id="778" recast="96" en="Horde Lullaby" ja="魔物達のララバイ" />
+  <o id="779" recast="96" en="Horde Lullaby II" ja="魔物達のララバイII" />
+  <o id="780" recast="96" en="Army's Paeon" ja="戦士達のピーアン" />
+  <o id="781" recast="96" en="Army's Paeon II" ja="戦士達のピーアンII" />
+  <o id="782" recast="96" en="Army's Paeon III" ja="戦士達のピーアンIII" />
+  <o id="783" recast="96" en="Army's Paeon IV" ja="戦士達のピーアンIV" />
+  <o id="784" recast="96" en="Army's Paeon V" ja="戦士達のピーアンV" />
+  <o id="785" recast="96" en="Army's Paeon VI" ja="戦士達のピーアンVI" />
+  <o id="786" recast="96" en="Army's Paeon VII" ja="戦士達のピーアンVII" />
+  <o id="787" recast="96" en="Army's Paeon VIII" ja="戦士達のピーアンVIII" />
+  <o id="788" recast="96" en="Mage's Ballad" ja="魔道士のバラード" />
+  <o id="789" recast="96" en="Mage's Ballad II" ja="魔道士のバラードII" />
+  <o id="790" recast="96" en="Mage's Ballad III" ja="魔道士のバラードIII" />
+  <o id="791" recast="96" en="Knight's Minne" ja="重装騎兵のミンネ" />
+  <o id="792" recast="96" en="Knight's Minne II" ja="重装騎兵のミンネII" />
+  <o id="793" recast="96" en="Knight's Minne III" ja="重装騎兵のミンネIII" />
+  <o id="794" recast="96" en="Knight's Minne IV" ja="重装騎兵のミンネIV" />
+  <o id="795" recast="96" en="Knight's Minne V" ja="重装騎兵のミンネV" />
+  <o id="796" recast="96" en="Valor Minuet" ja="猛者のメヌエット" />
+  <o id="797" recast="96" en="Valor Minuet II" ja="猛者のメヌエットII" />
+  <o id="798" recast="96" en="Valor Minuet III" ja="猛者のメヌエットIII" />
+  <o id="799" recast="96" en="Valor Minuet IV" ja="猛者のメヌエットIV" />
+  <o id="800" recast="96" en="Valor Minuet V" ja="猛者のメヌエットV" />
+  <o id="801" recast="96" en="Sword Madrigal" ja="剣闘士のマドリガル" />
+  <o id="802" recast="96" en="Blade Madrigal" ja="剣豪のマドリガル" />
+  <o id="803" recast="96" en="Hunter's Prelude" ja="狩人のプレリュード" />
+  <o id="804" recast="96" en="Archer's Prelude" ja="弓師のプレリュード" />
+  <o id="805" recast="96" en="Sheepfoe Mambo" ja="闘羊士のマンボ" />
+  <o id="806" recast="96" en="Dragonfoe Mambo" ja="闘龍士のマンボ" />
+  <o id="807" recast="96" en="Fowl Aubade" ja="鶏のオーバード" />
+  <o id="808" recast="96" en="Herb Pastoral" ja="薬草のパストラル" />
+  <o id="809" recast="96" en="Chocobo Hum" ja="チョコボのハミング" />
+  <o id="810" recast="96" en="Shining Fantasia" ja="光明のファンタジア" />
+  <o id="811" recast="96" en="Scop's Operetta" ja="小話のオペレッタ" />
+  <o id="812" recast="96" en="Puppet's Operetta" ja="腹話のオペレッタ" />
+  <o id="813" recast="96" en="Jester's Operetta" ja="道化のオペレッタ" />
+  <o id="814" recast="96" en="Gold Capriccio" ja="黄金のカプリチオ" />
+  <o id="815" recast="96" en="Devotee Serenade" ja="献身のセレナーデ" />
+  <o id="816" recast="96" en="Warding Round" ja="破邪のロンド" />
+  <o id="817" recast="96" en="Goblin Gavotte" ja="ゴブリンのガボット" />
+  <o id="818" recast="96" en="Cactuar Fugue" ja="サボテンダーフーガ" />
+  <o id="819" recast="96" en="Moogle Rhapsody" ja="モーグリのラプソディ" />
+  <o id="820" recast="96" en="Protected Aria" ja="冷静と情熱のアリア" />
+  <o id="821" recast="96" en="Advancing March" ja="無敵の進撃マーチ" />
+  <o id="822" recast="96" en="Victory March" ja="栄光の凱旋マーチ" />
+  <o id="824" recast="96" en="Battlefield Elegy" ja="戦場のエレジー" />
+  <o id="825" recast="96" en="Carnage Elegy" ja="修羅のエレジー" />
+  <o id="826" recast="96" en="Massacre Elegy" ja="地獄のエレジー" />
+  <o id="827" recast="96" en="Sinewy Etude" ja="剛力のエチュード" />
+  <o id="828" recast="96" en="Dextrous Etude" ja="器用のエチュード" />
+  <o id="829" recast="96" en="Vivacious Etude" ja="元気のエチュード" />
+  <o id="830" recast="96" en="Quick Etude" ja="機敏のエチュード" />
+  <o id="831" recast="96" en="Learned Etude" ja="知恵のエチュード" />
+  <o id="832" recast="96" en="Spirited Etude" ja="精神のエチュード" />
+  <o id="833" recast="96" en="Enchanting Etude" ja="魅了のエチュード" />
+  <o id="834" recast="96" en="Herculean Etude" ja="怪力のエチュード" />
+  <o id="835" recast="96" en="Uncanny Etude" ja="妙技のエチュード" />
+  <o id="836" recast="96" en="Vital Etude" ja="活力のエチュード" />
+  <o id="837" recast="96" en="Swift Etude" ja="俊敏のエチュード" />
+  <o id="838" recast="96" en="Sage Etude" ja="英知のエチュード" />
+  <o id="839" recast="96" en="Logical Etude" ja="理力のエチュード" />
+  <o id="840" recast="96" en="Bewitching Etude" ja="魅惑のエチュード" />
+  <o id="841" recast="96" en="Fire Carol" ja="耐火カロル第一楽章" />
+  <o id="842" recast="96" en="Ice Carol" ja="耐寒カロル第一楽章" />
+  <o id="843" recast="96" en="Wind Carol" ja="耐風カロル第一楽章" />
+  <o id="844" recast="96" en="Earth Carol" ja="耐震カロル第一楽章" />
+  <o id="845" recast="96" en="Lightning Carol" ja="耐電カロル第一楽章" />
+  <o id="846" recast="96" en="Water Carol" ja="耐波カロル第一楽章" />
+  <o id="847" recast="96" en="Light Carol" ja="耐光カロル第一楽章" />
+  <o id="848" recast="96" en="Dark Carol" ja="耐闇カロル第一楽章" />
+  <o id="849" recast="96" en="Fire Carol II" ja="耐火カロル第二楽章" />
+  <o id="850" recast="96" en="Ice Carol II" ja="耐寒カロル第二楽章" />
+  <o id="851" recast="96" en="Wind Carol II" ja="耐風カロル第二楽章" />
+  <o id="852" recast="96" en="Earth Carol II" ja="耐震カロル第二楽章" />
+  <o id="853" recast="96" en="Lightning Carol II" ja="耐電カロル第二楽章" />
+  <o id="854" recast="96" en="Water Carol II" ja="耐波カロル第二楽章" />
+  <o id="855" recast="96" en="Light Carol II" ja="耐光カロル第二楽章" />
+  <o id="856" recast="96" en="Dark Carol II" ja="耐闇カロル第二楽章" />
+  <o id="857" recast="96" en="Fire Threnody" ja="炎のスレノディ" />
+  <o id="858" recast="96" en="Ice Threnody" ja="氷のスレノディ" />
+  <o id="859" recast="96" en="Wind Threnody" ja="風のスレノディ" />
+  <o id="860" recast="96" en="Earth Threnody" ja="土のスレノディ" />
+  <o id="861" recast="96" en="Ltng. Threnody" ja="雷のスレノディ" />
+  <o id="862" recast="96" en="Water Threnody" ja="水のスレノディ" />
+  <o id="863" recast="96" en="Light Threnody" ja="光のスレノディ" />
+  <o id="864" recast="96" en="Dark Threnody" ja="闇のスレノディ" />
+  <o id="865" recast="96" en="Magic Finale" ja="魔法のフィナーレ" />
+  <o id="866" recast="96" en="Goddess's Hymnus" ja="女神のヒムヌス" />
+  <o id="867" recast="96" en="Raptor Mazurka" ja="ラプトルのマズルカ" />
+  <o id="868" recast="240" en="Chocobo Mazurka" ja="チョコボのマズルカ" />
+  <o id="869" recast="240" en="Maiden's Virelai" ja="乙女のヴィルレー" />
+  <o id="870" recast="96" en="Foe Sirvente" ja="魔物のシルベント" />
+  <o id="871" recast="96" en="Adventurer's Dirge" ja="冒険者のダージュ" />
+  <o id="872" recast="96" en="Sentinel's Scherzo" ja="警戒のスケルツォ" />
+  <o id="873" recast="96" en="Pining Nocturne" ja="恋情のノクターン" />
+  <o id="880" recast="80" en="Paralyga" ja="パライガ" />
+  <o id="881" recast="120" en="Slowga" ja="スロウガ" />
+  <o id="882" recast="120" en="Hastega" ja="ヘイスガ" />
+  <o id="883" recast="80" en="Silencega" ja="サイレガ" />
+  <o id="884" recast="240" en="Dispelga" ja="ディスペガ" />
+  <o id="885" recast="80" en="Blindga" ja="ブライガ" />
+  <o id="886" recast="200" en="Bindga" ja="バインガ" />
+  <o id="887" recast="160" en="Sleepga" ja="スリプガ" />
+  <o id="888" recast="200" en="Sleepga II" ja="スリプガII" />
+  <o id="889" recast="240" en="Graviga" ja="グラビガ" />
+  <o id="890" recast="40" en="Death" ja="デス" />
+  <o id="892" recast="208" en="Meteor II" ja="メテオII" />
+  <o id="893" recast="40" en="Virus" ja="ウィルス" />
+  <o id="894" recast="40" en="Curse" ja="カーズ" />
+  <o id="896" recast="192" en="Shantotto" ja="シャントット" />
+  <o id="897" recast="192" en="Naji" ja="ナジ" />
+  <o id="898" recast="192" en="Kupipi" ja="クピピ" />
+  <o id="899" recast="192" en="Excenmille" ja="エグセニミル" />
+  <o id="900" recast="192" en="Ayame" ja="アヤメ" />
+  <o id="901" recast="192" en="Nanaa Mihgo" ja="ナナー・ミーゴ" />
+  <o id="902" recast="192" en="Curilla" ja="クリルラ" />
+  <o id="903" recast="192" en="Volker" ja="フォルカー" />
+  <o id="904" recast="192" en="Ajido-Marujido" ja="アジドマルジド" />
+  <o id="905" recast="192" en="Trion" ja="トリオン" />
+  <o id="906" recast="192" en="Zeid" ja="ザイド" />
+  <o id="907" recast="192" en="Lion" ja="ライオン" />
+  <o id="908" recast="192" en="Tenzen" ja="テンゼン" />
+  <o id="909" recast="192" en="Mihli Aliapoh" ja="ミリ・アリアポー" />
+  <o id="910" recast="192" en="Valaineral" ja="ヴァレンラール" />
+  <o id="911" recast="192" en="Joachim" ja="ヨアヒム" />
+  <o id="912" recast="192" en="Naja Salaheem" ja="ナジャ・サラヒム" />
+  <o id="913" recast="192" en="Prishe" ja="プリッシュ" />
+  <o id="914" recast="192" en="Ulmia" ja="ウルミア" />
+  <o id="916" recast="192" en="Cherukiki" ja="チェルキキ" />
+  <o id="917" recast="192" en="Iron Eater" ja="アイアンイーター" />
+  <o id="918" recast="192" en="Gessho" ja="ゲッショー" />
+  <o id="919" recast="192" en="Gadalar" ja="ガダラル" />
+  <o id="921" recast="192" en="Ingrid" ja="イングリッド" />
+  <o id="922" recast="192" en="Lehko Habhoka" ja="レコ・ハボッカ" />
+  <o id="923" recast="192" en="Nashmeira" ja="ナシュメラ" />
+  <o id="924" recast="192" en="Zazarg" ja="ザザーグ" />
+  <o id="925" recast="192" en="Ovjang" ja="アヴゼン" />
+  <o id="926" recast="192" en="Mnejing" ja="メネジン" />
+  <o id="927" recast="192" en="Sakura" ja="サクラ" />
+  <o id="928" recast="192" en="Luzaf" ja="ルザフ" />
+  <o id="929" recast="192" en="Najelith" ja="ナジュリス" />
+  <o id="930" recast="192" en="Aldo" ja="アルド" />
+  <o id="931" recast="192" en="Moogle" ja="モーグリ" />
+  <o id="932" recast="192" en="Fablinix" ja="ファブリニクス" />
+  <o id="933" recast="192" en="Maat" ja="マート" />
+  <o id="934" recast="192" en="D. Shantotto" ja="D.シャントット" />
+  <o id="935" recast="192" en="Star Sibyl" ja="星の神子" />
+  <o id="941" recast="192" en="Elivira" ja="エリヴィラ" />
+  <o id="942" recast="192" en="Noillurie" ja="ノユリ" />
+  <o id="943" recast="192" en="Lhu Mhakaracca" ja="ルー・マカラッカ" />
+  <o id="944" recast="192" en="Ferreous Coffin" ja="フェリアスコフィン" />
+  <o id="945" recast="192" en="magic(945)" ja="." />
+  <o id="946" recast="192" en="Mumor" ja="ミュモル" />
+  <o id="947" recast="192" en="Uka Totlihn" ja="ウカ・トトゥリン" />
 </spell_recasts>

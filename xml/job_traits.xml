@@ -1,112 +1,112 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <job_traits>
-  <o id="1" element="4" icon_id="44" targets="0" range="0" en="Accuracy Bonus" ja="物理命中率アップ" de="Präzisions-Bonus" fr="Bonus précision" />
-  <o id="2" element="2" icon_id="42" targets="0" range="0" en="Evasion Bonus" ja="物理回避率アップ" de="Ausweich-Bonus" fr="Bonus esquive" />
-  <o id="3" element="0" icon_id="40" targets="0" range="0" en="Attack Bonus" ja="物理攻撃力アップ" de="Attacken-Bonus" fr="Bonus attaque" />
-  <o id="4" element="3" icon_id="43" targets="0" range="0" en="Defense Bonus" ja="物理防御力アップ" de="Verteidig.-Bonus" fr="Bonus défense" />
-  <o id="5" element="6" icon_id="46" targets="0" range="0" en="Magic Atk. Bonus" ja="魔法攻撃力アップ" de="Magieatt.-Bonus" fr="Bonus attq. mag." />
-  <o id="6" element="6" icon_id="46" targets="0" range="0" en="Magic Def. Bonus" ja="魔法防御力アップ" de="Magievert.-Bonus" fr="Bonus déf. mag." />
-  <o id="7" element="6" icon_id="46" targets="0" range="0" en="Max HP Boost" ja="HPmaxアップ" de="Max. HP-Boost" fr="HP max. augm." />
-  <o id="8" element="6" icon_id="46" targets="0" range="0" en="Max MP Boost" ja="MPmaxアップ" de="Max. MP-Boost" fr="MP max. augm." />
-  <o id="9" element="6" icon_id="46" targets="0" range="0" en="Auto Regen" ja="オートリジェネ" de="Auto-Regen." fr="Auto-récup" />
-  <o id="10" element="6" icon_id="46" targets="0" range="0" en="Auto Refresh" ja="オートリフレシュ" de="Auto-Erfrischen" fr="Auto-recharge" />
-  <o id="11" element="2" icon_id="42" targets="0" range="0" en="Rapid Shot" ja="ラピッドショット" de="Rapidschuss" fr="Tir rapide" />
-  <o id="12" element="6" icon_id="46" targets="0" range="0" en="Fast Cast" ja="ファストキャスト" de="Schnellzauber" fr="Rapido-magie" />
-  <o id="13" element="6" icon_id="46" targets="0" range="0" en="Conserve MP" ja="コンサーブMP" de="MP einsparen" fr="Economie MP" />
-  <o id="14" element="6" icon_id="46" targets="0" range="0" en="Store TP" ja="ストアTP" de="TP lagern" fr="Réserve TP" />
-  <o id="15" element="6" icon_id="46" targets="0" range="0" en="Double Attack" ja="ダブルアタック" de="Doppelattacke" fr="Double attaque" />
-  <o id="16" element="6" icon_id="46" targets="0" range="0" en="Triple Attack" ja="トリプルアタック" de="Dreifachattacke" fr="Triple attaque" />
-  <o id="17" element="6" icon_id="46" targets="0" range="0" en="Counter" ja="カウンター" de="Konter" fr="Riposte" />
-  <o id="18" element="6" icon_id="46" targets="0" range="0" en="Dual Wield" ja="二刀流" de="Doppelwaffe" fr="Deux armes" />
-  <o id="19" element="6" icon_id="46" targets="0" range="0" en="Treasure Hunter" ja="トレジャーハンター" de="Schatzjäger" fr="Chass. de trésor" />
-  <o id="20" element="6" icon_id="46" targets="0" range="0" en="Gilfinder" ja="ギルスティール" de="Gilfinder" fr="Gils plus" />
-  <o id="21" element="6" icon_id="46" targets="0" range="0" en="Alertness" ja="警戒" de="Wachsamkeit" fr="Vigilance" />
-  <o id="22" element="6" icon_id="46" targets="0" range="0" en="Stealth" ja="ステルス" de="Heimlichkeit" fr="Discrétion" />
-  <o id="23" element="2" icon_id="42" targets="0" range="0" en="Martial Arts" ja="マーシャルアーツ" de="Kampfkünste" fr="Arts martiaux" />
-  <o id="24" element="1" icon_id="41" targets="0" range="0" en="Clear Mind" ja="クリアマインド" de="Klarer Kopf" fr="Esprit clair" />
-  <o id="25" element="6" icon_id="46" targets="0" range="0" en="Shield Mastery" ja="シールドマスタリー" de="Schildmeister" fr="Maîtrise bouclier" />
-  <o id="32" element="6" icon_id="46" targets="0" range="0" en="Beast Killer" ja="ビーストキラー" de="Bestienkiller" fr="Tueur de bêtes" />
-  <o id="33" element="6" icon_id="46" targets="0" range="0" en="Plantoid Killer" ja="プラントイドキラー" de="Plantoidenkiller" fr="Tueur de plant." />
-  <o id="34" element="6" icon_id="46" targets="0" range="0" en="Vermin Killer" ja="ヴァーミンキラー" de="Ungezieferkiller" fr="Tueur de verm." />
-  <o id="35" element="6" icon_id="46" targets="0" range="0" en="Lizard Killer" ja="リザードキラー" de="Echsenkiller" fr="Tueur de lézards" />
-  <o id="36" element="6" icon_id="46" targets="0" range="0" en="Bird Killer" ja="バードキラー" de="Vogelkiller" fr="Tueur d'oiseaux" />
-  <o id="37" element="6" icon_id="46" targets="0" range="0" en="Amorph Killer" ja="アモルフキラー" de="Amorphkiller" fr="Tueur d'amorphes" />
-  <o id="38" element="6" icon_id="46" targets="0" range="0" en="Aquan Killer" ja="アクアンキラー" de="Aquankiller" fr="Tueur d'aquans" />
-  <o id="39" element="6" icon_id="46" targets="0" range="0" en="Undead Killer" ja="アンデッドキラー" de="Untotenkiller" fr="Tueur mort-vivant" />
-  <o id="41" element="7" icon_id="47" targets="0" range="0" en="Arcana Killer" ja="アルカナキラー" de="Arcanakiller" fr="Tueur d'arcanas" />
-  <o id="42" element="6" icon_id="46" targets="0" range="0" en="Demon Killer" ja="デーモンキラー" de="Dämonenkiller" fr="Tueur de démons" />
-  <o id="43" element="7" icon_id="47" targets="0" range="0" en="Dragon Killer" ja="ドラゴンキラー" de="Drachenkiller" fr="Tueur de dragons" />
-  <o id="48" element="6" icon_id="46" targets="0" range="0" en="Resist Sleep" ja="レジストスリープ" de="Schlaf widerstehen" fr="Résiste Sommeil" />
-  <o id="49" element="4" icon_id="44" targets="0" range="0" en="Resist Poison" ja="レジストポイズン" de="Gift widerstehen" fr="Résiste Poison" />
-  <o id="50" element="0" icon_id="40" targets="0" range="0" en="Resist Paralyze" ja="レジストパライズ" de="Paralyse widerst." fr="Résiste Paralysie" />
-  <o id="51" element="6" icon_id="46" targets="0" range="0" en="Resist Blind" ja="レジストブライン" de="Blind widerstehen" fr="Résiste Cécité" />
-  <o id="52" element="1" icon_id="41" targets="0" range="0" en="Resist Silence" ja="レジストサイレス" de="Schweigen widerst." fr="Résiste Silence" />
-  <o id="53" element="2" icon_id="42" targets="0" range="0" en="Resist Petrify" ja="レジストペトリ" de="Stein widerstehen" fr="Résiste Pétrif." />
-  <o id="54" element="5" icon_id="45" targets="0" range="0" en="Resist Virus" ja="レジストウィルス" de="Viren widerstehen" fr="Résiste Virus" />
-  <o id="55" element="6" icon_id="46" targets="0" range="0" en="Resist Curse" ja="レジストカーズ" de="Fluch widerstehen" fr="Résiste Maléfice" />
-  <o id="56" element="0" icon_id="40" targets="0" range="0" en="Resist Stun" ja="レジストスタン" de="Betäub. widerst." fr="Résiste Etourdi." />
-  <o id="57" element="0" icon_id="40" targets="0" range="0" en="Resist Bind" ja="レジストバインド" de="Fessel widerstehen" fr="Résiste Entrave" />
-  <o id="58" element="1" icon_id="41" targets="0" range="0" en="Resist Gravity" ja="レジストグラビティ" de="Schwerkr. widerst." fr="Résiste Pesant." />
-  <o id="59" element="2" icon_id="42" targets="0" range="0" en="Resist Slow" ja="レジストスロウ" de="Gemach widerst." fr="Résiste Lenteur" />
-  <o id="60" element="6" icon_id="46" targets="0" range="0" en="Resist Charm" ja="レジストチャーム" de="Zauberf. widerst." fr="Résiste Charme" />
-  <o id="63" element="5" icon_id="45" targets="0" range="0" en="Resist Amnesia" ja="レジストアムネジア" de="Amnesie widerst." fr="Résiste Amnésie" />
-  <o id="64" element="6" icon_id="46" targets="0" range="0" en="Treasure Hunter II" ja="トレジャーハンターII" de="Schatzjäger II" fr="Chass. de trés. II" />
-  <o id="65" element="6" icon_id="46" targets="0" range="0" en="Treas. Hunter III" ja="トレジャーハンターIII" de="Schatzjäger III" fr="Chass. de trés. III" />
-  <o id="66" element="6" icon_id="46" targets="0" range="0" en="Kick Attacks" ja="蹴撃" de="Trittattacke" fr="Coups de pied" />
-  <o id="67" element="2" icon_id="42" targets="0" range="0" en="Subtle Blow" ja="モクシャ" de="Subtilschlag" fr="Coup subtil" />
-  <o id="68" element="2" icon_id="42" targets="0" range="0" en="Assassin" ja="アサシン" de="Mörder" fr="Assassin" />
-  <o id="69" element="6" icon_id="46" targets="0" range="0" en="Divine Veil" ja="女神の慈悲" de="Gottesschleier" fr="Voile divin" />
-  <o id="70" element="6" icon_id="46" targets="0" range="0" en="Zanshin" ja="残心" de="Zanshin" fr="Zanshin" />
-  <o id="71" element="6" icon_id="46" targets="0" range="0" en="Savagery" ja="サベッジリ" de="Wildheit" fr="Sauvagerie" />
-  <o id="72" element="6" icon_id="46" targets="0" range="0" en="Aggressive Aim" ja="アグレシブエイム" de="Aggressiv-Treffer" fr="Visée agressive" />
-  <o id="73" element="6" icon_id="46" targets="0" range="0" en="Invigorate" ja="練気" de="Stärkung" fr="Tonifiant" />
-  <o id="74" element="6" icon_id="46" targets="0" range="0" en="Penance" ja="発剄" de="Buße" fr="Pénitence" />
-  <o id="75" element="6" icon_id="46" targets="0" range="0" en="Aura Steal" ja="オーラスティール" de="Aura-Diebstahl" fr="Vol d'aura" />
-  <o id="76" element="6" icon_id="46" targets="0" range="0" en="Ambush" ja="アンブッシュ" de="Hinterhalt" fr="Embuscade" />
-  <o id="77" element="6" icon_id="46" targets="0" range="0" en="Iron Will" ja="アイアンウィル" de="Eiserner Wille" fr="Volonté de fer" />
-  <o id="78" element="6" icon_id="46" targets="0" range="0" en="Guardian" ja="ガーディアン" de="Hüter" fr="Gardien" />
-  <o id="79" element="6" icon_id="46" targets="0" range="0" en="Muted Soul" ja="ミューテッドソウル" de="Unterdrückte Seele" fr="Ame silencieuse" />
-  <o id="80" element="6" icon_id="46" targets="0" range="0" en="Desperate Blows" ja="デスペレートブロー" de="Verzweiflungshiebe" fr="Coups désespérés" />
-  <o id="81" element="6" icon_id="46" targets="0" range="0" en="Beast Affinity" ja="ビーストアフニティ" de="Bestien-Affinität" fr="Ami des bêtes" />
-  <o id="82" element="6" icon_id="46" targets="0" range="0" en="Beast Healer" ja="ビーストヒーラー" de="Bestienheiler" fr="Vétérinaire" />
-  <o id="83" element="6" icon_id="46" targets="0" range="0" en="Snapshot" ja="スナップショット" de="Schnappschuss" fr="Tir instantané" />
-  <o id="84" element="6" icon_id="46" targets="0" range="0" en="Recycle" ja="リサイクル" de="Recycle" fr="Recyclage" />
-  <o id="85" element="6" icon_id="46" targets="0" range="0" en="Ikishoten" ja="意気衝天" de="Ikishoten" fr="Ikishoten" />
-  <o id="86" element="6" icon_id="46" targets="0" range="0" en="Overwhelm" ja="正正堂堂" de="Überwältigen" fr="Face-à-face" />
-  <o id="87" element="6" icon_id="46" targets="0" range="0" en="Ninja Tool Expert." ja="忍具の知識" de="Ninja-Weisheit" fr="Exp. outils ninja" />
-  <o id="88" element="6" icon_id="46" targets="0" range="0" en="Empathy" ja="エンパシー" de="Empathie" fr="Empathie" />
-  <o id="89" element="6" icon_id="46" targets="0" range="0" en="Strafe" ja="ストレイフ" de="Beschuss" fr="Bombardement" />
-  <o id="90" element="6" icon_id="46" targets="0" range="0" en="Enchainment" ja="エンチェーンメント" de="Verkettung" fr="Enchaînement" />
-  <o id="91" element="6" icon_id="46" targets="0" range="0" en="Assimilation" ja="アシミレーション" de="Einverleibung" fr="Assimilation" />
-  <o id="92" element="6" icon_id="46" targets="0" range="0" en="Winning Streak" ja="ウィニングストリーク" de="Glückssträhne" fr="Sans-faute" />
-  <o id="93" element="6" icon_id="46" targets="0" range="0" en="Loaded Deck" ja="ローデッドデッキ" de="Kartentrick" fr="Dés pipés" />
-  <o id="94" element="6" icon_id="46" targets="0" range="0" en="Fine-Tuning" ja="微調整" de="Feinabstimmung" fr="Syntonisation" />
-  <o id="95" element="6" icon_id="46" targets="0" range="0" en="Optimization" ja="最適化" de="Optimierung" fr="Optimisation" />
-  <o id="96" element="6" icon_id="46" targets="0" range="0" en="Closed Position" ja="Ｃ・ポジション" de="Arabesque" fr="Position fermée" />
-  <o id="97" element="6" icon_id="46" targets="0" range="0" en="Stormsurge" ja="陣頭指揮" de="Theatrum mundi" fr="Injonction" />
-  <o id="98" element="6" icon_id="46" targets="0" range="0" en="Crit. Atk. Bonus" ja="C.インクリース" de="Krit. Att.-Bonus" fr="Expertise critique" />
-  <o id="99" element="6" icon_id="46" targets="0" range="0" en="Crit. Def. Bonus" ja="C.リデュース" de="Krit. Vert.-Bonus" fr="Défense critique" />
-  <o id="100" element="6" icon_id="46" targets="0" range="0" en="Tactical Parry" ja="タクティカルパリー" de="Takt. Parieren" fr="Parade strat." />
-  <o id="101" element="6" icon_id="46" targets="0" range="0" en="Tactical Guard" ja="タクティカルガード" de="Takt. Beschützen" fr="Garde strat." />
-  <o id="102" element="6" icon_id="46" targets="0" range="0" en="Shield Def. Bonus" ja="エクストリームガード" de="Schild-Vert.-Bonus" fr="Blocage strat." />
-  <o id="103" element="6" icon_id="46" targets="0" range="0" en="Stout Servant" ja="スタウトサーヴァント" de="Standhaft. Knecht" fr="Serviteur loyal" />
-  <o id="104" element="6" icon_id="46" targets="0" range="0" en="True Shot" ja="トゥルーショット" de="Wahrhaft. Schuss" fr="Tir franc" />
-  <o id="105" element="6" icon_id="46" targets="0" range="0" en="Blood Boon" ja="ブラッドブーン" de="Blutseligkeit" fr="Grâce du pacte" />
-  <o id="106" element="6" icon_id="46" targets="0" range="0" en="Skillchain Bonus" ja="連携ボーナス" de="Domino-Effekt" fr="Chaîne experte" />
-  <o id="107" element="6" icon_id="46" targets="0" range="0" en="Fencer" ja="フェンサー" de="Fechter" fr="Escrimeur" />
-  <o id="108" element="6" icon_id="46" targets="0" range="0" en="Conserve TP" ja="コンサーブTP" de="TP einsparen" fr="Economie TP" />
-  <o id="109" element="6" icon_id="46" targets="0" range="0" en="Occult Acumen" ja="マジックアキュメン" de="Okkult. Scharfsinn" fr="Virtuosité occulte" />
-  <o id="110" element="6" icon_id="46" targets="0" range="0" en="Mag. Burst Bonus" ja="MB.ボーナス" de="Mag.-Schub-Bon." fr="Bonus expl. mag." />
-  <o id="111" element="6" icon_id="46" targets="0" range="0" en="Divine Benison" ja="ディバインベニゾン" de="Gottesgabe" fr="Faveur divine" />
-  <o id="112" element="7" icon_id="47" targets="0" range="0" en="Elemental Celerity" ja="エレメントセレリティ" de="Elementar-R." fr="Incant. accélérée" />
-  <o id="113" element="6" icon_id="46" targets="0" range="0" en="Dead Aim" ja="デッドエイム" de="Herzschuss" fr="Visée d'élite" />
-  <o id="114" element="6" icon_id="46" targets="0" range="0" en="Tranquil Heart" ja="トランキルハート" de="Friedvolles Herz" fr="Ame sereine" />
-  <o id="115" element="7" icon_id="47" targets="0" range="0" en="Stalwart Soul" ja="ストルワートソウル" de="Standhafte Seele" fr="Noirc. insoumise" />
-  <o id="116" element="6" icon_id="46" targets="0" range="0" en="Cardinal Chant" ja="カーディナルチャント" de="Kardinalsgesang" fr="Psalm. cardinale" />
-  <o id="117" element="6" icon_id="46" targets="0" range="0" en="Tenacity" ja="テナシティ" de="Zähigkeit" fr="Fermeté" />
-  <o id="118" element="6" icon_id="46" targets="0" range="0" en="Inquartata" ja="インクァルタタ" de="Inquartata" fr="Incartade" />
-  <o id="119" element="6" icon_id="46" targets="0" range="0" en="C. Recantation" ja="キュアリカント" de="K. Widerrufung" fr="Repli curatif" />
-  <o id="120" element="7" icon_id="47" targets="0" range="0" en="Primeval Zeal" ja="プライムジール" de="Urz. Eifer" fr="Zèle primitif" />
-  <o id="121" element="6" icon_id="46" targets="0" range="0" en="Inspiration" ja="インスパイア" de="Inspiration" fr="Inspiration" />
-  <o id="122" element="2" icon_id="42" targets="0" range="0" en="Sleight of Sword" ja="スライトソード" de="Flinke Klinge" fr="Lame agile" />
+  <o id="1" element="4" icon_id="44" targets="0" range="0" en="Accuracy Bonus" ja="物理命中率アップ" />
+  <o id="2" element="2" icon_id="42" targets="0" range="0" en="Evasion Bonus" ja="物理回避率アップ" />
+  <o id="3" element="0" icon_id="40" targets="0" range="0" en="Attack Bonus" ja="物理攻撃力アップ" />
+  <o id="4" element="3" icon_id="43" targets="0" range="0" en="Defense Bonus" ja="物理防御力アップ" />
+  <o id="5" element="6" icon_id="46" targets="0" range="0" en="Magic Atk. Bonus" ja="魔法攻撃力アップ" />
+  <o id="6" element="6" icon_id="46" targets="0" range="0" en="Magic Def. Bonus" ja="魔法防御力アップ" />
+  <o id="7" element="6" icon_id="46" targets="0" range="0" en="Max HP Boost" ja="HPmaxアップ" />
+  <o id="8" element="6" icon_id="46" targets="0" range="0" en="Max MP Boost" ja="MPmaxアップ" />
+  <o id="9" element="6" icon_id="46" targets="0" range="0" en="Auto Regen" ja="オートリジェネ" />
+  <o id="10" element="6" icon_id="46" targets="0" range="0" en="Auto Refresh" ja="オートリフレシュ" />
+  <o id="11" element="2" icon_id="42" targets="0" range="0" en="Rapid Shot" ja="ラピッドショット" />
+  <o id="12" element="6" icon_id="46" targets="0" range="0" en="Fast Cast" ja="ファストキャスト" />
+  <o id="13" element="6" icon_id="46" targets="0" range="0" en="Conserve MP" ja="コンサーブMP" />
+  <o id="14" element="6" icon_id="46" targets="0" range="0" en="Store TP" ja="ストアTP" />
+  <o id="15" element="6" icon_id="46" targets="0" range="0" en="Double Attack" ja="ダブルアタック" />
+  <o id="16" element="6" icon_id="46" targets="0" range="0" en="Triple Attack" ja="トリプルアタック" />
+  <o id="17" element="6" icon_id="46" targets="0" range="0" en="Counter" ja="カウンター" />
+  <o id="18" element="6" icon_id="46" targets="0" range="0" en="Dual Wield" ja="二刀流" />
+  <o id="19" element="6" icon_id="46" targets="0" range="0" en="Treasure Hunter" ja="トレジャーハンター" />
+  <o id="20" element="6" icon_id="46" targets="0" range="0" en="Gilfinder" ja="ギルスティール" />
+  <o id="21" element="6" icon_id="46" targets="0" range="0" en="Alertness" ja="警戒" />
+  <o id="22" element="6" icon_id="46" targets="0" range="0" en="Stealth" ja="ステルス" />
+  <o id="23" element="2" icon_id="42" targets="0" range="0" en="Martial Arts" ja="マーシャルアーツ" />
+  <o id="24" element="1" icon_id="41" targets="0" range="0" en="Clear Mind" ja="クリアマインド" />
+  <o id="25" element="6" icon_id="46" targets="0" range="0" en="Shield Mastery" ja="シールドマスタリー" />
+  <o id="32" element="6" icon_id="46" targets="0" range="0" en="Beast Killer" ja="ビーストキラー" />
+  <o id="33" element="6" icon_id="46" targets="0" range="0" en="Plantoid Killer" ja="プラントイドキラー" />
+  <o id="34" element="6" icon_id="46" targets="0" range="0" en="Vermin Killer" ja="ヴァーミンキラー" />
+  <o id="35" element="6" icon_id="46" targets="0" range="0" en="Lizard Killer" ja="リザードキラー" />
+  <o id="36" element="6" icon_id="46" targets="0" range="0" en="Bird Killer" ja="バードキラー" />
+  <o id="37" element="6" icon_id="46" targets="0" range="0" en="Amorph Killer" ja="アモルフキラー" />
+  <o id="38" element="6" icon_id="46" targets="0" range="0" en="Aquan Killer" ja="アクアンキラー" />
+  <o id="39" element="6" icon_id="46" targets="0" range="0" en="Undead Killer" ja="アンデッドキラー" />
+  <o id="41" element="7" icon_id="47" targets="0" range="0" en="Arcana Killer" ja="アルカナキラー" />
+  <o id="42" element="6" icon_id="46" targets="0" range="0" en="Demon Killer" ja="デーモンキラー" />
+  <o id="43" element="7" icon_id="47" targets="0" range="0" en="Dragon Killer" ja="ドラゴンキラー" />
+  <o id="48" element="6" icon_id="46" targets="0" range="0" en="Resist Sleep" ja="レジストスリープ" />
+  <o id="49" element="4" icon_id="44" targets="0" range="0" en="Resist Poison" ja="レジストポイズン" />
+  <o id="50" element="0" icon_id="40" targets="0" range="0" en="Resist Paralyze" ja="レジストパライズ" />
+  <o id="51" element="6" icon_id="46" targets="0" range="0" en="Resist Blind" ja="レジストブライン" />
+  <o id="52" element="1" icon_id="41" targets="0" range="0" en="Resist Silence" ja="レジストサイレス" />
+  <o id="53" element="2" icon_id="42" targets="0" range="0" en="Resist Petrify" ja="レジストペトリ" />
+  <o id="54" element="5" icon_id="45" targets="0" range="0" en="Resist Virus" ja="レジストウィルス" />
+  <o id="55" element="6" icon_id="46" targets="0" range="0" en="Resist Curse" ja="レジストカーズ" />
+  <o id="56" element="0" icon_id="40" targets="0" range="0" en="Resist Stun" ja="レジストスタン" />
+  <o id="57" element="0" icon_id="40" targets="0" range="0" en="Resist Bind" ja="レジストバインド" />
+  <o id="58" element="1" icon_id="41" targets="0" range="0" en="Resist Gravity" ja="レジストグラビティ" />
+  <o id="59" element="2" icon_id="42" targets="0" range="0" en="Resist Slow" ja="レジストスロウ" />
+  <o id="60" element="6" icon_id="46" targets="0" range="0" en="Resist Charm" ja="レジストチャーム" />
+  <o id="63" element="5" icon_id="45" targets="0" range="0" en="Resist Amnesia" ja="レジストアムネジア" />
+  <o id="64" element="6" icon_id="46" targets="0" range="0" en="Treasure Hunter II" ja="トレジャーハンターII" />
+  <o id="65" element="6" icon_id="46" targets="0" range="0" en="Treas. Hunter III" ja="トレジャーハンターIII" />
+  <o id="66" element="6" icon_id="46" targets="0" range="0" en="Kick Attacks" ja="蹴撃" />
+  <o id="67" element="2" icon_id="42" targets="0" range="0" en="Subtle Blow" ja="モクシャ" />
+  <o id="68" element="2" icon_id="42" targets="0" range="0" en="Assassin" ja="アサシン" />
+  <o id="69" element="6" icon_id="46" targets="0" range="0" en="Divine Veil" ja="女神の慈悲" />
+  <o id="70" element="6" icon_id="46" targets="0" range="0" en="Zanshin" ja="残心" />
+  <o id="71" element="6" icon_id="46" targets="0" range="0" en="Savagery" ja="サベッジリ" />
+  <o id="72" element="6" icon_id="46" targets="0" range="0" en="Aggressive Aim" ja="アグレシブエイム" />
+  <o id="73" element="6" icon_id="46" targets="0" range="0" en="Invigorate" ja="練気" />
+  <o id="74" element="6" icon_id="46" targets="0" range="0" en="Penance" ja="発剄" />
+  <o id="75" element="6" icon_id="46" targets="0" range="0" en="Aura Steal" ja="オーラスティール" />
+  <o id="76" element="6" icon_id="46" targets="0" range="0" en="Ambush" ja="アンブッシュ" />
+  <o id="77" element="6" icon_id="46" targets="0" range="0" en="Iron Will" ja="アイアンウィル" />
+  <o id="78" element="6" icon_id="46" targets="0" range="0" en="Guardian" ja="ガーディアン" />
+  <o id="79" element="6" icon_id="46" targets="0" range="0" en="Muted Soul" ja="ミューテッドソウル" />
+  <o id="80" element="6" icon_id="46" targets="0" range="0" en="Desperate Blows" ja="デスペレートブロー" />
+  <o id="81" element="6" icon_id="46" targets="0" range="0" en="Beast Affinity" ja="ビーストアフニティ" />
+  <o id="82" element="6" icon_id="46" targets="0" range="0" en="Beast Healer" ja="ビーストヒーラー" />
+  <o id="83" element="6" icon_id="46" targets="0" range="0" en="Snapshot" ja="スナップショット" />
+  <o id="84" element="6" icon_id="46" targets="0" range="0" en="Recycle" ja="リサイクル" />
+  <o id="85" element="6" icon_id="46" targets="0" range="0" en="Ikishoten" ja="意気衝天" />
+  <o id="86" element="6" icon_id="46" targets="0" range="0" en="Overwhelm" ja="正正堂堂" />
+  <o id="87" element="6" icon_id="46" targets="0" range="0" en="Ninja Tool Expert." ja="忍具の知識" />
+  <o id="88" element="6" icon_id="46" targets="0" range="0" en="Empathy" ja="エンパシー" />
+  <o id="89" element="6" icon_id="46" targets="0" range="0" en="Strafe" ja="ストレイフ" />
+  <o id="90" element="6" icon_id="46" targets="0" range="0" en="Enchainment" ja="エンチェーンメント" />
+  <o id="91" element="6" icon_id="46" targets="0" range="0" en="Assimilation" ja="アシミレーション" />
+  <o id="92" element="6" icon_id="46" targets="0" range="0" en="Winning Streak" ja="ウィニングストリーク" />
+  <o id="93" element="6" icon_id="46" targets="0" range="0" en="Loaded Deck" ja="ローデッドデッキ" />
+  <o id="94" element="6" icon_id="46" targets="0" range="0" en="Fine-Tuning" ja="微調整" />
+  <o id="95" element="6" icon_id="46" targets="0" range="0" en="Optimization" ja="最適化" />
+  <o id="96" element="6" icon_id="46" targets="0" range="0" en="Closed Position" ja="Ｃ・ポジション" />
+  <o id="97" element="6" icon_id="46" targets="0" range="0" en="Stormsurge" ja="陣頭指揮" />
+  <o id="98" element="6" icon_id="46" targets="0" range="0" en="Crit. Atk. Bonus" ja="C.インクリース" />
+  <o id="99" element="6" icon_id="46" targets="0" range="0" en="Crit. Def. Bonus" ja="C.リデュース" />
+  <o id="100" element="6" icon_id="46" targets="0" range="0" en="Tactical Parry" ja="タクティカルパリー" />
+  <o id="101" element="6" icon_id="46" targets="0" range="0" en="Tactical Guard" ja="タクティカルガード" />
+  <o id="102" element="6" icon_id="46" targets="0" range="0" en="Shield Def. Bonus" ja="エクストリームガード" />
+  <o id="103" element="6" icon_id="46" targets="0" range="0" en="Stout Servant" ja="スタウトサーヴァント" />
+  <o id="104" element="6" icon_id="46" targets="0" range="0" en="True Shot" ja="トゥルーショット" />
+  <o id="105" element="6" icon_id="46" targets="0" range="0" en="Blood Boon" ja="ブラッドブーン" />
+  <o id="106" element="6" icon_id="46" targets="0" range="0" en="Skillchain Bonus" ja="連携ボーナス" />
+  <o id="107" element="6" icon_id="46" targets="0" range="0" en="Fencer" ja="フェンサー" />
+  <o id="108" element="6" icon_id="46" targets="0" range="0" en="Conserve TP" ja="コンサーブTP" />
+  <o id="109" element="6" icon_id="46" targets="0" range="0" en="Occult Acumen" ja="マジックアキュメン" />
+  <o id="110" element="6" icon_id="46" targets="0" range="0" en="Mag. Burst Bonus" ja="MB.ボーナス" />
+  <o id="111" element="6" icon_id="46" targets="0" range="0" en="Divine Benison" ja="ディバインベニゾン" />
+  <o id="112" element="7" icon_id="47" targets="0" range="0" en="Elemental Celerity" ja="エレメントセレリティ" />
+  <o id="113" element="6" icon_id="46" targets="0" range="0" en="Dead Aim" ja="デッドエイム" />
+  <o id="114" element="6" icon_id="46" targets="0" range="0" en="Tranquil Heart" ja="トランキルハート" />
+  <o id="115" element="7" icon_id="47" targets="0" range="0" en="Stalwart Soul" ja="ストルワートソウル" />
+  <o id="116" element="6" icon_id="46" targets="0" range="0" en="Cardinal Chant" ja="カーディナルチャント" />
+  <o id="117" element="6" icon_id="46" targets="0" range="0" en="Tenacity" ja="テナシティ" />
+  <o id="118" element="6" icon_id="46" targets="0" range="0" en="Inquartata" ja="インクァルタタ" />
+  <o id="119" element="6" icon_id="46" targets="0" range="0" en="C. Recantation" ja="キュアリカント" />
+  <o id="120" element="7" icon_id="47" targets="0" range="0" en="Primeval Zeal" ja="プライムジール" />
+  <o id="121" element="6" icon_id="46" targets="0" range="0" en="Inspiration" ja="インスパイア" />
+  <o id="122" element="2" icon_id="42" targets="0" range="0" en="Sleight of Sword" ja="スライトソード" />
 </job_traits>

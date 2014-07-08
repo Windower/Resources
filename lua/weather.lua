@@ -1,27 +1,27 @@
 -- Automatically generated file: Weather
 
 return {
-    [0] = {id=0,en="Fine patches",ja="快晴",de="Zeitweise bewölkt",fr="Beau temps",element=15,intensity=0},
-    [1] = {id=1,en="Sunshine",ja="晴れ",de="Sonne",fr="Soleil",element=15,intensity=0},
-    [2] = {id=2,en="Clouds",ja="くもり",de="Wolken",fr="Nuages",element=15,intensity=0},
-    [3] = {id=3,en="Fog",ja="霧",de="Nebel",fr="Brume",element=15,intensity=0},
-    [4] = {id=4,en="Hot spells",ja="熱波",de="Hitze",fr="Brûlant",element=0,intensity=1},
-    [5] = {id=5,en="Heat waves",ja="灼熱波",de="Hitzewellen",fr="Ardent",element=0,intensity=2},
-    [6] = {id=6,en="Rain",ja="雨",de="Regen",fr="Pluie",element=5,intensity=1},
-    [7] = {id=7,en="Squalls",ja="スコール",de="Böen",fr="Averse",element=5,intensity=2},
-    [8] = {id=8,en="Dust storms",ja="砂塵",de="Staubstürme",fr="Tempêtes de poussière",element=3,intensity=1},
-    [9] = {id=9,en="Sand storms",ja="砂嵐",de="Sandstürme",fr="Tempêtes de sable",element=3,intensity=2},
-    [10] = {id=10,en="Winds",ja="風",de="Wind",fr="Vents",element=2,intensity=1},
-    [11] = {id=11,en="Gales",ja="暴風",de="Orkane",fr="Rafales",element=2,intensity=2},
-    [12] = {id=12,en="Snow",ja="雪",de="Schnee",fr="Neige",element=1,intensity=1},
-    [13] = {id=13,en="Blizzards",ja="吹雪",de="Eissturm",fr="Blizzards",element=1,intensity=2},
-    [14] = {id=14,en="Thunder",ja="雷",de="Donner",fr="Orage",element=4,intensity=1},
-    [15] = {id=15,en="Thunderstorms",ja="雷雨",de="Gewitter",fr="Gros orage",element=4,intensity=2},
-    [16] = {id=16,en="Auroras",ja="オーロラ",de="Polarlicht",fr="Aurores boréales",element=6,intensity=1},
-    [17] = {id=17,en="Stellar glare",ja="神光",de="Sternenflut",fr="Aurores incandescentes",element=6,intensity=2},
-    [18] = {id=18,en="Gloom",ja="妖霧",de="Dunkelheit",fr="Pénombre",element=7,intensity=1},
-    [19] = {id=19,en="Darkness",ja="闇",de="Finsternis",fr="Obscurité",element=7,intensity=2},
-}, {"id", "en", "ja", "de", "fr", "element", "intensity"}
+    [0] = {id=0,en="Fine patches",ja="快晴",element=15,intensity=0},
+    [1] = {id=1,en="Sunshine",ja="晴れ",element=15,intensity=0},
+    [2] = {id=2,en="Clouds",ja="くもり",element=15,intensity=0},
+    [3] = {id=3,en="Fog",ja="霧",element=15,intensity=0},
+    [4] = {id=4,en="Hot spells",ja="熱波",element=0,intensity=1},
+    [5] = {id=5,en="Heat waves",ja="灼熱波",element=0,intensity=2},
+    [6] = {id=6,en="Rain",ja="雨",element=5,intensity=1},
+    [7] = {id=7,en="Squalls",ja="スコール",element=5,intensity=2},
+    [8] = {id=8,en="Dust storms",ja="砂塵",element=3,intensity=1},
+    [9] = {id=9,en="Sand storms",ja="砂嵐",element=3,intensity=2},
+    [10] = {id=10,en="Winds",ja="風",element=2,intensity=1},
+    [11] = {id=11,en="Gales",ja="暴風",element=2,intensity=2},
+    [12] = {id=12,en="Snow",ja="雪",element=1,intensity=1},
+    [13] = {id=13,en="Blizzards",ja="吹雪",element=1,intensity=2},
+    [14] = {id=14,en="Thunder",ja="雷",element=4,intensity=1},
+    [15] = {id=15,en="Thunderstorms",ja="雷雨",element=4,intensity=2},
+    [16] = {id=16,en="Auroras",ja="オーロラ",element=6,intensity=1},
+    [17] = {id=17,en="Stellar glare",ja="神光",element=6,intensity=2},
+    [18] = {id=18,en="Gloom",ja="妖霧",element=7,intensity=1},
+    [19] = {id=19,en="Darkness",ja="闇",element=7,intensity=2},
+}, {"id", "en", "ja", "element", "intensity"}
 
 --[[
 Copyright © 2013-2014, Windower

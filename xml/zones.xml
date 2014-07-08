@@ -1,277 +1,277 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <zones>
-  <o id="0" en="unknown" search="unknown" ja="unknown" de="unbekannt" fr="inconnu" />
-  <o id="1" en="Phanauet Channel" search="PhanauetCh" ja="ファノエ運河" de="Phanauet-Kanal" fr="Canal de Phanauët" />
-  <o id="2" en="Carpenters' Landing" search="CpntLanding" ja="ギルド桟橋" de="Zimmerer-Anlegestelle" fr="Jetée des charpentiers" />
-  <o id="3" en="Manaclipper" search="Manaclipper" ja="マナクリッパー" de="Manaklipper" fr="Manaclipper" />
-  <o id="4" en="Bibiki Bay" search="BibikiBay" ja="ビビキー湾" de="Bibiki-Bucht" fr="Baie de Bibiki" />
-  <o id="5" en="Uleguerand Range" search="Uleguerand" ja="ウルガラン山脈" de="Uleguerand-Gbg." fr="Chaîne d'Uleguerand" />
-  <o id="6" en="Bearclaw Pinnacle" search="BearclawPn" ja="熊爪嶽" de="Bärenklauen-Gipfel" fr="Griffes de l'Ours" />
-  <o id="7" en="Attohwa Chasm" search="AttohwaCsm" ja="アットワ地溝" de="Attohwa-Schlucht" fr="Gouffre d'Attohwa" />
-  <o id="8" en="Boneyard Gully" search="BoneyardGl" ja="千骸谷" de="Boneyard-Schlucht" fr="Couloir de l'ossuaire" />
-  <o id="9" en="Pso'Xja" search="PsoXja" ja="ソ・ジヤ" de="Pso'Xja" fr="Pso'Xja" />
-  <o id="10" en="The Shrouded Maw" search="ShroudMaw" ja="異界の口" de="Schleier-Schlund" fr="La Gueule Voilée" />
-  <o id="11" en="Oldton Movalpolos" search="OldMoval" ja="ムバルポロス旧市街" de="Oldton-Movalpolos" fr="Vieux-Movalpolos" />
-  <o id="12" en="Newton Movalpolos" search="NewMoval" ja="ムバルポロス新市街" de="Newton-Movalpolos" fr="Nouveau-Movalpolos" />
-  <o id="13" en="Mine Shaft #2716" search="Mine2716" ja="2716号採石場" de="Minenschacht #2716" fr="Puits de Mine #2716" />
-  <o id="14" en="Hall of Transference" search="HallOfTrns" ja="転移の間" de="Transferenz-Halle" fr="Salle du transfert" />
-  <o id="15" en="Abyssea - Konschtat" search="AbysKonscht" ja="アビセア-コンシュタット" de="Abyssea - Konschtat" fr="Abyssée - Konschtat" />
-  <o id="16" en="Promyvion - Holla" search="PromvHolla" ja="プロミヴォン-ホラ" de="Promyvion - Holla" fr="Promyvion - Holla" />
-  <o id="17" en="Spire of Holla" search="SpireHolla" ja="ホラの塔" de="Turm von Holla" fr="Aiguille de Holla" />
-  <o id="18" en="Promyvion - Dem" search="PromvDem" ja="プロミヴォン-デム" de="Promyvion - Dem" fr="Promyvion - Dem" />
-  <o id="19" en="Spire of Dem" search="SpireDem" ja="デムの塔" de="Turm von Dem" fr="Aiguille de Dem" />
-  <o id="20" en="Promyvion - Mea" search="PromvMea" ja="プロミヴォン-メア" de="Promyvion - Mea" fr="Promyvion - Mea" />
-  <o id="21" en="Spire of Mea" search="SpireMea" ja="メアの塔" de="Turm von Mea" fr="Aiguille de Mea" />
-  <o id="22" en="Promyvion - Vahzl" search="PromvVahzl" ja="プロミヴォン-ヴァズ" de="Promyvion - Vahzl" fr="Promyvion - Vahzl" />
-  <o id="23" en="Spire of Vahzl" search="SpireVahzl" ja="ヴァズの塔" de="Turm von Vahzl" fr="Aiguille de Vahzl" />
-  <o id="24" en="Lufaise Meadows" search="LufaiseMds" ja="ルフェーゼ野" de="Lufaise-Wiesen" fr="Prairie de Lufaise" />
-  <o id="25" en="Misareaux Coast" search="Misareaux" ja="ミザレオ海岸" de="Misareaux-Küste" fr="Côte de Misareaux" />
-  <o id="26" en="Tavnazian Safehold" search="TavSafehld" ja="タブナジア地下壕" de="Tavnazia-Zuflucht" fr="Refuge tavnazien" />
-  <o id="27" en="Phomiuna Aqueducts" search="PhomiunaAq" ja="フォミュナ水道" de="Phomiuna-Aquädukte" fr="Aqueducs de Phomiuna" />
-  <o id="28" en="Sacrarium" search="Sacrarium" ja="礼拝堂" de="Sacrarium" fr="Sacrarium" />
-  <o id="29" en="Riverne - Site #B01" search="RiverneB01" ja="リヴェーヌ岩塊群サイトB01" de="Riverne - Stelle #B01" fr="Riverne - Site #B01" />
-  <o id="30" en="Riverne - Site #A01" search="RiverneA01" ja="リヴェーヌ岩塊群サイトA01" de="Riverne - Stelle #A01" fr="Riverne - Site #A01" />
-  <o id="31" en="Monarch Linn" search="MonarchLinn" ja="帝龍の飛泉" de="Königsfall" fr="Précipice du Monarque" />
-  <o id="32" en="Sealion's Den" search="SealionDen" ja="海獅子の巣窟" de="Seelöwen-Höhle" fr="Antre de l'Otarie" />
-  <o id="33" en="Al'Taieu" search="AlTaieu" ja="アル・タユ" de="Al'Taieu" fr="Al'Taieu" />
-  <o id="34" en="Grand Palace of Hu'Xzoi" search="HuXzoi" ja="フ・ゾイの王宮" de="Palast von Hu'Xzoi" fr="Grand Palais de Hu'Xzoi" />
-  <o id="35" en="The Garden of Ru'Hmet" search="RuHmet" ja="ル・メトの園" de="Garten von Ru'Hmet" fr="Le Jardin de Ru'Hmet" />
-  <o id="36" en="Empyreal Paradox" search="EmParadox" ja="天象の鎖" de="Empyreal-Paradox" fr="Paradoxe empyréen" />
-  <o id="37" en="Temenos" search="Temenos" ja="テメナス" de="Temenos" fr="Temenos" />
-  <o id="38" en="Apollyon" search="Apollyon" ja="アポリオン" de="Apollyon" fr="Apollyon" />
-  <o id="39" en="Dynamis - Valkurm" search="DynamisVal" ja="デュナミス-バルクルム" de="Dynamis - Valkurm" fr="Dynamis - Valkurm" />
-  <o id="40" en="Dynamis - Buburimu" search="DynamisBub" ja="デュナミス-ブブリム" de="Dynamis - Buburimu" fr="Dynamis - Buburimu" />
-  <o id="41" en="Dynamis - Qufim" search="DynamisQuf" ja="デュナミス-クフィム" de="Dynamis - Qufim" fr="Dynamis - Qufim" />
-  <o id="42" en="Dynamis - Tavnazia" search="DynamisTav" ja="デュナミス-タブナジア" de="Dynamis - Tavnazia" fr="Dynamis - Tavnazia" />
-  <o id="43" en="Diorama Abdhaljs-Ghelsba" search="DioramaGhel" ja="アブダルスの箱庭-ゲルスバ" de="Diorama Abdhaljs - Ghelsba" fr="Diorama Abdhaljs-Ghelsba" />
-  <o id="44" en="Abdhaljs Isle-Purgonorgo" search="AbdhalPurgo" ja="アブダルスの島-プルゴノルゴ" de="Diorama Abdhaljs - Purgonorgo" fr="Ile Abdhaljs-Purgonorgo" />
-  <o id="45" en="Abyssea - Tahrongi" search="AbysTahrongi" ja="アビセア-タロンギ" de="Abyssea - Tahrongi" fr="Abyssée - Tahrongi" />
-  <o id="46" en="Open sea route to Al Zahbi" search="OpenseaZah" ja="外洋航路：アルザビ行き" de="Offene Seeroute nach Al Zahbi" fr="Route maritime : Al Zahbi" />
-  <o id="47" en="Open sea route to Mhaura" search="OpenseaMha" ja="外洋航路：マウラ行き" de="Offene Seeroute nach Mhaura" fr="Route maritime : Mhaura" />
-  <o id="48" en="Al Zahbi" search="AlZahbi" ja="アルザビ" de="Al Zahbi" fr="Al Zahbi" />
-  <o id="50" en="Aht Urhgan Whitegate" search="Whitegate" ja="アトルガン白門" de="Aht Urhgan-Weißtor" fr="Portes Blanches" />
-  <o id="51" en="Wajaom Woodlands" search="Wajaom" ja="ワジャーム樹林" de="Wald von Wajaom" fr="Bois de Wajaom" />
-  <o id="52" en="Bhaflau Thickets" search="BhafThicket" ja="バフラウ段丘" de="Bhaflau-Dickicht" fr="Futaie de Bhaflau" />
-  <o id="53" en="Nashmau" search="Nashmau" ja="ナシュモ" de="Nashmau" fr="Nashmau" />
-  <o id="54" en="Arrapago Reef" search="ArrpgoReef" ja="アラパゴ暗礁域" de="Arrapago-Riff" fr="Récifs d'Arrapago" />
-  <o id="55" en="Ilrusi Atoll" search="Ilrusi" ja="イルルシ環礁" de="Ilrusi-Atoll" fr="Atoll d'Ilrusi" />
-  <o id="56" en="Periqia" search="Periqia" ja="ペリキア" de="Periqia" fr="Periqia" />
-  <o id="57" en="Talacca Cove" search="Talacca" ja="タラッカ入江" de="Talacca-Bucht" fr="Crique de Talacca" />
-  <o id="58" en="Silver Sea route to Nashmau" search="SilvSeaNas" ja="銀海航路：ナシュモ行き" de="Silberne Seeroute nach Nashmau" fr="Route de la Mer d'Argent : Nashmau" />
-  <o id="59" en="Silver Sea route to Al Zahbi" search="SilvSeaZah" ja="銀海航路：アルザビ行き" de="Silberne Seeroute nach Al Zahbi" fr="Route de la Mer d'Argent : Al Zahbi" />
-  <o id="60" en="The Ashu Talif" search="AshuTalif" ja="アシュタリフ号" de="Ashu Talif" fr="L'Ashu Talif" />
-  <o id="61" en="Mount Zhayolm" search="MtZhayolm" ja="ゼオルム火山" de="Berg Zhayolm" fr="Mont Zhayolm" />
-  <o id="62" en="Halvung" search="Halvung" ja="ハルブーン" de="Halvung" fr="Halvung" />
-  <o id="63" en="Lebros Cavern" search="Lebros" ja="レベロス風穴" de="Lebros-Höhle" fr="Caverne de Lebros" />
-  <o id="64" en="Navukgo Execution Chamber" search="Navukgo" ja="ナバゴ処刑場" de="Navukgo-Hinrichtungskammer" fr="Chambre d'exécution de Navukgo" />
-  <o id="65" en="Mamook" search="Mamook" ja="マムーク" de="Mamook" fr="Mamook" />
-  <o id="66" en="Mamool Ja Training Grounds" search="MamoolTrGr" ja="マムージャ兵訓練所" de="Mamool Ja-Trainingslager" fr="Camp d'entraînement mamool ja" />
-  <o id="67" en="Jade Sepulcher" search="JadeSepul" ja="翡翠廟" de="Jade-Grabstätte" fr="Sanctuaire de Jade" />
-  <o id="68" en="Aydeewa Subterrane" search="Aydeewa" ja="エジワ蘿洞" de="Aydeewa-Untergrund" fr="Souterrains d'Aydeewa" />
-  <o id="69" en="Leujaoam Sanctum" search="Leujaoam" ja="ルジャワン霊窟" de="Leujaoam-Heiligtum" fr="Antre des âmes de Leujaoam" />
-  <o id="70" en="Chocobo Circuit" search="ChocoCirc" ja="チョコボサーキット" de="Chocobo-Rennbahn" fr="Chocodrome" />
-  <o id="71" en="The Colosseum" search="Colosseum" ja="コロセウム" de="Das Kolosseum" fr="Colisée" />
-  <o id="72" en="Alzadaal Undersea Ruins" search="AlzaUndrsea" ja="アルザダール海底遺跡群" de="Unterwasserr. Alzadaal" fr="Ruines immergées" />
-  <o id="73" en="Zhayolm Remnants" search="ZhaylmRem" ja="ゼオルム遺構" de="Zhayolm-Ruinen" fr="Vestiges de Zhayolm" />
-  <o id="74" en="Arrapago Remnants" search="ArrpgoRem" ja="アラパゴ遺構" de="Arrapago-Ruinen" fr="Vestiges d'Arrapago" />
-  <o id="75" en="Bhaflau Remnants" search="BhaflauRem" ja="バフラウ遺構" de="Bhaflau-Ruinen" fr="Vestiges de Bhaflau" />
-  <o id="76" en="Silver Sea Remnants" search="SilvSeaRem" ja="銀海遺構" de="Silbersee-Ruinen" fr="Vestiges Mer d'Argent" />
-  <o id="77" en="Nyzul Isle" search="Nyzul" ja="ナイズル島" de="Nyzul-Insel" fr="Ile de Nyzul" />
-  <o id="78" en="Hazhalm Testing Grounds" search="Hazhalm" ja="ハザルム試験場" de="Hazhalm-Testfakultät" fr="Laboratoire d'Hazhalm" />
-  <o id="79" en="Caedarva Mire" search="Caedarva" ja="カダーバの浮沼" de="Caedarva-Sumpf" fr="Bourbier de Caedarva" />
-  <o id="80" en="Southern San d'Oria [S]" search="SSandOria_S" ja="南サンドリア〔Ｓ〕" de="Süd-San d'Oria (R)" fr="San d'Oria Sud (R)" />
-  <o id="81" en="East Ronfaure [S]" search="ERonfaure_S" ja="東ロンフォール〔Ｓ〕" de="Ost-Ronfaure (R)" fr="Ronfaure oriental (R)" />
-  <o id="82" en="Jugner Forest [S]" search="Jugner_S" ja="ジャグナー森林〔Ｓ〕" de="Jugner-Wald (R)" fr="Forêt de Jugner (R)" />
-  <o id="83" en="Vunkerl Inlet [S]" search="Vunkerl_S" ja="ブンカール浦〔Ｓ〕" de="Vunkerl-Bucht (R)" fr="Calanques de Vunkerl (R)" />
-  <o id="84" en="Batallia Downs [S]" search="Batallia_S" ja="バタリア丘陵〔Ｓ〕" de="Batallia-Tiefen (R)" fr="Collines de Batallia (R)" />
-  <o id="85" en="La Vaule [S]" search="LaVaule_S" ja="ラヴォール村〔Ｓ〕" de="La Vaule (R)" fr="La Vaule (R)" />
-  <o id="86" en="Everbloom Hollow" search="Everbloom" ja="常花の石窟" de="Immergrün-Höhle" fr="Grotte éternelle floraison" />
-  <o id="87" en="Bastok Markets [S]" search="BasMarket_S" ja="バストゥーク商業区〔Ｓ〕" de="Bastok-Markt (R)" fr="Marché de Bastok (R)" />
-  <o id="88" en="North Gustaberg [S]" search="NGustabrg_S" ja="北グスタベルグ〔Ｓ〕" de="Nord-Gustaberg (R)" fr="Gustaberg Nord (R)" />
-  <o id="89" en="Grauberg [S]" search="Grauberg_S" ja="グロウベルグ〔Ｓ〕" de="Grauberg (R)" fr="Grauberg (R)" />
-  <o id="90" en="Pashhow Marshlands [S]" search="Pashhow_S" ja="パシュハウ沼〔Ｓ〕" de="Pashhow-Sumpfland (R)" fr="Marécages Pashhow (R)" />
-  <o id="91" en="Rolanberry Fields [S]" search="RolFields_S" ja="ロランベリー耕地〔Ｓ〕" de="Rolanbeeren-Felder (R)" fr="Champs Rolanberry (R)" />
-  <o id="92" en="Beadeaux [S]" search="Beadeaux_S" ja="ベドー〔Ｓ〕" de="Beadeaux (R)" fr="Beadeaux (R)" />
-  <o id="93" en="Ruhotz Silvermines" search="Ruhotz" ja="ルホッツ銀山" de="Ruhotz-Silberminen" fr="Mines d'argent de Ruhotz" />
-  <o id="94" en="Windurst Waters [S]" search="WinWaters_S" ja="ウィンダス水の区〔Ｓ〕" de="Windurst-Weiher (R)" fr="Canaux de Windurst (R)" />
-  <o id="95" en="West Sarutabaruta [S]" search="WSaruta_S" ja="西サルタバルタ〔Ｓ〕" de="West-Sarutabaruta (R)" fr="Sarutabaruta Ouest (R)" />
-  <o id="96" en="Fort Karugo-Narugo [S]" search="FortK-N_S" ja="カルゴナルゴ城砦〔Ｓ〕" de="Karugo-Narugo-F. (R)" fr="Fort Karugo-Narugo (R)" />
-  <o id="97" en="Meriphataud Mountains [S]" search="MeriMount_S" ja="メリファト山地〔Ｓ〕" de="Meriphataud-Berge (R)" fr="Mont. de Mériphataud (R)" />
-  <o id="98" en="Sauromugue Champaign [S]" search="SaurChamp_S" ja="ソロムグ原野〔Ｓ〕" de="Sauromugue-Ebene (R)" fr="Camp. de Sauromugue (R)" />
-  <o id="99" en="Castle Oztroja [S]" search="Oztroja_S" ja="オズトロヤ城〔Ｓ〕" de="Oztroja-Schloss (R)" fr="Château d'Oztroja (R)" />
-  <o id="100" en="West Ronfaure" search="WRonfaure" ja="西ロンフォール" de="West-Ronfaure" fr="Ronfaure occidental" />
-  <o id="101" en="East Ronfaure" search="ERonfaure" ja="東ロンフォール" de="Ost-Ronfaure" fr="Ronfaure oriental" />
-  <o id="102" en="La Theine Plateau" search="LaTheine" ja="ラテーヌ高原" de="La Theine-Plateau" fr="Plateau de La Theine" />
-  <o id="103" en="Valkurm Dunes" search="Valkurm" ja="バルクルム砂丘" de="Valkurm-Dünen" fr="Dunes de Valkurm" />
-  <o id="104" en="Jugner Forest" search="Jugner" ja="ジャグナー森林" de="Jugner-Wald" fr="Forêt de Jugner" />
-  <o id="105" en="Batallia Downs" search="Batallia" ja="バタリア丘陵" de="Batallia-Tiefen" fr="Collines de Batallia" />
-  <o id="106" en="North Gustaberg" search="NGustaberg" ja="北グスタベルグ" de="Nord-Gustaberg" fr="Gustaberg Nord" />
-  <o id="107" en="South Gustaberg" search="SGustaberg" ja="南グスタベルグ" de="Süd-Gustaberg" fr="Gustaberg Sud" />
-  <o id="108" en="Konschtat Highlands" search="Konschtat" ja="コンシュタット高地" de="Konschtat-Hochland" fr="Htes-Terres Konschtat" />
-  <o id="109" en="Pashhow Marshlands" search="Pashhow" ja="パシュハウ沼" de="Pashhow-Sumpfland" fr="Marécages de Pashhow" />
-  <o id="110" en="Rolanberry Fields" search="Rolanberry" ja="ロランベリー耕地" de="Rolanbeeren-Felder" fr="Champs de Rolanberry" />
-  <o id="111" en="Beaucedine Glacier" search="Beaucedine" ja="ボスディン氷河" de="Beaucedine-Gletscher" fr="Glacier de Beaucedine" />
-  <o id="112" en="Xarcabard" search="Xarcabard" ja="ザルカバード" de="Xarcabard" fr="Xarcabard" />
-  <o id="113" en="Cape Teriggan" search="Teriggan" ja="テリガン岬" de="Kap Teriggan" fr="Cap Teriggan" />
-  <o id="114" en="Eastern Altepa Desert" search="EastAltepa" ja="東アルテパ砂漠" de="Ost-Altepa-Wüste" fr="Désert d'Altepa oriental" />
-  <o id="115" en="West Sarutabaruta" search="WSartabarta" ja="西サルタバルタ" de="West-Sarutabaruta" fr="Sarutabaruta Ouest" />
-  <o id="116" en="East Sarutabaruta" search="ESartabarta" ja="東サルタバルタ" de="Ost-Sarutabaruta" fr="Sarutabaruta Est" />
-  <o id="117" en="Tahrongi Canyon" search="Tahrongi" ja="タロンギ大峡谷" de="Tahrongi-Schlucht" fr="Gorges de Tahrongi" />
-  <o id="118" en="Buburimu Peninsula" search="Buburimu" ja="ブブリム半島" de="Buburimu-Halbinsel" fr="Péninsule de Buburimu" />
-  <o id="119" en="Meriphataud Mountains" search="Meriphataud" ja="メリファト山地" de="Meriphataud-Berge" fr="Montagnes Mériphataud" />
-  <o id="120" en="Sauromugue Champaign" search="Sauromugue" ja="ソロムグ原野" de="Sauromugue-Ebene" fr="Campagne Sauromugue" />
-  <o id="121" en="The Sanctuary of Zi'Tah" search="ZiTah" ja="聖地ジ・タ" de="Heiligtum von Zi'Tah" fr="Sanctuaire de Zi'Tah" />
-  <o id="122" en="Ro'Maeve" search="RoMaeve" ja="ロ・メーヴ" de="Ro'Maeve" fr="Ro'Maeve" />
-  <o id="123" en="Yuhtunga Jungle" search="YuhtunJng" ja="ユタンガ大森林" de="Yuhtunga-Dschungel" fr="Jungle de Yuhtunga" />
-  <o id="124" en="Yhoator Jungle" search="YhoatorJng" ja="ヨアトル大森林" de="Yhoator-Dschungel" fr="Jungle de Yhoator" />
-  <o id="125" en="Western Altepa Desert" search="WestAltepa" ja="西アルテパ砂漠" de="West-Altepa-Wüste" fr="Désert d'Altepa occid." />
-  <o id="126" en="Qufim Island" search="Qufim" ja="クフィム島" de="Qufim-Insel" fr="Ile de Qufim" />
-  <o id="127" en="Behemoth's Dominion" search="BehemotDom" ja="ベヒーモスの縄張り" de="Behemoth-Dominion" fr="Territoire de Béhémoth" />
-  <o id="128" en="Valley of Sorrows" search="SorrowVall" ja="慟哭の谷" de="Tränental" fr="Vallée de douleur" />
-  <o id="129" en="Ghoyu's Reverie" search="GhoyusRev" ja="ゴユの空洞" de="Ghoyus Kaverne (R)" fr="Rêverie de Ghoyu" />
-  <o id="130" en="Ru'Aun Gardens" search="RuAunGard" ja="ル・オンの庭" de="Ru'Aun-Gärten" fr="Jardins de Ru'Aun" />
-  <o id="131" en="Mordion Gaol" search="Mordion" ja="モルディオン監獄" de="Mordion-Kerker" fr="Prison de Mordion" />
-  <o id="132" en="Abyssea - La Theine" search="AbysLaThein" ja="アビセア-ラテーヌ" de="Abyssea - La Theine" fr="Abyssée - La Theine" />
-  <o id="134" en="Dynamis - Beaucedine" search="DynamisBcd" ja="デュナミス-ボスディン" de="Dynamis - Beaucedine" fr="Dynamis - Beaucedine" />
-  <o id="135" en="Dynamis - Xarcabard" search="DynamisXar" ja="デュナミス-ザルカバード" de="Dynamis - Xarcabard" fr="Dynamis - Xarcabard" />
-  <o id="136" en="Beaucedine Glacier [S]" search="BeaGlacier_S" ja="ボスディン氷河〔Ｓ〕" de="Beaucedine-Gletscher (R)" fr="Glacier de Beaucedine (R)" />
-  <o id="137" en="Xarcabard [S]" search="Xarcabard_S" ja="ザルカバード〔Ｓ〕" de="Xarcabard (R)" fr="Xarcabard (R)" />
-  <o id="138" en="Castle Zvahl Baileys [S]" search="ZvBaileys_S" ja="ズヴァール城外郭〔Ｓ〕" de="Zvahl-Schloss - Hof (R)" fr="Murs d'enc. Chât. Zvahl (R)" />
-  <o id="139" en="Horlais Peak" search="HorlaisPk" ja="ホルレーの岩峰" de="Horlais-Gipfel" fr="Pic de Horlais" />
-  <o id="140" en="Ghelsba Outpost" search="GhelsbaOp" ja="ゲルスバ野営陣" de="Ghelsba-Außenpst." fr="Avant-poste de Ghelsba" />
-  <o id="141" en="Fort Ghelsba" search="FtGhelsba" ja="ゲルスバ砦" de="Ghelsba-Festung" fr="Fort de Ghelsba" />
-  <o id="142" en="Yughott Grotto" search="Yughott" ja="ユグホトの岩屋" de="Yughott-Grotte" fr="Grotte de Yughott" />
-  <o id="143" en="Palborough Mines" search="Palborough" ja="パルブロ鉱山" de="Palborough-Minen" fr="Mines de Palborough" />
-  <o id="144" en="Waughroon Shrine" search="Waughroon" ja="ワールンの祠" de="Waughroon-Schrein" fr="Tombeau de Waughroon" />
-  <o id="145" en="Giddeus" search="Giddeus" ja="ギデアス" de="Giddeus" fr="Giddeus" />
-  <o id="146" en="Balga's Dais" search="BalgasDais" ja="バルガの舞台" de="Balgas Podium" fr="Estrade de Balga" />
-  <o id="147" en="Beadeaux" search="Beadeaux" ja="ベドー" de="Beadeaux" fr="Beadeaux" />
-  <o id="148" en="Qulun Dome" search="QulunDome" ja="クゥルンの大伽藍" de="Qulun-Kuppel" fr="Dôme de Qulun" />
-  <o id="149" en="Davoi" search="Davoi" ja="ダボイ" de="Davoi" fr="Davoï" />
-  <o id="150" en="Monastic Cavern" search="MonastiCav" ja="修道窟" de="Monastik-Höhle" fr="Caverne monastique" />
-  <o id="151" en="Castle Oztroja" search="Oztroja" ja="オズトロヤ城" de="Oztroja-Schloss" fr="Château d'Oztroja" />
-  <o id="152" en="Altar Room" search="AltarRoom" ja="祭壇の間" de="Altarraum" fr="Salle de l'autel" />
-  <o id="153" en="The Boyahda Tree" search="Boyahda" ja="ボヤーダ樹" de="Der Boyahda-Baum" fr="L'arbre de Boyahda" />
-  <o id="154" en="Dragon's Aery" search="DragonAery" ja="龍のねぐら" de="Drachen-Nest" fr="Volière aux dragons" />
-  <o id="155" en="Castle Zvahl Keep [S]" search="ZvKeep_S" ja="ズヴァール城内郭〔Ｓ〕" de="Zvahl-Schloss - Fried (R)" fr="Donjon Château Zvahl (R)" />
-  <o id="156" en="Throne Room [S]" search="ThroneRm_S" ja="王の間〔Ｓ〕" de="Thronsaal (R)" fr="Salle du trône (R)" />
-  <o id="157" en="Middle Delkfutt's Tower" search="MidDelkfut" ja="デルクフの塔中層" de="Mittel-Delkfutts-Turm" fr="Tour Delkfutt niv. méd." />
-  <o id="158" en="Upper Delkfutt's Tower" search="UpDelkfut" ja="デルクフの塔上層" de="Ober-Delkfutts-Turm" fr="Tour Delkfutt niv. sup." />
-  <o id="159" en="Temple of Uggalepih" search="Uggalepih" ja="ウガレピ寺院" de="Uggalepih-Tempel" fr="Temple d'Uggalepih" />
-  <o id="160" en="Den of Rancor" search="RancorDen" ja="怨念洞" de="Höhle des Hasses" fr="Tanière de la rancœur" />
-  <o id="161" en="Castle Zvahl Baileys" search="ZvahlBails" ja="ズヴァール城外郭" de="Zvahl-Schloss - Hof" fr="Murs d'enc. Chât. Zvahl" />
-  <o id="162" en="Castle Zvahl Keep" search="ZvahlKeep" ja="ズヴァール城内郭" de="Zvahl-Schloss - Fried" fr="Donjon Château Zvahl" />
-  <o id="163" en="Sacrificial Chamber" search="SacriChamb" ja="生贄の間" de="Opferkammer" fr="Chambre du sacrifice" />
-  <o id="164" en="Garlaige Citadel [S]" search="Garlaige_S" ja="ガルレージュ要塞〔Ｓ〕" de="Garlaige-Zitadelle (R)" fr="Citadelle de Garlaige (R)" />
-  <o id="165" en="Throne Room" search="ThroneRoom" ja="王の間" de="Thronsaal" fr="Salle du trône" />
-  <o id="166" en="Ranguemont Pass" search="Ranguemont" ja="ラングモント峠" de="Ranguemont-Pass" fr="Défilé de Ranguemont" />
-  <o id="167" en="Bostaunieux Oubliette" search="Bostaunieu" ja="ボストーニュ監獄" de="Bostaunieux-Kerker" fr="Oubliettes Bostaunieux" />
-  <o id="168" en="Chamber of Oracles" search="OracleChmb" ja="宣託の間" de="Orakelkammer" fr="Chambre des Oracles" />
-  <o id="169" en="Toraimarai Canal" search="Toraimarai" ja="トライマライ水路" de="Toraimarai-Kanal" fr="Canal de Toraimarai" />
-  <o id="170" en="Full Moon Fountain" search="FullMoonFn" ja="満月の泉" de="Vollmond-Brunnen" fr="Fontaine de la pleine lune" />
-  <o id="171" en="Crawlers' Nest [S]" search="CrawlNest_S" ja="クロウラーの巣〔Ｓ〕" de="Raupen-Nest (R)" fr="Nid des chenilles (R)" />
-  <o id="172" en="Zeruhn Mines" search="Zeruhn" ja="ツェールン鉱山" de="Zeruhn-Minen" fr="Mines de Zeruhn" />
-  <o id="173" en="Korroloka Tunnel" search="Korroloka" ja="コロロカの洞門" de="Korroloka-Tunnel" fr="Tunnel de Korroloka" />
-  <o id="174" en="Kuftal Tunnel" search="Kuftal" ja="クフタルの洞門" de="Kuftal-Tunnel" fr="Tunnel de Kuftal" />
-  <o id="175" en="The Eldieme Necropolis [S]" search="Eldieme_S" ja="エルディーム古墳〔Ｓ〕" de="Eldieme-Nekropolis (R)" fr="Nécropole d'Eldieme (R)" />
-  <o id="176" en="Sea Serpent Grotto" search="SeaGrotto" ja="海蛇の岩窟" de="Seeschlangen-Grotte" fr="Grotte du serpent de mer" />
-  <o id="177" en="Ve'Lugannon Palace" search="VeLugannon" ja="ヴェ・ルガノン宮殿" de="Ve'Lugannon-Palast" fr="Palais de Ve'Lugannon" />
-  <o id="178" en="The Shrine of Ru'Avitau" search="RuAvitau" ja="ル・アビタウ神殿" de="Ru'Avitau-Schrein" fr="Tombeau de Ru'Avitau" />
-  <o id="179" en="Stellar Fulcrum" search="StlrFulcrm" ja="天輪の場" de="Sternen-Fulcrum" fr="Axe stellaire" />
-  <o id="180" en="La'Loff Amphitheater" search="LaLoff" ja="ラ・ロフの劇場" de="La'Loff-Amphitheater" fr="Amphithéâtre de La'Loff" />
-  <o id="181" en="The Celestial Nexus" search="CelesNexus" ja="宿星の座" de="Himmels-Nexus" fr="Le Noeud céleste" />
-  <o id="182" en="Walk of Echoes" search="WalkEchoes" ja="ウォークオブエコーズ" de="Gang der Echos" fr="Promenoir des échos" />
-  <o id="183" en="Maquette Abdhaljs-Legion" search="Legion" ja="アブダルスの模型-レギオン" de="Maquette Abdhaljs - Legion" fr="Maquette Abdhaljs-Légion" />
-  <o id="184" en="Lower Delkfutt's Tower" search="LowDelkfut" ja="デルクフの塔下層" de="Unter-Delkfutts-Turm" fr="Tour Delkfutt niv. inf." />
-  <o id="185" en="Dynamis - San d'Oria" search="DynamisSan" ja="デュナミス-サンドリア" de="Dynamis - San d'Oria" fr="Dynamis - San d'Oria" />
-  <o id="186" en="Dynamis - Bastok" search="DynamisBas" ja="デュナミス-バストゥーク" de="Dynamis - Bastok" fr="Dynamis - Bastok" />
-  <o id="187" en="Dynamis - Windurst" search="DynamisWin" ja="デュナミス-ウィンダス" de="Dynamis - Windurst" fr="Dynamis - Windurst" />
-  <o id="188" en="Dynamis - Jeuno" search="DynamisJeu" ja="デュナミス-ジュノ" de="Dynamis - Jeuno" fr="Dynamis - Jeuno" />
-  <o id="190" en="King Ranperre's Tomb" search="RanpsTomb" ja="龍王ランペールの墓" de="K. Ranperres Grab" fr="Tombe du roi Ranperre" />
-  <o id="191" en="Dangruf Wadi" search="Dangruf" ja="ダングルフの涸れ谷" de="Dangruf-Wadi" fr="Oued Dangruf" />
-  <o id="192" en="Inner Horutoto Ruins" search="InHorutoto" ja="内ホルトト遺跡" de="Inn. Horut.-Ruinen" fr="Ruines int. d'Horutoto" />
-  <o id="193" en="Ordelle's Caves" search="Ordelles" ja="オルデール鍾乳洞" de="Ordelles Höhlen" fr="Cavernes d'Ordelle" />
-  <o id="194" en="Outer Horutoto Ruins" search="OutHorutot" ja="外ホルトト遺跡" de="Äuß. Horut.-Ruinen" fr="Ruines ext. d'Horutoto" />
-  <o id="195" en="The Eldieme Necropolis" search="Eldieme" ja="エルディーム古墳" de="Eldieme-Nekropolis" fr="Nécropole d'Eldieme" />
-  <o id="196" en="Gusgen Mines" search="Gusgen" ja="グスゲン鉱山" de="Gusgen-Minen" fr="Mines de Gusgen" />
-  <o id="197" en="Crawlers' Nest" search="CrawlNest" ja="クロウラーの巣" de="Raupen-Nest" fr="Nid des chenilles" />
-  <o id="198" en="Maze of Shakhrami" search="Shakhrami" ja="シャクラミの地下迷宮" de="Shakhrami-Labyrinth" fr="Dédale de Shakhrami" />
-  <o id="200" en="Garlaige Citadel" search="Garlaige" ja="ガルレージュ要塞" de="Garlaige-Zitadelle" fr="Citadelle de Garlaige" />
-  <o id="201" en="Cloister of Gales" search="ClstGales" ja="突風の回廊" de="Orkan-Kloster" fr="Cloître des ouragans" />
-  <o id="202" en="Cloister of Storms" search="ClstStorms" ja="雷鳴の回廊" de="Sturm-Kloster" fr="Cloître des foudres" />
-  <o id="203" en="Cloister of Frost" search="ClstFrost" ja="凍結の回廊" de="Frost-Kloster" fr="Cloître du givre" />
-  <o id="204" en="Fei'Yin" search="FeiYin" ja="フェ・イン" de="Fei'Yin" fr="Fei'Yin" />
-  <o id="205" en="Ifrit's Cauldron" search="IfritCldrn" ja="イフリートの釜" de="Ifrit-Kessel" fr="Chaudron d'Ifrit" />
-  <o id="206" en="Qu'Bia Arena" search="QuBiaArena" ja="ク・ビアの闘技場" de="Qu'Bia-Arena" fr="Arènes de Qu'Bia" />
-  <o id="207" en="Cloister of Flames" search="ClstFlames" ja="灼熱の回廊" de="Flammen-Kloster" fr="Cloître du brasier" />
-  <o id="208" en="Quicksand Caves" search="Quicksands" ja="流砂洞" de="Treibsand-Höhlen" fr="Caves sables mouvants" />
-  <o id="209" en="Cloister of Tremors" search="ClstTremor" ja="震動の回廊" de="Beben-Kloster" fr="Cloître des tremblements" />
-  <o id="211" en="Cloister of Tides" search="ClstTides" ja="海流の回廊" de="Gezeiten-Kloster" fr="Cloître des marées" />
-  <o id="212" en="Gustav Tunnel" search="Gustav" ja="グスタフの洞門" de="Gustav-Tunnel" fr="Tunnel de Gustav" />
-  <o id="213" en="Labyrinth of Onzozo" search="Onzozo" ja="オンゾゾの迷路" de="Labyrinth von Onzozo" fr="Labyrinthe d'Onzozo" />
-  <o id="215" en="Abyssea - Attohwa" search="AbysAttohwa" ja="アビセア-アットワ" de="Abyssea - Attohwa" fr="Abyssée - Attohwa" />
-  <o id="216" en="Abyssea - Misareaux" search="AbysMisar" ja="アビセア-ミザレオ" de="Abyssea - Misareaux" fr="Abyssée - Misareaux" />
-  <o id="217" en="Abyssea - Vunkerl" search="AbysVunkerl" ja="アビセア-ブンカール" de="Abyssea - Vunkerl" fr="Abyssée - Vunkerl" />
-  <o id="218" en="Abyssea - Altepa" search="AbysAltepa" ja="アビセア-アルテパ" de="Abyssea - Altepa" fr="Abyssée - Altepa" />
-  <o id="220" en="Ship bound for Selbina" search="ShipToSelb" ja="航路：セルビナ行き" de="Schiff nach Selbina" fr="Ferry pour Selbina" />
-  <o id="221" en="Ship bound for Mhaura" search="ShipToMhau" ja="航路：マウラ行き" de="Schiff nach Mhaura" fr="Ferry pour Mhaura" />
-  <o id="222" en="Provenance" search="Provenance" ja="真界" de="Provenienz" fr="Provenance" />
-  <o id="223" en="San d'Oria-Jeuno Airship" search="Airship" ja="飛空艇航路" de="SdO.-Jeu. Luftschiff" fr="Aéronef San d'Oria-Jeuno" />
-  <o id="224" en="Bastok-Jeuno Airship" search="Airship" ja="飛空艇航路" de="Bast.-Jeu. Luftschiff" fr="Aéronef Bastok-Jeuno" />
-  <o id="225" en="Windurst-Jeuno Airship" search="Airship" ja="飛空艇航路" de="Wind.-Jeu. Luftschiff" fr="Aéronef Windurst-Jeuno" />
-  <o id="226" en="Kazham-Jeuno Airship" search="Airship" ja="飛空艇航路" de="Kazh.-Jeu. Luftschiff" fr="Aéronef Kazham-Jeuno" />
-  <o id="227" en="Ship bound for Selbina" search="ShipToSelb" ja="航路：セルビナ行き" de="Schiff nach Selbina" fr="Ferry pour Selbina" />
-  <o id="228" en="Ship bound for Mhaura" search="ShipToMhau" ja="航路：マウラ行き" de="Schiff nach Mhaura" fr="Ferry pour Mhaura" />
-  <o id="230" en="Southern San d'Oria" search="SSandOria" ja="南サンドリア" de="Süd-San d'Oria" fr="San d'Oria Sud" />
-  <o id="231" en="Northern San d'Oria" search="NSandOria" ja="北サンドリア" de="Nord-San d'Oria" fr="San d'Oria Nord" />
-  <o id="232" en="Port San d'Oria" search="PSandOria" ja="サンドリア港" de="San d'Oria-Hafen" fr="Port de San d'Oria" />
-  <o id="233" en="Chateau d'Oraguille" search="ChatdOrag" ja="ドラギーユ城" de="Oraguille-Schloss" fr="Château d'Oraguille" />
-  <o id="234" en="Bastok Mines" search="BastokMine" ja="バストゥーク鉱山区" de="Bastok-Minen" fr="Mines de Bastok" />
-  <o id="235" en="Bastok Markets" search="BastokMark" ja="バストゥーク商業区" de="Bastok-Markt" fr="Marché de Bastok" />
-  <o id="236" en="Port Bastok" search="PortBastok" ja="バストゥーク港" de="Bastok-Hafen" fr="Port de Bastok" />
-  <o id="237" en="Metalworks" search="Metalworks" ja="大工房" de="Metallwerke" fr="Forges" />
-  <o id="238" en="Windurst Waters" search="WindWaters" ja="ウィンダス水の区" de="Windurst-Weiher" fr="Canaux de Windurst" />
-  <o id="239" en="Windurst Walls" search="WindWalls" ja="ウィンダス石の区" de="Windurst-Mauern" fr="Remparts de Windurst" />
-  <o id="240" en="Port Windurst" search="PortWind" ja="ウィンダス港" de="Windurst-Hafen" fr="Port de Windurst" />
-  <o id="241" en="Windurst Woods" search="WindWoods" ja="ウィンダス森の区" de="Windurst-Wälder" fr="Forêt de Windurst" />
-  <o id="242" en="Heavens Tower" search="HeavenTowr" ja="天の塔" de="Himmelsturm" fr="Tour des cieux" />
-  <o id="243" en="Ru'Lude Gardens" search="RuLudeGard" ja="ル・ルデの庭" de="Ru'Lude-Gärten" fr="Jardins de Ru'Lude" />
-  <o id="244" en="Upper Jeuno" search="UpJeuno" ja="ジュノ上層" de="Ober-Jeuno" fr="Haut Jeuno" />
-  <o id="245" en="Lower Jeuno" search="LowJeuno" ja="ジュノ下層" de="Unter-Jeuno" fr="Bas Jeuno" />
-  <o id="246" en="Port Jeuno" search="PortJeuno" ja="ジュノ港" de="Jeuno-Hafen" fr="Port de Jeuno" />
-  <o id="247" en="Rabao" search="Rabao" ja="ラバオ" de="Rabao" fr="Rabao" />
-  <o id="248" en="Selbina" search="Selbina" ja="セルビナ" de="Selbina" fr="Selbina" />
-  <o id="249" en="Mhaura" search="Mhaura" ja="マウラ" de="Mhaura" fr="Mhaura" />
-  <o id="250" en="Kazham" search="Kazham" ja="カザム" de="Kazham" fr="Kazham" />
-  <o id="251" en="Hall of the Gods" search="HallOfGods" ja="神々の間" de="Halle der Götter" fr="Antichambre des dieux" />
-  <o id="252" en="Norg" search="Norg" ja="ノーグ" de="Norg" fr="Norg" />
-  <o id="253" en="Abyssea - Uleguerand" search="AbysUleg" ja="アビセア-ウルガラン" de="Abyssea - Uleguerand" fr="Abyssée - Uleguerand" />
-  <o id="254" en="Abyssea - Grauberg" search="AbysGraub" ja="アビセア-グロウベルグ" de="Abyssea - Grauberg" fr="Abyssée - Grauberg" />
-  <o id="255" en="Abyssea - Empyreal Paradox" search="AbysParadox" ja="アビセア-天象の鎖" de="Abyssea - Paradox" fr="Abyssée - Paradoxe empyréen" />
-  <o id="256" en="Western Adoulin" search="WestAdoulin" ja="西アドゥリン" de="West-Adoulin" fr="Adoulin Ouest" />
-  <o id="257" en="Eastern Adoulin" search="EastAdoulin" ja="東アドゥリン" de="Ost-Adoulin" fr="Adoulin Est" />
-  <o id="258" en="Rala Waterways" search="Rala" ja="ララ水道" de="Rala-Aquädukt" fr="Voies d'eau de Rala" />
-  <o id="259" en="Rala Waterways [U]" search="Rala_U" ja="ララ水道〔Ｕ〕" de="Rala-Aquädukt (U)" fr="Voies d'eau de Rala (I)" />
-  <o id="260" en="Yahse Hunting Grounds" search="Yahse" ja="ヤッセの狩り場" de="Yahse-Jagdgründe" fr="Chasses de Yahse" />
-  <o id="261" en="Ceizak Battlegrounds" search="Ceizak" ja="ケイザック古戦場" de="Ceizak-Schlachtfeld" fr="Champs d'honneur de Ceizak" />
-  <o id="262" en="Foret de Hennetiel" search="Hennetiel" ja="エヌティエル水林" de="Hennetiel-Forst" fr="Forêt de Hennetiel" />
-  <o id="263" en="Yorcia Weald" search="Yorcia" ja="ヨルシア森林" de="Yorcia-Hain" fr="Sylve de Yorcia" />
-  <o id="264" en="Yorcia Weald [U]" search="Yorcia_U" ja="ヨルシア森林〔Ｕ〕" de="Yorcia-Hain (U)" fr="Sylve de Yorcia (I)" />
-  <o id="265" en="Morimar Basalt Fields" search="Morimar" ja="モリマー台地" de="Morimar-Basaltplateau" fr="Pl. de basalte de Morimar" />
-  <o id="266" en="Marjami Ravine" search="Marjami" ja="マリアミ渓谷" de="Marjami-Tal" fr="Vallée de Marjami" />
-  <o id="267" en="Kamihr Drifts" search="Kamihr" ja="カミール山麓" de="Kamihr-Ausläufer" fr="Congères de Kamihr" />
-  <o id="268" en="Sih Gates" search="SihGates" ja="シィの門" de="Sih-Passage" fr="Passe de Sih" />
-  <o id="269" en="Moh Gates" search="MohGates" ja="モーの門" de="Moh-Passage" fr="Passe de Moh" />
-  <o id="270" en="Cirdas Caverns" search="Cirdas" ja="シルダス洞窟" de="Cirdas-Höhlen" fr="Cavernes de Cirdas" />
-  <o id="271" en="Cirdas Caverns [U]" search="Cirdas_U" ja="シルダス洞窟〔Ｕ〕" de="Cirdas-Höhlen (U)" fr="Cavernes de Cirdas (I)" />
-  <o id="272" en="Dho Gates" search="DhoGates" ja="ドーの門" de="Dho-Passage" fr="Passe de Doh" />
-  <o id="273" en="Woh Gates" search="WohGates" ja="ウォーの門" de="Woh-Passage" fr="Passe de Woh" />
-  <o id="274" en="Outer Ra'Kaznar" search="OutRaKaz" ja="ラ・カザナル宮外郭" de="Ra'Kaznar-Umgebung" fr="Périphérie de Ra'Kaznar" />
-  <o id="275" en="Outer Ra'Kaznar [U]" search="OutRaKaz_U" ja="ラ・カザナル宮外郭〔Ｕ〕" de="Ra'Kaznar-Umgebung (U)" fr="Périphérie de Ra'Kaznar (I)" />
-  <o id="280" en="Mog Garden" search="MogGarden" ja="モグガーデン" de="Mog-Garten" fr="Jardins Mog" />
-  <o id="281" en="Leafallia" search="Leafallia" ja="リファーリア" de="Leafallia" fr="Leafallia" />
-  <o id="282" en="Mount Kamihr" search="MtKamihr" ja="カミール山" de="Kamihr" fr="Mont Kamihr" />
-  <o id="283" en="Silver Knife" search="SilverKnife" ja="シルバー・ナイフ" de="Das Silberne Messer" fr="Couteau d'argent" />
-  <o id="284" en="Celennia Memorial Library" search="Celennia" ja="セレニア図書館" de="Celennia-Gedächtnisbibliothek" fr="Bibliothèque Celennia" />
-  <o id="285" en="Feretory" search="Feretory" ja="魂の聖櫃" de="Seelenschrein" fr="Sanctuaire des âmes" />
+  <o id="0" en="unknown" search="unknown" ja="unknown" />
+  <o id="1" en="Phanauet Channel" search="PhanauetCh" ja="ファノエ運河" />
+  <o id="2" en="Carpenters' Landing" search="CpntLanding" ja="ギルド桟橋" />
+  <o id="3" en="Manaclipper" search="Manaclipper" ja="マナクリッパー" />
+  <o id="4" en="Bibiki Bay" search="BibikiBay" ja="ビビキー湾" />
+  <o id="5" en="Uleguerand Range" search="Uleguerand" ja="ウルガラン山脈" />
+  <o id="6" en="Bearclaw Pinnacle" search="BearclawPn" ja="熊爪嶽" />
+  <o id="7" en="Attohwa Chasm" search="AttohwaCsm" ja="アットワ地溝" />
+  <o id="8" en="Boneyard Gully" search="BoneyardGl" ja="千骸谷" />
+  <o id="9" en="Pso'Xja" search="PsoXja" ja="ソ・ジヤ" />
+  <o id="10" en="The Shrouded Maw" search="ShroudMaw" ja="異界の口" />
+  <o id="11" en="Oldton Movalpolos" search="OldMoval" ja="ムバルポロス旧市街" />
+  <o id="12" en="Newton Movalpolos" search="NewMoval" ja="ムバルポロス新市街" />
+  <o id="13" en="Mine Shaft #2716" search="Mine2716" ja="2716号採石場" />
+  <o id="14" en="Hall of Transference" search="HallOfTrns" ja="転移の間" />
+  <o id="15" en="Abyssea - Konschtat" search="AbysKonscht" ja="アビセア-コンシュタット" />
+  <o id="16" en="Promyvion - Holla" search="PromvHolla" ja="プロミヴォン-ホラ" />
+  <o id="17" en="Spire of Holla" search="SpireHolla" ja="ホラの塔" />
+  <o id="18" en="Promyvion - Dem" search="PromvDem" ja="プロミヴォン-デム" />
+  <o id="19" en="Spire of Dem" search="SpireDem" ja="デムの塔" />
+  <o id="20" en="Promyvion - Mea" search="PromvMea" ja="プロミヴォン-メア" />
+  <o id="21" en="Spire of Mea" search="SpireMea" ja="メアの塔" />
+  <o id="22" en="Promyvion - Vahzl" search="PromvVahzl" ja="プロミヴォン-ヴァズ" />
+  <o id="23" en="Spire of Vahzl" search="SpireVahzl" ja="ヴァズの塔" />
+  <o id="24" en="Lufaise Meadows" search="LufaiseMds" ja="ルフェーゼ野" />
+  <o id="25" en="Misareaux Coast" search="Misareaux" ja="ミザレオ海岸" />
+  <o id="26" en="Tavnazian Safehold" search="TavSafehld" ja="タブナジア地下壕" />
+  <o id="27" en="Phomiuna Aqueducts" search="PhomiunaAq" ja="フォミュナ水道" />
+  <o id="28" en="Sacrarium" search="Sacrarium" ja="礼拝堂" />
+  <o id="29" en="Riverne - Site #B01" search="RiverneB01" ja="リヴェーヌ岩塊群サイトB01" />
+  <o id="30" en="Riverne - Site #A01" search="RiverneA01" ja="リヴェーヌ岩塊群サイトA01" />
+  <o id="31" en="Monarch Linn" search="MonarchLinn" ja="帝龍の飛泉" />
+  <o id="32" en="Sealion's Den" search="SealionDen" ja="海獅子の巣窟" />
+  <o id="33" en="Al'Taieu" search="AlTaieu" ja="アル・タユ" />
+  <o id="34" en="Grand Palace of Hu'Xzoi" search="HuXzoi" ja="フ・ゾイの王宮" />
+  <o id="35" en="The Garden of Ru'Hmet" search="RuHmet" ja="ル・メトの園" />
+  <o id="36" en="Empyreal Paradox" search="EmParadox" ja="天象の鎖" />
+  <o id="37" en="Temenos" search="Temenos" ja="テメナス" />
+  <o id="38" en="Apollyon" search="Apollyon" ja="アポリオン" />
+  <o id="39" en="Dynamis - Valkurm" search="DynamisVal" ja="デュナミス-バルクルム" />
+  <o id="40" en="Dynamis - Buburimu" search="DynamisBub" ja="デュナミス-ブブリム" />
+  <o id="41" en="Dynamis - Qufim" search="DynamisQuf" ja="デュナミス-クフィム" />
+  <o id="42" en="Dynamis - Tavnazia" search="DynamisTav" ja="デュナミス-タブナジア" />
+  <o id="43" en="Diorama Abdhaljs-Ghelsba" search="DioramaGhel" ja="アブダルスの箱庭-ゲルスバ" />
+  <o id="44" en="Abdhaljs Isle-Purgonorgo" search="AbdhalPurgo" ja="アブダルスの島-プルゴノルゴ" />
+  <o id="45" en="Abyssea - Tahrongi" search="AbysTahrongi" ja="アビセア-タロンギ" />
+  <o id="46" en="Open sea route to Al Zahbi" search="OpenseaZah" ja="外洋航路：アルザビ行き" />
+  <o id="47" en="Open sea route to Mhaura" search="OpenseaMha" ja="外洋航路：マウラ行き" />
+  <o id="48" en="Al Zahbi" search="AlZahbi" ja="アルザビ" />
+  <o id="50" en="Aht Urhgan Whitegate" search="Whitegate" ja="アトルガン白門" />
+  <o id="51" en="Wajaom Woodlands" search="Wajaom" ja="ワジャーム樹林" />
+  <o id="52" en="Bhaflau Thickets" search="BhafThicket" ja="バフラウ段丘" />
+  <o id="53" en="Nashmau" search="Nashmau" ja="ナシュモ" />
+  <o id="54" en="Arrapago Reef" search="ArrpgoReef" ja="アラパゴ暗礁域" />
+  <o id="55" en="Ilrusi Atoll" search="Ilrusi" ja="イルルシ環礁" />
+  <o id="56" en="Periqia" search="Periqia" ja="ペリキア" />
+  <o id="57" en="Talacca Cove" search="Talacca" ja="タラッカ入江" />
+  <o id="58" en="Silver Sea route to Nashmau" search="SilvSeaNas" ja="銀海航路：ナシュモ行き" />
+  <o id="59" en="Silver Sea route to Al Zahbi" search="SilvSeaZah" ja="銀海航路：アルザビ行き" />
+  <o id="60" en="The Ashu Talif" search="AshuTalif" ja="アシュタリフ号" />
+  <o id="61" en="Mount Zhayolm" search="MtZhayolm" ja="ゼオルム火山" />
+  <o id="62" en="Halvung" search="Halvung" ja="ハルブーン" />
+  <o id="63" en="Lebros Cavern" search="Lebros" ja="レベロス風穴" />
+  <o id="64" en="Navukgo Execution Chamber" search="Navukgo" ja="ナバゴ処刑場" />
+  <o id="65" en="Mamook" search="Mamook" ja="マムーク" />
+  <o id="66" en="Mamool Ja Training Grounds" search="MamoolTrGr" ja="マムージャ兵訓練所" />
+  <o id="67" en="Jade Sepulcher" search="JadeSepul" ja="翡翠廟" />
+  <o id="68" en="Aydeewa Subterrane" search="Aydeewa" ja="エジワ蘿洞" />
+  <o id="69" en="Leujaoam Sanctum" search="Leujaoam" ja="ルジャワン霊窟" />
+  <o id="70" en="Chocobo Circuit" search="ChocoCirc" ja="チョコボサーキット" />
+  <o id="71" en="The Colosseum" search="Colosseum" ja="コロセウム" />
+  <o id="72" en="Alzadaal Undersea Ruins" search="AlzaUndrsea" ja="アルザダール海底遺跡群" />
+  <o id="73" en="Zhayolm Remnants" search="ZhaylmRem" ja="ゼオルム遺構" />
+  <o id="74" en="Arrapago Remnants" search="ArrpgoRem" ja="アラパゴ遺構" />
+  <o id="75" en="Bhaflau Remnants" search="BhaflauRem" ja="バフラウ遺構" />
+  <o id="76" en="Silver Sea Remnants" search="SilvSeaRem" ja="銀海遺構" />
+  <o id="77" en="Nyzul Isle" search="Nyzul" ja="ナイズル島" />
+  <o id="78" en="Hazhalm Testing Grounds" search="Hazhalm" ja="ハザルム試験場" />
+  <o id="79" en="Caedarva Mire" search="Caedarva" ja="カダーバの浮沼" />
+  <o id="80" en="Southern San d'Oria [S]" search="SSandOria_S" ja="南サンドリア〔Ｓ〕" />
+  <o id="81" en="East Ronfaure [S]" search="ERonfaure_S" ja="東ロンフォール〔Ｓ〕" />
+  <o id="82" en="Jugner Forest [S]" search="Jugner_S" ja="ジャグナー森林〔Ｓ〕" />
+  <o id="83" en="Vunkerl Inlet [S]" search="Vunkerl_S" ja="ブンカール浦〔Ｓ〕" />
+  <o id="84" en="Batallia Downs [S]" search="Batallia_S" ja="バタリア丘陵〔Ｓ〕" />
+  <o id="85" en="La Vaule [S]" search="LaVaule_S" ja="ラヴォール村〔Ｓ〕" />
+  <o id="86" en="Everbloom Hollow" search="Everbloom" ja="常花の石窟" />
+  <o id="87" en="Bastok Markets [S]" search="BasMarket_S" ja="バストゥーク商業区〔Ｓ〕" />
+  <o id="88" en="North Gustaberg [S]" search="NGustabrg_S" ja="北グスタベルグ〔Ｓ〕" />
+  <o id="89" en="Grauberg [S]" search="Grauberg_S" ja="グロウベルグ〔Ｓ〕" />
+  <o id="90" en="Pashhow Marshlands [S]" search="Pashhow_S" ja="パシュハウ沼〔Ｓ〕" />
+  <o id="91" en="Rolanberry Fields [S]" search="RolFields_S" ja="ロランベリー耕地〔Ｓ〕" />
+  <o id="92" en="Beadeaux [S]" search="Beadeaux_S" ja="ベドー〔Ｓ〕" />
+  <o id="93" en="Ruhotz Silvermines" search="Ruhotz" ja="ルホッツ銀山" />
+  <o id="94" en="Windurst Waters [S]" search="WinWaters_S" ja="ウィンダス水の区〔Ｓ〕" />
+  <o id="95" en="West Sarutabaruta [S]" search="WSaruta_S" ja="西サルタバルタ〔Ｓ〕" />
+  <o id="96" en="Fort Karugo-Narugo [S]" search="FortK-N_S" ja="カルゴナルゴ城砦〔Ｓ〕" />
+  <o id="97" en="Meriphataud Mountains [S]" search="MeriMount_S" ja="メリファト山地〔Ｓ〕" />
+  <o id="98" en="Sauromugue Champaign [S]" search="SaurChamp_S" ja="ソロムグ原野〔Ｓ〕" />
+  <o id="99" en="Castle Oztroja [S]" search="Oztroja_S" ja="オズトロヤ城〔Ｓ〕" />
+  <o id="100" en="West Ronfaure" search="WRonfaure" ja="西ロンフォール" />
+  <o id="101" en="East Ronfaure" search="ERonfaure" ja="東ロンフォール" />
+  <o id="102" en="La Theine Plateau" search="LaTheine" ja="ラテーヌ高原" />
+  <o id="103" en="Valkurm Dunes" search="Valkurm" ja="バルクルム砂丘" />
+  <o id="104" en="Jugner Forest" search="Jugner" ja="ジャグナー森林" />
+  <o id="105" en="Batallia Downs" search="Batallia" ja="バタリア丘陵" />
+  <o id="106" en="North Gustaberg" search="NGustaberg" ja="北グスタベルグ" />
+  <o id="107" en="South Gustaberg" search="SGustaberg" ja="南グスタベルグ" />
+  <o id="108" en="Konschtat Highlands" search="Konschtat" ja="コンシュタット高地" />
+  <o id="109" en="Pashhow Marshlands" search="Pashhow" ja="パシュハウ沼" />
+  <o id="110" en="Rolanberry Fields" search="Rolanberry" ja="ロランベリー耕地" />
+  <o id="111" en="Beaucedine Glacier" search="Beaucedine" ja="ボスディン氷河" />
+  <o id="112" en="Xarcabard" search="Xarcabard" ja="ザルカバード" />
+  <o id="113" en="Cape Teriggan" search="Teriggan" ja="テリガン岬" />
+  <o id="114" en="Eastern Altepa Desert" search="EastAltepa" ja="東アルテパ砂漠" />
+  <o id="115" en="West Sarutabaruta" search="WSartabarta" ja="西サルタバルタ" />
+  <o id="116" en="East Sarutabaruta" search="ESartabarta" ja="東サルタバルタ" />
+  <o id="117" en="Tahrongi Canyon" search="Tahrongi" ja="タロンギ大峡谷" />
+  <o id="118" en="Buburimu Peninsula" search="Buburimu" ja="ブブリム半島" />
+  <o id="119" en="Meriphataud Mountains" search="Meriphataud" ja="メリファト山地" />
+  <o id="120" en="Sauromugue Champaign" search="Sauromugue" ja="ソロムグ原野" />
+  <o id="121" en="The Sanctuary of Zi'Tah" search="ZiTah" ja="聖地ジ・タ" />
+  <o id="122" en="Ro'Maeve" search="RoMaeve" ja="ロ・メーヴ" />
+  <o id="123" en="Yuhtunga Jungle" search="YuhtunJng" ja="ユタンガ大森林" />
+  <o id="124" en="Yhoator Jungle" search="YhoatorJng" ja="ヨアトル大森林" />
+  <o id="125" en="Western Altepa Desert" search="WestAltepa" ja="西アルテパ砂漠" />
+  <o id="126" en="Qufim Island" search="Qufim" ja="クフィム島" />
+  <o id="127" en="Behemoth's Dominion" search="BehemotDom" ja="ベヒーモスの縄張り" />
+  <o id="128" en="Valley of Sorrows" search="SorrowVall" ja="慟哭の谷" />
+  <o id="129" en="Ghoyu's Reverie" search="GhoyusRev" ja="ゴユの空洞" />
+  <o id="130" en="Ru'Aun Gardens" search="RuAunGard" ja="ル・オンの庭" />
+  <o id="131" en="Mordion Gaol" search="Mordion" ja="モルディオン監獄" />
+  <o id="132" en="Abyssea - La Theine" search="AbysLaThein" ja="アビセア-ラテーヌ" />
+  <o id="134" en="Dynamis - Beaucedine" search="DynamisBcd" ja="デュナミス-ボスディン" />
+  <o id="135" en="Dynamis - Xarcabard" search="DynamisXar" ja="デュナミス-ザルカバード" />
+  <o id="136" en="Beaucedine Glacier [S]" search="BeaGlacier_S" ja="ボスディン氷河〔Ｓ〕" />
+  <o id="137" en="Xarcabard [S]" search="Xarcabard_S" ja="ザルカバード〔Ｓ〕" />
+  <o id="138" en="Castle Zvahl Baileys [S]" search="ZvBaileys_S" ja="ズヴァール城外郭〔Ｓ〕" />
+  <o id="139" en="Horlais Peak" search="HorlaisPk" ja="ホルレーの岩峰" />
+  <o id="140" en="Ghelsba Outpost" search="GhelsbaOp" ja="ゲルスバ野営陣" />
+  <o id="141" en="Fort Ghelsba" search="FtGhelsba" ja="ゲルスバ砦" />
+  <o id="142" en="Yughott Grotto" search="Yughott" ja="ユグホトの岩屋" />
+  <o id="143" en="Palborough Mines" search="Palborough" ja="パルブロ鉱山" />
+  <o id="144" en="Waughroon Shrine" search="Waughroon" ja="ワールンの祠" />
+  <o id="145" en="Giddeus" search="Giddeus" ja="ギデアス" />
+  <o id="146" en="Balga's Dais" search="BalgasDais" ja="バルガの舞台" />
+  <o id="147" en="Beadeaux" search="Beadeaux" ja="ベドー" />
+  <o id="148" en="Qulun Dome" search="QulunDome" ja="クゥルンの大伽藍" />
+  <o id="149" en="Davoi" search="Davoi" ja="ダボイ" />
+  <o id="150" en="Monastic Cavern" search="MonastiCav" ja="修道窟" />
+  <o id="151" en="Castle Oztroja" search="Oztroja" ja="オズトロヤ城" />
+  <o id="152" en="Altar Room" search="AltarRoom" ja="祭壇の間" />
+  <o id="153" en="The Boyahda Tree" search="Boyahda" ja="ボヤーダ樹" />
+  <o id="154" en="Dragon's Aery" search="DragonAery" ja="龍のねぐら" />
+  <o id="155" en="Castle Zvahl Keep [S]" search="ZvKeep_S" ja="ズヴァール城内郭〔Ｓ〕" />
+  <o id="156" en="Throne Room [S]" search="ThroneRm_S" ja="王の間〔Ｓ〕" />
+  <o id="157" en="Middle Delkfutt's Tower" search="MidDelkfut" ja="デルクフの塔中層" />
+  <o id="158" en="Upper Delkfutt's Tower" search="UpDelkfut" ja="デルクフの塔上層" />
+  <o id="159" en="Temple of Uggalepih" search="Uggalepih" ja="ウガレピ寺院" />
+  <o id="160" en="Den of Rancor" search="RancorDen" ja="怨念洞" />
+  <o id="161" en="Castle Zvahl Baileys" search="ZvahlBails" ja="ズヴァール城外郭" />
+  <o id="162" en="Castle Zvahl Keep" search="ZvahlKeep" ja="ズヴァール城内郭" />
+  <o id="163" en="Sacrificial Chamber" search="SacriChamb" ja="生贄の間" />
+  <o id="164" en="Garlaige Citadel [S]" search="Garlaige_S" ja="ガルレージュ要塞〔Ｓ〕" />
+  <o id="165" en="Throne Room" search="ThroneRoom" ja="王の間" />
+  <o id="166" en="Ranguemont Pass" search="Ranguemont" ja="ラングモント峠" />
+  <o id="167" en="Bostaunieux Oubliette" search="Bostaunieu" ja="ボストーニュ監獄" />
+  <o id="168" en="Chamber of Oracles" search="OracleChmb" ja="宣託の間" />
+  <o id="169" en="Toraimarai Canal" search="Toraimarai" ja="トライマライ水路" />
+  <o id="170" en="Full Moon Fountain" search="FullMoonFn" ja="満月の泉" />
+  <o id="171" en="Crawlers' Nest [S]" search="CrawlNest_S" ja="クロウラーの巣〔Ｓ〕" />
+  <o id="172" en="Zeruhn Mines" search="Zeruhn" ja="ツェールン鉱山" />
+  <o id="173" en="Korroloka Tunnel" search="Korroloka" ja="コロロカの洞門" />
+  <o id="174" en="Kuftal Tunnel" search="Kuftal" ja="クフタルの洞門" />
+  <o id="175" en="The Eldieme Necropolis [S]" search="Eldieme_S" ja="エルディーム古墳〔Ｓ〕" />
+  <o id="176" en="Sea Serpent Grotto" search="SeaGrotto" ja="海蛇の岩窟" />
+  <o id="177" en="Ve'Lugannon Palace" search="VeLugannon" ja="ヴェ・ルガノン宮殿" />
+  <o id="178" en="The Shrine of Ru'Avitau" search="RuAvitau" ja="ル・アビタウ神殿" />
+  <o id="179" en="Stellar Fulcrum" search="StlrFulcrm" ja="天輪の場" />
+  <o id="180" en="La'Loff Amphitheater" search="LaLoff" ja="ラ・ロフの劇場" />
+  <o id="181" en="The Celestial Nexus" search="CelesNexus" ja="宿星の座" />
+  <o id="182" en="Walk of Echoes" search="WalkEchoes" ja="ウォークオブエコーズ" />
+  <o id="183" en="Maquette Abdhaljs-Legion" search="Legion" ja="アブダルスの模型-レギオン" />
+  <o id="184" en="Lower Delkfutt's Tower" search="LowDelkfut" ja="デルクフの塔下層" />
+  <o id="185" en="Dynamis - San d'Oria" search="DynamisSan" ja="デュナミス-サンドリア" />
+  <o id="186" en="Dynamis - Bastok" search="DynamisBas" ja="デュナミス-バストゥーク" />
+  <o id="187" en="Dynamis - Windurst" search="DynamisWin" ja="デュナミス-ウィンダス" />
+  <o id="188" en="Dynamis - Jeuno" search="DynamisJeu" ja="デュナミス-ジュノ" />
+  <o id="190" en="King Ranperre's Tomb" search="RanpsTomb" ja="龍王ランペールの墓" />
+  <o id="191" en="Dangruf Wadi" search="Dangruf" ja="ダングルフの涸れ谷" />
+  <o id="192" en="Inner Horutoto Ruins" search="InHorutoto" ja="内ホルトト遺跡" />
+  <o id="193" en="Ordelle's Caves" search="Ordelles" ja="オルデール鍾乳洞" />
+  <o id="194" en="Outer Horutoto Ruins" search="OutHorutot" ja="外ホルトト遺跡" />
+  <o id="195" en="The Eldieme Necropolis" search="Eldieme" ja="エルディーム古墳" />
+  <o id="196" en="Gusgen Mines" search="Gusgen" ja="グスゲン鉱山" />
+  <o id="197" en="Crawlers' Nest" search="CrawlNest" ja="クロウラーの巣" />
+  <o id="198" en="Maze of Shakhrami" search="Shakhrami" ja="シャクラミの地下迷宮" />
+  <o id="200" en="Garlaige Citadel" search="Garlaige" ja="ガルレージュ要塞" />
+  <o id="201" en="Cloister of Gales" search="ClstGales" ja="突風の回廊" />
+  <o id="202" en="Cloister of Storms" search="ClstStorms" ja="雷鳴の回廊" />
+  <o id="203" en="Cloister of Frost" search="ClstFrost" ja="凍結の回廊" />
+  <o id="204" en="Fei'Yin" search="FeiYin" ja="フェ・イン" />
+  <o id="205" en="Ifrit's Cauldron" search="IfritCldrn" ja="イフリートの釜" />
+  <o id="206" en="Qu'Bia Arena" search="QuBiaArena" ja="ク・ビアの闘技場" />
+  <o id="207" en="Cloister of Flames" search="ClstFlames" ja="灼熱の回廊" />
+  <o id="208" en="Quicksand Caves" search="Quicksands" ja="流砂洞" />
+  <o id="209" en="Cloister of Tremors" search="ClstTremor" ja="震動の回廊" />
+  <o id="211" en="Cloister of Tides" search="ClstTides" ja="海流の回廊" />
+  <o id="212" en="Gustav Tunnel" search="Gustav" ja="グスタフの洞門" />
+  <o id="213" en="Labyrinth of Onzozo" search="Onzozo" ja="オンゾゾの迷路" />
+  <o id="215" en="Abyssea - Attohwa" search="AbysAttohwa" ja="アビセア-アットワ" />
+  <o id="216" en="Abyssea - Misareaux" search="AbysMisar" ja="アビセア-ミザレオ" />
+  <o id="217" en="Abyssea - Vunkerl" search="AbysVunkerl" ja="アビセア-ブンカール" />
+  <o id="218" en="Abyssea - Altepa" search="AbysAltepa" ja="アビセア-アルテパ" />
+  <o id="220" en="Ship bound for Selbina" search="ShipToSelb" ja="航路：セルビナ行き" />
+  <o id="221" en="Ship bound for Mhaura" search="ShipToMhau" ja="航路：マウラ行き" />
+  <o id="222" en="Provenance" search="Provenance" ja="真界" />
+  <o id="223" en="San d'Oria-Jeuno Airship" search="Airship" ja="飛空艇航路" />
+  <o id="224" en="Bastok-Jeuno Airship" search="Airship" ja="飛空艇航路" />
+  <o id="225" en="Windurst-Jeuno Airship" search="Airship" ja="飛空艇航路" />
+  <o id="226" en="Kazham-Jeuno Airship" search="Airship" ja="飛空艇航路" />
+  <o id="227" en="Ship bound for Selbina" search="ShipToSelb" ja="航路：セルビナ行き" />
+  <o id="228" en="Ship bound for Mhaura" search="ShipToMhau" ja="航路：マウラ行き" />
+  <o id="230" en="Southern San d'Oria" search="SSandOria" ja="南サンドリア" />
+  <o id="231" en="Northern San d'Oria" search="NSandOria" ja="北サンドリア" />
+  <o id="232" en="Port San d'Oria" search="PSandOria" ja="サンドリア港" />
+  <o id="233" en="Chateau d'Oraguille" search="ChatdOrag" ja="ドラギーユ城" />
+  <o id="234" en="Bastok Mines" search="BastokMine" ja="バストゥーク鉱山区" />
+  <o id="235" en="Bastok Markets" search="BastokMark" ja="バストゥーク商業区" />
+  <o id="236" en="Port Bastok" search="PortBastok" ja="バストゥーク港" />
+  <o id="237" en="Metalworks" search="Metalworks" ja="大工房" />
+  <o id="238" en="Windurst Waters" search="WindWaters" ja="ウィンダス水の区" />
+  <o id="239" en="Windurst Walls" search="WindWalls" ja="ウィンダス石の区" />
+  <o id="240" en="Port Windurst" search="PortWind" ja="ウィンダス港" />
+  <o id="241" en="Windurst Woods" search="WindWoods" ja="ウィンダス森の区" />
+  <o id="242" en="Heavens Tower" search="HeavenTowr" ja="天の塔" />
+  <o id="243" en="Ru'Lude Gardens" search="RuLudeGard" ja="ル・ルデの庭" />
+  <o id="244" en="Upper Jeuno" search="UpJeuno" ja="ジュノ上層" />
+  <o id="245" en="Lower Jeuno" search="LowJeuno" ja="ジュノ下層" />
+  <o id="246" en="Port Jeuno" search="PortJeuno" ja="ジュノ港" />
+  <o id="247" en="Rabao" search="Rabao" ja="ラバオ" />
+  <o id="248" en="Selbina" search="Selbina" ja="セルビナ" />
+  <o id="249" en="Mhaura" search="Mhaura" ja="マウラ" />
+  <o id="250" en="Kazham" search="Kazham" ja="カザム" />
+  <o id="251" en="Hall of the Gods" search="HallOfGods" ja="神々の間" />
+  <o id="252" en="Norg" search="Norg" ja="ノーグ" />
+  <o id="253" en="Abyssea - Uleguerand" search="AbysUleg" ja="アビセア-ウルガラン" />
+  <o id="254" en="Abyssea - Grauberg" search="AbysGraub" ja="アビセア-グロウベルグ" />
+  <o id="255" en="Abyssea - Empyreal Paradox" search="AbysParadox" ja="アビセア-天象の鎖" />
+  <o id="256" en="Western Adoulin" search="WestAdoulin" ja="西アドゥリン" />
+  <o id="257" en="Eastern Adoulin" search="EastAdoulin" ja="東アドゥリン" />
+  <o id="258" en="Rala Waterways" search="Rala" ja="ララ水道" />
+  <o id="259" en="Rala Waterways [U]" search="Rala_U" ja="ララ水道〔Ｕ〕" />
+  <o id="260" en="Yahse Hunting Grounds" search="Yahse" ja="ヤッセの狩り場" />
+  <o id="261" en="Ceizak Battlegrounds" search="Ceizak" ja="ケイザック古戦場" />
+  <o id="262" en="Foret de Hennetiel" search="Hennetiel" ja="エヌティエル水林" />
+  <o id="263" en="Yorcia Weald" search="Yorcia" ja="ヨルシア森林" />
+  <o id="264" en="Yorcia Weald [U]" search="Yorcia_U" ja="ヨルシア森林〔Ｕ〕" />
+  <o id="265" en="Morimar Basalt Fields" search="Morimar" ja="モリマー台地" />
+  <o id="266" en="Marjami Ravine" search="Marjami" ja="マリアミ渓谷" />
+  <o id="267" en="Kamihr Drifts" search="Kamihr" ja="カミール山麓" />
+  <o id="268" en="Sih Gates" search="SihGates" ja="シィの門" />
+  <o id="269" en="Moh Gates" search="MohGates" ja="モーの門" />
+  <o id="270" en="Cirdas Caverns" search="Cirdas" ja="シルダス洞窟" />
+  <o id="271" en="Cirdas Caverns [U]" search="Cirdas_U" ja="シルダス洞窟〔Ｕ〕" />
+  <o id="272" en="Dho Gates" search="DhoGates" ja="ドーの門" />
+  <o id="273" en="Woh Gates" search="WohGates" ja="ウォーの門" />
+  <o id="274" en="Outer Ra'Kaznar" search="OutRaKaz" ja="ラ・カザナル宮外郭" />
+  <o id="275" en="Outer Ra'Kaznar [U]" search="OutRaKaz_U" ja="ラ・カザナル宮外郭〔Ｕ〕" />
+  <o id="280" en="Mog Garden" search="MogGarden" ja="モグガーデン" />
+  <o id="281" en="Leafallia" search="Leafallia" ja="リファーリア" />
+  <o id="282" en="Mount Kamihr" search="MtKamihr" ja="カミール山" />
+  <o id="283" en="Silver Knife" search="SilverKnife" ja="シルバー・ナイフ" />
+  <o id="284" en="Celennia Memorial Library" search="Celennia" ja="セレニア図書館" />
+  <o id="285" en="Feretory" search="Feretory" ja="魂の聖櫃" />
 </zones>
