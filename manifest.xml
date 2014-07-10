@@ -2,6 +2,7 @@
 <manifest>
   <file>ability_recasts</file>
   <file>action_messages</file>
+  <file>auto_translates</file>
   <file>bags</file>
   <file>buffs</file>
   <file>chat</file>
