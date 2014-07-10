@@ -371,26 +371,26 @@
   <o id="378" en="Drain Daze" enl="Drain Daze" ja="ドレインデイズ" jal="ドレインデイズ" />
   <o id="379" en="Aspir Daze" enl="Aspir Daze" ja="アスピルデイズ" jal="アスピルデイズ" />
   <o id="380" en="Haste Daze" enl="Haste Daze" ja="ヘイストデイズ" jal="ヘイストデイズ" />
-  <o id="381" en="Finishing Move 1" enl="Finishing Move 1" ja="フィニシングムーブ1" jal="フィニシングムーブ1" del="Tanzmanöver 1" frl="Mouvement final 1" />
-  <o id="382" en="Finishing Move 2" enl="Finishing Move 2" ja="フィニシングムーブ2" jal="フィニシングムーブ2" del="Tanzmanöver 2" frl="Mouvement final 2" />
-  <o id="383" en="Finishing Move 3" enl="Finishing Move 3" ja="フィニシングムーブ3" jal="フィニシングムーブ3" del="Tanzmanöver 3" frl="Mouvement final 3" />
-  <o id="384" en="Finishing Move 4" enl="Finishing Move 4" ja="フィニシングムーブ4" jal="フィニシングムーブ4" del="Tanzmanöver 4" frl="Mouvement final 4" />
-  <o id="385" en="Finishing Move 5" enl="Finishing Move 5" ja="フィニシングムーブ5" jal="フィニシングムーブ5" del="Tanzmanöver 5" frl="Mouvement final 5" />
-  <o id="386" en="Lethargic Daze 1" enl="Lethargic Daze 1" ja="クイックステップ1" jal="クイックステップ1" del="Pirouette 1" frl="Stupeur ankylosante 1" />
-  <o id="387" en="Lethargic Daze 2" enl="Lethargic Daze 2" ja="クイックステップ2" jal="クイックステップ2" del="Pirouette 2" frl="Stupeur ankylosante 2" />
-  <o id="388" en="Lethargic Daze 3" enl="Lethargic Daze 3" ja="クイックステップ3" jal="クイックステップ3" del="Pirouette 3" frl="Stupeur ankylosante 3" />
-  <o id="389" en="Lethargic Daze 4" enl="Lethargic Daze 4" ja="クイックステップ4" jal="クイックステップ4" del="Pirouette 4" frl="Stupeur ankylosante 4" />
-  <o id="390" en="Lethargic Daze 5" enl="Lethargic Daze 5" ja="クイックステップ5" jal="クイックステップ5" del="Pirouette 5" frl="Stupeur ankylosante 5" />
-  <o id="391" en="Sluggish Daze 1" enl="Sluggish Daze 1" ja="ボックスステップ1" jal="ボックスステップ1" del="Ausfallschritt 1" frl="Stupeur débilitante 1" />
-  <o id="392" en="Sluggish Daze 2" enl="Sluggish Daze 2" ja="ボックスステップ2" jal="ボックスステップ2" del="Ausfallschritt 2" frl="Stupeur débilitante 2" />
-  <o id="393" en="Sluggish Daze 3" enl="Sluggish Daze 3" ja="ボックスステップ3" jal="ボックスステップ3" del="Ausfallschritt 3" frl="Stupeur débilitante 3" />
-  <o id="394" en="Sluggish Daze 4" enl="Sluggish Daze 4" ja="ボックスステップ4" jal="ボックスステップ4" del="Ausfallschritt 4" frl="Stupeur débilitante 4" />
-  <o id="395" en="Sluggish Daze 5" enl="Sluggish Daze 5" ja="ボックスステップ5" jal="ボックスステップ5" del="Ausfallschritt 5" frl="Stupeur débilitante 5" />
-  <o id="396" en="Weakened Daze 1" enl="Weakened Daze 1" ja="スタッターステップ1" jal="スタッターステップ1" del="Schuhplattler 1" frl="Stupeur abrutissante 1" />
-  <o id="397" en="Weakened Daze 2" enl="Weakened Daze 2" ja="スタッターステップ2" jal="スタッターステップ2" del="Schuhplattler 2" frl="Stupeur abrutissante 2" />
-  <o id="398" en="Weakened Daze 3" enl="Weakened Daze 3" ja="スタッターステップ3" jal="スタッターステップ3" del="Schuhplattler 3" frl="Stupeur abrutissante 3" />
-  <o id="399" en="Weakened Daze 4" enl="Weakened Daze 4" ja="スタッターステップ4" jal="スタッターステップ4" del="Schuhplattler 4" frl="Stupeur abrutissante 4" />
-  <o id="400" en="Weakened Daze 5" enl="Weakened Daze 5" ja="スタッターステップ5" jal="スタッターステップ5" del="Schuhplattler 5" frl="Stupeur abrutissante 5" />
+  <o id="381" en="Finishing Move 1" enl="Finishing Move 1" ja="フィニシングムーブ1" jal="フィニシングムーブ1" />
+  <o id="382" en="Finishing Move 2" enl="Finishing Move 2" ja="フィニシングムーブ2" jal="フィニシングムーブ2" />
+  <o id="383" en="Finishing Move 3" enl="Finishing Move 3" ja="フィニシングムーブ3" jal="フィニシングムーブ3" />
+  <o id="384" en="Finishing Move 4" enl="Finishing Move 4" ja="フィニシングムーブ4" jal="フィニシングムーブ4" />
+  <o id="385" en="Finishing Move 5" enl="Finishing Move 5" ja="フィニシングムーブ5" jal="フィニシングムーブ5" />
+  <o id="386" en="Lethargic Daze 1" enl="Lethargic Daze 1" ja="クイックステップ1" jal="クイックステップ1" />
+  <o id="387" en="Lethargic Daze 2" enl="Lethargic Daze 2" ja="クイックステップ2" jal="クイックステップ2" />
+  <o id="388" en="Lethargic Daze 3" enl="Lethargic Daze 3" ja="クイックステップ3" jal="クイックステップ3" />
+  <o id="389" en="Lethargic Daze 4" enl="Lethargic Daze 4" ja="クイックステップ4" jal="クイックステップ4" />
+  <o id="390" en="Lethargic Daze 5" enl="Lethargic Daze 5" ja="クイックステップ5" jal="クイックステップ5" />
+  <o id="391" en="Sluggish Daze 1" enl="Sluggish Daze 1" ja="ボックスステップ1" jal="ボックスステップ1" />
+  <o id="392" en="Sluggish Daze 2" enl="Sluggish Daze 2" ja="ボックスステップ2" jal="ボックスステップ2" />
+  <o id="393" en="Sluggish Daze 3" enl="Sluggish Daze 3" ja="ボックスステップ3" jal="ボックスステップ3" />
+  <o id="394" en="Sluggish Daze 4" enl="Sluggish Daze 4" ja="ボックスステップ4" jal="ボックスステップ4" />
+  <o id="395" en="Sluggish Daze 5" enl="Sluggish Daze 5" ja="ボックスステップ5" jal="ボックスステップ5" />
+  <o id="396" en="Weakened Daze 1" enl="Weakened Daze 1" ja="スタッターステップ1" jal="スタッターステップ1" />
+  <o id="397" en="Weakened Daze 2" enl="Weakened Daze 2" ja="スタッターステップ2" jal="スタッターステップ2" />
+  <o id="398" en="Weakened Daze 3" enl="Weakened Daze 3" ja="スタッターステップ3" jal="スタッターステップ3" />
+  <o id="399" en="Weakened Daze 4" enl="Weakened Daze 4" ja="スタッターステップ4" jal="スタッターステップ4" />
+  <o id="400" en="Weakened Daze 5" enl="Weakened Daze 5" ja="スタッターステップ5" jal="スタッターステップ5" />
   <o id="401" en="Addendum: White" enl="Addendum: White" ja="白の補遺" jal="白の補遺" />
   <o id="402" en="Addendum: Black" enl="Addendum: Black" ja="黒の補遺" jal="黒の補遺" />
   <o id="403" en="Reprisal" enl="Reprisal" ja="リアクト" jal="リアクト" duration="60" />

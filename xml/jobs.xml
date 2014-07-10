@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <jobs>
+  <o id="0" en="None" ens="NON" ja="なし" jas="" />
   <o id="1" en="Warrior" ens="WAR" ja="戦士" jas="戦" />
   <o id="2" en="Monk" ens="MNK" ja="モンク" jas="モ" />
   <o id="3" en="White Mage" ens="WHM" ja="白魔道士" jas="白" />

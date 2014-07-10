@@ -1,6 +1,7 @@
 -- Automatically generated file: Jobs
 
 return {
+    [0] = {id=0,en="None",ja="なし",ens="NON",jas=""},
     [1] = {id=1,en="Warrior",ja="戦士",ens="WAR",jas="戦"},
     [2] = {id=2,en="Monk",ja="モンク",ens="MNK",jas="モ"},
     [3] = {id=3,en="White Mage",ja="白魔道士",ens="WHM",jas="白"},
