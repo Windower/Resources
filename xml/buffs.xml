@@ -195,35 +195,35 @@
   <o id="192" en="Requiem" enl="Requiem" ja="レクイエム" jal="レクイエム" />
   <o id="193" en="Lullaby" enl="Lullaby" ja="ララバイ" jal="ララバイ" />
   <o id="194" en="Elegy" enl="Elegy" ja="エレジー" jal="エレジー" />
-  <o id="195" en="Paeon" enl="Paeon" ja="ピーアン" jal="ピーアン" />
-  <o id="196" en="Ballad" enl="Ballad" ja="バラード" jal="バラード" />
-  <o id="197" en="Minne" enl="Minne" ja="ミンネ" jal="ミンネ" />
-  <o id="198" en="Minuet" enl="Minuet" ja="メヌエット" jal="メヌエット" />
-  <o id="199" en="Madrigal" enl="Madrigal" ja="マドリガル" jal="マドリガル" />
-  <o id="200" en="Prelude" enl="Prelude" ja="プレリュード" jal="プレリュード" />
-  <o id="201" en="Mambo" enl="Mambo" ja="マンボ" jal="マンボ" />
-  <o id="202" en="Aubade" enl="Aubade" ja="オーバード" jal="オーバード" />
-  <o id="203" en="Pastoral" enl="Pastoral" ja="パストラル" jal="パストラル" />
-  <o id="204" en="Hum" enl="Hum" ja="ハミング" jal="ハミング" />
-  <o id="205" en="Fantasia" enl="Fantasia" ja="ファンタジア" jal="ファンタジア" />
-  <o id="206" en="Operetta" enl="Operetta" ja="オペレッタ" jal="オペレッタ" />
-  <o id="207" en="Capriccio" enl="Capriccio" ja="カプリチオ" jal="カプリチオ" />
-  <o id="208" en="Serenade" enl="Serenade" ja="セレナーデ" jal="セレナーデ" />
-  <o id="209" en="Round" enl="Round" ja="ロンド" jal="ロンド" />
-  <o id="210" en="Gavotte" enl="Gavotte" ja="ガボット" jal="ガボット" />
-  <o id="211" en="Fugue" enl="Fugue" ja="フーガ" jal="フーガ" />
-  <o id="212" en="Rhapsody" enl="Rhapsody" ja="ラプソディ" jal="ラプソディ" />
-  <o id="213" en="Aria" enl="Aria" ja="アリア" jal="アリア" />
-  <o id="214" en="March" enl="March" ja="マーチ" jal="マーチ" />
-  <o id="215" en="Etude" enl="Etude" ja="エチュード" jal="エチュード" />
-  <o id="216" en="Carol" enl="Carol" ja="カロル" jal="カロル" />
-  <o id="217" en="Threnody" enl="Threnody" ja="スレノディ" jal="スレノディ" />
-  <o id="218" en="Hymnus" enl="Hymnus" ja="ヒムヌス" jal="ヒムヌス" />
-  <o id="219" en="Mazurka" enl="Mazurka" ja="マズルカ" jal="マズルカ" />
-  <o id="220" en="Sirvente" enl="Sirvente" ja="シルベント" jal="シルベント" />
-  <o id="221" en="Dirge" enl="Dirge" ja="ダージュ" jal="ダージュ" />
-  <o id="222" en="Scherzo" enl="Scherzo" ja="スケルツォ" jal="スケルツォ" />
-  <o id="223" en="Nocturne" enl="Nocturne" ja="ノクターン" jal="ノクターン" />
+  <o id="195" en="Paeon" enl="Paeon" ja="ピーアン" jal="ピーアン" duration="120" />
+  <o id="196" en="Ballad" enl="Ballad" ja="バラード" jal="バラード" duration="120" />
+  <o id="197" en="Minne" enl="Minne" ja="ミンネ" jal="ミンネ" duration="120" />
+  <o id="198" en="Minuet" enl="Minuet" ja="メヌエット" jal="メヌエット" duration="120" />
+  <o id="199" en="Madrigal" enl="Madrigal" ja="マドリガル" jal="マドリガル" duration="120" />
+  <o id="200" en="Prelude" enl="Prelude" ja="プレリュード" jal="プレリュード" duration="120" />
+  <o id="201" en="Mambo" enl="Mambo" ja="マンボ" jal="マンボ" duration="120" />
+  <o id="202" en="Aubade" enl="Aubade" ja="オーバード" jal="オーバード" duration="120" />
+  <o id="203" en="Pastoral" enl="Pastoral" ja="パストラル" jal="パストラル" duration="120" />
+  <o id="204" en="Hum" enl="Hum" ja="ハミング" jal="ハミング" duration="120" />
+  <o id="205" en="Fantasia" enl="Fantasia" ja="ファンタジア" jal="ファンタジア" duration="120" />
+  <o id="206" en="Operetta" enl="Operetta" ja="オペレッタ" jal="オペレッタ" duration="120" />
+  <o id="207" en="Capriccio" enl="Capriccio" ja="カプリチオ" jal="カプリチオ" duration="120" />
+  <o id="208" en="Serenade" enl="Serenade" ja="セレナーデ" jal="セレナーデ" duration="120" />
+  <o id="209" en="Round" enl="Round" ja="ロンド" jal="ロンド" duration="120" />
+  <o id="210" en="Gavotte" enl="Gavotte" ja="ガボット" jal="ガボット" duration="120" />
+  <o id="211" en="Fugue" enl="Fugue" ja="フーガ" jal="フーガ" duration="120" />
+  <o id="212" en="Rhapsody" enl="Rhapsody" ja="ラプソディ" jal="ラプソディ" duration="120" />
+  <o id="213" en="Aria" enl="Aria" ja="アリア" jal="アリア" duration="120" />
+  <o id="214" en="March" enl="March" ja="マーチ" jal="マーチ" duration="120" />
+  <o id="215" en="Etude" enl="Etude" ja="エチュード" jal="エチュード" duration="120" />
+  <o id="216" en="Carol" enl="Carol" ja="カロル" jal="カロル" duration="120" />
+  <o id="217" en="Threnody" enl="Threnody" ja="スレノディ" jal="スレノディ" duration="120" />
+  <o id="218" en="Hymnus" enl="Hymnus" ja="ヒムヌス" jal="ヒムヌス" duration="120" />
+  <o id="219" en="Mazurka" enl="Mazurka" ja="マズルカ" jal="マズルカ" duration="120" />
+  <o id="220" en="Sirvente" enl="Sirvente" ja="シルベント" jal="シルベント" duration="120" />
+  <o id="221" en="Dirge" enl="Dirge" ja="ダージュ" jal="ダージュ" duration="120" />
+  <o id="222" en="Scherzo" enl="Scherzo" ja="スケルツォ" jal="スケルツォ" duration="120" />
+  <o id="223" en="Nocturne" enl="Nocturne" ja="ノクターン" jal="ノクターン" duration="120" />
   <o id="224" en="ST224" enl="ST224" ja="ＳＴ２２４" jal="ＳＴ２２４" />
   <o id="225" en="ST225" enl="ST225" ja="ＳＴ２２５" jal="ＳＴ２２５" />
   <o id="226" en="ST226" enl="ST226" ja="ＳＴ２２６" jal="ＳＴ２２６" />
