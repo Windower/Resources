@@ -1015,159 +1015,159 @@
   <o id="6680" en="Sahagin" ja="サハギン" />
   <o id="6681" en="Tonberry" ja="トンベリ" />
   <o id="6912" en="Spells" ja="マホウ" />
-  <o id="6913" en="Protect II" ja="プロテスII" />
-  <o id="6914" en="Cursna" ja="カーズナ" />
-  <o id="6915" en="Barfire" ja="バファイ" />
-  <o id="6916" en="Barblind" ja="バブライン" />
-  <o id="6917" en="Paralyze" ja="パライズ" />
-  <o id="6918" en="Haste" ja="ヘイスト" />
-  <o id="6919" en="Banishga II" ja="バニシュガII" />
-  <o id="6920" en="Stoneskin" ja="ストンスキン" />
-  <o id="6921" en="Baraero" ja="バエアロ" />
-  <o id="6922" en="Diaga II" ja="ディアガII" />
-  <o id="6923" en="Banish II" ja="バニシュII" />
-  <o id="6924" en="Slow" ja="スロウ" />
-  <o id="6925" en="Barstone" ja="バストン" />
-  <o id="6926" en="Barthunder" ja="バサンダ" />
-  <o id="6927" en="Barwater" ja="バウォタ" />
-  <o id="6928" en="Barfira" ja="バファイラ" />
-  <o id="6929" en="Barblizzara" ja="バブリザラ" />
-  <o id="6930" en="Baraera" ja="バエアロラ" />
-  <o id="6931" en="Barstonra" ja="バストンラ" />
-  <o id="6932" en="Barthundra" ja="バサンダラ" />
-  <o id="6933" en="Barwatera" ja="バウォタラ" />
-  <o id="6934" en="Barsleep" ja="バスリプル" />
-  <o id="6935" en="Protectra" ja="プロテア" />
-  <o id="6936" en="Dia II" ja="ディアII" />
-  <o id="6937" en="Paralyna" ja="パラナ" />
-  <o id="6938" en="Silence" ja="サイレス" />
-  <o id="6939" en="Stona" ja="ストナ" />
-  <o id="6940" en="Break" ja="ブレイク" />
-  <o id="6941" en="Quake II" ja="クエイクII" />
-  <o id="6942" en="Freeze II" ja="フリーズII" />
-  <o id="6943" en="Flare II" ja="フレアII" />
-  <o id="6944" en="Tractor" ja="トラクタ" />
-  <o id="6945" en="Tractor II" ja="トラクタII" />
-  <o id="6946" en="Invisible" ja="インビジ" />
-  <o id="6947" en="Protectra II" ja="プロテアII" />
-  <o id="6948" en="Curaga II" ja="ケアルガII" />
-  <o id="6949" en="Blindna" ja="ブライナ" />
-  <o id="6950" en="Bio II" ja="バイオII" />
-  <o id="6951" en="Cure II" ja="ケアルII" />
-  <o id="6952" en="Stun" ja="スタン" />
-  <o id="6953" en="Teleport-Dem" ja="テレポデム" />
-  <o id="6954" en="Aquaveil" ja="アクアベール" />
-  <o id="6955" en="Viruna" ja="ウィルナ" />
-  <o id="6956" en="Warp II" ja="デジョンII" />
-  <o id="6957" en="Sleep II" ja="スリプルII" />
-  <o id="6958" en="Bind" ja="バインド" />
-  <o id="6959" en="Retrace" ja="リトレース" />
-  <o id="6960" en="Waterga II" ja="ウォタガII" />
-  <o id="6961" en="Raise III" ja="レイズIII" />
-  <o id="6962" en="Raise III" ja="レイズIII" />
-  <o id="6963" en="Teleport-Vahzl" ja="テレポヴァズ" />
-  <o id="6964" en="Deodorize" ja="デオード" />
-  <o id="6965" en="Sneak" ja="スニーク" />
-  <o id="6966" en="Regen II" ja="リジェネII" />
-  <o id="6967" en="Refresh" ja="リフレシュ" />
-  <o id="6968" en="Shellra II" ja="シェルラII" />
-  <o id="6969" en="Flood II" ja="フラッドII" />
-  <o id="6970" en="Thundaga II" ja="サンダガII" />
-  <o id="6971" en="Tornado II" ja="トルネドII" />
-  <o id="6972" en="Aeroga II" ja="エアロガII" />
-  <o id="6973" en="Poison II" ja="ポイズンII" />
-  <o id="6974" en="Raise II" ja="レイズII" />
-  <o id="6975" en="Holy II" ja="ホーリーII" />
-  <o id="6976" en="Poisonga II" ja="ポイゾガII" />
-  <o id="6977" en="Silena" ja="サイレナ" />
-  <o id="6978" en="Gravity II" ja="グラビデII" />
-  <o id="6979" en="Blizzaga II" ja="ブリザガII" />
-  <o id="6980" en="Stonega II" ja="ストンガII" />
-  <o id="6981" en="Phalanx" ja="ファランクス" />
-  <o id="6982" en="Barsilencera" ja="バサイレラ" />
-  <o id="6983" en="Barpetra" ja="バブレクラ" />
-  <o id="6984" en="Cura" ja="ケアルラ" />
-  <o id="6985" en="Enaero" ja="エンエアロ" />
-  <o id="6986" en="Barpoison" ja="バポイズン" />
-  <o id="6987" en="Enblizzard" ja="エンブリザド" />
-  <o id="6988" en="Firaga II" ja="ファイガII" />
-  <o id="6989" en="Water II" ja="ウォータII" />
-  <o id="6990" en="Barblindra" ja="バブライラ" />
-  <o id="6991" en="Enwater" ja="エンウォータ" />
-  <o id="6992" en="Barvira" ja="バウィルラ" />
-  <o id="6993" en="Teleport-Mea" ja="テレポメア" />
-  <o id="6994" en="Fire II" ja="ファイアII" />
-  <o id="6995" en="Blizzard II" ja="ブリザドII" />
-  <o id="6996" en="Aero II" ja="エアロII" />
-  <o id="6997" en="Shock" ja="ショック" />
-  <o id="6998" en="Thunder II" ja="サンダーII" />
-  <o id="6999" en="Burst II" ja="バーストII" />
-  <o id="7000" en="Stone II" ja="ストーンII" />
-  <o id="7001" en="Enthunder" ja="エンサンダー" />
-  <o id="7002" en="Choke" ja="チョーク" />
-  <o id="7003" en="Sleep" ja="スリプル" />
-  <o id="7004" en="Frost" ja="フロスト" />
-  <o id="7005" en="Shock Spikes" ja="ショックスパイク" />
-  <o id="7006" en="Ice Spikes" ja="アイススパイク" />
-  <o id="7007" en="Aspir II" ja="アスピルII" />
-  <o id="7008" en="Drain II" ja="ドレインII" />
-  <o id="7009" en="Barparalyze" ja="バパライズ" />
-  <o id="7010" en="Rasp" ja="ラスプ" />
-  <o id="7011" en="Barblizzard" ja="バブリザ" />
-  <o id="7012" en="Blind" ja="ブライン" />
-  <o id="7013" en="Holy" ja="ホーリー" />
-  <o id="7014" en="Shell II" ja="シェルII" />
-  <o id="7015" en="Barsilence" ja="バサイレス" />
-  <o id="7016" en="Barpetrify" ja="バブレイク" />
-  <o id="7017" en="Barvirus" ja="バウィルス" />
-  <o id="7018" en="Slow II" ja="スロウII" />
-  <o id="7019" en="Barpoisonra" ja="バポイゾラ" />
-  <o id="7020" en="Enstone" ja="エンストーン" />
-  <o id="7021" en="Drown" ja="ドラウン" />
-  <o id="7022" en="Barparalyzra" ja="バパライラ" />
-  <o id="7023" en="Warp" ja="デジョン" />
-  <o id="7024" en="Fire" ja="ファイア" />
-  <o id="7025" en="Phalanx II" ja="ファランクスII" />
-  <o id="7026" en="Teleport-Holla" ja="テレポホラ" />
-  <o id="7027" en="Teleport-Altep" ja="テレポルテ" />
-  <o id="7028" en="Rainstorm" ja="豪雨の陣" />
-  <o id="7029" en="Absorb-DEX" ja="アブゾデック" />
-  <o id="7030" en="Absorb-VIT" ja="アブゾバイト" />
-  <o id="7031" en="Absorb-AGI" ja="アブゾアジル" />
-  <o id="7032" en="Absorb-INT" ja="アブゾイン" />
-  <o id="7033" en="Absorb-MND" ja="アブゾマイン" />
-  <o id="7034" en="Absorb-CHR" ja="アブゾカリス" />
-  <o id="7035" en="Sleepga" ja="スリプガ" />
-  <o id="7036" en="Blind II" ja="ブラインII" />
-  <o id="7037" en="Geohelix" ja="土門の計" />
-  <o id="7038" en="Sandstorm" ja="砂塵の陣" />
-  <o id="7039" en="Cryohelix" ja="氷門の計" />
-  <o id="7040" en="Anemohelix" ja="風門の計" />
-  <o id="7041" en="Noctohelix" ja="闇門の計" />
-  <o id="7042" en="Ionohelix" ja="雷門の計" />
-  <o id="7043" en="Hydrohelix" ja="水門の計" />
-  <o id="7044" en="Pyrohelix" ja="火門の計" />
-  <o id="7045" en="Addle" ja="アドル" />
-  <o id="7046" en="Luminohelix" ja="光門の計" />
-  <o id="7047" en="Hailstorm" ja="吹雪の陣" />
-  <o id="7048" en="Windstorm" ja="烈風の陣" />
-  <o id="7049" en="Voidstorm" ja="妖霧の陣" />
-  <o id="7050" en="Thunderstorm" ja="疾雷の陣" />
-  <o id="7051" en="Enfire" ja="エンファイア" />
-  <o id="7052" en="Firestorm" ja="熱波の陣" />
-  <o id="7053" en="Teleport-Yhoat" ja="テレポヨト" />
-  <o id="7054" en="Aurorastorm" ja="極光の陣" />
-  <o id="7055" en="Recall-Pashh" ja="リコールパシュ" />
-  <o id="7056" en="Recall-Meriph" ja="リコールメリファ" />
-  <o id="7057" en="Baramnesia" ja="バアムネジア" />
-  <o id="7058" en="Absorb-ACC" ja="アブゾアキュル" />
-  <o id="7059" en="Fire Spirit" ja="火精霊召喚" />
-  <o id="7060" en="Absorb-Attri" ja="アブゾアトリ" />
-  <o id="7061" en="Repose" ja="リポーズ" />
-  <o id="7062" en="Sacrifice" ja="サクリファイス" />
-  <o id="7063" en="Esuna" ja="エスナ" />
-  <o id="7064" en="Auspice" ja="オースピス" />
-  <o id="7065" en="Reprisal" ja="リアクト" />
+  <o id="6913" en="Protect" ja="プロテス" />
+  <o id="6914" en="Viruna" ja="ウィルナ" />
+  <o id="6915" en="Silence" ja="サイレス" />
+  <o id="6916" en="Barparalyze" ja="バパライズ" />
+  <o id="6917" en="Haste" ja="ヘイスト" />
+  <o id="6918" en="Slow" ja="スロウ" />
+  <o id="6919" en="Banishga" ja="バニシュガ" />
+  <o id="6920" en="Blink" ja="ブリンク" />
+  <o id="6921" en="Barblizzard" ja="バブリザ" />
+  <o id="6922" en="Diaga" ja="ディアガ" />
+  <o id="6923" en="Banish" ja="バニシュ" />
+  <o id="6924" en="Aquaveil" ja="アクアベール" />
+  <o id="6925" en="Baraero" ja="バエアロ" />
+  <o id="6926" en="Barstone" ja="バストン" />
+  <o id="6927" en="Barthunder" ja="バサンダ" />
+  <o id="6928" en="Barwater" ja="バウォタ" />
+  <o id="6929" en="Barfira" ja="バファイラ" />
+  <o id="6930" en="Barblizzara" ja="バブリザラ" />
+  <o id="6931" en="Baraera" ja="バエアロラ" />
+  <o id="6932" en="Barstonra" ja="バストンラ" />
+  <o id="6933" en="Barthundra" ja="バサンダラ" />
+  <o id="6934" en="Barwatera" ja="バウォタラ" />
+  <o id="6935" en="Teleport-Mea" ja="テレポメア" />
+  <o id="6936" en="Dia" ja="ディア" />
+  <o id="6937" en="Poisona" ja="ポイゾナ" />
+  <o id="6938" en="Paralyze" ja="パライズ" />
+  <o id="6939" en="Silena" ja="サイレナ" />
+  <o id="6940" en="Blind" ja="ブライン" />
+  <o id="6941" en="Quake" ja="クエイク" />
+  <o id="6942" en="Freeze" ja="フリーズ" />
+  <o id="6943" en="Flare" ja="フレア" />
+  <o id="6944" en="Escape" ja="エスケプ" />
+  <o id="6945" en="Tractor" ja="トラクタ" />
+  <o id="6946" en="Reraise" ja="リレイズ" />
+  <o id="6947" en="Protectra" ja="プロテア" />
+  <o id="6948" en="Curaga" ja="ケアルガ" />
+  <o id="6949" en="Paralyna" ja="パラナ" />
+  <o id="6950" en="Bio" ja="バイオ" />
+  <o id="6951" en="Cure" ja="ケアル" />
+  <o id="6952" en="Shock Spikes" ja="ショックスパイク" />
+  <o id="6953" en="Teleport-Holla" ja="テレポホラ" />
+  <o id="6954" en="Stoneskin" ja="ストンスキン" />
+  <o id="6955" en="Stona" ja="ストナ" />
+  <o id="6956" en="Warp" ja="デジョン" />
+  <o id="6957" en="Bind" ja="バインド" />
+  <o id="6958" en="Curse" ja="カーズ" />
+  <o id="6959" en="Drown" ja="ドラウン" />
+  <o id="6960" en="Waterga" ja="ウォタガ" />
+  <o id="6961" en="Teleport-Vahzl" ja="テレポヴァズ" />
+  <o id="6962" en="Teleport-Vahzl" ja="テレポヴァズ" />
+  <o id="6963" en="Deodorize" ja="デオード" />
+  <o id="6964" en="Sneak" ja="スニーク" />
+  <o id="6965" en="Invisible" ja="インビジ" />
+  <o id="6966" en="Refresh" ja="リフレシュ" />
+  <o id="6967" en="Regen" ja="リジェネ" />
+  <o id="6968" en="Shellra" ja="シェルラ" />
+  <o id="6969" en="Flood" ja="フラッド" />
+  <o id="6970" en="Thundaga" ja="サンダガ" />
+  <o id="6971" en="Tornado" ja="トルネド" />
+  <o id="6972" en="Aeroga" ja="エアロガ" />
+  <o id="6973" en="Poison" ja="ポイズン" />
+  <o id="6974" en="Raise" ja="レイズ" />
+  <o id="6975" en="Holy" ja="ホーリー" />
+  <o id="6976" en="Poisonga" ja="ポイゾガ" />
+  <o id="6977" en="Blindna" ja="ブライナ" />
+  <o id="6978" en="Gravity" ja="グラビデ" />
+  <o id="6979" en="Blizzaga" ja="ブリザガ" />
+  <o id="6980" en="Stonega" ja="ストンガ" />
+  <o id="6981" en="Enwater" ja="エンウォータ" />
+  <o id="6982" en="Barblindra" ja="バブライラ" />
+  <o id="6983" en="Barsilencera" ja="バサイレラ" />
+  <o id="6984" en="Barvira" ja="バウィルラ" />
+  <o id="6985" en="Enblizzard" ja="エンブリザド" />
+  <o id="6986" en="Barsleep" ja="バスリプル" />
+  <o id="6987" en="Enfire" ja="エンファイア" />
+  <o id="6988" en="Firaga" ja="ファイガ" />
+  <o id="6989" en="Water" ja="ウォータ" />
+  <o id="6990" en="Barparalyzra" ja="バパライラ" />
+  <o id="6991" en="Enthunder" ja="エンサンダー" />
+  <o id="6992" en="Barpetra" ja="バブレクラ" />
+  <o id="6993" en="Teleport-Dem" ja="テレポデム" />
+  <o id="6994" en="Fire" ja="ファイア" />
+  <o id="6995" en="Blizzard" ja="ブリザド" />
+  <o id="6996" en="Aero" ja="エアロ" />
+  <o id="6997" en="Rasp" ja="ラスプ" />
+  <o id="6998" en="Thunder" ja="サンダー" />
+  <o id="6999" en="Burst" ja="バースト" />
+  <o id="7000" en="Stone" ja="ストーン" />
+  <o id="7001" en="Enstone" ja="エンストーン" />
+  <o id="7002" en="Frost" ja="フロスト" />
+  <o id="7003" en="Stun" ja="スタン" />
+  <o id="7004" en="Burn" ja="バーン" />
+  <o id="7005" en="Ice Spikes" ja="アイススパイク" />
+  <o id="7006" en="Blaze Spikes" ja="ブレイズスパイク" />
+  <o id="7007" en="Aspir" ja="アスピル" />
+  <o id="7008" en="Drain" ja="ドレイン" />
+  <o id="7009" en="Barpoison" ja="バポイズン" />
+  <o id="7010" en="Choke" ja="チョーク" />
+  <o id="7011" en="Barfire" ja="バファイ" />
+  <o id="7012" en="Sleep" ja="スリプル" />
+  <o id="7013" en="Cursna" ja="カーズナ" />
+  <o id="7014" en="Shell" ja="シェル" />
+  <o id="7015" en="Barblind" ja="バブライン" />
+  <o id="7016" en="Barsilence" ja="バサイレス" />
+  <o id="7017" en="Barpetrify" ja="バブレイク" />
+  <o id="7018" en="Barvirus" ja="バウィルス" />
+  <o id="7019" en="Barsleepra" ja="バスリプラ" />
+  <o id="7020" en="Enaero" ja="エンエアロ" />
+  <o id="7021" en="Shock" ja="ショック" />
+  <o id="7022" en="Barpoisonra" ja="バポイゾラ" />
+  <o id="7023" en="Dispel" ja="ディスペル" />
+  <o id="7024" en="Erase" ja="イレース" />
+  <o id="7025" en="Phalanx" ja="ファランクス" />
+  <o id="7026" en="Teleport-Altep" ja="テレポルテ" />
+  <o id="7027" en="Teleport-Yhoat" ja="テレポヨト" />
+  <o id="7028" en="Flash" ja="フラッシュ" />
+  <o id="7029" en="Absorb-STR" ja="アブゾースト" />
+  <o id="7030" en="Absorb-DEX" ja="アブゾデック" />
+  <o id="7031" en="Absorb-VIT" ja="アブゾバイト" />
+  <o id="7032" en="Absorb-AGI" ja="アブゾアジル" />
+  <o id="7033" en="Absorb-INT" ja="アブゾイン" />
+  <o id="7034" en="Absorb-MND" ja="アブゾマイン" />
+  <o id="7035" en="Absorb-CHR" ja="アブゾカリス" />
+  <o id="7036" en="Absorb-TP" ja="アブゾタック" />
+  <o id="7037" en="Dread Spikes" ja="ドレッドスパイク" />
+  <o id="7038" en="Repose" ja="リポーズ" />
+  <o id="7039" en="Pyrohelix" ja="火門の計" />
+  <o id="7040" en="Hydrohelix" ja="水門の計" />
+  <o id="7041" en="Ionohelix" ja="雷門の計" />
+  <o id="7042" en="Cryohelix" ja="氷門の計" />
+  <o id="7043" en="Geohelix" ja="土門の計" />
+  <o id="7044" en="Anemohelix" ja="風門の計" />
+  <o id="7045" en="Luminohelix" ja="光門の計" />
+  <o id="7046" en="Noctohelix" ja="闇門の計" />
+  <o id="7047" en="Firestorm" ja="熱波の陣" />
+  <o id="7048" en="Rainstorm" ja="豪雨の陣" />
+  <o id="7049" en="Thunderstorm" ja="疾雷の陣" />
+  <o id="7050" en="Hailstorm" ja="吹雪の陣" />
+  <o id="7051" en="Sandstorm" ja="砂塵の陣" />
+  <o id="7052" en="Windstorm" ja="烈風の陣" />
+  <o id="7053" en="Aurorastorm" ja="極光の陣" />
+  <o id="7054" en="Voidstorm" ja="妖霧の陣" />
+  <o id="7055" en="Recall-Jugner" ja="リコールジャグ" />
+  <o id="7056" en="Recall-Pashh" ja="リコールパシュ" />
+  <o id="7057" en="Recall-Meriph" ja="リコールメリファ" />
+  <o id="7058" en="Retrace" ja="リトレース" />
+  <o id="7059" en="Klimaform" ja="虚誘掩殺の策" />
+  <o id="7060" en="Absorb-ACC" ja="アブゾアキュル" />
+  <o id="7061" en="Reprisal" ja="リアクト" />
+  <o id="7062" en="Cura" ja="ケアルラ" />
+  <o id="7063" en="Sacrifice" ja="サクリファイス" />
+  <o id="7064" en="Esuna" ja="エスナ" />
+  <o id="7065" en="Auspice" ja="オースピス" />
   <o id="7168" en="Songs" ja="ウタ" />
   <o id="7169" en="March (Song)" ja="マーチ" />
   <o id="7170" en="Elegy" ja="エレジー" />
@@ -2116,125 +2116,125 @@
   <o id="9487" en="legs" ja="両脚" />
   <o id="9488" en="feet" ja="両足" />
   <o id="9728" en="Blue Magic" ja="アオマホウ" />
-  <o id="9729" en="Metallic Body" ja="メタルボディ" />
-  <o id="9730" en="MP Drainkiss" ja="MP吸収キッス" />
-  <o id="9731" en="Sandspin" ja="土竜巻" />
-  <o id="9732" en="Bludgeon" ja="メッタ打ち" />
-  <o id="9733" en="Bludgeon" ja="メッタ打ち" />
-  <o id="9734" en="Ice Break" ja="アイスブレイク" />
-  <o id="9735" en="Ice Break" ja="アイスブレイク" />
-  <o id="9736" en="Blitzstrahl" ja="B.シュトラール" />
-  <o id="9737" en="Mysterious Light" ja="神秘の光" />
-  <o id="9738" en="Stinking Gas" ja="スティンキングガス" />
-  <o id="9739" en="Terror Touch" ja="テラータッチ" />
-  <o id="9740" en="Spinal Cleave" ja="スパイナルクリーブ" />
-  <o id="9741" en="Blood Saber" ja="ブラッドセイバー" />
-  <o id="9742" en="Digest" ja="消化" />
-  <o id="9743" en="Digest" ja="消化" />
-  <o id="9744" en="Mandibular Bite" ja="M.バイト" />
-  <o id="9745" en="Cursed Sphere" ja="カースドスフィア" />
-  <o id="9746" en="Sickle Slash" ja="シックルスラッシュ" />
-  <o id="9747" en="Cocoon" ja="コクーン" />
-  <o id="9748" en="Filamented Hold" ja="F.ホールド" />
-  <o id="9749" en="Pollen" ja="花粉" />
-  <o id="9750" en="Power Attack" ja="パワーアタック" />
-  <o id="9751" en="Death Scissors" ja="デスシザース" />
-  <o id="9752" en="Magnetite Cloud" ja="磁鉄粉" />
-  <o id="9753" en="Eyes On Me" ja="アイズオンミー" />
-  <o id="9754" en="Frenetic Rip" ja="F.リップ" />
-  <o id="9755" en="Frenetic Rip" ja="F.リップ" />
-  <o id="9756" en="Frightful Roar" ja="フライトフルロア" />
-  <o id="9757" en="Hecatomb Wave" ja="ヘカトンウェーブ" />
-  <o id="9758" en="Radiant Breath" ja="R.ブレス" />
-  <o id="9759" en="Helldive" ja="ヘルダイブ" />
-  <o id="9760" en="Helldive" ja="ヘルダイブ" />
-  <o id="9761" en="Jet Stream" ja="ジェットストリーム" />
-  <o id="9762" en="Sound Blast" ja="サウンドブラスト" />
-  <o id="9763" en="Jettatura" ja="ジェタチュラ" />
-  <o id="9764" en="Yawn" ja="ヤーン" />
-  <o id="9765" en="Wild Carrot" ja="ワイルドカロット" />
-  <o id="9766" en="Chaotic Eye" ja="カオティックアイ" />
-  <o id="9767" en="Chaotic Eye" ja="カオティックアイ" />
-  <o id="9768" en="Sheep Song" ja="シープソング" />
-  <o id="9769" en="Claw Cyclone" ja="クローサイクロン" />
-  <o id="9770" en="Lowing" ja="ロウイン" />
-  <o id="9771" en="Dimensional Death" ja="次元殺" />
-  <o id="9772" en="Dimensional Death" ja="次元殺" />
-  <o id="9773" en="Blank Gaze" ja="ブランクゲイズ" />
-  <o id="9774" en="Uppercut" ja="アッパーカット" />
-  <o id="9775" en="1000 Needles" ja="針千本" />
-  <o id="9776" en="Sprout Smack" ja="スプラウトスマック" />
-  <o id="9777" en="Soporific" ja="サペリフィック" />
-  <o id="9778" en="Queasyshroom" ja="マヨイタケ" />
-  <o id="9779" en="Wild Oats" ja="種まき" />
-  <o id="9780" en="Bad Breath" ja="臭い息" />
-  <o id="9781" en="Geist Wall" ja="ガイストウォール" />
-  <o id="9782" en="Frost Breath" ja="フロストブレス" />
-  <o id="9783" en="Disseverment" ja="ディセバーメント" />
-  <o id="9784" en="Actinic Burst" ja="A.バースト" />
-  <o id="9785" en="Saline Coat" ja="セイリーンコート" />
-  <o id="9786" en="Plasma Charge" ja="プラズマチャージ" />
-  <o id="9787" en="Vertical Cleave" ja="バーチカルクリーヴ" />
-  <o id="9788" en="Blastbomb" ja="炸裂弾" />
-  <o id="9789" en="Battle Dance" ja="バトルダンス" />
-  <o id="9790" en="Grand Slam" ja="グランドスラム" />
-  <o id="9791" en="Bomb Toss" ja="爆弾投げ" />
-  <o id="9792" en="Frypan" ja="フライパン" />
-  <o id="9793" en="Flying Hip Press" ja="F.ヒッププレス" />
-  <o id="9794" en="Hydro Shot" ja="ハイドロショット" />
-  <o id="9795" en="Diamondhide" ja="金剛身" />
-  <o id="9796" en="Enervation" ja="吶喊" />
-  <o id="9797" en="Light of Penance" ja="贖罪の光" />
-  <o id="9798" en="Tail Slap" ja="テールスラップ" />
-  <o id="9799" en="Hysteric Barrage" ja="H.バラージ" />
-  <o id="9800" en="Amplification" ja="ねたみ種" />
-  <o id="9801" en="Cannonball" ja="キャノンボール" />
-  <o id="9802" en="Exuviation" ja="イグジュビエーション" />
-  <o id="9803" en="Zephyr Mantle" ja="ゼファーマント" />
-  <o id="9804" en="Regurgitation" ja="リガージテーション" />
-  <o id="9805" en="jet-stream-attack" ja="." />
-  <o id="9806" en="jet-stream-attack" ja="." />
-  <o id="9807" en="jet-stream-attack" ja="." />
-  <o id="9808" en="Seedspray" ja="シードスプレー" />
-  <o id="9809" en="Corrosive Ooze" ja="コローシブウーズ" />
-  <o id="9810" en="Spiral Spin" ja="スパイラルスピン" />
-  <o id="9811" en="Asuran Claws" ja="アシュラクロー" />
-  <o id="9812" en="Sub-zero Smash" ja="サブゼロスマッシュ" />
-  <o id="9813" en="Sub-zero Smash" ja="サブゼロスマッシュ" />
-  <o id="9814" en="Triumphant Roar" ja="共鳴" />
-  <o id="9815" en="Blazing Bound" ja="ブレーズバウンド" />
-  <o id="9816" en="Plenilune Embrace" ja="P.エンブレイス" />
-  <o id="9817" en="Demoralizing Roar" ja="D.ロア" />
-  <o id="9818" en="Cimicine Discharge" ja="C.ディスチャージ" />
-  <o id="9819" en="Leafstorm" ja="リーフストーム" />
-  <o id="9820" en="Final Sting" ja="ファイナルスピア" />
-  <o id="9821" en="Goblin Rush" ja="ゴブリンラッシュ" />
-  <o id="9822" en="Goblin Rush" ja="ゴブリンラッシュ" />
-  <o id="9823" en="Magic Barrier" ja="マジックバリア" />
-  <o id="9824" en="Whirl of Rage" ja="怒りの旋風" />
-  <o id="9825" en="Benthic Typhoon" ja="ベンシクタイフーン" />
-  <o id="9826" en="Auroral Drape" ja="オーロラルドレープ" />
-  <o id="9827" en="Quad. Continuum" ja="四連突" />
-  <o id="9828" en="Fantod" ja="ファンタッド" />
-  <o id="9829" en="Thermal Pulse" ja="サーマルパルス" />
-  <o id="9830" en="Dream Flower" ja="夢想花" />
-  <o id="9831" en="Occultation" ja="オカルテーション" />
-  <o id="9832" en="Occultation" ja="オカルテーション" />
-  <o id="9833" en="Charged Whisker" ja="チャージドホイスカー" />
-  <o id="9834" en="Winds of Promy." ja="虚無の風" />
-  <o id="9835" en="Awful Eye" ja="アーフルアイ" />
-  <o id="9836" en="Head Butt" ja="ヘッドバット" />
-  <o id="9837" en="Delta Thrust" ja="デルタスラスト" />
-  <o id="9838" en="Evryone. Grudge" ja="みんなの怨み" />
-  <o id="9839" en="Reaving Wind" ja="リービンウィンド" />
-  <o id="9840" en="Barrier Tusk" ja="牙門" />
-  <o id="9841" en="Mortal Ray" ja="モータルレイ" />
-  <o id="9842" en="Heavy Strike" ja="重い一撃" />
-  <o id="9843" en="Dark Orb" ja="ダークオーブ" />
-  <o id="9844" en="White Wind" ja="ホワイトウィンド" />
-  <o id="9845" en="Sudden Lunge" ja="サドンランジ" />
-  <o id="9846" en="Quadrastrike" ja="クアドラストライク" />
-  <o id="9847" en="Vapor Spray" ja="ヴェイパースプレー" />
+  <o id="9729" en="Venom Shell" ja="ベノムシェル" />
+  <o id="9730" en="Maelstrom" ja="メイルシュトロム" />
+  <o id="9731" en="Metallic Body" ja="メタルボディ" />
+  <o id="9732" en="Screwdriver" ja="S.ドライバー" />
+  <o id="9733" en="Screwdriver" ja="S.ドライバー" />
+  <o id="9734" en="MP Drainkiss" ja="MP吸収キッス" />
+  <o id="9735" en="MP Drainkiss" ja="MP吸収キッス" />
+  <o id="9736" en="Death Ray" ja="デスレイ" />
+  <o id="9737" en="Sandspin" ja="土竜巻" />
+  <o id="9738" en="Smite of Rage" ja="怒りの一撃" />
+  <o id="9739" en="Bludgeon" ja="メッタ打ち" />
+  <o id="9740" en="Refueling" ja="リフュエリング" />
+  <o id="9741" en="Ice Break" ja="アイスブレイク" />
+  <o id="9742" en="Blitzstrahl" ja="B.シュトラール" />
+  <o id="9743" en="Blitzstrahl" ja="B.シュトラール" />
+  <o id="9744" en="Self-Destruct" ja="自爆" />
+  <o id="9745" en="Mysterious Light" ja="神秘の光" />
+  <o id="9746" en="Cold Wave" ja="コールドウェーブ" />
+  <o id="9747" en="Poison Breath" ja="ポイズンブレス" />
+  <o id="9748" en="Stinking Gas" ja="スティンキングガス" />
+  <o id="9749" en="Memento Mori" ja="メメントモーリ" />
+  <o id="9750" en="Terror Touch" ja="テラータッチ" />
+  <o id="9751" en="Spinal Cleave" ja="スパイナルクリーブ" />
+  <o id="9752" en="Blood Saber" ja="ブラッドセイバー" />
+  <o id="9753" en="Digest" ja="消化" />
+  <o id="9754" en="Mandibular Bite" ja="M.バイト" />
+  <o id="9755" en="Mandibular Bite" ja="M.バイト" />
+  <o id="9756" en="Cursed Sphere" ja="カースドスフィア" />
+  <o id="9757" en="Sickle Slash" ja="シックルスラッシュ" />
+  <o id="9758" en="Cocoon" ja="コクーン" />
+  <o id="9759" en="Filamented Hold" ja="F.ホールド" />
+  <o id="9760" en="Filamented Hold" ja="F.ホールド" />
+  <o id="9761" en="Pollen" ja="花粉" />
+  <o id="9762" en="Power Attack" ja="パワーアタック" />
+  <o id="9763" en="Death Scissors" ja="デスシザース" />
+  <o id="9764" en="Magnetite Cloud" ja="磁鉄粉" />
+  <o id="9765" en="Eyes On Me" ja="アイズオンミー" />
+  <o id="9766" en="Frenetic Rip" ja="F.リップ" />
+  <o id="9767" en="Frenetic Rip" ja="F.リップ" />
+  <o id="9768" en="Frightful Roar" ja="フライトフルロア" />
+  <o id="9769" en="Hecatomb Wave" ja="ヘカトンウェーブ" />
+  <o id="9770" en="Body Slam" ja="ボディプレス" />
+  <o id="9771" en="Radiant Breath" ja="R.ブレス" />
+  <o id="9772" en="Radiant Breath" ja="R.ブレス" />
+  <o id="9773" en="Helldive" ja="ヘルダイブ" />
+  <o id="9774" en="Jet Stream" ja="ジェットストリーム" />
+  <o id="9775" en="Blood Drain" ja="吸血" />
+  <o id="9776" en="Sound Blast" ja="サウンドブラスト" />
+  <o id="9777" en="Feather Tickle" ja="フェザーティックル" />
+  <o id="9778" en="Feather Barrier" ja="フェザーバリア" />
+  <o id="9779" en="Jettatura" ja="ジェタチュラ" />
+  <o id="9780" en="Yawn" ja="ヤーン" />
+  <o id="9781" en="Foot Kick" ja="フットキック" />
+  <o id="9782" en="Voracious Trunk" ja="吸印" />
+  <o id="9783" en="Healing Breeze" ja="いやしの風" />
+  <o id="9784" en="Chaotic Eye" ja="カオティックアイ" />
+  <o id="9785" en="Sheep Song" ja="シープソング" />
+  <o id="9786" en="Ram Charge" ja="ラムチャージ" />
+  <o id="9787" en="Claw Cyclone" ja="クローサイクロン" />
+  <o id="9788" en="Lowing" ja="ロウイン" />
+  <o id="9789" en="Dimensional Death" ja="次元殺" />
+  <o id="9790" en="Heat Breath" ja="火炎の息" />
+  <o id="9791" en="Magic Fruit" ja="マジックフルーツ" />
+  <o id="9792" en="Uppercut" ja="アッパーカット" />
+  <o id="9793" en="1000 Needles" ja="針千本" />
+  <o id="9794" en="Pinecone Bomb" ja="まつぼっくり爆弾" />
+  <o id="9795" en="Sprout Smack" ja="スプラウトスマック" />
+  <o id="9796" en="Soporific" ja="サペリフィック" />
+  <o id="9797" en="Queasyshroom" ja="マヨイタケ" />
+  <o id="9798" en="Wild Oats" ja="種まき" />
+  <o id="9799" en="Bad Breath" ja="臭い息" />
+  <o id="9800" en="Geist Wall" ja="ガイストウォール" />
+  <o id="9801" en="Awful Eye" ja="アーフルアイ" />
+  <o id="9802" en="Frost Breath" ja="フロストブレス" />
+  <o id="9803" en="Infrasonics" ja="超低周波" />
+  <o id="9804" en="Disseverment" ja="ディセバーメント" />
+  <o id="9805" en="Actinic Burst" ja="A.バースト" />
+  <o id="9806" en="Actinic Burst" ja="A.バースト" />
+  <o id="9807" en="Actinic Burst" ja="A.バースト" />
+  <o id="9808" en="Reactor Cool" ja="反応炉冷却" />
+  <o id="9809" en="Saline Coat" ja="セイリーンコート" />
+  <o id="9810" en="Plasma Charge" ja="プラズマチャージ" />
+  <o id="9811" en="Temporal Shift" ja="テンポラルシフト" />
+  <o id="9812" en="Vertical Cleave" ja="バーチカルクリーヴ" />
+  <o id="9813" en="Vertical Cleave" ja="バーチカルクリーヴ" />
+  <o id="9814" en="Blastbomb" ja="炸裂弾" />
+  <o id="9815" en="Battle Dance" ja="バトルダンス" />
+  <o id="9816" en="Sandspray" ja="サンドスプレー" />
+  <o id="9817" en="Grand Slam" ja="グランドスラム" />
+  <o id="9818" en="Head Butt" ja="ヘッドバット" />
+  <o id="9819" en="Bomb Toss" ja="爆弾投げ" />
+  <o id="9820" en="Frypan" ja="フライパン" />
+  <o id="9821" en="Flying Hip Press" ja="F.ヒッププレス" />
+  <o id="9822" en="Flying Hip Press" ja="F.ヒッププレス" />
+  <o id="9823" en="Hydro Shot" ja="ハイドロショット" />
+  <o id="9824" en="Diamondhide" ja="金剛身" />
+  <o id="9825" en="Enervation" ja="吶喊" />
+  <o id="9826" en="Light of Penance" ja="贖罪の光" />
+  <o id="9827" en="Warm-Up" ja="ワームアップ" />
+  <o id="9828" en="Firespit" ja="ファイアースピット" />
+  <o id="9829" en="Feather Storm" ja="羽根吹雪" />
+  <o id="9830" en="Tail Slap" ja="テールスラップ" />
+  <o id="9831" en="Hysteric Barrage" ja="H.バラージ" />
+  <o id="9832" en="Hysteric Barrage" ja="H.バラージ" />
+  <o id="9833" en="Amplification" ja="ねたみ種" />
+  <o id="9834" en="Cannonball" ja="キャノンボール" />
+  <o id="9835" en="Wild Carrot" ja="ワイルドカロット" />
+  <o id="9836" en="Blank Gaze" ja="ブランクゲイズ" />
+  <o id="9837" en="Mind Blast" ja="マインドブラスト" />
+  <o id="9838" en="Exuviation" ja="イグジュビエーション" />
+  <o id="9839" en="Magic Hammer" ja="マジックハンマー" />
+  <o id="9840" en="Zephyr Mantle" ja="ゼファーマント" />
+  <o id="9841" en="Regurgitation" ja="リガージテーション" />
+  <o id="9842" en="Seedspray" ja="シードスプレー" />
+  <o id="9843" en="Corrosive Ooze" ja="コローシブウーズ" />
+  <o id="9844" en="Spiral Spin" ja="スパイラルスピン" />
+  <o id="9845" en="Asuran Claws" ja="アシュラクロー" />
+  <o id="9846" en="Sub-zero Smash" ja="サブゼロスマッシュ" />
+  <o id="9847" en="Triumphant Roar" ja="共鳴" />
   <o id="9984" en="Place Names 2" ja="チメイ２" />
   <o id="9985" en="Rossweisse's Chamber" ja="ロスヴァイセの間" />
   <o id="9986" en="Rossweisse's Chamber" ja="ロスヴァイセの間" />
