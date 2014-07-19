@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <buffs>
-  <o id="0" en="KO" enl="KO'd" ja="戦闘不能" jal="戦闘不能" duration="3600" />
-  <o id="1" en="weakness" enl="weakened" ja="衰弱" jal="衰弱" duration="300" />
+  <o id="0" en="KO" enl="KO'd" ja="戦闘不能" jal="戦闘不能" />
+  <o id="1" en="weakness" enl="weakened" ja="衰弱" jal="衰弱" />
   <o id="2" en="sleep" enl="asleep" ja="睡眠" jal="睡眠" />
   <o id="3" en="poison" enl="poisoned" ja="毒" jal="毒" />
   <o id="4" en="paralysis" enl="paralyzed" ja="麻痺" jal="麻痺" />
@@ -32,93 +32,93 @@
   <o id="29" en="mute" enl="muted" ja="沈黙" jal="沈黙" />
   <o id="30" en="bane" enl="baned" ja="呪詛" jal="呪詛" />
   <o id="31" en="plague" enl="plagued" ja="悪疫" jal="悪疫" />
-  <o id="32" en="Flee" enl="fleeing" ja="とんずら" jal="とんずら" duration="30" />
-  <o id="33" en="Haste" enl="hastened" ja="ヘイスト" jal="ヘイスト" duration="180" />
-  <o id="34" en="Blaze Spikes" enl="Blaze Spikes" ja="ブレイズスパイク" jal="ブレイズスパイク" duration="180" />
-  <o id="35" en="Ice Spikes" enl="Ice Spikes" ja="アイススパイク" jal="アイススパイク" duration="180" />
-  <o id="36" en="Blink" enl="Blink" ja="ブリンク" jal="ブリンク" duration="300" />
-  <o id="37" en="Stoneskin" enl="Stoneskin" ja="ストンスキン" jal="ストンスキン" duration="300" />
-  <o id="38" en="Shock Spikes" enl="Shock Spikes" ja="ショックスパイク" jal="ショックスパイク" duration="180" />
-  <o id="39" en="Aquaveil" enl="Aquaveil" ja="アクアベール" jal="アクアベール" duration="300" />
-  <o id="40" en="Protect" enl="Protect" ja="プロテス" jal="プロテス" duration="1800" />
-  <o id="41" en="Shell" enl="Shell" ja="シェル" jal="シェル" duration="1800" />
-  <o id="42" en="Regen" enl="regenerating" ja="リジェネ" jal="リジェネ" duration="75" />
-  <o id="43" en="Refresh" enl="refreshing" ja="リフレシュ" jal="リフレシュ" duration="150" />
-  <o id="44" en="Mighty Strikes" enl="Mighty Strikes" ja="マイティストライク" jal="マイティストライク" duration="45" />
-  <o id="45" en="Boost" enl="Boost" ja="ためる" jal="ためる" duration="180" />
-  <o id="46" en="Hundred Fists" enl="Hundred Fists" ja="百烈拳" jal="百烈拳" duration="45" />
-  <o id="47" en="Manafont" enl="Manafont" ja="魔力の泉" jal="魔力の泉" duration="60" />
-  <o id="48" en="Chainspell" enl="Chainspell" ja="連続魔" jal="連続魔" duration="60" />
-  <o id="49" en="Perfect Dodge" enl="Perfect Dodge" ja="絶対回避" jal="絶対回避" duration="30" />
-  <o id="50" en="Invincible" enl="Invincible" ja="インビンシブル" jal="インビンシブル" duration="30" />
-  <o id="51" en="Blood Weapon" enl="Blood Weapon" ja="ブラッドウェポン" jal="ブラッドウェポン" duration="30" />
-  <o id="52" en="Soul Voice" enl="Soul Voice" ja="ソウルボイス" jal="ソウルボイス" duration="180" />
+  <o id="32" en="Flee" enl="fleeing" ja="とんずら" jal="とんずら" />
+  <o id="33" en="Haste" enl="hastened" ja="ヘイスト" jal="ヘイスト" />
+  <o id="34" en="Blaze Spikes" enl="Blaze Spikes" ja="ブレイズスパイク" jal="ブレイズスパイク" />
+  <o id="35" en="Ice Spikes" enl="Ice Spikes" ja="アイススパイク" jal="アイススパイク" />
+  <o id="36" en="Blink" enl="Blink" ja="ブリンク" jal="ブリンク" />
+  <o id="37" en="Stoneskin" enl="Stoneskin" ja="ストンスキン" jal="ストンスキン" />
+  <o id="38" en="Shock Spikes" enl="Shock Spikes" ja="ショックスパイク" jal="ショックスパイク" />
+  <o id="39" en="Aquaveil" enl="Aquaveil" ja="アクアベール" jal="アクアベール" />
+  <o id="40" en="Protect" enl="Protect" ja="プロテス" jal="プロテス" />
+  <o id="41" en="Shell" enl="Shell" ja="シェル" jal="シェル" />
+  <o id="42" en="Regen" enl="regenerating" ja="リジェネ" jal="リジェネ" />
+  <o id="43" en="Refresh" enl="refreshing" ja="リフレシュ" jal="リフレシュ" />
+  <o id="44" en="Mighty Strikes" enl="Mighty Strikes" ja="マイティストライク" jal="マイティストライク" />
+  <o id="45" en="Boost" enl="Boost" ja="ためる" jal="ためる" />
+  <o id="46" en="Hundred Fists" enl="Hundred Fists" ja="百烈拳" jal="百烈拳" />
+  <o id="47" en="Manafont" enl="Manafont" ja="魔力の泉" jal="魔力の泉" />
+  <o id="48" en="Chainspell" enl="Chainspell" ja="連続魔" jal="連続魔" />
+  <o id="49" en="Perfect Dodge" enl="Perfect Dodge" ja="絶対回避" jal="絶対回避" />
+  <o id="50" en="Invincible" enl="Invincible" ja="インビンシブル" jal="インビンシブル" />
+  <o id="51" en="Blood Weapon" enl="Blood Weapon" ja="ブラッドウェポン" jal="ブラッドウェポン" />
+  <o id="52" en="Soul Voice" enl="Soul Voice" ja="ソウルボイス" jal="ソウルボイス" />
   <o id="53" en="Eagle Eye Shot" enl="Eagle Eye Shot" ja="イーグルアイ" jal="イーグルアイ" />
-  <o id="54" en="Meikyo Shisui" enl="Meikyo Shisui" ja="明鏡止水" jal="明鏡止水" duration="30" />
-  <o id="55" en="Astral Flow" enl="Astral Flow" ja="アストラルフロウ" jal="アストラルフロウ" duration="180" />
-  <o id="56" en="Berserk" enl="Berserk" ja="バーサク" jal="バーサク" duration="180" />
-  <o id="57" en="Defender" enl="Defender" ja="ディフェンダー" jal="ディフェンダー" duration="180" />
-  <o id="58" en="Aggressor" enl="Aggressor" ja="アグレッサー" jal="アグレッサー" duration="180" />
-  <o id="59" en="Focus" enl="Focus" ja="集中" jal="集中" duration="120" />
-  <o id="60" en="Dodge" enl="Dodge" ja="回避" jal="回避" duration="120" />
-  <o id="61" en="Counterstance" enl="Counterstance" ja="かまえる" jal="かまえる" duration="300" />
-  <o id="62" en="Sentinel" enl="Sentinel" ja="センチネル" jal="センチネル" duration="30" />
-  <o id="63" en="Souleater" enl="Souleater" ja="暗黒" jal="暗黒" duration="60" />
-  <o id="64" en="Last Resort" enl="Last Resort" ja="ラストリゾート" jal="ラストリゾート" duration="180" />
-  <o id="65" en="Sneak Attack" enl="Sneak Attack" ja="不意打ち" jal="不意打ち" duration="60" />
+  <o id="54" en="Meikyo Shisui" enl="Meikyo Shisui" ja="明鏡止水" jal="明鏡止水" />
+  <o id="55" en="Astral Flow" enl="Astral Flow" ja="アストラルフロウ" jal="アストラルフロウ" />
+  <o id="56" en="Berserk" enl="Berserk" ja="バーサク" jal="バーサク" />
+  <o id="57" en="Defender" enl="Defender" ja="ディフェンダー" jal="ディフェンダー" />
+  <o id="58" en="Aggressor" enl="Aggressor" ja="アグレッサー" jal="アグレッサー" />
+  <o id="59" en="Focus" enl="Focus" ja="集中" jal="集中" />
+  <o id="60" en="Dodge" enl="Dodge" ja="回避" jal="回避" />
+  <o id="61" en="Counterstance" enl="Counterstance" ja="かまえる" jal="かまえる" />
+  <o id="62" en="Sentinel" enl="Sentinel" ja="センチネル" jal="センチネル" />
+  <o id="63" en="Souleater" enl="Souleater" ja="暗黒" jal="暗黒" />
+  <o id="64" en="Last Resort" enl="Last Resort" ja="ラストリゾート" jal="ラストリゾート" />
+  <o id="65" en="Sneak Attack" enl="Sneak Attack" ja="不意打ち" jal="不意打ち" />
   <o id="66" en="Copy Image" enl="Copy Image" ja="分身" jal="分身" />
-  <o id="67" en="Third Eye" enl="Third Eye" ja="心眼" jal="心眼" duration="30" />
-  <o id="68" en="Warcry" enl="Warcry" ja="ウォークライ" jal="ウォークライ" duration="30" />
-  <o id="69" en="Invisible" enl="Invisible" ja="インビジ" jal="インビジ" duration="300" />
-  <o id="70" en="Deodorize" enl="Deodorize" ja="デオード" jal="デオード" duration="300" />
-  <o id="71" en="Sneak" enl="Sneak" ja="スニーク" jal="スニーク" duration="300" />
-  <o id="72" en="Sharpshot" enl="Sharpshot" ja="狙い撃ち" jal="狙い撃ち" duration="60" />
-  <o id="73" en="Barrage" enl="Barrage" ja="乱れ撃ち" jal="乱れ撃ち" duration="60" />
-  <o id="74" en="Holy Circle" enl="Holy Circle" ja="ホーリーサークル" jal="ホーリーサークル" duration="180" />
-  <o id="75" en="Arcane Circle" enl="Arcane Circle" ja="アルケインサークル" jal="アルケインサークル" duration="180" />
+  <o id="67" en="Third Eye" enl="Third Eye" ja="心眼" jal="心眼" />
+  <o id="68" en="Warcry" enl="Warcry" ja="ウォークライ" jal="ウォークライ" />
+  <o id="69" en="Invisible" enl="Invisible" ja="インビジ" jal="インビジ" />
+  <o id="70" en="Deodorize" enl="Deodorize" ja="デオード" jal="デオード" />
+  <o id="71" en="Sneak" enl="Sneak" ja="スニーク" jal="スニーク" />
+  <o id="72" en="Sharpshot" enl="Sharpshot" ja="狙い撃ち" jal="狙い撃ち" />
+  <o id="73" en="Barrage" enl="Barrage" ja="乱れ撃ち" jal="乱れ撃ち" />
+  <o id="74" en="Holy Circle" enl="Holy Circle" ja="ホーリーサークル" jal="ホーリーサークル" />
+  <o id="75" en="Arcane Circle" enl="Arcane Circle" ja="アルケインサークル" jal="アルケインサークル" />
   <o id="76" en="Hide" enl="hiding" ja="かくれる" jal="かくれる" />
   <o id="77" en="Camouflage" enl="camouflaged" ja="カモフラージュ" jal="カモフラージュ" />
-  <o id="78" en="Divine Seal" enl="Divine Seal" ja="女神の印" jal="女神の印" duration="60" />
-  <o id="79" en="Elemental Seal" enl="Elemental Seal" ja="精霊の印" jal="精霊の印" duration="60" />
-  <o id="80" en="STR Boost" enl="STR-boosted" ja="STRアップ" jal="STRアップ" duration="300" />
-  <o id="81" en="DEX Boost" enl="DEX-boosted" ja="DEXアップ" jal="DEXアップ" duration="300" />
-  <o id="82" en="VIT Boost" enl="VIT-boosted" ja="VITアップ" jal="VITアップ" duration="300" />
-  <o id="83" en="AGI Boost" enl="AGI-boosted" ja="AGIアップ" jal="AGIアップ" duration="300" />
-  <o id="84" en="INT Boost" enl="INT-boosted" ja="INTアップ" jal="INTアップ" duration="300" />
-  <o id="85" en="MND Boost" enl="MND-boosted" ja="MNDアップ" jal="MNDアップ" duration="300" />
-  <o id="86" en="CHR Boost" enl="CHR-boosted" ja="CHRアップ" jal="CHRアップ" duration="300" />
-  <o id="87" en="Trick Attack" enl="Trick Attack" ja="だまし討ち" jal="だまし討ち" duration="60" />
+  <o id="78" en="Divine Seal" enl="Divine Seal" ja="女神の印" jal="女神の印" />
+  <o id="79" en="Elemental Seal" enl="Elemental Seal" ja="精霊の印" jal="精霊の印" />
+  <o id="80" en="STR Boost" enl="STR-boosted" ja="STRアップ" jal="STRアップ" />
+  <o id="81" en="DEX Boost" enl="DEX-boosted" ja="DEXアップ" jal="DEXアップ" />
+  <o id="82" en="VIT Boost" enl="VIT-boosted" ja="VITアップ" jal="VITアップ" />
+  <o id="83" en="AGI Boost" enl="AGI-boosted" ja="AGIアップ" jal="AGIアップ" />
+  <o id="84" en="INT Boost" enl="INT-boosted" ja="INTアップ" jal="INTアップ" />
+  <o id="85" en="MND Boost" enl="MND-boosted" ja="MNDアップ" jal="MNDアップ" />
+  <o id="86" en="CHR Boost" enl="CHR-boosted" ja="CHRアップ" jal="CHRアップ" />
+  <o id="87" en="Trick Attack" enl="Trick Attack" ja="だまし討ち" jal="だまし討ち" />
   <o id="88" en="Max HP Boost" enl="Max HP-boosted" ja="HPmaxアップ" jal="HPmaxアップ" />
   <o id="89" en="Max MP Boost" enl="Max MP-boosted" ja="MPmaxアップ" jal="MPmaxアップ" />
   <o id="90" en="Accuracy Boost" enl="accuracy-boosted" ja="命中率アップ" jal="命中率アップ" />
   <o id="91" en="Attack Boost" enl="attack-boosted" ja="攻撃力アップ" jal="攻撃力アップ" />
   <o id="92" en="Evasion Boost" enl="evasion-boosted" ja="回避率アップ" jal="回避率アップ" />
   <o id="93" en="Defense Boost" enl="defense-boosted" ja="防御力アップ" jal="防御力アップ" />
-  <o id="94" en="Enfire" enl="Enfire" ja="エンファイア" jal="エンファイア" duration="180" />
-  <o id="95" en="Enblizzard" enl="Enblizzard" ja="エンブリザド" jal="エンブリザド" duration="180" />
-  <o id="96" en="Enaero" enl="Enaero" ja="エンエアロ" jal="エンエアロ" duration="180" />
-  <o id="97" en="Enstone" enl="Enstone" ja="エンストーン" jal="エンストーン" duration="180" />
-  <o id="98" en="Enthunder" enl="Enthunder" ja="エンサンダー" jal="エンサンダー" duration="180" />
-  <o id="99" en="Enwater" enl="Enwater" ja="エンウォータ" jal="エンウォータ" duration="180" />
-  <o id="100" en="Barfire" enl="Barfire" ja="バファイ" jal="バファイ" duration="150" />
-  <o id="101" en="Barblizzard" enl="Barblizzard" ja="バブリザ" jal="バブリザ" duration="150" />
-  <o id="102" en="Baraero" enl="Baraero" ja="バエアロ" jal="バエアロ" duration="150" />
-  <o id="103" en="Barstone" enl="Barstone" ja="バストン" jal="バストン" duration="150" />
-  <o id="104" en="Barthunder" enl="Barthunder" ja="バサンダ" jal="バサンダ" duration="150" />
-  <o id="105" en="Barwater" enl="Barwater" ja="バウォタ" jal="バウォタ" duration="150" />
-  <o id="106" en="Barsleep" enl="Barsleep" ja="バスリプル" jal="バスリプル" duration="480" />
-  <o id="107" en="Barpoison" enl="Barpoison" ja="バポイズン" jal="バポイズン" duration="480" />
-  <o id="108" en="Barparalyze" enl="Barparalyze" ja="バパライズ" jal="バパライズ" duration="480" />
-  <o id="109" en="Barblind" enl="Barblind" ja="バブライン" jal="バブライン" duration="480" />
-  <o id="110" en="Barsilence" enl="Barsilence" ja="バサイレス" jal="バサイレス" duration="480" />
-  <o id="111" en="Barpetrify" enl="Barpetrify" ja="バブレイク" jal="バブレイク" duration="480" />
-  <o id="112" en="Barvirus" enl="Barvirus" ja="バウィルス" jal="バウィルス" duration="480" />
-  <o id="113" en="Reraise" enl="Reraise" ja="リレイズ" jal="リレイズ" duration="3600" />
-  <o id="114" en="Cover" enl="Cover" ja="かばう" jal="かばう" duration="15" />
-  <o id="115" en="Unlimited Shot" enl="Unlimited Shot" ja="エンドレスショット" jal="エンドレスショット" duration="60" />
-  <o id="116" en="Phalanx" enl="Phalanx" ja="ファランクス" jal="ファランクス" duration="180" />
-  <o id="117" en="Warding Circle" enl="Warding Circle" ja="護摩の守護円" jal="護摩の守護円" duration="180" />
-  <o id="118" en="Ancient Circle" enl="Ancient Circle" ja="エンシェントサークル" jal="エンシェントサークル" duration="180" />
+  <o id="94" en="Enfire" enl="Enfire" ja="エンファイア" jal="エンファイア" />
+  <o id="95" en="Enblizzard" enl="Enblizzard" ja="エンブリザド" jal="エンブリザド" />
+  <o id="96" en="Enaero" enl="Enaero" ja="エンエアロ" jal="エンエアロ" />
+  <o id="97" en="Enstone" enl="Enstone" ja="エンストーン" jal="エンストーン" />
+  <o id="98" en="Enthunder" enl="Enthunder" ja="エンサンダー" jal="エンサンダー" />
+  <o id="99" en="Enwater" enl="Enwater" ja="エンウォータ" jal="エンウォータ" />
+  <o id="100" en="Barfire" enl="Barfire" ja="バファイ" jal="バファイ" />
+  <o id="101" en="Barblizzard" enl="Barblizzard" ja="バブリザ" jal="バブリザ" />
+  <o id="102" en="Baraero" enl="Baraero" ja="バエアロ" jal="バエアロ" />
+  <o id="103" en="Barstone" enl="Barstone" ja="バストン" jal="バストン" />
+  <o id="104" en="Barthunder" enl="Barthunder" ja="バサンダ" jal="バサンダ" />
+  <o id="105" en="Barwater" enl="Barwater" ja="バウォタ" jal="バウォタ" />
+  <o id="106" en="Barsleep" enl="Barsleep" ja="バスリプル" jal="バスリプル" />
+  <o id="107" en="Barpoison" enl="Barpoison" ja="バポイズン" jal="バポイズン" />
+  <o id="108" en="Barparalyze" enl="Barparalyze" ja="バパライズ" jal="バパライズ" />
+  <o id="109" en="Barblind" enl="Barblind" ja="バブライン" jal="バブライン" />
+  <o id="110" en="Barsilence" enl="Barsilence" ja="バサイレス" jal="バサイレス" />
+  <o id="111" en="Barpetrify" enl="Barpetrify" ja="バブレイク" jal="バブレイク" />
+  <o id="112" en="Barvirus" enl="Barvirus" ja="バウィルス" jal="バウィルス" />
+  <o id="113" en="Reraise" enl="Reraise" ja="リレイズ" jal="リレイズ" />
+  <o id="114" en="Cover" enl="Cover" ja="かばう" jal="かばう" />
+  <o id="115" en="Unlimited Shot" enl="Unlimited Shot" ja="エンドレスショット" jal="エンドレスショット" />
+  <o id="116" en="Phalanx" enl="Phalanx" ja="ファランクス" jal="ファランクス" />
+  <o id="117" en="Warding Circle" enl="Warding Circle" ja="護摩の守護円" jal="護摩の守護円" />
+  <o id="118" en="Ancient Circle" enl="Ancient Circle" ja="エンシェントサークル" jal="エンシェントサークル" />
   <o id="119" en="STR Boost" enl="STR-boosted" ja="STRアップ" jal="STRアップ" />
   <o id="120" en="DEX Boost" enl="DEX-boosted" ja="DEXアップ" jal="DEXアップ" />
   <o id="121" en="VIT Boost" enl="VIT-boosted" ja="VITアップ" jal="VITアップ" />
@@ -126,7 +126,7 @@
   <o id="123" en="INT Boost" enl="INT-boosted" ja="INTアップ" jal="INTアップ" />
   <o id="124" en="MND Boost" enl="MND-boosted" ja="MNDアップ" jal="MNDアップ" />
   <o id="125" en="CHR Boost" enl="CHR-boosted" ja="CHRアップ" jal="CHRアップ" />
-  <o id="126" en="Spirit Surge" enl="Spirit Surge" ja="竜剣" jal="竜剣" duration="60" />
+  <o id="126" en="Spirit Surge" enl="Spirit Surge" ja="竜剣" jal="竜剣" />
   <o id="127" en="Costume" enl="Costume" ja="コスチューム" jal="コスチューム" />
   <o id="128" en="Burn" enl="afflicted with Burn" ja="バーン" jal="バーン" />
   <o id="129" en="Frost" enl="afflicted with Frost" ja="フロスト" jal="フロスト" />
@@ -154,7 +154,7 @@
   <o id="151" en="Arrow Shield" enl="Arrow Shield" ja="遠隔物理バリア" jal="遠隔物理バリア" />
   <o id="152" en="Magic Shield" enl="Magic Shield" ja="魔法バリア" jal="魔法バリア" />
   <o id="153" en="Damage Spikes" enl="Damage Spikes" ja="ダメージスパイク" jal="ダメージスパイク" />
-  <o id="154" en="Shining Ruby" enl="Shining Ruby" ja="ルビーの輝き" jal="ルビーの輝き" duration="180" />
+  <o id="154" en="Shining Ruby" enl="Shining Ruby" ja="ルビーの輝き" jal="ルビーの輝き" />
   <o id="155" en="medicine" enl="medicated" ja="服薬中" jal="服薬中" />
   <o id="156" en="Flash" enl="afflicted with Flash" ja="フラッシュ" jal="フラッシュ" />
   <o id="157" en="SJ Restriction" enl="SJ Restriction" ja="サポートジョブ無効" jal="サポートジョブ無効" />
@@ -164,28 +164,28 @@
   <o id="161" en="Sprint" enl="Sprint" ja="スプリント" jal="スプリント" />
   <o id="162" en="enchantment" enl="enchanted" ja="エンチャント" jal="エンチャント" />
   <o id="163" en="Azure Lore" enl="Azure Lore" ja="アジュールロー" jal="アジュールロー" />
-  <o id="164" en="Chain Affinity" enl="Chain Affinity" ja="ブルーチェーン" jal="ブルーチェーン" duration="30" />
-  <o id="165" en="Burst Affinity" enl="Burst Affinity" ja="ブルーバースト" jal="ブルーバースト" duration="30" />
+  <o id="164" en="Chain Affinity" enl="Chain Affinity" ja="ブルーチェーン" jal="ブルーチェーン" />
+  <o id="165" en="Burst Affinity" enl="Burst Affinity" ja="ブルーバースト" jal="ブルーバースト" />
   <o id="166" en="Overdrive" enl="Overdrive" ja="オーバードライヴ" jal="オーバードライヴ" />
   <o id="167" en="Magic Def. Down" enl="Magic Def. Down" ja="魔法防御力ダウン" jal="魔法防御力ダウン" />
   <o id="168" en="Inhibit TP" enl="TP-inhibited" ja="インヒビットTP" jal="インヒビットTP" />
-  <o id="169" en="Potency" enl="Potency" ja="ポテンシー" jal="ポテンシー" duration="60" />
-  <o id="170" en="Regain" enl="Regain" ja="リゲイン" jal="リゲイン" duration="180" />
-  <o id="171" en="Pax" enl="Pax" ja="パクス" jal="パクス" duration="60" />
+  <o id="169" en="Potency" enl="Potency" ja="ポテンシー" jal="ポテンシー" />
+  <o id="170" en="Regain" enl="Regain" ja="リゲイン" jal="リゲイン" />
+  <o id="171" en="Pax" enl="Pax" ja="パクス" jal="パクス" />
   <o id="172" en="Intension" enl="Intension" ja="インテンション" jal="インテンション" />
-  <o id="173" en="Dread Spikes" enl="Dread Spikes" ja="ドレッドスパイク" jal="ドレッドスパイク" duration="60" />
+  <o id="173" en="Dread Spikes" enl="Dread Spikes" ja="ドレッドスパイク" jal="ドレッドスパイク" />
   <o id="174" en="Magic Acc. Down" enl="Magic Acc. Down" ja="魔法命中率ダウン" jal="魔法命中率ダウン" />
   <o id="175" en="Magic Atk. Down" enl="Magic Atk. Down" ja="魔法攻撃力ダウン" jal="魔法攻撃力ダウン" />
   <o id="176" en="quickening" enl="quickened" ja="移動速度アップ" jal="移動速度アップ" />
   <o id="177" en="encumbrance" enl="encumbered" ja="装備変更不可" jal="装備変更不可" />
-  <o id="178" en="Firestorm" enl="Firestorm" ja="熱波の陣" jal="熱波の陣" duration="180" />
-  <o id="179" en="Hailstorm" enl="Hailstorm" ja="吹雪の陣" jal="吹雪の陣" duration="180" />
-  <o id="180" en="Windstorm" enl="Windstorm" ja="烈風の陣" jal="烈風の陣" duration="180" />
-  <o id="181" en="Sandstorm" enl="Sandstorm" ja="砂塵の陣" jal="砂塵の陣" duration="180" />
-  <o id="182" en="Thunderstorm" enl="Thunderstorm" ja="疾雷の陣" jal="疾雷の陣" duration="180" />
-  <o id="183" en="Rainstorm" enl="Rainstorm" ja="豪雨の陣" jal="豪雨の陣" duration="180" />
-  <o id="184" en="Aurorastorm" enl="Aurorastorm" ja="極光の陣" jal="極光の陣" duration="180" />
-  <o id="185" en="Voidstorm" enl="Voidstorm" ja="妖霧の陣" jal="妖霧の陣" duration="180" />
+  <o id="178" en="Firestorm" enl="Firestorm" ja="熱波の陣" jal="熱波の陣" />
+  <o id="179" en="Hailstorm" enl="Hailstorm" ja="吹雪の陣" jal="吹雪の陣" />
+  <o id="180" en="Windstorm" enl="Windstorm" ja="烈風の陣" jal="烈風の陣" />
+  <o id="181" en="Sandstorm" enl="Sandstorm" ja="砂塵の陣" jal="砂塵の陣" />
+  <o id="182" en="Thunderstorm" enl="Thunderstorm" ja="疾雷の陣" jal="疾雷の陣" />
+  <o id="183" en="Rainstorm" enl="Rainstorm" ja="豪雨の陣" jal="豪雨の陣" />
+  <o id="184" en="Aurorastorm" enl="Aurorastorm" ja="極光の陣" jal="極光の陣" />
+  <o id="185" en="Voidstorm" enl="Voidstorm" ja="妖霧の陣" jal="妖霧の陣" />
   <o id="186" en="Helix" enl="Helix" ja="計略" jal="計略" />
   <o id="187" en="Sublimation: Activated" enl="Sublimation: Activated" ja="机上演習:蓄積中" jal="机上演習:蓄積中" />
   <o id="188" en="Sublimation: Complete" enl="Sublimation: Complete" ja="机上演習:蓄積完了" jal="机上演習:蓄積完了" />
@@ -195,40 +195,40 @@
   <o id="192" en="Requiem" enl="Requiem" ja="レクイエム" jal="レクイエム" />
   <o id="193" en="Lullaby" enl="Lullaby" ja="ララバイ" jal="ララバイ" />
   <o id="194" en="Elegy" enl="Elegy" ja="エレジー" jal="エレジー" />
-  <o id="195" en="Paeon" enl="Paeon" ja="ピーアン" jal="ピーアン" duration="120" />
-  <o id="196" en="Ballad" enl="Ballad" ja="バラード" jal="バラード" duration="120" />
-  <o id="197" en="Minne" enl="Minne" ja="ミンネ" jal="ミンネ" duration="120" />
-  <o id="198" en="Minuet" enl="Minuet" ja="メヌエット" jal="メヌエット" duration="120" />
-  <o id="199" en="Madrigal" enl="Madrigal" ja="マドリガル" jal="マドリガル" duration="120" />
-  <o id="200" en="Prelude" enl="Prelude" ja="プレリュード" jal="プレリュード" duration="120" />
-  <o id="201" en="Mambo" enl="Mambo" ja="マンボ" jal="マンボ" duration="120" />
-  <o id="202" en="Aubade" enl="Aubade" ja="オーバード" jal="オーバード" duration="120" />
-  <o id="203" en="Pastoral" enl="Pastoral" ja="パストラル" jal="パストラル" duration="120" />
-  <o id="204" en="Hum" enl="Hum" ja="ハミング" jal="ハミング" duration="120" />
-  <o id="205" en="Fantasia" enl="Fantasia" ja="ファンタジア" jal="ファンタジア" duration="120" />
-  <o id="206" en="Operetta" enl="Operetta" ja="オペレッタ" jal="オペレッタ" duration="120" />
-  <o id="207" en="Capriccio" enl="Capriccio" ja="カプリチオ" jal="カプリチオ" duration="120" />
-  <o id="208" en="Serenade" enl="Serenade" ja="セレナーデ" jal="セレナーデ" duration="120" />
-  <o id="209" en="Round" enl="Round" ja="ロンド" jal="ロンド" duration="120" />
-  <o id="210" en="Gavotte" enl="Gavotte" ja="ガボット" jal="ガボット" duration="120" />
-  <o id="211" en="Fugue" enl="Fugue" ja="フーガ" jal="フーガ" duration="120" />
-  <o id="212" en="Rhapsody" enl="Rhapsody" ja="ラプソディ" jal="ラプソディ" duration="120" />
-  <o id="213" en="Aria" enl="Aria" ja="アリア" jal="アリア" duration="120" />
-  <o id="214" en="March" enl="March" ja="マーチ" jal="マーチ" duration="120" />
-  <o id="215" en="Etude" enl="Etude" ja="エチュード" jal="エチュード" duration="120" />
-  <o id="216" en="Carol" enl="Carol" ja="カロル" jal="カロル" duration="120" />
-  <o id="217" en="Threnody" enl="Threnody" ja="スレノディ" jal="スレノディ" duration="120" />
-  <o id="218" en="Hymnus" enl="Hymnus" ja="ヒムヌス" jal="ヒムヌス" duration="120" />
-  <o id="219" en="Mazurka" enl="Mazurka" ja="マズルカ" jal="マズルカ" duration="120" />
-  <o id="220" en="Sirvente" enl="Sirvente" ja="シルベント" jal="シルベント" duration="120" />
-  <o id="221" en="Dirge" enl="Dirge" ja="ダージュ" jal="ダージュ" duration="120" />
-  <o id="222" en="Scherzo" enl="Scherzo" ja="スケルツォ" jal="スケルツォ" duration="120" />
-  <o id="223" en="Nocturne" enl="Nocturne" ja="ノクターン" jal="ノクターン" duration="120" />
+  <o id="195" en="Paeon" enl="Paeon" ja="ピーアン" jal="ピーアン" />
+  <o id="196" en="Ballad" enl="Ballad" ja="バラード" jal="バラード" />
+  <o id="197" en="Minne" enl="Minne" ja="ミンネ" jal="ミンネ" />
+  <o id="198" en="Minuet" enl="Minuet" ja="メヌエット" jal="メヌエット" />
+  <o id="199" en="Madrigal" enl="Madrigal" ja="マドリガル" jal="マドリガル" />
+  <o id="200" en="Prelude" enl="Prelude" ja="プレリュード" jal="プレリュード" />
+  <o id="201" en="Mambo" enl="Mambo" ja="マンボ" jal="マンボ" />
+  <o id="202" en="Aubade" enl="Aubade" ja="オーバード" jal="オーバード" />
+  <o id="203" en="Pastoral" enl="Pastoral" ja="パストラル" jal="パストラル" />
+  <o id="204" en="Hum" enl="Hum" ja="ハミング" jal="ハミング" />
+  <o id="205" en="Fantasia" enl="Fantasia" ja="ファンタジア" jal="ファンタジア" />
+  <o id="206" en="Operetta" enl="Operetta" ja="オペレッタ" jal="オペレッタ" />
+  <o id="207" en="Capriccio" enl="Capriccio" ja="カプリチオ" jal="カプリチオ" />
+  <o id="208" en="Serenade" enl="Serenade" ja="セレナーデ" jal="セレナーデ" />
+  <o id="209" en="Round" enl="Round" ja="ロンド" jal="ロンド" />
+  <o id="210" en="Gavotte" enl="Gavotte" ja="ガボット" jal="ガボット" />
+  <o id="211" en="Fugue" enl="Fugue" ja="フーガ" jal="フーガ" />
+  <o id="212" en="Rhapsody" enl="Rhapsody" ja="ラプソディ" jal="ラプソディ" />
+  <o id="213" en="Aria" enl="Aria" ja="アリア" jal="アリア" />
+  <o id="214" en="March" enl="March" ja="マーチ" jal="マーチ" />
+  <o id="215" en="Etude" enl="Etude" ja="エチュード" jal="エチュード" />
+  <o id="216" en="Carol" enl="Carol" ja="カロル" jal="カロル" />
+  <o id="217" en="Threnody" enl="Threnody" ja="スレノディ" jal="スレノディ" />
+  <o id="218" en="Hymnus" enl="Hymnus" ja="ヒムヌス" jal="ヒムヌス" />
+  <o id="219" en="Mazurka" enl="Mazurka" ja="マズルカ" jal="マズルカ" />
+  <o id="220" en="Sirvente" enl="Sirvente" ja="シルベント" jal="シルベント" />
+  <o id="221" en="Dirge" enl="Dirge" ja="ダージュ" jal="ダージュ" />
+  <o id="222" en="Scherzo" enl="Scherzo" ja="スケルツォ" jal="スケルツォ" />
+  <o id="223" en="Nocturne" enl="Nocturne" ja="ノクターン" jal="ノクターン" />
   <o id="224" en="ST224" enl="ST224" ja="ＳＴ２２４" jal="ＳＴ２２４" />
   <o id="225" en="ST225" enl="ST225" ja="ＳＴ２２５" jal="ＳＴ２２５" />
   <o id="226" en="ST226" enl="ST226" ja="ＳＴ２２６" jal="ＳＴ２２６" />
   <o id="227" en="Store TP" enl="Store TP" ja="ストアTP" jal="ストアTP" />
-  <o id="228" en="Embrava" enl="Embrava" ja="オーラ" jal="オーラ" duration="90" />
+  <o id="228" en="Embrava" enl="Embrava" ja="オーラ" jal="オーラ" />
   <o id="229" en="Manawell" enl="Manawell" ja="魔力の雫" jal="魔力の雫" />
   <o id="230" en="Spontaneity" enl="Spontaneity" ja="クイックマジック" jal="クイックマジック" />
   <o id="231" en="Marcato" enl="Marcato" ja="マルカート" jal="マルカート" />
@@ -247,7 +247,7 @@
   <o id="249" en="Dedication" enl="Dedication" ja="専心" jal="専心" />
   <o id="250" en="EF Badge" enl="EF Badge" ja="遠征軍参加資格" jal="遠征軍参加資格" />
   <o id="251" en="Food" enl="Food" ja="食事" jal="食事" />
-  <o id="252" en="Chocobo" enl="Chocobo" ja="チョコボ" jal="チョコボ" duration="1800" />
+  <o id="252" en="Chocobo" enl="Chocobo" ja="チョコボ" jal="チョコボ" />
   <o id="253" en="Signet" enl="Signet" ja="シグネット" jal="シグネット" />
   <o id="254" en="Battlefield" enl="Battlefield" ja="バトルフィールド" jal="バトルフィールド" />
   <o id="256" en="Sanction" enl="Sanction" ja="サンクション" jal="サンクション" />
@@ -269,14 +269,14 @@
   <o id="272" en="Aftermath: Lv.3" enl="Aftermath: Lv.3" ja="アフターマス:Lv3" jal="アフターマス:Lv3" />
   <o id="273" en="Aftermath" enl="Aftermath" ja="アフターマス" jal="アフターマス" />
   <o id="274" en="Enlight" enl="Enlight" ja="エンライト" jal="エンライト" />
-  <o id="275" en="Auspice" enl="Auspice" ja="オースピス" jal="オースピス" duration="180" />
+  <o id="275" en="Auspice" enl="Auspice" ja="オースピス" jal="オースピス" />
   <o id="276" en="Confrontation" enl="Confrontation" ja="コンフロント" jal="コンフロント" />
-  <o id="277" en="Enfire II" enl="Enfire II" ja="エンファイアII" jal="エンファイアII" duration="180" />
-  <o id="278" en="Enblizzard II" enl="Enblizzard II" ja="エンブリザドII" jal="エンブリザドII" duration="180" />
-  <o id="279" en="Enaero II" enl="Enaero II" ja="エンエアロII" jal="エンエアロII" duration="180" />
-  <o id="280" en="Enstone II" enl="Enstone II" ja="エンストーンII" jal="エンストーンII" duration="180" />
-  <o id="281" en="Enthunder II" enl="Enthunder II" ja="エンサンダーII" jal="エンサンダーII" duration="180" />
-  <o id="282" en="Enwater II" enl="Enwater II" ja="エンウォータII" jal="エンウォータII" duration="180" />
+  <o id="277" en="Enfire II" enl="Enfire II" ja="エンファイアII" jal="エンファイアII" />
+  <o id="278" en="Enblizzard II" enl="Enblizzard II" ja="エンブリザドII" jal="エンブリザドII" />
+  <o id="279" en="Enaero II" enl="Enaero II" ja="エンエアロII" jal="エンエアロII" />
+  <o id="280" en="Enstone II" enl="Enstone II" ja="エンストーンII" jal="エンストーンII" />
+  <o id="281" en="Enthunder II" enl="Enthunder II" ja="エンサンダーII" jal="エンサンダーII" />
+  <o id="282" en="Enwater II" enl="Enwater II" ja="エンウォータII" jal="エンウォータII" />
   <o id="283" en="Perfect Defense" enl="Perfect Defense" ja="絶対防御" jal="絶対防御" />
   <o id="284" en="Egg" enl="Egg" ja="タマゴ" jal="タマゴ" />
   <o id="285" en="Visitant" enl="Visitant" ja="ビジタント" jal="ビジタント" />
@@ -334,20 +334,20 @@
   <o id="337" en="Companion's Roll" enl="Companion's Roll" ja="コンパニオンロール" jal="コンパニオンロール" />
   <o id="338" en="Avenger's Roll" enl="Avenger's Roll" ja="カウンターロール" jal="カウンターロール" />
   <o id="340" en="Warrior's Charge" enl="Warrior's Charge" ja="ウォリアーチャージ" jal="ウォリアーチャージ" />
-  <o id="341" en="Formless Strikes" enl="Formless Strikes" ja="無想無念" jal="無想無念" duration="180" />
-  <o id="342" en="Assassin's Charge" enl="Assassin's Charge" ja="アサシンチャージ" jal="アサシンチャージ" duration="60" />
-  <o id="343" en="Feint" enl="Feint" ja="フェイント" jal="フェイント" duration="60" />
-  <o id="344" en="Fealty" enl="Fealty" ja="フィールティ" jal="フィールティ" duration="60" />
-  <o id="345" en="Dark Seal" enl="Dark Seal" ja="ダークシール" jal="ダークシール" duration="60" />
-  <o id="346" en="Diabolic Eye" enl="Diabolic Eye" ja="ディアボリクアイ" jal="ディアボリクアイ" duration="180" />
-  <o id="347" en="Nightingale" enl="Nightingale" ja="ナイチンゲール" jal="ナイチンゲール" duration="60" />
-  <o id="348" en="Troubadour" enl="Troubadour" ja="トルバドゥール" jal="トルバドゥール" duration="60" />
-  <o id="349" en="Killer Instinct" enl="Killer Instinct" ja="K.インスティンクト" jal="K.インスティンクト" duration="180" />
+  <o id="341" en="Formless Strikes" enl="Formless Strikes" ja="無想無念" jal="無想無念" />
+  <o id="342" en="Assassin's Charge" enl="Assassin's Charge" ja="アサシンチャージ" jal="アサシンチャージ" />
+  <o id="343" en="Feint" enl="Feint" ja="フェイント" jal="フェイント" />
+  <o id="344" en="Fealty" enl="Fealty" ja="フィールティ" jal="フィールティ" />
+  <o id="345" en="Dark Seal" enl="Dark Seal" ja="ダークシール" jal="ダークシール" />
+  <o id="346" en="Diabolic Eye" enl="Diabolic Eye" ja="ディアボリクアイ" jal="ディアボリクアイ" />
+  <o id="347" en="Nightingale" enl="Nightingale" ja="ナイチンゲール" jal="ナイチンゲール" />
+  <o id="348" en="Troubadour" enl="Troubadour" ja="トルバドゥール" jal="トルバドゥール" />
+  <o id="349" en="Killer Instinct" enl="Killer Instinct" ja="K.インスティンクト" jal="K.インスティンクト" />
   <o id="350" en="Stealth Shot" enl="Stealth Shot" ja="ステルスショット" jal="ステルスショット" />
   <o id="351" en="Flashy Shot" enl="Flashy Shot" ja="フラッシーショット" jal="フラッシーショット" />
   <o id="352" en="Sange" enl="Sange" ja="散華" jal="散華" />
-  <o id="353" en="Hasso" enl="Hasso" ja="八双" jal="八双" duration="300" />
-  <o id="354" en="Seigan" enl="Seigan" ja="星眼" jal="星眼" duration="300" />
+  <o id="353" en="Hasso" enl="Hasso" ja="八双" jal="八双" />
+  <o id="354" en="Seigan" enl="Seigan" ja="星眼" jal="星眼" />
   <o id="355" en="Convergence" enl="Convergence" ja="コンバージェンス" jal="コンバージェンス" />
   <o id="356" en="Diffusion" enl="Diffusion" ja="ディフュージョン" jal="ディフュージョン" />
   <o id="357" en="Snake Eye" enl="Snake Eye" ja="スネークアイ" jal="スネークアイ" />
@@ -361,9 +361,9 @@
   <o id="365" en="Ebullience" enl="Ebullience" ja="気炎万丈の章" jal="気炎万丈の章" />
   <o id="366" en="Accession" enl="Accession" ja="女神降臨の章" jal="女神降臨の章" />
   <o id="367" en="Manifestation" enl="Manifestation" ja="精霊光来の章" jal="精霊光来の章" />
-  <o id="368" en="Drain Samba" enl="Drain Samba" ja="ドレインサンバ" jal="ドレインサンバ" duration="90" />
-  <o id="369" en="Aspir Samba" enl="Aspir Samba" ja="アスピルサンバ" jal="アスピルサンバ" duration="90" />
-  <o id="370" en="Haste Samba" enl="Haste Samba" ja="ヘイストサンバ" jal="ヘイストサンバ" duration="90" />
+  <o id="368" en="Drain Samba" enl="Drain Samba" ja="ドレインサンバ" jal="ドレインサンバ" />
+  <o id="369" en="Aspir Samba" enl="Aspir Samba" ja="アスピルサンバ" jal="アスピルサンバ" />
+  <o id="370" en="Haste Samba" enl="Haste Samba" ja="ヘイストサンバ" jal="ヘイストサンバ" />
   <o id="371" en="Velocity Shot" enl="Velocity Shot" ja="ベロシティショット" jal="ベロシティショット" />
   <o id="375" en="Building Flourish" enl="Building Flourish" ja="B.フラリッシュ" jal="B.フラリッシュ" />
   <o id="376" en="Trance" enl="Trance" ja="トランス" jal="トランス" />
@@ -393,11 +393,11 @@
   <o id="400" en="Weakened Daze 5" enl="Weakened Daze 5" ja="スタッターステップ5" jal="スタッターステップ5" />
   <o id="401" en="Addendum: White" enl="Addendum: White" ja="白の補遺" jal="白の補遺" />
   <o id="402" en="Addendum: Black" enl="Addendum: Black" ja="黒の補遺" jal="黒の補遺" />
-  <o id="403" en="Reprisal" enl="Reprisal" ja="リアクト" jal="リアクト" duration="60" />
+  <o id="403" en="Reprisal" enl="Reprisal" ja="リアクト" jal="リアクト" />
   <o id="404" en="Magic Evasion Down" enl="Magic Evasion Down" ja="魔法回避率ダウン" jal="魔法回避率ダウン" />
   <o id="405" en="Retaliation" enl="Retaliation" ja="リタリエーション" jal="リタリエーション" />
   <o id="406" en="Footwork" enl="Footwork" ja="猫足立ち" jal="猫足立ち" />
-  <o id="407" en="Klimaform" enl="Klimaform" ja="虚誘掩殺の策" jal="虚誘掩殺の策" duration="180" />
+  <o id="407" en="Klimaform" enl="Klimaform" ja="虚誘掩殺の策" jal="虚誘掩殺の策" />
   <o id="408" en="Sekkanoki" enl="Sekkanoki" ja="石火之機" jal="石火之機" />
   <o id="409" en="Pianissimo" enl="Pianissimo" ja="ピアニッシモ" jal="ピアニッシモ" />
   <o id="410" en="Saber Dance" enl="Saber Dance" ja="剣の舞い" jal="剣の舞い" />
@@ -552,7 +552,7 @@
   <o id="565" en="slow" enl="slowed" ja="スロウ" jal="スロウ" />
   <o id="566" en="paralysis" enl="paralyzed" ja="麻痺" jal="麻痺" />
   <o id="567" en="weight" enl="weighed down" ja="ヘヴィ" jal="ヘヴィ" />
-  <o id="568" en="Foil" enl="Foil" ja="特殊攻撃回避率アップ" jal="特殊攻撃回避率アップ" duration="30" />
+  <o id="568" en="Foil" enl="Foil" ja="特殊攻撃回避率アップ" jal="特殊攻撃回避率アップ" />
   <o id="569" en="Blaze of Glory" enl="Blaze of Glory" ja="グローリーブレイズ" jal="グローリーブレイズ" />
   <o id="570" en="Battuta" enl="Battuta" ja="バットゥタ" jal="バットゥタ" />
   <o id="571" en="Rayke" enl="Rayke" ja="レイク" jal="レイク" />
