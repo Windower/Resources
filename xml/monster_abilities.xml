@@ -991,7 +991,6 @@
   <o id="1254" en="Wanion" ja="ワニオン" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1255" en="Occultation" ja="オカルテーション" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1256" en="Empty Crush" ja="エンプティクラッシュ" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
-  <o id="1257" en="Special Attack" ja="." element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1258" en="Lamentation" ja="ラメンテーション" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1259" en="Wire Cutter" ja="ワイヤーカッター" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1260" en="Antimatter" ja="アンチマター" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />

@@ -24,7 +24,7 @@ return {
     [20] = {id=20,en="Scholar",ja="学者",ens="SCH",jas="学"},
     [21] = {id=21,en="Geomancer",ja="風水士",ens="GEO",jas="風"},
     [22] = {id=22,en="Rune Fencer",ja="魔導剣士",ens="RUN",jas="剣"},
-    [23] = {id=23,en="Monipulator",ja="",ens="MON",jas=""},
+    [23] = {id=23,en="Monipulator",ja="モンストロス",ens="MON",jas="MON"},
 }, {"id", "en", "ja", "ens", "jas"}
 
 --[[

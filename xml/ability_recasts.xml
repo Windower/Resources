@@ -57,6 +57,7 @@
   <o id="57" en="Issekigan" ja="一隻眼" />
   <o id="58" en="Dragon Breaker" ja="ドラゴンブレイカー" />
   <o id="59" en="Pflug" ja="フルーグ" />
+  <o id="60" en="Steal" ja="ぬすむ" />
   <o id="61" en="Despoil" ja="ぶんどる" />
   <o id="62" en="Flee" ja="とんずら" />
   <o id="63" en="Hide" ja="かくれる" />
@@ -160,6 +161,7 @@
   <o id="193" en="Phantom Roll" ja="ファントムロール" />
   <o id="194" en="Double-Up" ja="ダブルアップ" />
   <o id="195" en="Quick Draw" ja="クイックドロー" />
+  <o id="196" en="Random Deal" ja="ランダムディール" />
   <o id="197" en="Snake Eye" ja="スネークアイ" />
   <o id="198" en="Fold" ja="フォールド" />
   <o id="199" en="Quick Draw" ja="クイックドロー" />
@@ -201,7 +203,7 @@
   <o id="241" en="Swipe" ja="スワイプ" />
   <o id="242" en="Vivacious Pulse" ja="ビベイシャス" />
   <o id="243" en="Full Circle" ja="フルサークル" />
-  <o id="244" en="Ecliptic Attrition" ja="サークルエンリッチ" />
+  <o id="244" en="Ecl.Attr./Last.Eman." ja="サークルエンリッチ/エンデュアエマネイト" />
   <o id="245" en="Collimated Fervor" ja="コリメイトファーバー" />
   <o id="246" en="Life Cycle" ja="ライフサイクル" />
   <o id="247" en="Blaze of Glory" ja="グローリーブレイズ" />

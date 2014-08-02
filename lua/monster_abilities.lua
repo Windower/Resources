@@ -992,7 +992,6 @@ return {
     [1254] = {id=1254,en="Wanion",ja="ワニオン",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},
     [1255] = {id=1255,en="Occultation",ja="オカルテーション",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},
     [1256] = {id=1256,en="Empty Crush",ja="エンプティクラッシュ",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},
-    [1257] = {id=1257,en="Special Attack",ja=".",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},
     [1258] = {id=1258,en="Lamentation",ja="ラメンテーション",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},
     [1259] = {id=1259,en="Wire Cutter",ja="ワイヤーカッター",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},
     [1260] = {id=1260,en="Antimatter",ja="アンチマター",element=6,icon_id=46,monster_level=-1,prefix="/monsterskill",range=0,targets=32,tp_cost=9999},

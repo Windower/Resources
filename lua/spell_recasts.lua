@@ -804,7 +804,6 @@ return {
     [942] = {id=942,en="Noillurie",ja="ノユリ",recast=192},
     [943] = {id=943,en="Lhu Mhakaracca",ja="ルー・マカラッカ",recast=192},
     [944] = {id=944,en="Ferreous Coffin",ja="フェリアスコフィン",recast=192},
-    [945] = {id=945,en="magic(945)",ja=".",recast=192},
     [946] = {id=946,en="Mumor",ja="ミュモル",recast=192},
     [947] = {id=947,en="Uka Totlihn",ja="ウカ・トトゥリン",recast=192},
 }, {"id", "en", "ja", "recast"}
