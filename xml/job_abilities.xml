@@ -338,17 +338,17 @@
   <o id="363" type="Rune" element="5" icon_id="45" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Unda" ja="ウンダ" />
   <o id="364" type="Rune" element="6" icon_id="46" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Lux" ja="ルックス" />
   <o id="365" type="Rune" element="7" icon_id="47" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tenebrae" ja="テネブレイ" />
-  <o id="366" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="23" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Vallation" ja="ヴァレション" />
-  <o id="367" type="JobAbility" element="2" icon_id="42" mp_cost="0" recast_id="24" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Swordplay" ja="ソードプレイ" />
+  <o id="366" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="23" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Vallation" ja="ヴァレション" />
+  <o id="367" type="JobAbility" element="2" icon_id="42" mp_cost="0" recast_id="24" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Swordplay" ja="ソードプレイ" />
   <o id="368" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="25" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Lunge" ja="ランジ" />
-  <o id="369" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="59" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Pflug" ja="フルーグ" />
+  <o id="369" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="59" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Pflug" ja="フルーグ" />
   <o id="370" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="72" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Embolden" ja="エンボルド" />
-  <o id="371" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="113" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Valiance" ja="ヴァリエンス" />
+  <o id="371" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="113" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Valiance" ja="ヴァリエンス" />
   <o id="372" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="116" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Gambit" ja="ガンビット" />
-  <o id="373" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="117" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Liement" ja="リエモン" />
-  <o id="374" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="118" targets="1" tp_cost="0" range="0" prefix="/jobability" en="One for All" ja="ワンフォアオール" />
+  <o id="373" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="117" targets="1" tp_cost="0" duration="10" range="0" prefix="/jobability" en="Liement" ja="リエモン" />
+  <o id="374" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="118" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="One for All" ja="ワンフォアオール" />
   <o id="375" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="119" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Rayke" ja="レイク" />
-  <o id="376" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="120" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Battuta" ja="バットゥタ" />
+  <o id="376" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="120" targets="1" tp_cost="0" duration="90" range="0" prefix="/jobability" en="Battuta" ja="バットゥタ" />
   <o id="377" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="130" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Widened Compass" ja="ワイデンコンパス" />
   <o id="378" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="131" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Odyllic Subterfuge" ja="オディリックサブタ" />
   <o id="379" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="142" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ward" ja="ワード" />
