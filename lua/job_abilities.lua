@@ -251,7 +251,7 @@ return {
     [265] = {id=265,en="Libra",ja="ライブラ",element=6,icon_id=538,mp_cost=0,prefix="/jobability",range=8,recast_id=237,targets=32,tp_cost=0,type="JobAbility"},
     [266] = {id=266,en="Tactical Switch",ja="タクティクスウィッチ",element=6,icon_id=513,mp_cost=0,prefix="/jobability",range=0,recast_id=213,targets=1,tp_cost=0,type="JobAbility"},
     [267] = {id=267,en="Blood Rage",ja="ブラッドレイジ",element=4,icon_id=367,mp_cost=0,prefix="/jobability",range=11,recast_id=11,targets=1,tp_cost=0,type="JobAbility"},
-    [269] = {id=269,en="Impetus",ja="インピタス",element=0,icon_id=380,mp_cost=0,prefix="/jobability",range=0,recast_id=31,targets=1,tp_cost=0,type="JobAbility"},
+    [269] = {id=269,en="Impetus",ja="インピタス",duration=180,element=0,icon_id=380,mp_cost=0,prefix="/jobability",range=0,recast_id=31,targets=1,tp_cost=0,type="JobAbility"},
     [270] = {id=270,en="Divine Caress",ja="女神の愛撫",element=6,icon_id=384,mp_cost=0,prefix="/jobability",range=0,recast_id=32,targets=1,tp_cost=0,type="JobAbility"},
     [271] = {id=271,en="Sacrosanctity",ja="女神の聖域",element=6,icon_id=385,mp_cost=0,prefix="/jobability",range=11,recast_id=33,targets=1,tp_cost=0,type="JobAbility"},
     [272] = {id=272,en="Enmity Douse",ja="エンミティダウス",element=7,icon_id=389,mp_cost=0,prefix="/jobability",range=8,recast_id=34,targets=32,tp_cost=0,type="JobAbility"},

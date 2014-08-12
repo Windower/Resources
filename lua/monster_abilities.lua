@@ -2750,6 +2750,19 @@ return {
     [3288] = {id=3288,en="Swath of Silence",ja="サイレントスアス"},
     [3289] = {id=3289,en="Damning Edict",ja="ダミングイーディクト"},
     [3290] = {id=3290,en="Bowels of Agony",ja="アゴニーズバウル"},
+    [3291] = {id=3291,en="Stag's Call",ja="スタッグコール"},
+    [3292] = {id=3292,en="Gyre Strike",ja="ジャイヤストライク"},
+    [3293] = {id=3293,en="Stag's Charge",ja="スタッグチャージ"},
+    [3294] = {id=3294,en="Orcsbane",ja="オークスベイン"},
+    [3295] = {id=3295,en="Songbird Swoop",ja="紅燕蹴"},
+    [3296] = {id=3296,en="Temblor Blade",ja="テンブラーブレード"},
+    [3297] = {id=3297,en="Cobra Clamp",ja="コブラホールド"},
+    [3298] = {id=3298,en="Illustrious Aid",ja="イラストリアスアイド"},
+    [3303] = {id=3303,en="Feast of Arrows",ja="フィーストオブアロー"},
+    [3304] = {id=3304,en="Cruel Joke",ja="クルエルジョーク"},
+    [3305] = {id=3305,en="Regurgitated Swarm",ja="レガジテイトスウァーム"},
+    [3306] = {id=3306,en="Setting the Stage",ja="ステージセット"},
+    [3307] = {id=3307,en="Last Laugh",ja="ラストラフ"},
 }, {"id", "en", "ja", "element", "icon_id", "monster_level", "prefix", "range", "targets", "tp_cost"}
 
 --[[

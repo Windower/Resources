@@ -795,6 +795,8 @@ return {
     [799] = {id=799,en="Lancelord Divester",ja="ランスロード　ディベスター"},
     [800] = {id=800,en="Gessho Pinioner",ja="ゲッショー　ピニオナー"},
     [801] = {id=801,en="Sin Purger",ja="シン　パージャー"},
+    [802] = {id=802,en="Adumbration Disperser",ja="アダンブレイション　デスパーサー"},
+    [803] = {id=803,en="Queller of Otherworldly Gales",ja="ゲール　クウェラー"},
     [836] = {id=836,en="Geodancer",ja="見習い風水士"},
     [837] = {id=837,en="Runic Engraver",ja="ルーンを刻みし者"},
     [838] = {id=838,en="Apprentice Tarutaru Sauce Manager",ja="タルタル★ソース・マネージャー見習い"},
@@ -881,6 +883,9 @@ return {
     [920] = {id=920,en="Disciplined Dissector",ja="解剖術士"},
     [921] = {id=921,en="Established Examiner",ja="解剖マスター"},
     [922] = {id=922,en="Sublime Slicer",ja="命をかける飼育士"},
+    [923] = {id=923,en="Lifter of Spirits",ja="悲嘆の淵の救済者"},
+    [924] = {id=924,en="Shedder of Harlequin Tears",ja="ゲームの勝者"},
+    [925] = {id=925,en="Hope for the Future",ja="暁の輝き"},
 }, {"id", "en", "ja"}
 
 --[[

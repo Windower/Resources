@@ -524,7 +524,7 @@ return {
     [562] = {id=562,en="Barbed Crescent",ja="偃月刃",recast=88},
     [563] = {id=563,en="Paralyzing Triad",ja="パラライズトライアド",recast=60},
     [564] = {id=564,en="Glutinous Dart",ja="グルーティナスダート",recast=24},
-    [565] = {id=565,en="Thrashing Assault",ja="S.アッサルト",recast=240},
+    [565] = {id=565,en="Thrashing Assault",ja="T.アッサルト",recast=240},
     [591] = {id=591,en="Blastbomb",ja="炸裂弾",recast=60},
     [592] = {id=592,en="Bomb Toss",ja="爆弾投げ",recast=98},
     [593] = {id=593,en="Sound Blast",ja="サウンドブラスト",recast=120},
@@ -785,6 +785,7 @@ return {
     [917] = {id=917,en="Iron Eater",ja="アイアンイーター",recast=192},
     [918] = {id=918,en="Gessho",ja="ゲッショー",recast=192},
     [919] = {id=919,en="Gadalar",ja="ガダラル",recast=192},
+    [920] = {id=920,en="Rainemard",ja="ライニマード",recast=192},
     [921] = {id=921,en="Ingrid",ja="イングリッド",recast=192},
     [922] = {id=922,en="Lehko Habhoka",ja="レコ・ハボッカ",recast=192},
     [923] = {id=923,en="Nashmeira",ja="ナシュメラ",recast=192},
@@ -806,6 +807,9 @@ return {
     [944] = {id=944,en="Ferreous Coffin",ja="フェリアスコフィン",recast=192},
     [946] = {id=946,en="Mumor",ja="ミュモル",recast=192},
     [947] = {id=947,en="Uka Totlihn",ja="ウカ・トトゥリン",recast=192},
+    [948] = {id=948,en="Klara",ja="クララ",recast=192},
+    [949] = {id=949,en="Romaa Mihgo",ja="ロマー・ミーゴ",recast=192},
+    [1004] = {id=1004,en="Excenmille [S]",ja="エグセニミルII",recast=192},
 }, {"id", "en", "ja", "recast"}
 
 --[[

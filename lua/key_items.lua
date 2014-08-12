@@ -1885,7 +1885,7 @@ return {
     [1915] = {id=1915,en="map of Cirdas Caverns",ja="シルダス洞窟地図",category="Magical Maps"},
     [1916] = {id=1916,en="map of Dho Gates",ja="ドーの門地図",category="Magical Maps"},
     [1917] = {id=1917,en="map of Woh Gates",ja="ウォーの門地図",category="Magical Maps"},
-    [1918] = {id=1918,en="map of Outer Ra'Kaznar",ja="ラ・カザナル宮外郭地図",category="Magical Maps"},
+    [1918] = {id=1918,en="map of Ra'Kaznar",ja="ラ・カザナル宮地図",category="Magical Maps"},
     [1920] = {id=1920,en="iron chainmail claim slip",ja="アイアンチェーンメイル預り証",category="Claim Slips"},
     [1921] = {id=1921,en="shade harness claim slip",ja="シェードハーネス預り証",category="Claim Slips"},
     [1922] = {id=1922,en="brass scale mail claim slip",ja="ブラススケイルアーマー預り証",category="Claim Slips"},
@@ -2402,6 +2402,7 @@ return {
     [2507] = {id=2507,en="unblemished pioneer's badge",ja="新品の開拓者バッジ",category="Temporary Key Items"},
     [2508] = {id=2508,en="silvery plate",ja="銀白色の札",category="Permanent Key Items"},
     [2509] = {id=2509,en="soul siphon",ja="吸魂石",category="Temporary Key Items"},
+    [2510] = {id=2510,en="bundle of half-inscribed scrolls",ja="未完成のスクロール束",category="Permanent Key Items"},
     [2511] = {id=2511,en="tapestry of bagua poetry",ja="バグア叙景詩",category="Temporary Key Items"},
     [2512] = {id=2512,en="Futharkic Concepts in Flux",ja="フサルク理論",category="Temporary Key Items"},
     [2513] = {id=2513,en="crystallized lifestream essence",ja="ソーマの結晶【ユグドラシル】",category="Temporary Key Items"},
@@ -2487,6 +2488,12 @@ return {
     [2593] = {id=2593,en="cryptic memorandum",ja="なぞの記述が浮き出たメモ",category="Temporary Key Items"},
     [2594] = {id=2594,en="memo found in Rala Waterways",ja="ララ水道の不思議メモ",category="Temporary Key Items"},
     [2595] = {id=2595,en="Head Wind phantom gem",ja="ファントムクォーツ【罪狩】",category="Temporary Key Items"},
+    [2598] = {id=2598,en="\"Suffering Sacchariferous\"",ja="ハッピー☆になるお菓子の本",category="Temporary Key Items"},
+    [2599] = {id=2599,en="sepulcher ensign",ja="王墓の紋章",category="Permanent Key Items"},
+    [2600] = {id=2600,en="consummate simulacrum",ja="完全なるシミューラクラム",category="Temporary Key Items"},
+    [2601] = {id=2601,en="broken fuse",ja="信管の破片",category="Temporary Key Items"},
+    [2602] = {id=2602,en="Rala eudaemon",ja="ユデイモン：ララ",category="Temporary Key Items"},
+    [2604] = {id=2604,en="Cirdas eudaemon",ja="ユデイモン：シルダス",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
