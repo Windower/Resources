@@ -250,7 +250,7 @@
   <o id="265" type="JobAbility" element="6" icon_id="538" mp_cost="0" recast_id="237" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Libra" ja="ライブラ" />
   <o id="266" type="JobAbility" element="6" icon_id="513" mp_cost="0" recast_id="213" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tactical Switch" ja="タクティクスウィッチ" />
   <o id="267" type="JobAbility" element="4" icon_id="367" mp_cost="0" recast_id="11" targets="1" tp_cost="0" range="11" prefix="/jobability" en="Blood Rage" ja="ブラッドレイジ" />
-  <o id="269" type="JobAbility" element="0" icon_id="380" mp_cost="0" recast_id="31" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Impetus" ja="インピタス" />
+  <o id="269" type="JobAbility" element="0" icon_id="380" mp_cost="0" recast_id="31" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Impetus" ja="インピタス" />
   <o id="270" type="JobAbility" element="6" icon_id="384" mp_cost="0" recast_id="32" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Divine Caress" ja="女神の愛撫" />
   <o id="271" type="JobAbility" element="6" icon_id="385" mp_cost="0" recast_id="33" targets="1" tp_cost="0" range="11" prefix="/jobability" en="Sacrosanctity" ja="女神の聖域" />
   <o id="272" type="JobAbility" element="7" icon_id="389" mp_cost="0" recast_id="34" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Enmity Douse" ja="エンミティダウス" />

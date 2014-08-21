@@ -1,7 +1,7 @@
 -- Automatically generated file: Races
 
 return {
-    [0] = {id=0,en="Precomposed NPC",ja="NPC",gender="None"},
+    [0] = {id=0,en="Precomposed NPC",ja="合成済みのNPC",gender="None"},
     [1] = {id=1,en="Hume ♂",ja="ヒューム♂",gender="♂"},
     [2] = {id=2,en="Hume ♀",ja="ヒューム♀",gender="♀"},
     [3] = {id=3,en="Elvaan ♂",ja="エㇽバン♂",gender="♂"},

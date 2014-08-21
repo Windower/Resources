@@ -523,7 +523,7 @@
   <o id="562" recast="88" en="Barbed Crescent" ja="偃月刃" />
   <o id="563" recast="60" en="Paralyzing Triad" ja="パラライズトライアド" />
   <o id="564" recast="24" en="Glutinous Dart" ja="グルーティナスダート" />
-  <o id="565" recast="240" en="Thrashing Assault" ja="S.アッサルト" />
+  <o id="565" recast="240" en="Thrashing Assault" ja="T.アッサルト" />
   <o id="591" recast="60" en="Blastbomb" ja="炸裂弾" />
   <o id="592" recast="98" en="Bomb Toss" ja="爆弾投げ" />
   <o id="593" recast="120" en="Sound Blast" ja="サウンドブラスト" />
@@ -784,6 +784,7 @@
   <o id="917" recast="192" en="Iron Eater" ja="アイアンイーター" />
   <o id="918" recast="192" en="Gessho" ja="ゲッショー" />
   <o id="919" recast="192" en="Gadalar" ja="ガダラル" />
+  <o id="920" recast="192" en="Rainemard" ja="ライニマード" />
   <o id="921" recast="192" en="Ingrid" ja="イングリッド" />
   <o id="922" recast="192" en="Lehko Habhoka" ja="レコ・ハボッカ" />
   <o id="923" recast="192" en="Nashmeira" ja="ナシュメラ" />
@@ -805,4 +806,7 @@
   <o id="944" recast="192" en="Ferreous Coffin" ja="フェリアスコフィン" />
   <o id="946" recast="192" en="Mumor" ja="ミュモル" />
   <o id="947" recast="192" en="Uka Totlihn" ja="ウカ・トトゥリン" />
+  <o id="948" recast="192" en="Klara" ja="クララ" />
+  <o id="949" recast="192" en="Romaa Mihgo" ja="ロマー・ミーゴ" />
+  <o id="1004" recast="192" en="Excenmille [S]" ja="エグセニミルII" />
 </spell_recasts>

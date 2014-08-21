@@ -794,6 +794,8 @@
   <o id="799" en="Lancelord Divester" ja="ランスロード　ディベスター" />
   <o id="800" en="Gessho Pinioner" ja="ゲッショー　ピニオナー" />
   <o id="801" en="Sin Purger" ja="シン　パージャー" />
+  <o id="802" en="Adumbration Disperser" ja="アダンブレイション　デスパーサー" />
+  <o id="803" en="Queller of Otherworldly Gales" ja="ゲール　クウェラー" />
   <o id="836" en="Geodancer" ja="見習い風水士" />
   <o id="837" en="Runic Engraver" ja="ルーンを刻みし者" />
   <o id="838" en="Apprentice Tarutaru Sauce Manager" ja="タルタル★ソース・マネージャー見習い" />
@@ -880,4 +882,7 @@
   <o id="920" en="Disciplined Dissector" ja="解剖術士" />
   <o id="921" en="Established Examiner" ja="解剖マスター" />
   <o id="922" en="Sublime Slicer" ja="命をかける飼育士" />
+  <o id="923" en="Lifter of Spirits" ja="悲嘆の淵の救済者" />
+  <o id="924" en="Shedder of Harlequin Tears" ja="ゲームの勝者" />
+  <o id="925" en="Hope for the Future" ja="暁の輝き" />
 </titles>
