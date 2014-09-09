@@ -190,6 +190,7 @@ return {
     [226] = {id=226,en="Flourishes III",ja="フラリッシュIII"},
     [227] = {id=227,en="Waltzes",ja="ワルツモード"},
     [228] = {id=228,en="Light Arts",ja="白のグリモア"},
+    [229] = {id=229,en="Contradance",ja="コントラダンス"},
     [230] = {id=230,en="Modus Veritas",ja="以逸待労の計"},
     [231] = {id=231,en="Stratagems",ja="戦術魔道書"},
     [232] = {id=232,en="Dark Arts",ja="黒のグリモア"},

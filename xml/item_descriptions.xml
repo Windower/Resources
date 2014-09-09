@@ -3616,7 +3616,7 @@
   <o id="3986" en="A fragrant fluid that releases an odor many insects crave. Placing it in an arboreal grove makes it possible to harvest beetles occasionally." ja="虫が好む香りを放つ樹液。&#xA;木立から甲虫族が採集できることがある。" />
   <o id="3988" en="A long and lithe slimy slitherer that enriches the soil wherever it tunnels.&#xA;Increases the yield of crops from a furrow." ja="土壌を綺麗にするワーム。&#xA;畑の収穫量が増える。" />
   <o id="3989" en="This humus apparently has no official origin, as scholars have yet to ascertain its native habitat.&#xA;Reduces the length of a furrow's grow season." ja="どこかの森の腐葉土。&#xA;畑の収穫時間を短縮する。" />
-  <o id="3990" en="This spectacular example of humus was released upon Ulbuka by the Inventors' Coalition after months of careful research, which have paid off in spades.D4328" ja="インベンター・ワークスが開発した腐葉土。&#xA;珍しい物を収穫できることがある。" />
+  <o id="3990" en="This spectacular example of humus was released upon Ulbuka by the Inventors' Coalition after months of careful research, which have paid off in spades. Occasionally produces strange and wondrous harvests." ja="インベンター・ワークスが開発した腐葉土。&#xA;珍しい物を収穫できることがある。" />
   <o id="3991" en="A long and lithe slimy slitherer that enriches the soil wherever it tunnels.&#xA;Increases the bounty obtained from a grove." ja="土壌を綺麗にするワーム。&#xA;木立の収穫量が増える。" />
   <o id="3992" en="This specialized mulch works even in the unforgiving Ulbukan soil, keeping the trees growing straight and strong.&#xA;Occasionally increases the number of times one can log a grove." ja="立木の成長を促す培養土。&#xA;木立の伐採回数が増えることがある。" />
   <o id="3993" en="Cuttings from trees nestled in an unspecified forest somewhere in Vana'diel.&#xA;Enables lumber to be more easily procured from groves." ja="どこかの森林の樹木の添え木。&#xA;木立から原木が得やすくなる。" />
@@ -5746,6 +5746,20 @@
   <o id="6280" en="This leather quiver is used to carry&#xA;large quantities of Ra'Kaznar arrows." ja="『カザナルアロー』を収納する武具。&#xA;多数の矢を携帯できる。" />
   <o id="6281" en="This leather quiver is used to carry&#xA;large quantities of Ra'Kaznar bolts." ja="『カザナルボルト』を収納する武具。&#xA;多数のボルトを携帯できる。" />
   <o id="6282" en="This leather pouch is used to carry&#xA;large quantities of Ra'Kaznar bullets." ja="『カザナルブレット』を収納する武具。&#xA;多数のブレットを携帯できる。" />
+  <o id="6283" en="A round wooden receptacle for all manner of rancid Velkk knickknacks." ja="ヴェルクが使う小さな物入れ。&#xA;水に濡れにくい素材が使われている。" />
+  <o id="6284" en="A large wooden receptacle for all manner of morbid Velkk artifacts." ja="ヴェルクが使う大きな物入れ。&#xA;水に濡れにくい素材が使われている。" />
+  <o id="6285" en="A small metal receptacle containing some of Ymmr-Ulvid Gloomlight's trinkets." ja="「イムル・アルヴィッド」が持っていた物入れ。&#xA;" />
+  <o id="6286" en="A large metal receptacle containing Ymmr-Ulvid Gloomlight's most prized personal effects." ja="「イムル・アルヴィッド」が持っていた&#xA;大きな物入れ。" />
+  <o id="6287" en="A small metal receptacle containing some of Ignor-Mnt Stealthslayer's trinkets." ja="「イグノア・ムント」が持っていた物入れ。&#xA;" />
+  <o id="6288" en="A large metal receptacle containing Ignor-Mnt Stealthslayer's most prized personal effects." ja="「イグノア・ムント」が持っていた大きな物入れ。&#xA;" />
+  <o id="6289" en="A small metal receptacle containing some of Durs-Vike Deathspell's trinkets." ja="「ダルス・ヴァイク」が持っていた物入れ。&#xA;" />
+  <o id="6290" en="A large metal receptacle containing Durs-Vike Deathspell's most prized personal effects." ja="「ダルス・ヴァイク」が持っていた大きな物入れ。&#xA;" />
+  <o id="6291" en="A small metal receptacle containing some of Tryl-Wuj Wingrip's trinkets." ja="「トリル・ウッジ」が持っていた物入れ。&#xA;" />
+  <o id="6292" en="A large metal receptacle containing Tryl-Wuj Wingrip's most prized personal effects." ja="「トリル・ウッジ」が持っていた大きな物入れ。&#xA;" />
+  <o id="6293" en="A small metal receptacle containing some of Liij-Vok Waxwane's trinkets." ja="「リッジ・ヴォック」が持っていた物入れ。&#xA;" />
+  <o id="6294" en="A large metal receptacle containing Liij-Vok Waxwane's most prized personal effects." ja="「リッジ・ヴォック」が持っていた大きな物入れ。&#xA;" />
+  <o id="6295" en="A small metal receptacle containing some of Gramk-Droog the Vanquisher's trinkets." ja="「グラムク・ドルーグ」が持っていた物入れ。&#xA;" />
+  <o id="6296" en="A large metal receptacle containing Gramk-Droog the Vanquisher's most prized personal effects." ja="「グラムク・ドルーグ」が持っていた&#xA;大きな物入れ。" />
   <o id="8193" en="2 2 2 0 &#xA;2 2 2 0" ja="2 2 2 0 &#xA;2 2 2 0" />
   <o id="8194" en="3 2 2 2 &#xA;0 3 0 0" ja="3 2 2 2 &#xA;0 3 0 0" />
   <o id="8195" en="3 3 2 2 &#xA;0 0 2 0" ja="3 3 2 2 &#xA;0 0 2 0" />
@@ -5830,7 +5844,9 @@
   <o id="8711" en="Given to adventurers who have proven themselves in Records of Eminence, this tawny and reflective ticket is indispensable for acquiring rewards from the Adventurers' Mutual Aid Network." ja="エミネンス・レコードで一定の&#xA;功績を残した冒険者に与えられる半券。&#xA;冒険者互助会を介し、実績トレードを&#xA;行う際に必要となる。" />
   <o id="8712" en="A conduit containing the spirit of an otherworldly slime, painstakingly carved in the creature's likeness. As the entity is currently harbored within, small amounts of magic seep out at regular intervals." ja="魂を受け止める依り代。&#xA;魔物の力が残っている。" />
   <o id="8713" en="A conduit containing the spirit of an otherworldly beast called a spriggan, painstakingly carved in the creature's likeness. As the entity is currently harbored within, small amounts of magic seep out at regular intervals." ja="魂を受け止める依り代。&#xA;魔物の力が残っている。" />
-  <o id="8716" en="A perfectly preserved piece of parchment glossed in gold and manufactured by moogles. It can be bartered for a bevy of beautiful baubles." ja="モーグリから送られた金色の割符。&#xA;様々なものと交換できる。" />
+  <o id="8714" en="A perfectly preserved piece of parchment ribboned with red and manufactured by moogles. It can be bartered for a bevy of beautiful baubles." ja="モーグリから送られた赤の割符。&#xA;様々なものと交換できる。" />
+  <o id="8715" en="A perfectly preserved piece of parchment glazed with green and manufactured by moogles. It can be bartered for a bevy of beautiful baubles." ja="モーグリから送られた緑の割符。&#xA;様々なものと交換できる。" />
+  <o id="8716" en="A perfectly preserved piece of parchment gilt with gold and manufactured by moogles. It can be bartered for a bevy of beautiful baubles." ja="モーグリから送られた金の割符。&#xA;様々なものと交換できる。" />
   <o id="8719" en="Harvested from the Maliyakaleya Reef, this fragment of white coral is so pulchritudinous that more than a handful of adventurers have wasted away after days of staring at it in sheer awe." ja="マリヤカレヤリーフで取れた美しい白珊瑚の欠片。&#xA;" />
   <o id="8720" en="This geometrically perfect specimen of a pearl was carved from the notoriously beautiful Maliyakaleya coral." ja="白珊瑚から作られた宝珠。&#xA;" />
   <o id="8721" en="This ore contains the metal hepatizon." ja="貴金属のヘパテゾを含有する鉱石。&#xA;" />
@@ -6033,6 +6049,10 @@
   <o id="10134" en="A scroll inscribed with strange symbols that seal away the puissance of a Tarutaru known as the Star Sibyl. Chanting the enigmatic script summons her alter ego to the bearer's side." ja="『星の神子』の力が宿った巻物。&#xA;星の神子の力を借りることができる。" />
   <o id="10135" en="A scroll inscribed with strange symbols that seal away the puissance of a Hume named Mumor. Chanting the enigmatic script summons her alter ego to the bearer's side." ja="『ミュモル』の力が宿った巻物。&#xA;ミュモルの力を借りることができる。" />
   <o id="10136" en="A scroll inscribed with strange symbols that seal away the puissance of a Mithra named Uka Totlihn. Chanting the enigmatic script summons her alter ego to the bearer's side." ja="『ウカ』の力が宿った巻物。&#xA;ウカ・トトゥリンの力を借りることができる。" />
+  <o id="10138" en="A scroll inscribed with strange symbols that seal away the puissance of a Hume named Cid. Chanting the enigmatic script summons his alter ego to the bearer's side." ja="『シド』の力が宿った巻物。&#xA;シドの力を借りることができる。" />
+  <o id="10139" en="A scroll inscribed with strange symbols that seal away the puissance of an Elvaan named Rahal. Chanting the enigmatic script summons his alter ego to the bearer's side." ja="『ラーアル』の力が宿った巻物。&#xA;ラーアル・Ｓ・ルブラールの力を&#xA;借りることができる。" />
+  <o id="10140" en="A scroll inscribed with strange symbols that seal away the puissance of a Tarutaru named Koru-Moru. Chanting the enigmatic script summons his alter ego to the bearer's side." ja="『コルモル』の力が宿った巻物。&#xA;コルモルの力を借りることができる。" />
+  <o id="10141" en="A scroll inscribed with strange symbols that seal away the puissance of a Mithra named Kuyin Hathdenna. Chanting the enigmatic script summons her alter ego to the bearer's side." ja="『クイン』の力が宿った巻物。&#xA;クイン・ハスデンナの力を借りることができる。" />
   <o id="10240" en="The minacious aura that looms over&#xA;this haubert seems to invite utter&#xA;ruin to descend upon its bearer." ja="怨嗟の念に覆われた装束の一つ。&#xA;身に着けると災いが降りかかると云われる。" />
   <o id="10241" en="The minacious aura that looms over&#xA;this domaru seems to invite utter&#xA;ruin to descend upon its bearer." ja="怨嗟の念に覆われた装束の一つ。&#xA;身に着けると災いが降りかかると云われる。" />
   <o id="10242" en="The minacious aura that looms over&#xA;this jacket seems to invite utter&#xA;ruin to descend upon its bearer." ja="怨嗟の念に覆われた装束の一つ。&#xA;身に着けると災いが降りかかると云われる。" />
@@ -6563,7 +6583,7 @@
   <o id="10796" en="Experience point bonus: +100%&#xA;Maximum duration: 720 min.&#xA;Maximum bonus: 10000" ja="取得経験値ボーナス:+100%&#xA;最大効果時間:720分 最大ボーナス総量:10000" />
   <o id="10797" en="Attack+10 Ranged Attack+10 Enmity-1" ja="攻+10 飛攻+10 敵対心-1" />
   <o id="10798" en="HP+70 Enmity+5 &#xA;Enhances resistance against &quot;Death&quot;" ja="HP+70 敵対心+5 デス耐性" />
-  <o id="10799" en="STR+3  &quot;Double Attack&quot;+1% &quot;Slow&quot;+2%" ja="STR+3 ダブルアタック+1% スロウ+2%" />
+  <o id="10799" en="STR+3 &quot;Double Attack&quot;+1% &quot;Slow&quot;+2%" ja="STR+3 ダブルアタック+1% スロウ+2%" />
   <o id="10800" en="DEF:28 VIT+15 Evasion-6&#xA;Enhances &quot;Shield Def. Bonus&quot; effect" ja="防28 VIT+15 回避-6&#xA;エクストリームガード効果アップ" />
   <o id="10801" en="DEF:17 MP+50 MND+4" ja="防17 MP+50 MND+4" />
   <o id="10802" en="DEF:30 MP+30&#xA;Enhances &quot;Fast Cast&quot; effect" ja="防30 MP+30 ファストキャスト効果アップ" />
@@ -14272,8 +14292,8 @@
   <o id="18631" en="DMG:61 Delay:356 MP+110&#xA;&quot;Cure&quot; potency +15%&#xA;&quot;Cure&quot; spellcasting time -7%" ja="Ｄ61 隔356 MP+110 ケアル回復量+15%&#xA;ケアル詠唱時間-7%" />
   <o id="18632" en="DMG:40 Delay:366 STR+4 DEX+4 VIT+4&#xA;AGI+4 INT+4 MND+4 CHR+4&#xA;All elemental resistances +15&#xA;&quot;Cure&quot; potency +10%&#xA;MP recovered while healing +10&#xA;&quot;Iridescence&quot;" ja="Ｄ30 隔366 STR+4 DEX+4 VIT+4 AGI+4&#xA;INT+4 MND+4 CHR+4 全属性耐性+15&#xA;ケアル回復量+10% ヒーリングMP+10 イリデセンス" />
   <o id="18633" en="DMG:45 Delay:356 STR+5 DEX+5 VIT+5&#xA;AGI+5 INT+5 MND+5 CHR+5&#xA;All elemental resistances +20&#xA;&quot;Cure&quot; potency +10%&#xA;MP recovered while healing +10&#xA;&quot;Iridescence&quot;" ja="Ｄ35 隔356 STR+5 DEX+5 VIT+5 AGI+5&#xA;INT+5 MND+5 CHR+5 全属性耐性+20&#xA;ケアル回復量+10% ヒーリングMP+10 イリデセンス" />
-  <o id="18634" en="DMG:80 Delay:366 &#xA;Fire elemental magic accuracy+25&#xA;Fire elemental &quot;Magic Atk. Bonus&quot;+25&#xA;Wind elemental magic accuracy+25&#xA;Wind elemental &quot;Magic Atk. Bonus&quot;+25" ja="Ｄ80 隔366 火属性魔命+25&#xA;火属性魔攻+25 風属性魔命+25&#xA;風属性魔攻+25" />
-  <o id="18635" en="DMG:8１ Delay:366 &#xA;Fire elemental magic accuracy+28&#xA;Fire elemental &quot;Magic Atk. Bonus&quot;+28&#xA;Wind elemental magic accuracy+28&#xA;Wind elemental &quot;Magic Atk. Bonus&quot;+28" ja="Ｄ81 隔356 火属性魔命+28&#xA;火属性魔攻+28 風属性魔命+28&#xA;風属性魔攻+28" />
+  <o id="18634" en="DMG:80 Delay:366 &#xA;Fire elemental Magic Accuracy+25&#xA;Fire elemental &quot;Magic Atk. Bonus&quot;+25&#xA;Wind elemental Magic Accuracy+25&#xA;Wind elemental &quot;Magic Atk. Bonus&quot;+25" ja="Ｄ80 隔366 火属性魔命+25&#xA;火属性魔攻+25 風属性魔命+25&#xA;風属性魔攻+25" />
+  <o id="18635" en="DMG:81 Delay:366 &#xA;Fire elemental Magic Accuracy+28&#xA;Fire elemental &quot;Magic Atk. Bonus&quot;+28&#xA;Wind elemental Magic Accuracy+28&#xA;Wind elemental &quot;Magic Atk. Bonus&quot;+28" ja="Ｄ81 隔356 火属性魔命+28&#xA;火属性魔攻+28 風属性魔命+28&#xA;風属性魔攻+28" />
   <o id="18637" en="DMG:+40 Delay:+86 Attack+30&#xA;Enhances &quot;Counter&quot; effect III&#xA;&quot;Final Heaven&quot;" ja="Ｄ+40 隔+86 攻+30 カウンター効果アップIII&#xA;ファイナルヘヴン" />
   <o id="18638" en="DMG:46 Delay:176 Attack+30&#xA;&quot;Mercy Stroke&quot;&#xA;Additional effect: Poison" ja="Ｄ46 隔176 攻+30 マーシーストローク&#xA;追加効果:毒" />
   <o id="18639" en="DMG:60 Delay:233 Attack+30&#xA;&quot;Knights of Round&quot;&#xA;Additional effect:&#xA;Damage varies with HP " ja="Ｄ60 隔233 攻+30 ナイツオブラウンド&#xA;追加効果:自分のHPに比例したダメージ" />
@@ -15662,6 +15682,7 @@
   <o id="20652" en="DMG:117 Delay:236 Magic Accuracy+25&#xA;Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;Occ. converts damage dealt to MP V&#xA;&quot;Expiacion&quot;&#xA;Aftermath: Increases Acc./Magic Acc.&#xA;Occasionally attacks twice or thrice&#xA;Afterglow" ja="Ｄ117 隔236 魔命+25 片手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+228&#xA;与ダメージを時々MPに変換V エクスピアシオン&#xA;アフターマス:命中+/魔命+/時々2-3回攻撃&#xA;アフターグロウ" />
   <o id="20653" en="DMG:114 Delay:224 DEX+20&#xA;Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;&quot;Chant du Cygne&quot;&#xA;Aftermath: Occ. deals double damage" ja="Ｄ114 隔224 DEX+20 片手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;シャンデュシニュ アフターマス:時々2倍撃" />
   <o id="20654" en="DMG:114 Delay:224 DEX+20&#xA;Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;&quot;Chant du Cygne&quot;&#xA;Aftermath: Occ. deals double damage&#xA;Afterglow" ja="Ｄ114 隔224 DEX+20 片手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;シャンデュシニュ アフターマス:時々2倍撃&#xA;アフターグロウ" />
+  <o id="20717" en="DMG:119 Delay:224&#xA;Accuracy+27 Magic Accuracy+15&#xA;Magic Damage+90 Evasion+13&#xA;Sword skill +228&#xA;Parrying skill +228&#xA;Enhancing magic skill +10&#xA;Enfeebling magic skill +10&#xA;Magic Accuracy skill +188&#xA;&quot;Occult Acumen&quot;+30" ja="Ｄ119 隔224 命中+27 魔命+15&#xA;魔法ダメージ+90 回避+13 片手剣スキル+228&#xA;受け流しスキル+228 強化魔法スキル+10&#xA;弱体魔法スキル+10 魔命スキル+188&#xA;マジックアキュメン+30" />
   <o id="20718" en="DMG:142 Delay:270&#xA;Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188" ja="Ｄ142 隔270 片手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+188" />
   <o id="20719" en="DMG:126 Delay:247 Attack+23&#xA;Sword skill +203&#xA;Parrying skill +203&#xA;Magic Accuracy skill +167&#xA;Reives: &quot;Save TP&quot;+400&#xA;Occasionally attacks twice" ja="Ｄ126 隔247 攻+23 片手剣スキル+203&#xA;受け流しスキル+203 魔命スキル+167&#xA;レイヴ:セーブTP+400 時々2回攻撃" />
   <o id="20720" en="DMG:124 Delay:236 Magic Damage+70&#xA;Sword skill +242 Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;Enmity -10&#xA;&quot;Phalanx&quot; damage reduction +2&#xA;Sword enhancement spell damage +10" ja="Ｄ124 隔236 魔法ダメージ+70&#xA;片手剣スキル+242 受け流しスキル+242&#xA;魔命スキル+188 敵対心-10&#xA;ファランクスのダメージカット+2 魔法剣ダメージ+10" />
@@ -15698,6 +15719,7 @@
   <o id="20751" en="DMG:228 Delay:489&#xA;Great Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;Physical damage taken II -2%" ja="Ｄ228 隔489 両手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;被物理ダメージII-2%" />
   <o id="20752" en="DMG:231 Delay:489&#xA;Great Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;Enmity+10&#xA;Physical damage taken II -3%" ja="Ｄ231 隔489 両手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;敵対心+10 被物理ダメージII-3%" />
   <o id="20753" en="DMG:243 Delay:489&#xA;Great Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;Enmity+18&#xA;&quot;Liement&quot; effect extends to an area&#xA;Physical damage taken II -25%&#xA;Dimidiation&#xA;Aftermath: Increases accuracy and attack&#xA;Occasionally attacks twice or thrice" ja="Ｄ243 隔489 両手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;敵対心+18 リエモン範囲化 被物理ダメージII-25%&#xA;デミディエーション&#xA;アフターマス:命中+/攻撃+/時々2-3回攻撃" />
+  <o id="20758" en="DMG:273 Delay:504&#xA;STR+13 Attack+35&#xA;Great Sword skill +228&#xA;Parrying skill +228&#xA;Magic Accuracy skill +188&#xA;&quot;Weapon Bash&quot;+30&#xA;&quot;Absorb&quot; potency +10%" ja="Ｄ273 隔504 STR+13 攻+35&#xA;両手剣スキル+228 受け流しスキル+228&#xA;魔命スキル+188 ウェポンバッシュ+30&#xA;アブゾ吸収量+10%" />
   <o id="20759" en="DMG:268 Delay:510&#xA;Great Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188" ja="Ｄ268 隔510 両手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+188" />
   <o id="20760" en="DMG:228 Delay:444&#xA;Great Sword skill +215&#xA;Parrying skill +215&#xA;Magic Accuracy skill +167&#xA;Reives: &quot;Save TP&quot;+400&#xA;Occasionally attacks twice" ja="Ｄ228 隔444 両手剣スキル+215&#xA;受け流しスキル+215 魔命スキル+167&#xA;レイヴ:セーブTP+400 時々2回攻撃" />
   <o id="20761" en="DMG:263 Delay:480&#xA;Great Sword skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;Enmity+10 &quot;Lunge&quot;+10&#xA;Physical damage taken II -5%" ja="Ｄ263 隔480 両手剣スキル+242&#xA;受け流しスキル+242 魔命スキル+188&#xA;敵対心+10 ランジ効果+10 被物理ダメージII-5%" />
@@ -15768,7 +15790,7 @@
   <o id="20840" en="DMG:245 Delay:482 STR+20&#xA;Great Axe skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;&quot;Ukko's Fury&quot;&#xA;Aftermath: Occ. deals double damage&#xA;Afterglow" ja="Ｄ245 隔482 STR+20 両手斧スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;ウッコフューリー アフターマス:時々2倍撃&#xA;アフターグロウ" />
   <o id="20857" en="DMG:286 Delay:545&#xA;Great Axe skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188" ja="Ｄ286 隔545 両手斧スキル+242&#xA;受け流しスキル+242 魔命スキル+188" />
   <o id="20858" en="DMG:273 Delay:504 STR+7 VIT+7&#xA;Accuracy+20&#xA;Great Axe skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;&quot;Store TP&quot;+5&#xA;Additional effect: Death" ja="Ｄ273 隔504 STR+7 VIT+7 命中+20&#xA;両手斧スキル+242 受け流しスキル+242&#xA;魔命スキル+188 ストアTP+5 追加効果:デス" />
-  <o id="20859" en="DMG:259 Delay:504 Great Axe skill +215&#xA;Parrying skill +215&#xA;Magic Accuracy skill +167&#xA;Reives: &quot;Conserve TP&quot;+400&#xA;Occasionally attacks twice" ja="Ｄ259 隔504 両手斧スキル+215&#xA;受け流しスキル+215 魔命スキル+167&#xA;レイヴ:セーブTP+400 時々2回攻撃" />
+  <o id="20859" en="DMG:259 Delay:504 Great Axe skill +215&#xA;Parrying skill +215&#xA;Magic Accuracy skill +167&#xA;Reives: &quot;Save TP&quot;+400&#xA;Occasionally attacks twice" ja="Ｄ259 隔504 両手斧スキル+215&#xA;受け流しスキル+215 魔命スキル+167&#xA;レイヴ:セーブTP+400 時々2回攻撃" />
   <o id="20860" en="DMG:274 Delay:504 Attack+15&#xA;Great Axe skill +242 Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;Enmity-10 &quot;Double Attack&quot;+4%" ja="Ｄ274 隔504 攻+15 両手斧スキル+242&#xA;受け流しスキル+242 魔命スキル+188&#xA;敵対心-10 ダブルアタック+4%" />
   <o id="20861" en="DMG:272 Delay:504 STR+12 VIT+12&#xA;Great Axe skill +242 Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;&quot;Retaliation&quot;+20&#xA;Physical damage taken -5%" ja="Ｄ272 隔504 STR+12 VIT+12&#xA;両手斧スキル+242 受け流しスキル+242&#xA;魔命スキル+188 リタリエーション+20&#xA;被物理ダメージ-5%" />
   <o id="20862" en="DMG:268 Delay:504 VIT+3 Attack+5&#xA;Great Axe skill +242 Parrying skill +242&#xA;Magic Accuracy skill +188" ja="Ｄ268 隔504 VIT+3 攻+5 両手斧スキル+242&#xA;受け流しスキル+242 魔命スキル+188" />
@@ -15823,6 +15845,7 @@
   <o id="20928" en="DMG:245 Delay:492&#xA;Polearm skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;Augments jump attacks V&#xA;&quot;Drakesbane&quot;&#xA;Aftermath (Incl. Wyvern):&#xA;Increases Acc./Atk.&#xA;Occasionally attacks twice or thrice&#xA;Afterglow" ja="Ｄ245 隔492 両手槍スキル+242&#xA;受け流しスキル+242 魔命スキル+215 &#xA;ジャンプ性能アップV 雲蒸竜変&#xA;アフターマス（飛竜含む）:命中+/攻+/時々2-3回攻撃&#xA;アフターグロウ" />
   <o id="20929" en="DMG:250 Delay:492 VIT+20&#xA;Polearm skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;&quot;Camlann's Torment&quot;&#xA;Aftermath: Occ. deals double damage" ja="Ｄ250 隔492 VIT+20 両手槍スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;カムラン アフターマス:時々2倍撃" />
   <o id="20930" en="DMG250 Delay:492 VIT+20&#xA;Polearm skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;&quot;Camlann's Torment&quot;&#xA;Aftermath: Occ. deals double damage&#xA;Afterglow" ja="Ｄ250 隔492 VIT+20 両手槍スキル+242&#xA;受け流しスキル+242 魔命スキル+215&#xA;カムラン アフターマス:時々2倍撃 アフターグロウ" />
+  <o id="20945" en="DMG:207 Delay:396&#xA;HP+20 MP+20&#xA;Accuracy+17&#xA;Polearm skill +228&#xA;Parrying skill +228&#xA;Magic Accuracy skill +188&#xA;Enmity+5 &quot;Store TP&quot;+3" ja="Ｄ207 隔396 HP+20 MP+20 命中+17&#xA;両手槍スキル+228 受け流しスキル+228&#xA;魔命スキル+188 敵対心+5 ストアTP+3" />
   <o id="20946" en="DMG:277 Delay:528&#xA;Polearm skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188" ja="Ｄ277 隔528 両手槍スキル+242&#xA;受け流しスキル+242 魔命スキル+188" />
   <o id="20947" en="DMG:252 Delay:492&#xA;Polearm skill +215&#xA;Parrying skill +215&#xA;Magic Accuracy skill +167&#xA;Reives: &quot;Save TP&quot;+400&#xA;Occasionally attacks twice" ja="Ｄ252 隔492 両手槍スキル+215&#xA;受け流しスキル+215 魔命スキル+167&#xA;レイヴ:セーブTP+400 時々2回攻撃" />
   <o id="20948" en="DMG:269 Delay:492 Polearm skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;Enmity-10 &quot;Store TP&quot;+6&#xA;Jump: &quot;Double Attack&quot;+3%" ja="Ｄ269 隔492 両手槍スキル+242&#xA;受け流しスキル+242 魔命スキル+188&#xA;敵対心-10 ストアTP+6 ジャンプ:ダブルアタック+3%" />
@@ -15918,6 +15941,7 @@
   <o id="21068" en="DMG:131 Delay:280&#xA;Magic Damage+155&#xA;Club skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;Luopan: Damage taken -2%" ja="Ｄ131 隔280 魔法ダメージ+155&#xA;片手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+228 羅盤:被ダメージ-2%" />
   <o id="21069" en="DMG:133 Delay:280&#xA;Magic Accuracy+5&#xA;&quot;Magic Atk. Bonus&quot;+5&#xA;Magic Damage+155&#xA;Club skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;Luopan: Damage taken -3%" ja="Ｄ133 隔280 魔命+5 魔攻+5&#xA;魔法ダメージ+155 片手棍スキル+242&#xA;受け流しスキル+242 魔命スキル+228&#xA;羅盤:被ダメージ-3%" />
   <o id="21070" en="DMG:139 Delay:280&#xA;Magic Accuracy+25&#xA;&quot;Magic Atk. Bonus&quot;+25&#xA;Magic Damage+155&#xA;Club skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;Geomancy +10&#xA;Luopan: Damage taken -25%&#xA;Exudation&#xA;Aftermath: Increases Magic Accuracy and &quot;Magic Atk. Bonus&quot;&#xA;Occasionally attacks twice or thri" ja="Ｄ139 隔280 魔命+25 魔攻+25&#xA;魔法ダメージ+155 片手棍スキル+242&#xA;受け流しスキル+242 魔命スキル+228&#xA;風水魔法+10 羅盤:被ダメージ-25%&#xA;エクズデーション&#xA;アフターマス:魔命+/魔攻+/時々2-3回攻撃" />
+  <o id="21104" en="DMG:130 Delay:264&#xA;INT+6 MND+6&#xA;Magic Accuracy+10&#xA;Magic Damage+100&#xA;Club skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +215" ja="Ｄ130 隔264 INT+6 MND+6 魔命+10&#xA;魔法ダメージ+100 片手棍スキル+242&#xA;受け流しスキル+242 魔命スキル+215" />
   <o id="21105" en="DMG:184 Delay:352 INT+6 MND+6&#xA;Accuracy+27 Magic Damage+130&#xA;Club skill +228&#xA;Parrying skill +228&#xA;Magic Accuracy skill +188" ja="Ｄ184 隔352 INT+6 MND+6 命中+27&#xA;魔法ダメージ+130 片手棍スキル+228 &#xA;受け流しスキル+228 魔命スキル+188" />
   <o id="21107" en="DMG:1 Delay:216" ja="Ｄ1 隔216" />
   <o id="21108" en="DMG:2 Delay:210&#xA;Fire weather:&#xA;Occasionally attacks twice or thrice" ja="Ｄ2 隔210 火属性天候:時々2-3回攻撃" />
@@ -15957,6 +15981,7 @@
   <o id="21142" en="DMG:200 Delay:402 Accuracy+30&#xA;Magic Damage+217&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +255&#xA;Avatar perpetuation cost -8&#xA;Avatar: Lv+2&#xA;Increases &quot;Blood Pact&quot; damage&#xA;&quot;Garland of Bliss&quot;&#xA;Aftermath (Incl. Avatars):&#xA;Increases Accuracy and Attack&#xA;Occasionally attac" ja="Ｄ200 隔402 命中+30 魔法ダメージ+217&#xA;両手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+255 召喚獣維持費-8 召喚獣:Lv+2&#xA;契約の履行ダメージアップ ガーランドオブブリス&#xA;アフターマス（召喚獣含む）:命中+/攻+/時々2-3回攻撃&#xA;アフターグロウ" />
   <o id="21143" en="DMG:198 Delay:390 MP+150&#xA;Magic Damage+248&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +255&#xA;&quot;Myrkr&quot;&#xA;Aftermath: Occ. deals double damage" ja="Ｄ198 隔390 MP+150 魔法ダメージ+248&#xA;両手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+255 ミルキル&#xA;アフターマス:時々2倍撃" />
   <o id="21144" en="DMG:198 Delay:390 MP+150&#xA;Magic Damage+248&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +255&#xA;&quot;Myrkr&quot;&#xA;Aftermath: Occ. deals double damage&#xA;Afterglow" ja="Ｄ198 隔390 MP+150 魔法ダメージ+248&#xA;両手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+255 ミルキル&#xA;アフターマス:時々2倍撃 アフターグロウ" />
+  <o id="21168" en="DMG:220 Delay:412&#xA;Accuracy+23 Attack+8&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;Enmity+5&#xA;Physical damage taken -7%" ja="Ｄ220 隔412 命中+23 攻+8&#xA;両手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+188 敵対心+5 被物理ダメージ-7%" />
   <o id="21169" en="DMG:228 Delay:435 INT+12 MND+12&#xA;&quot;Magic Atk. Bonus&quot;+28&#xA;Magic Damage+217&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;Avatar: Magic Accuracy+20&#xA;&quot;Magic Atk. Bonus&quot;+100" ja="Ｄ228 隔435 INT+12 MND+12 魔攻+28&#xA;魔法ダメージ+217 両手棍スキル+242&#xA;受け流しスキル+242 魔命スキル+228&#xA;召喚獣:魔命+20 魔攻+100" />
   <o id="21170" en="DMG:223 Delay:412 Accuracy+18&#xA;Attack+18&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;&quot;Double Attack&quot;+2%&#xA;&quot;Store TP&quot;+7" ja="Ｄ223 隔412 命中+18 攻+18&#xA;両手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+188 ダブルアタック+2% ストアTP+7" />
   <o id="21171" en="DMG:188 Delay:366 INT+12&#xA;MND+12 &quot;Magic Atk. Bonus&quot;+25&#xA;Magic Damage+195&#xA;Staff skill +215&#xA;Parrying skill +215&#xA;Magic Accuracy skill +203&#xA;Reives: Magic Accuracy+16&#xA;&quot;Magic Atk. Bonus&quot;+70" ja="Ｄ188 隔366 INT+12 MND+12 魔攻+25&#xA;魔法ダメージ+195 両手棍スキル+215&#xA;受け流しスキル+215 魔命スキル+203&#xA;レイヴ:魔命+16 魔攻+70" />
@@ -16093,6 +16118,13 @@
   <o id="21340" en="DMG:30 Delay:286 Accuracy+5&#xA;Ranged Accuracy+5" ja="Ｄ30 隔286 命中+5 飛命+5" />
   <o id="21341" en="MND+4 Magic Accuracy+1" ja="MND+4 魔命+1" />
   <o id="21342" en="&quot;Magic Atk. Bonus&quot;+3 Enmity-2" ja="魔攻+3 敵対心-2" />
+  <o id="21359" en="MP+15 MND+4&#xA;Enfeebling magic skill +4" ja="MP+15 MND+4 弱体魔法スキル+4" />
+  <o id="21360" en="Magic Accuracy+3 Evasion-10&#xA;Enmity-4" ja="魔命+3 回避-10 敵対心-4" />
+  <o id="21361" en="Enmity-5 &quot;Blood Boon&quot;+3&#xA;&quot;Elemental Siphon&quot;+20&#xA;Pet: &quot;Magic Atk. Bonus&quot;+6" ja="敵対心-5 ブラッドブーン+3&#xA;エレメントサイフォン+20 ペット:魔攻+6" />
+  <o id="21362" en="MP+30 INT+6&#xA;Magic Accuracy+3&#xA;&quot;Conserve MP&quot;+4" ja="MP+30 INT+6 魔命+3 コンサーブMP+4" />
+  <o id="21363" en="Accuracy+10 Attack+10&#xA;Haste+2% &quot;Store TP&quot;-3" ja="命中+10 攻+10 ヘイスト+2% ストアTP-3" />
+  <o id="21364" en="MP+35 Magic Accuracy+4&#xA;&quot;Magic Atk. Bonus&quot;+4 Enmity-2" ja="MP+35 魔命+4 魔攻+4 敵対心-2" />
+  <o id="21365" en="HP+40 Accuracy+6&#xA;Attack+6 &quot;Double Attack&quot;+1%" ja="HP+40 命中+6 攻+6 ダブルアタック+1%" />
   <o id="21367" en="AGI+3 &quot;Subtle Blow&quot;+3&#xA;Daytime: Accuracy+15 Attack+15" ja="AGI+3 モクシャ+3 日中:命中+15 攻+15" />
   <o id="21368" en="DMG:65 Delay:286 +12&#xA;Throwing skill +242&#xA;Additional effect: Blind" ja="Ｄ65 隔286 耐火+12 投てきスキル+242&#xA;追加効果:暗闇" />
   <o id="21369" en="Enchantment: Mog Garden Jetsam" ja="エンチャント:モグガーデンに流れ着いたもの。" />
@@ -16130,6 +16162,12 @@
   <o id="21427" en="Accuracy+6 &quot;Store TP&quot;+6" ja="命中+6 ストアTP+6" />
   <o id="21428" en="HP+50 Accuracy+10 Attack+10" ja="HP+50 命中+10 攻+10 " />
   <o id="21429" en="Magic Accuracy+5&#xA;Enfeebling magic skill +5" ja="魔命+5 弱体魔法スキル+5" />
+  <o id="21444" en="Calls Warlike Patrick." ja="『迎撃のパトリック』を呼び寄せます。 " />
+  <o id="21445" en="Calls Rhyming Shizuna." ja="『数え歌のシズナ』を呼び寄せます。 " />
+  <o id="21446" en="Calls Amiable Roche." ja="『不敵なロシェ』を呼び寄せます。 " />
+  <o id="21447" en="Calls Brainy Waluis." ja="『頭脳派のワルイーズ』を呼び寄せます。 " />
+  <o id="21448" en="Calls Hurler Percival." ja="『投擲のパーシヴァル』を呼び寄せます。 " />
+  <o id="21449" en="Calls Generous Arthur." ja="『博愛のアーサー』を呼び寄せます。 " />
   <o id="21452" en="An animator crafted with ancient techniques that modern man cannot possibly hope to replicate." ja="失われた技術で作られたストリンガー。&#xA;現在の技術では再現できない。" />
   <o id="21453" en="An animator crafted in secret by the A.M.A.N. It makes full use of technologies cultivated throughout Vana'diel." ja="冒険者互助会が密かに開発したストリンガー。&#xA;様々な国の技術が集められている。" />
   <o id="21454" en="An improved version of the animator, refined and bolstered by the Inventors' Coalition in Adoulin." ja="インベンター・ワークスで作られたストリンガー。&#xA;従来のストリンガーとは異なる操作法に&#xA;なっている。" />
@@ -16139,6 +16177,8 @@
   <o id="21462" en="Geomancy +3" ja="風水魔法+3" />
   <o id="21463" en="Geomancy +5" ja="風水魔法+5" />
   <o id="21476" en="DMG:120 Delay:680&#xA;Marksmanship skill +242" ja="Ｄ120 隔680 射撃スキル+242" />
+  <o id="21478" en="DMG:131 Delay:432&#xA;Ranged Attack+18&#xA;Marksmanship skill +228&#xA;&quot;True Shot&quot;+2 &quot;Store TP&quot;+6" ja="Ｄ131 隔432 飛攻+18 射撃スキル+228&#xA;トゥルーショット+2 ストアTP+6" />
+  <o id="21479" en="DMG:104 Delay:288&#xA;Ranged Accuracy+5&#xA;Ranged Attack+15&#xA;Marksmanship skill +242&#xA;&quot;Recycle&quot;+15" ja="Ｄ104 隔288 飛命+5 飛攻+15&#xA;射撃スキル+242 リサイクル+15" />
   <o id="26624" en="DEF:82 HP+18 STR+19 DEX+12 VIT+19&#xA;AGI+12 INT+12 MND+12 CHR+12&#xA;Attack+18 Evasion+16&#xA;Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Parrying skill +15 Haste+7%&#xA;&quot;Warcry&quot; effect duration +25" ja="防82 HP+18 STR+19 DEX+12 VIT+19&#xA;AGI+12 INT+12 MND+12 CHR+12 攻+18&#xA;回避+16 魔回避+36 魔防+1 受け流しスキル+15&#xA;ヘイスト+7% ウォークライ効果時間+25" />
   <o id="26625" en="DEF:115 HP+38 STR+25 DEX+18 VIT+25&#xA;AGI+18 INT+18 MND+18 CHR+18&#xA;Attack+21 Evasion+36&#xA;Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Parrying skill +17 Haste+8%&#xA;&quot;Warcry&quot; effect duration +30" ja="防115 HP+38 STR+25 DEX+18 VIT+25&#xA;AGI+18 INT+18 MND+18 CHR+18 攻+21&#xA;回避+36 魔回避+53 魔防+2 受け流しスキル+17&#xA;ヘイスト+8% ウォークライ効果時間+30" />
   <o id="26626" en="DEF:60 HP+63 STR+14 DEX+14 VIT+16&#xA;AGI+10 INT+9 MND+9 CHR+9&#xA;Evasion+17 Magic Evasion+29&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+7%&#xA;Enmity-5 &quot;Subtle Blow&quot;+9" ja="防60 HP+63 STR+14 DEX+14 VIT+16&#xA;AGI+10 INT+9 MND+9 CHR+9 回避+17&#xA;魔回避+29 魔防+2 ヘイスト+7% 敵対心-5 モクシャ+9" />
@@ -16185,6 +16225,14 @@
   <o id="26667" en="DEF:104 HP+36 MP+68 STR+13 DEX+17&#xA;VIT+20 AGI+24 INT+13 MND+13 CHR+14&#xA;Evasion+44 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+8%&#xA;Physical damage taken -4%&#xA;&quot;Phalanx&quot;+5" ja="防104 HP+36 MP+68 STR+13 DEX+17&#xA;VIT+20 AGI+24 INT+13 MND+13 CHR+14&#xA;回避+44 魔回避+53 魔防+2 ヘイスト+8%&#xA;被物理ダメージ-4% ファランクス+5" />
   <o id="26693" en="DEF:1" ja="防1" />
   <o id="26694" en="DEF:2&#xA;Enchantment: Costume" ja="防2 エンチャント:コスチューム" />
+  <o id="26695" en="DEF:98 HP+34 MP+23 STR+20 DEX+18&#xA;VIT+14 AGI+24 INT+20 MND+14 CHR+16&#xA;&quot;Magic Atk. Bonus&quot;+6&#xA;Evasion+53 Magic Evasion+52&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+8%&#xA;Damage taken -2%" ja="防98 HP+34 MP+23 STR+20 DEX+18&#xA;VIT+14 AGI+24 INT+20 MND+14 &#xA;CHR+16 魔攻+6 回避+53 魔回避+52 魔防+2 &#xA;ヘイスト+8% 被ダメージ-2%" />
+  <o id="26696" en="HP-35 MP+120 INT+27&#xA;Dark Elemental &quot;Magic Atk. Bonus&quot;+28" ja="HP-35 MP+120 INT+27 闇属性魔攻+28" />
+  <o id="26697" en="DEF:92 HP+34 MP+51 STR+13 DEX+13&#xA;VIT+13 AGI+13 INT+18 MND+18 CHR+18&#xA;Evasion+34 Magic Evasion+72&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+6%&#xA;&quot;Blood Pact&quot; ability delay -9&#xA;Avatar perpetuation cost -2" ja="防92 HP+34 MP+51 STR+13 DEX+13&#xA;VIT+13 AGI+13 INT+18 MND+18 CHR+18&#xA;回避+34 魔回避+72 魔防+5 ヘイスト+6%&#xA;契約の履行使用間隔-9 召喚獣維持費-2" />
+  <o id="26698" en="DEF:110 HP+38 MP+23 STR+22 DEX+16&#xA;VIT+26 AGI+16 INT+15 MND+15 CHR+15&#xA;Evasion+17 Magic Evasion+31&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+8%&#xA;Physical damage taken -4%" ja="防110 HP+38 MP+23 STR+22 DEX+16&#xA;VIT+26 AGI+16 INT+15 MND+15 CHR+15&#xA;回避+17 魔回避+31 ヘイスト+8% 魔防+2&#xA;被物理ダメージ-4%" />
+  <o id="26699" en="DEX+24 AGI+24&#xA;Accuracy+20 Evasion+20&#xA;Breath damage taken -4%" ja="DEX+24 AGI+24 命中+20 回避+20&#xA;被ブレスダメージ-4%" />
+  <o id="26700" en="DEF:111 HP+93 MP+23 STR+27 DEX+9&#xA;VIT+27 AGI+9 INT+8 MND+8 CHR+8&#xA;+25 Evasion+31 Magic Evasion+31&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+7%&#xA;Occasionally absorbs water elemental&#xA;damage" ja="防111 HP+93 MP+23 STR+27 DEX+9&#xA;VIT+27 AGI+9 INT+8 MND+8 CHR+8&#xA;耐水+25 回避+31 魔回避+31 魔防+2 ヘイスト+7%&#xA;時々被水属性ダメージ吸収" />
+  <o id="26701" en="DEF:97 HP+34 MP+23 STR+20 DEX+21&#xA;VIT+20 AGI+21 INT+17 MND+17 CHR+19&#xA;Evasion+41 Magic Evasion+52&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Guarding skill +10 Haste+8%&#xA;&quot;Counter&quot;+3 &quot;Regen&quot;+1" ja="防97 HP+34 MP+23 STR+20 DEX+21&#xA;VIT+20 AGI+21 INT+17 MND+17 CHR+19&#xA;回避+41 魔回避+52 魔防+2 ガードスキル+10&#xA;ヘイスト+8% カウンター+3 リジェネ+1" />
+  <o id="26702" en="DEF:110 HP+115 MP+23 STR+21 DEX+25&#xA;VIT+21 AGI+25 INT+18 MND+18 CHR+19&#xA;Accuracy+25 Attack+25&#xA;Evasion+44 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+8%&#xA;Elemental weapon skill damage +30&#xA;depending on day" ja="防110 HP+115 MP+23 STR+21 DEX+25&#xA;VIT+21 AGI+25 INT+18 MND+18 CHR+19&#xA;命中+25 攻+25 回避+44 魔回避+53 魔防+2&#xA;ヘイスト+8% 曜日:属性ウェポンスキルのダメージ+30" />
   <o id="26800" en="DEF:104 HP+29 STR+17 DEX+16 VIT+17&#xA;AGI+11 INT+11 MND+11 CHR+11&#xA;Accuracy+17 Attack+17&#xA;Evasion+20 Magic Evasion+43&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+4%&#xA;&quot;Aggressor&quot; duration +15" ja="防104 HP+29 STR+17 DEX+16 VIT+17&#xA;AGI+11 INT+11 MND+11 CHR+11 命中+17&#xA;攻+17 回避+20 魔回避+43 魔防+2 ヘイスト+4%&#xA;アグレッサー効果時間+15" />
   <o id="26801" en="DEF:145 HP+61 STR+26 DEX+25 VIT+26&#xA;AGI+20 INT+20 MND+20 CHR+20&#xA;Accuracy+20 Attack+20&#xA;Evasion+44 Magic Evasion+64&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+4%&#xA;&quot;Aggressor&quot; duration +20" ja="防145 HP+61 STR+26 DEX+25 VIT+26&#xA;AGI+20 INT+20 MND+20 CHR+20 命中+20 &#xA;攻+20 回避+44 魔回避+64 魔防+5 ヘイスト+4%&#xA;アグレッサー効果時間+20" />
   <o id="26802" en="DEF:85 HP+79 STR+15 DEX+16 VIT+17&#xA;AGI+20 INT+15 MND+15 CHR+15 Evasion+24 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+4%&#xA;&quot;Counter&quot;+2 &quot;Regen&quot;+2" ja="防85 HP+79 STR+15 DEX+16 VIT+17&#xA;AGI+20 INT+15 MND+15 CHR+15 回避+24&#xA;魔回避+36 魔防+2 ヘイスト+4% カウンター+2&#xA;リジェネ+2" />
@@ -16377,10 +16425,16 @@
   <o id="27577" en="HP+35 CHR+9 +16&#xA;Magic Accuracy+4" ja="HP+35 CHR+9 耐光+16 魔命+4" />
   <o id="27578" en="MP+50 +15 Magic Accuracy+2&#xA;&quot;Magic Atk. Bonus&quot;+2" ja="MP+50 耐闇+15 魔命+2 魔攻+2" />
   <o id="27579" en="MP+55 +16 Magic Accuracy+3&#xA;&quot;Magic Atk. Bonus&quot;+3&#xA;Magic Damage+5" ja="MP+55 耐闇+16 魔命+3 魔攻+3&#xA;魔法ダメージ+5" />
+  <o id="27595" en="DEF:13 Attack+12&#xA;&quot;Magic Atk. Bonus&quot;+12 Pet: Attack+12&#xA;Ranged Attack+12&#xA;&quot;Magic Atk. Bonus&quot;+12" ja="防13 攻+12 魔攻+12&#xA;ペット:攻+12 飛攻+12 魔攻+12" />
+  <o id="27596" en="DEF:1" ja="防1" />
   <o id="27624" en="DEF:50 Shield skill +100&#xA;Reives: Chance of successful block +10&#xA;Magic damage taken -45%" ja="防50 盾スキル+100&#xA;レイヴ:盾発動率+10 被魔法ダメージ-45%" />
   <o id="27625" en="DEF:1" ja="防1" />
   <o id="27626" en="DEF:2&#xA;Dispense: Feminine Wiles" ja="防2 ストック:乙女の心" />
   <o id="27627" en="DEF:65 Shield skill +112&#xA;Enmity+7" ja="防65 盾スキル+112 敵対心+7" />
+  <o id="27629" en="DEF:38 -10 -10 -10&#xA;-10 -10 -10&#xA;-10 -10 Shield skill +106&#xA;Physical damage taken -10%&#xA;Magic damage taken -25%" ja="防38 耐火-10 耐氷-10 耐風-10 耐土-10&#xA;耐雷-10 耐水-10 耐光-10 耐闇-10&#xA;盾スキル+106 被物理ダメージ-10%&#xA;被魔法ダメージ-25%" />
+  <o id="27630" en="DEF:33 HP+21 MP+29&#xA;Magic Accuracy+10&#xA;&quot;Magic Atk. Bonus&quot;+10 Evasion+10&#xA;Shield skill +101 Haste+2%&#xA;&quot;Conserve MP&quot;+4" ja="防33 HP+21 MP+29 魔命+10 魔攻+10&#xA;回避+10 盾スキル+101 ヘイスト+2%&#xA;コンサーブMP+4" />
+  <o id="27631" en="DEF:1" ja="防1" />
+  <o id="27632" en="DEF:2 Cait Sith's Favor" ja="防2 ケットシーの加護" />
   <o id="27648" en="DEF:51 HP+4% MP+4% Accuracy+15&#xA;Attack+40 Haste+6%&#xA;Set: Enhances &quot;Double Attack&quot; effect" ja="防51 HP+4% MP+4% 命中+15 攻+40&#xA;ヘイスト+6%&#xA;コンビネーション:ダブルアタック+" />
   <o id="27649" en="DEF:37 DEX+13 AGI+13 Attack+10&#xA;Ranged Attack+10 &quot;Store TP&quot;+4 Haste+7%&#xA;Set: Increases rate of critical hits" ja="防37 DEX+13 AGI+13 攻+10 飛攻+10&#xA;ストアTP+4 ヘイスト+7%&#xA;コンビネーション:クリティカルヒット+" />
   <o id="27650" en="DEF:41 STR+9 AGI+9 Accuracy+10&#xA;Evasion+10 &quot;Double Attack&quot;+4%&#xA;Haste+5%&#xA;Set: Enhances Haste effect" ja="防41 STR+9 AGI+9 命中+10 回避+10&#xA;ダブルアタック+4% ヘイスト+5%&#xA;コンビネーション:ヘイスト+" />
@@ -16580,6 +16634,7 @@
   <o id="27848" en="DEF:123 HP+54 MP+109 STR+21 DEX+21&#xA;VIT+21 AGI+21 INT+34 MND+29 CHR+29&#xA;Evasion+41 Magic Evasion+80&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+3% &quot;Refresh&quot;+2&#xA;&quot;Dark Arts&quot;+20" ja="防123 HP+54 MP+109 STR+21 DEX+21&#xA;VIT+21 AGI+21 INT+34 MND+29 CHR+29&#xA;回避+41 魔回避+80 魔防+6 ヘイスト+3%&#xA;リフレシュ+2 黒のグリモア+20" />
   <o id="27849" en="DEF:127 HP+54 MP+85 STR+21 DEX+21&#xA;VIT+21 AGI+21 INT+29 MND+29 CHR+29&#xA;Evasion+41 Magic Evasion+80&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Dark magic skill +17&#xA;Haste+3% &quot;Refresh&quot;+2&#xA;&quot;Life Cycle&quot;+10" ja="防127 HP+54 MP+85 STR+21 DEX+21&#xA;VIT+21 AGI+21 INT+29 MND+29 CHR+29&#xA;回避+41 魔回避+80 魔防+6 暗黒魔法スキル+17&#xA;ヘイスト+3% リフレシュ+2 ライフサイクル+10" />
   <o id="27850" en="DEF:135 HP+139 MP+44 STR+24 DEX+29&#xA;VIT+24 AGI+28 INT+23 MND+23 CHR+23&#xA;Resist all elements +33&#xA;Evasion+49 Magic Evasion+64&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+4% &quot;Refresh&quot;+2&#xA;&quot;Valiance&quot; and &quot;Vallation&quot;&#xA;effect duration +15" ja="防135 HP+139 MP+44 STR+24 DEX+29&#xA;VIT+24 AGI+28 INT+23 MND+23 CHR+23&#xA;全耐性+33 回避+49 魔回避+64 魔防+6 ヘイスト+4%&#xA;リフレシュ+2 ヴァレション/ヴァリエンス効果時間+15" />
+  <o id="27856" en="DEF:133 HP+59 MP+44 STR+24 DEX+33&#xA;VIT+24 AGI+32 INT+27 MND+27 CHR+23&#xA;Accuracy+20 Rng. Acc.+20&#xA;Magic Accuracy+20 Evasion+49&#xA;Magic Evasion+64&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+4%&#xA;&quot;Refresh&quot;+2 Sphere: &quot;Refresh&quot;+1" ja="防133 HP+59 MP+44 STR+24 DEX+33&#xA;VIT+24 AGI+32 INT+27 MND+27 CHR+23&#xA;命中+20 飛命+20 魔命+20 回避+49 魔回避+64 &#xA;魔防+6 ヘイスト+4% リフレシュ+2&#xA;発動スフィア:リフレシュ+1" />
   <o id="27858" en="DEF:131 HP+59 MP+44 STR+27 DEX+37&#xA;VIT+27 AGI+36 INT+26 MND+26 CHR+26&#xA;Accuracy+10 Evasion+49&#xA;Magic Evasion+64&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+4%&#xA;&quot;Double Attack&quot;+2%&#xA;&quot;Fast Cast&quot;+7%" ja="防131 HP+59 MP+44 STR+27 DEX+37&#xA;VIT+27 AGI+36 INT+26 MND+26 CHR+26&#xA;命中+10 回避+49 魔回避+64 魔防+6 ヘイスト+4%&#xA;ダブルアタック+2% ファストキャスト+7%" />
   <o id="27859" en="DEF:1" ja="防1" />
   <o id="27860" en="DEF:1" ja="防1" />
@@ -16704,6 +16759,14 @@
   <o id="27984" en="DEF:81 HP+22 MP+34 STR+6 DEX+28&#xA;VIT+25 AGI+5 INT+19 MND+33 CHR+19&#xA;Evasion+22 Magic Evasion+37&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+3% Enmity-4&#xA;&quot;Conserve MP&quot;+4 &quot;Fast Cast&quot;+5%" ja="防81 HP+22 MP+34 STR+6 DEX+28&#xA;VIT+25 AGI+5 INT+19 MND+33 CHR+19&#xA;回避+22 魔回避+37 魔防+3 ヘイスト+3% 敵対心-4&#xA;コンサーブMP+4 ファストキャスト+5%" />
   <o id="27985" en="DEF:85 HP+47 MP+39 STR+6 DEX+28&#xA;VIT+25 AGI+5 INT+19 MND+33 CHR+19&#xA;Evasion+22 Magic Evasion+37&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Geomancy skill +15&#xA;Physical damage taken -1%&#xA;Haste+3%&#xA;Luopan: Damage taken -11%" ja="防85 HP+47 MP+39 STR+6 DEX+28&#xA;VIT+25 AGI+5 INT+19 MND+33 CHR+19&#xA;回避+22 魔回避+37 魔防+3 風水魔法スキル+15&#xA;被物理ダメージ-1% ヘイスト+3%&#xA;羅盤:被ダメージ-11%" />
   <o id="27986" en="DEF:93 HP+50 MP+25 STR+11 DEX+35&#xA;VIT+32 AGI+5 INT+12 MND+30 CHR+17&#xA;Evasion+24 Magic Evasion+37&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+5%&#xA;Enhancing magic skill +15&#xA;Physical damage taken -2%&#xA;&quot;Gambit&quot; effect duration +12" ja="防93 HP+50 MP+25 STR+11 DEX+35&#xA;VIT+32 AGI+5 INT+12 MND+30 CHR+17&#xA;回避+24 魔回避+37 魔防+2 ヘイスト+5%&#xA;強化魔法スキル+15 被物理ダメージ-2% &#xA;ガンビット効果時間+12" />
+  <o id="28000" en="DEF:86 HP+23 MP+99 STR+11 DEX+34&#xA;VIT+31 AGI+4 INT+12 MND+29 CHR+17&#xA;Evasion+23 Magic Accuracy+15&#xA;Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+5%&#xA;Enmity-10 &quot;Conserve MP&quot;+5" ja="防86 HP+23 MP+99 STR+11 DEX+34&#xA;VIT+31 AGI+4 INT+12 MND+29 CHR+17&#xA;回避+23 魔命+15 魔回避+36 魔防+1 ヘイスト+5%&#xA;敵対心-10 コンサーブMP+5" />
+  <o id="28001" en="DEF:87 HP+43 STR+9 DEX+33 VIT+27&#xA;AGI+15 INT+9 MND+27 CHR+16&#xA;Accuracy+23&#xA;Evasion+20 Magic Evasion+26&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+5%&#xA;Critical hit damage +2%" ja="防87 HP+43 STR+9 DEX+33 VIT+27&#xA;AGI+15 INT+9 MND+27 CHR+16 命中+23&#xA;回避+20 魔回避+26 魔防+1 ヘイスト+5%&#xA;クリティカルヒットダメージ+2%" />
+  <o id="28002" en="DEF:87 HP+23 MP+8 STR+7 DEX+34&#xA;VIT+26 AGI+7 INT+11 MND+29 CHR+17&#xA;Attack+12 Ranged Attack+12&#xA;Evasion+38 Magic Evasion+26&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+4%&#xA;&quot;Subtle Blow&quot;+5 &quot;Waltz&quot; potency +5%" ja="防87 HP+23 MP+8 STR+7 DEX+34 VIT+26&#xA;AGI+7 INT+11 MND+29 CHR+17 攻+12&#xA;飛攻+12 回避+38 魔回避+26 魔防+2 ヘイスト+4%&#xA;モクシャ+5 ワルツ回復量+5%" />
+  <o id="28003" en="DEF:80 HP+21 MP+14 STR+6 DEX+27&#xA;VIT+24 AGI+4 INT+18 MND+32 CHR+18&#xA;+25 -25 +25&#xA;-25 +25 -25&#xA;+50 -50&#xA;Evasion+20 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+3 Haste+3%&#xA;Enmity-8" ja="防80 HP+21 MP+14 STR+6 DEX+27&#xA;VIT+24 AGI+4 INT+18 MND+32 CHR+18&#xA;耐火+25 耐氷-25 耐風+25 耐土-25 耐雷+25 耐水-25&#xA;耐光+50 耐闇-50 回避+20 魔回避+36 魔防+3&#xA;ヘイスト+3% 敵対心-8" />
+  <o id="28004" en="DEF:98 HP+28 MP+25 STR+9 DEX+28&#xA;VIT+32 INT+8 MND+29 CHR+18&#xA;Attack+19&#xA;Evasion+20 Magic Evasion+26 Haste+4%&#xA;&quot;Magic Def. Bonus&quot;+4" ja="防98 HP+28 MP+25 STR+9 DEX+28&#xA;VIT+32 INT+8 MND+29 CHR+18 攻+19&#xA;回避+20 魔回避+26 ヘイスト+4% 魔防+4" />
+  <o id="28005" en="DEF:88 HP+23 STR+11 DEX+34 VIT+31&#xA;AGI+11 INT+12 MND+29 CHR+17&#xA;Ranged Accuracy +20&#xA;Ranged Attack+20&#xA;Evasion+23 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+5%&#xA;&quot;Snapshot&quot;+5 Breath damage taken -3%" ja="防88 HP+23 STR+11 DEX+34 VIT+31&#xA;AGI+11 INT+12 MND+29 CHR+17 飛命+20&#xA;飛攻+20 回避+23 魔回避+36 魔防+1 ヘイスト+5%&#xA;スナップショット+5 被ブレスダメージ-3%" />
+  <o id="28006" en="DEF:81 HP+21 STR+9 DEX+27 VIT+27&#xA;AGI+4 INT+18 MND+35 CHR+18&#xA;&quot;Magic Atk. Bonus&quot;+15&#xA;Evasion+20 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+3 Haste+6%" ja="防81 HP+21 STR+9 DEX+27 VIT+27&#xA;AGI+4 INT+18 MND+35 CHR+18 魔攻+15&#xA;回避+20 魔回避+36 魔防+3 ヘイスト+6%" />
+  <o id="28007" en="DEF:79 HP+23 STR+14 DEX+34 VIT+31&#xA;AGI+4 INT+12 MND+29 CHR+17&#xA;Attack+15&#xA;Evasion+23 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+6%&#xA;&quot;Double Attack&quot;+3%" ja="防79 HP+23 STR+14 DEX+34 VIT+31&#xA;AGI+4 INT+12 MND+29 CHR+17 攻+15&#xA;回避+23 魔回避+36 魔防+1 ヘイスト+6%&#xA;ダブルアタック+3%" />
   <o id="28009" en="DEF:90 HP+25 STR+10 DEX+34&#xA;VIT+28 AGI+6 INT+10 MND+28 CHR+16&#xA;Attack+30 &quot;Magic Def. Bonus&quot;+1&#xA;&quot;Haste+5% &quot;Store TP&quot;+4" ja="防90 HP+25 STR+10 DEX+34 VIT+28&#xA;AGI+6 INT+10 MND+28 CHR+16 攻+30&#xA;魔防+1 ヘイスト+5% ストアTP+4" />
   <o id="28010" en="DEF:96 HP+42 STR+9 DEX+27 VIT+31&#xA;INT+8 MND+24 CHR+18&#xA;Attack+12 Evasion+19&#xA;Magic Evasion+25&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+5%" ja="防96 HP+42 STR+9 DEX+27 VIT+31&#xA;INT+8 MND+24 CHR+18 攻+12 回避+19&#xA;魔回避+25 魔防+1 ヘイスト+5%" />
   <o id="28011" en="DEF:84 HP+45 STR+10 DEX+33 VIT+30&#xA;AGI+4 INT+12 MND+28 CHR+16&#xA;Ranged Accuracy+12 Evasion+22&#xA;Magic Evasion+35&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+5%" ja="防84 HP+45 STR+10 DEX+33 VIT+30&#xA;AGI+4 INT+12 MND+28 CHR+16 飛命+12&#xA;回避+22 魔回避+35 魔防+1 ヘイスト+5%" />
@@ -16825,6 +16888,10 @@
   <o id="28131" en="DEF:105 HP+53 MP+39 STR+25&#xA;VIT+12 AGI+17 INT+34 MND+29 CHR+19&#xA;Evasion+27 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+5% Enmity-4&#xA;&quot;Light Arts&quot;+20" ja="防105 HP+53 MP+39 STR+25 VIT+12&#xA;AGI+17 INT+34 MND+29 CHR+19 回避+27&#xA;魔回避+107 魔防+6 ヘイスト+5% 敵対心-4&#xA;白のグリモア+20" />
   <o id="28132" en="DEF:109 HP+78 MP+64 STR+25&#xA;VIT+12 AGI+17 INT+34 MND+24 CHR+19&#xA;Evasion+27 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+5% &quot;Fast Cast&quot;+11%&#xA;Spell interruption rate down 20%" ja="防109 HP+78 MP+64 STR+25 VIT+12&#xA;AGI+17 INT+34 MND+24 CHR+19 回避+27&#xA;魔回避+107 魔防+6 ヘイスト+5%&#xA;ファストキャスト+11% 詠唱中断率20%ダウン" />
   <o id="28133" en="DEF:117 HP+47 MP+35 STR+29&#xA;VIT+16 AGI+20 INT+30 MND+17 CHR+11&#xA;Evasion+38 Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Divine magic skill +15&#xA;Physical damage taken -3%&#xA;Haste+6%&#xA;Resistance to all status ailments +6" ja="防117 HP+47 MP+35 STR+29 VIT+16&#xA;AGI+20 INT+30 MND+17 CHR+11 回避+38&#xA;魔回避+69 魔防+5 神聖魔法スキル+15&#xA;被物理ダメージ-3% ヘイスト+6%&#xA;全状態異常のレジスト+6" />
+  <o id="28143" en="DEF:113 HP+45 STR+34 VIT+13 AGI+21&#xA;INT+31 MND+17 CHR+9 Accuracy+20&#xA;Evasion+31 Magic Evasion+62&#xA;&quot;Magic Def. Bonus&quot;+3 Haste+6%&#xA;Enmity+3&#xA;Spell interruption rate down 10%" ja="防113 HP+45 STR+34 VIT+13 AGI+21&#xA;INT+31 MND+17 CHR+9 命中+20 回避+31&#xA;魔回避+62 魔防+3 ヘイスト+6% 敵対心+3&#xA;詠唱中断率10%ダウン" />
+  <o id="28144" en="DEF:104 HP+11 MP+104 STR+24 VIT+12&#xA;AGI+17 INT+33 MND+23 CHR+18&#xA;Evasion+26 Magic Evasion+104&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Summoning magic skill +14 Haste+5%&#xA;Spell interruption rate down 10%" ja="防104 HP+11 MP+104 STR+24 VIT+12&#xA;AGI+17 INT+33 MND+23 CHR+18&#xA;回避+26 魔回避+104 魔防+5 召喚魔法スキル+14&#xA;ヘイスト+5% 詠唱中断率10%ダウン" />
+  <o id="28145" en="DEF:110 HP+45 STR+30 VIT+16 AGI+21&#xA;INT+29 MND+17 CHR+11&#xA;Ranged Accuracy+18&#xA;Evasion+36 Magic Evasion+67&#xA;&quot;Magic Def. Bonus&quot;+4 Haste+6%&#xA;Enmity-5 &quot;Snapshot&quot;+7" ja="防110 HP+45 STR+30 VIT+16 AGI+21&#xA;INT+29 MND+17 CHR+11 飛命+18 回避+36&#xA;魔回避+67 魔防+4 ヘイスト+6% 敵対心-5&#xA;スナップショット+7" />
+  <o id="28146" en="DEF:104 HP+41 MP+29 STR+24 VIT+12&#xA;AGI+17 INT+33 MND+26 CHR+21&#xA;Evasion+26 Magic Evasion+104&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Enfeebling magic skill +15&#xA;Blue magic skill +10 Haste+6%" ja="防104 HP+41 MP+29 STR+24 VIT+12&#xA;AGI+17 INT+33 MND+26 CHR+21 回避+26&#xA;魔回避+104 魔防+5 弱体魔法スキル+15&#xA;青魔法スキル+10 ヘイスト+6%" />
   <o id="28148" en="DEF:109 HP+73 MP+59 STR+25 VIT+12&#xA;AGI+17 INT+39 MND+29 CHR+19&#xA;Evasion+27 Magic Accuracy+13&#xA;&quot;Magic Atk. Bonus&quot;+13&#xA;Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+5%&#xA;&quot;Occult Acumen&quot;+30" ja="防109 HP+73 MP+59 STR+25 VIT+12&#xA;AGI+17 INT+39 MND+29 CHR+19 回避+27&#xA;魔命+13 魔攻+13 魔回避+107 魔防+6 ヘイスト+5%&#xA;マジックアキュメン+30" />
   <o id="28149" en="DEF:1" ja="防1" />
   <o id="28150" en="DEF:1" ja="防1" />
@@ -16942,6 +17009,10 @@
   <o id="28264" en="DEF:63 HP+13 MP+14 STR+10 DEX+11&#xA;VIT+10 AGI+33 INT+22 MND+19 CHR+34&#xA;Evasion+55 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+3% Enmity-6&#xA;Grimoire: Spellcasting time -8%" ja="防63 HP+13 MP+14 STR+10 DEX+11&#xA;VIT+10 AGI+33 INT+22 MND+19 CHR+34&#xA;回避+55 魔回避+107 魔防+5 ヘイスト+3%&#xA;敵対心-6 グリモア中の詠唱時間-8%" />
   <o id="28265" en="DEF:67 HP+13 MP+49 STR+10 DEX+11&#xA;VIT+10 AGI+33 INT+17 MND+19 CHR+34&#xA;Evasion+55 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+3% Movement speed +12%" ja="防67 HP+13 MP+49 STR+10 DEX+11&#xA;VIT+10 AGI+33 INT+17 MND+19 CHR+34&#xA;回避+55 魔回避+107 魔防+5 ヘイスト+3%&#xA;移動速度+12%" />
   <o id="28266" en="DEF:75 HP+43 STR+12 DEX+24&#xA;VIT+12 AGI+37 MND+12 CHR+30&#xA;Evasion+92 Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% &quot;Pflug&quot;+2" ja="防75 HP+43 STR+12 DEX+24 VIT+12&#xA;AGI+37 MND+12 CHR+30 回避+92&#xA;魔回避+69 魔防+5 ヘイスト+4% フルーグ+2" />
+  <o id="28281" en="DEF:68 HP+12 STR+10 DEX+23 VIT+12&#xA;AGI+33 MND+12 CHR+29 Accuracy+10&#xA;Attack+10 Evasion+68&#xA;Magic Evasion+67&#xA;&quot;Magic Def. Bonus&quot;+4 Haste+4%&#xA;Enmity+7" ja="防68 HP+12 STR+10 DEX+23 VIT+12&#xA;AGI+33 MND+12 CHR+29 命中+10 攻+10&#xA;回避+68 魔回避+67 魔防+4 ヘイスト+4% 敵対心+7" />
+  <o id="28282" en="DEF:63 HP-35 MP+85 STR+9 DEX+11&#xA;VIT+9 AGI+32 INT+17 MND+23 CHR+33&#xA;Evasion+45 Magic Evasion+104&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+3%" ja="防63 HP-35 MP+85 STR+9 DEX+11 VIT+9&#xA;AGI+32 INT+17 MND+23 CHR+33 回避+45&#xA;魔回避+104 魔防+5 ヘイスト+3%" />
+  <o id="28283" en="DEF:88 STR+25 DEX-7 VIT-7" ja="防88 STR+25 DEX-7 VIT-7" />
+  <o id="28284" en="DEF:69 HP+12 STR+12 DEX+25 VIT+12&#xA;AGI+37 MND+12 CHR+29&#xA;Ranged Accuracy+10&#xA;Ranged Attack+18&#xA;Evasion+68 Magic Evasion+67&#xA;&quot;Magic Def. Bonus&quot;+4 Haste+4%&#xA;&quot;Recycle&quot;+10" ja="防69 HP+12 STR+12 DEX+25 VIT+12&#xA;AGI+37 MND+12 CHR+29 飛命+10&#xA;飛攻+18 回避+68 魔回避+67 魔防+4&#xA;ヘイスト+4% リサイクル+10" />
   <o id="28287" en="DEF:70 HP+13 STR+12 DEX+24&#xA;VIT+12 AGI+37 MND+12 CHR+30&#xA;Accuracy+15 Evasion+72&#xA;Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+4%&#xA;Enmity-5&#xA;Pet: Accuracy+15 Enmity+5&#xA;" ja="防70 HP+13 STR+12 DEX+24 VIT+12&#xA;AGI+37 MND+12 CHR+30 命中+15 回避+72&#xA;魔回避+69 魔防+5 ヘイスト+4% 敵対心-5&#xA;ペット:命中+15 敵対心+5" />
   <o id="28288" en="DEF:66 HP+13 MP+14 STR+10 DEX+11&#xA;VIT+10 AGI+33 INT+17 MND+19 CHR+39&#xA;Magic Accuracy+13 Evasion+70&#xA;Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+3%&#xA;Song recast delay -3" ja="防66 HP+13 MP+14 STR+10 DEX+11&#xA;VIT+10 AGI+33 INT+17 MND+19 CHR+39&#xA;魔命+13 回避+70 魔回避+107 魔防+5 ヘイスト+3%&#xA;歌再詠唱間隔-3" />
   <o id="28289" en="DEF:79 HP+38 STR+19 DEX+16&#xA;VIT+16 AGI+27 MND+9 CHR+25&#xA;Accuracy+14 Attack+14&#xA;Evasion+44 Magic Evasion+60&#xA;&quot;Magic Def. Bonus&quot;+1 Haste+3%&#xA;Physical damage taken -3%" ja="防79 HP+38 STR+19 DEX+16 VIT+16&#xA;AGI+27 MND+9 CHR+25 命中+14 攻+14&#xA;回避+44 魔回避+60 魔防+1 ヘイスト+3%&#xA;被物理ダメージ-3%" />
@@ -17001,6 +17072,18 @@
   <o id="28345" en="DEF:37 STR+11 DEX+11 VIT+11 AGI+9&#xA;MND+3 CHR+8 Accuracy+10&#xA;Attack+10 Magic Evasion+25&#xA;&quot;Store TP&quot;+5 Haste+2%" ja="防37 STR+11 DEX+11 VIT+11 AGI+9&#xA;MND+3 CHR+8 命中+10 攻+10 魔回避+25&#xA;ストアTP+5 ヘイスト+2%" />
   <o id="28346" en="DEF:48 HP+6 MP+37 STR+6 DEX+7&#xA;VIT+6 AGI+21 INT+11 MND+12 CHR+21&#xA;Evasion+25 Magic Evasion+73&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Movement speed +12%&#xA;Haste+3%" ja="防48 HP+6 MP+37 STR+6 DEX+7 VIT+6&#xA;AGI+21 INT+11 MND+12 CHR+21 回避+25&#xA;魔回避+73 魔防+2 移動速度+12% ヘイスト+3%" />
   <o id="28347" en="DEF:61 HP+36 STR+8 DEX+15 VIT+8&#xA;AGI+23 MND+8 CHR+19&#xA;Evasion+48 Magic Evasion+47&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+4%&#xA;Enhances &quot;Pflug&quot; effect" ja="防61 HP+36 STR+8 DEX+15 VIT+8&#xA;AGI+23 MND+8 CHR+19 回避+48&#xA;魔回避+47 魔防+2 ヘイスト+4% フルーグ効果アップ" />
+  <o id="28355" en="DEF:12 HP+40 Magic Accuracy+7&#xA;Breath damage dealt +10%" ja="防12 HP+40 魔命+7 与ブレスダメージ+10%" />
+  <o id="28356" en="MP+15&#xA;MP recovered while healing +6&#xA;Avatar: &quot;Magic Atk. Bonus&quot;+5" ja="MP+15 ヒーリングMP+6 召喚獣:魔攻+5" />
+  <o id="28357" en="MP+30 Enmity-3&#xA;&quot;Cure&quot; spellcasting time -13%" ja="MP+30 敵対心-3 ケアル詠唱時間-13%" />
+  <o id="28358" en="HP+25 MP+25 &quot;Magic Def. Bonus&quot;+2&#xA;Enmity+5" ja="HP+25 MP+25 魔防+2 敵対心+5" />
+  <o id="28359" en="DEX+7 AGI-5 Accuracy+8" ja="DEX+7 AGI-5 命中+8" />
+  <o id="28360" en="STR+7 VIT-5 Attack+8" ja="STR+7 VIT-5 攻+8" />
+  <o id="28361" en="DEF:8 Ranged Accuracy+10&#xA;Ranged Attack+7&#xA;Magic Accuracy+8" ja="防8 飛命+10 飛攻+7 魔命+8" />
+  <o id="28362" en="HP+60 MP+60 CHR+8&#xA;+15 +15&#xA;&quot;Magic Def. Bonus&quot;+2" ja="HP+60 MP+60 CHR+8 耐光+15 耐闇+15&#xA;魔防+2" />
+  <o id="28363" en="DEF:13 &quot;Magic Def. Bonus&quot;+4&#xA;&quot;Regen&quot;+1 &quot;Refresh&quot;+1" ja="防13 魔防+4 リジェネ+1 リフレシュ+1" />
+  <o id="28364" en="MP+20 Magic Accuracy-6&#xA;&quot;Magic Atk. Bonus&quot;+18" ja="MP+20 魔命-6 魔攻+18" />
+  <o id="28365" en="Accuracy+3 Magic Accuracy+3&#xA;Critical hit rate +3%&#xA;Magic critical hit rate +5%&#xA;Magic critical hit damage +10" ja="命中+3 魔命+3 クリティカルヒット+3%&#xA;魔法クリティカルヒット+5%&#xA;魔法クリティカルヒットダメージ+10" />
+  <o id="28366" en="Ranged Accuracy+10&#xA;Ranged Attack+5&#xA;&quot;Store TP&quot;+4" ja="飛命+10 飛攻+5 ストアTP+4" />
   <o id="28367" en="Reives: Damage taken -8%&#xA;Auto-Reraise" ja="レイヴ:被ダメージ-8% オートリレイズ" />
   <o id="28368" en="Reives: &quot;Regain&quot;+30&#xA;Weapon skill damage +25%" ja="レイヴ:リゲイン+30&#xA;ウェポンスキルのダメージ+25%" />
   <o id="28369" en="Reives: Magic Damage+80&#xA;&quot;Cure&quot; potency +25%&#xA;&quot;Regen&quot;+10 &quot;Refresh&quot;+10" ja="レイヴ:魔法ダメージ+80 ケアル回復量+25%&#xA;リジェネ+10 リフレシュ+10" />
@@ -17038,6 +17121,16 @@
   <o id="28405" en="Accuracy+16 Ranged Accuracy+16&#xA;Evasion+16" ja="命中+16 飛命+16 回避+16" />
   <o id="28406" en="MP+30 MND+8 CHR+8 &#xA;&quot;Magic Def. Bonus&quot;+1" ja="MP+30 MND+8 CHR+8 魔防+1" />
   <o id="28407" en="MP+35 MND+9 CHR+9&#xA;&quot;Magic Def. Bonus&quot;+2" ja="MP+35 MND+9 CHR+9 魔防+2" />
+  <o id="28433" en="DEF:9 MP+60 Magic Damage+9 Enmity-4" ja="防9 MP+60 魔法ダメージ+9 敵対心-4" />
+  <o id="28434" en="DEF:10 &quot;Conserve MP&quot;+9&#xA;MP recovered while healing +6&#xA;&quot;Drain&quot; and &quot;Aspir&quot; potency +5" ja="防10 コンサーブMP+9 ヒーリングMP+6&#xA;ドレインとアスピル吸収量+5" />
+  <o id="28435" en="DEF:8 STR-8 DEX-8 VIT-8 AGI-8 INT-8&#xA;MND-8 CHR-8 Enmity-8&#xA;&quot;Cure&quot; spellcasting time -8%" ja="防8 STR-8 DEX-8 VIT-8 AGI-8 INT-8&#xA;MND-8 CHR-8 敵対心-8 ケアル詠唱時間-8%" />
+  <o id="28436" en="DEF:11 AGI+10 Attack-5 Evasion+10&#xA;&quot;Resist Gravity&quot;+15" ja="防11 AGI+10 攻-5 回避+10&#xA;レジストグラビティ+15" />
+  <o id="28437" en="DEF:15 VIT+4&#xA;Physical damage taken -4%&#xA;Converts 2% of damage taken to MP" ja="防15 VIT+4 被物理ダメージ-4%&#xA;被ダメージの2%をMPに変換" />
+  <o id="28438" en="DEF:10 DEX+7 &quot;Triple Attack&quot;+2%&#xA;&quot;Triple Attack&quot; damage +5%" ja="防10 DEX+7 トリプルアタック+2%&#xA;トリプルアタックダメージ+5%" />
+  <o id="28439" en="DEF:11 STR+10&#xA;Attack+28 &quot;Double Attack&quot;-5%&#xA;Weapon Skill Accuracy+5" ja="防11 STR+10 攻+28 ダブルアタック-5%&#xA;ウェポンスキルの命中+5" />
+  <o id="28440" en="DEF:9 Accuracy+2 &quot;Triple Attack&quot;+2%&#xA;&quot;Quadruple Attack&quot;+2%" ja="防9 命中+2 トリプルアタック+2%&#xA;クワッドアタック+2%" />
+  <o id="28442" en="DEF:13 Accuracy+20 Attack-5&#xA;&quot;Store TP&quot;+3" ja="防13 命中+20 攻-5 ストアTP+3" />
+  <o id="28443" en="DEF:11 MP+35 INT+6 Magic Accuracy+2&#xA;&quot;Magic Atk. Bonus&quot;+5" ja="防11 MP+35 INT+6 魔命+2 魔攻+5" />
   <o id="28445" en="AGI+5 CHR+5 &quot;Dual Wield&quot;+6&#xA;Latent effect: Attack+10&#xA;Evasion+10" ja="AGI+5 CHR+5 二刀流+6&#xA;潜在能力:攻+10 回避+10" />
   <o id="28446" en="Attack+15 Haste+3% &quot;Store TP&quot;+4" ja="攻+15 ヘイスト+3% ストアTP+4" />
   <o id="28447" en="Attack+18 Haste+4% &quot;Store TP&quot;+6" ja="攻+18 ヘイスト+4% ストアTP+6" />
@@ -17062,6 +17155,8 @@
   <o id="28466" en="STR+3 Accuracy+10 Haste+5%" ja="STR+3 命中+10 ヘイスト+5%" />
   <o id="28467" en="STR+4 Accuracy+11 Haste+6%" ja="STR+4 命中+11 ヘイスト+6%" />
   <o id="28468" en="AGI+3 Accuracy+3 Ranged Accuracy+3" ja="AGI+3 命中+3 飛命+3" />
+  <o id="28494" en="CHR+5 Magic Accuracy+6&#xA;&quot;Fast Cast&quot;+2%" ja="CHR+5 魔命+6 ファストキャスト+2%" />
+  <o id="28496" en="Accuracy+12 Evasion-5&#xA;&quot;Magic Def. Bonus&quot;+1" ja="命中+12 回避-5 魔防+1" />
   <o id="28498" en="DEF:10 &quot;Reward&quot;+10&#xA;&quot;Spirit Link&quot;+50&#xA;&quot;Repair&quot; potency +10%" ja="防10 いたわる+10 スピリットリンク+50&#xA;リペアー回復量+10%" />
   <o id="28499" en="MND+2&#xA;Converts 55 HP to MP" ja="MND+2 55HPをMPに変換" />
   <o id="28500" en="VIT+2&#xA;Converts 55 MP to HP" ja="VIT+2 55MPをHPに変換" />
@@ -17096,6 +17191,9 @@
   <o id="28530" en="DEX+4 AGI+4 Attack+3 Evasion+3&#xA;&quot;Store TP&quot;+2" ja="DEX+4 AGI+4 攻+3 回避+3 ストアTP+2" />
   <o id="28531" en="Ranged Attack+7 Enmity-3" ja="飛攻+7 敵対心-3" />
   <o id="28532" en="STR+6 Accuracy+3" ja="STR+6 命中+3" />
+  <o id="28536" en="AGI+5 Magic Accuracy+3&#xA;&quot;Magic Atk. Bonus&quot;+3&#xA;Marksmanship skill +5 Enmity-2" ja="AGI+5 魔命+3 魔攻+3 射撃スキル+5 敵対心-2" />
+  <o id="28537" en="Latent effect: &quot;Magic Def. Bonus&quot;+7&#xA;Damage taken -3%" ja="潜在能力:魔防+7 被ダメージ-3%" />
+  <o id="28539" en="MP+20 MND+6 Divine magic skill +5&#xA;Enfeebling magic skill +5&#xA;Summoning magic skill +5" ja="MP+20 MND+6 神聖魔法スキル+5&#xA;弱体魔法スキル+5 召喚魔法スキル+5" />
   <o id="28540" en="Enchantment: Warp" ja="エンチャント:デジョン" />
   <o id="28542" en="HP+20 MP-20" ja="HP+20 MP-20" />
   <o id="28543" en="HP+21 MP-21" ja="HP+21 MP-21" />
@@ -17143,6 +17241,18 @@
   <o id="28585" en="Decreases likelihood of synthesis material loss" ja="合成素材消失率ダウン" />
   <o id="28586" en="Increases rate of high quality-item&#xA;synthesis success by 1%" ja="ハイクォリティー成功確率+1%" />
   <o id="28587" en="Increases rate of synthesis success by 1%" ja="合成成功確率+1%" />
+  <o id="28588" en="DEF:17 Accuracy+9&#xA;Automaton: Accuracy+15 Attack+15&#xA;Evasion+10" ja="防17 命中+9&#xA;オートマトン:命中+15 攻+15 回避+10" />
+  <o id="28589" en="DEF:16 MP+15 Magic Accuracy+8&#xA;Magic Evasion+10&#xA;MP recovered while healing +5" ja="防16 MP+15 魔命+8 魔回避+10&#xA;ヒーリングMP+5" />
+  <o id="28590" en="DEF:10 Healing magic skill +6&#xA;Enmity-8 Converts 40 HP to MP" ja="防10 回復魔法スキル+6&#xA;敵対心-8 40HPをMPに変換" />
+  <o id="28591" en="DEF:14 HP+120 MP-50 CHR+10&#xA;&quot;Resist Charm&quot;+10" ja="防14 HP+120 MP-50 CHR+10&#xA;レジストチャーム+10" />
+  <o id="28592" en="DEF:12 AGI+10 &quot;Magic Atk. Bonus&quot;+5&#xA;&quot;Store TP&quot;+5" ja="防12 AGI+10 魔攻+5 ストアTP+5" />
+  <o id="28593" en="DEF:15 AGI+7&#xA;Evasion+12 Magic Evasion+12" ja="防15 AGI+7 回避+12 魔回避+12" />
+  <o id="28594" en="DEF:13 AGI+5 Attack+25&#xA;&quot;Subtle Blow&quot;+6 &quot;Dual Wield&quot;+2" ja="防13 AGI+5 攻+25 モクシャ+6 二刀流+2" />
+  <o id="28595" en="DEF:15 Accuracy+12 Attack+12&#xA;Ranged Accuracy+12&#xA;Ranged Attack+12&#xA;Enmity-6" ja="防15 命中+12 攻+12 飛命+12 飛攻+12&#xA;敵対心-6" />
+  <o id="28596" en="DEF:10 HP+30 &quot;Cure&quot; potency +6%&#xA;&quot;Cursna&quot;+5" ja="防10 HP+30 ケアル回復量+6% カーズナ+5" />
+  <o id="28597" en="DEF:14 HP+20 DEX+7 AGI+7&#xA;Accuracy+10 Evasion+10" ja="防14 HP+20 DEX+7 AGI+7 命中+10&#xA;回避+10" />
+  <o id="28598" en="DEF:10 MP+30&#xA;Healing magic skill +8&#xA;&quot;Cure&quot; potency +6%" ja="防10 MP+30 回復魔法スキル+8&#xA;ケアル回復量+6%" />
+  <o id="28599" en="DEF:16 HP+30 MP+30&#xA;Magic damage taken -4%&#xA;Occasionally absorbs magic damage&#xA;taken" ja="防16 HP+30 MP+30 被魔法ダメージ-4%&#xA;時々被魔法ダメージ吸収" />
   <o id="28600" en="DEF:20 HP+100 +25&#xA;Darksday: STR+10 DEX+10&#xA;VIT+10 AGI+10 INT+10 MND+10 CHR+10" ja="防20 HP+100 耐闇+25 闇曜日:STR+10&#xA;DEX+10 VIT+10 AGI+10 INT+10 MND+10&#xA;CHR+10" />
   <o id="28601" en="DEF:16 &quot;Magic Atk. Bonus&quot;+11&#xA;Magic burst damage +5&#xA;&quot;Conserve MP&quot;+3" ja="防16 魔攻+11 マジックバーストダメージ+5&#xA;コンサーブMP+3" />
   <o id="28602" en="DEF:17 &quot;Magic Atk. Bonus&quot;+12&#xA;Magic burst damage +6&#xA;&quot;Conserve MP&quot;+4" ja="防17 魔攻+12 マジックバーストダメージ+6&#xA;コンサーブMP+4" />

@@ -2494,6 +2494,19 @@ return {
     [2601] = {id=2601,en="broken fuse",ja="信管の破片",category="Temporary Key Items"},
     [2602] = {id=2602,en="Rala eudaemon",ja="ユデイモン：ララ",category="Temporary Key Items"},
     [2604] = {id=2604,en="Cirdas eudaemon",ja="ユデイモン：シルダス",category="Temporary Key Items"},
+    [2606] = {id=2606,en="Velkk fetish",ja="ヴェルク族のお守り",category="Temporary Key Items"},
+    [2607] = {id=2607,en="Ymmr-Ulvid's necklace",ja="イムル・アルヴィッドの首飾り",category="Temporary Key Items"},
+    [2608] = {id=2608,en="Ignor-Mnt's bracelet",ja="イグノア・ムントの羽根飾り",category="Temporary Key Items"},
+    [2609] = {id=2609,en="Durs-Vike's earring",ja="ダルス・ヴァイクの耳飾り",category="Temporary Key Items"},
+    [2610] = {id=2610,en="Tryl-Wuj's belt",ja="トリル・ウッジの腰布",category="Temporary Key Items"},
+    [2611] = {id=2611,en="pair of Liij-Vok's gloves",ja="リッジ・ヴォックの篭手",category="Temporary Key Items"},
+    [2612] = {id=2612,en="Gramk-Droog's circlet",ja="グラムク・ドルーグの頭飾り",category="Temporary Key Items"},
+    [2613] = {id=2613,en="elder wooden box",ja="古めかしい木箱",category="Temporary Key Items"},
+    [2614] = {id=2614,en="imprint device S",ja="魔導撮像匣Ｓ",category="Temporary Key Items"},
+    [2615] = {id=2615,en="record of the generals' foray",ja="魔境遊撃戦の記録",category="Temporary Key Items"},
+    [2616] = {id=2616,en="record of a cavernous foray",ja="中央洞窟突撃戦の記録",category="Temporary Key Items"},
+    [2617] = {id=2617,en="record of the knight in black",ja="黒衣の騎士の記録",category="Temporary Key Items"},
+    [2618] = {id=2618,en="record of a thousand lights",ja="千の光の記録",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

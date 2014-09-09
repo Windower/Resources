@@ -356,6 +356,7 @@
   <o id="381" type="Jig" element="6" icon_id="529" mp_cost="0" recast_id="218" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Chocobo Jig II" ja="チョコボジグII" />
   <o id="382" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="253" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Relinquish" ja="リリンク" />
   <o id="383" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="242" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Vivacious Pulse" ja="ビベイシャス" />
+  <o id="384" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="229" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Contradance" ja="コントラダンス" />
   <o id="512" type="BloodPactWard" element="6" icon_id="340" mp_cost="6" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Healing Ruby" ja="ルビーの癒し" />
   <o id="513" type="BloodPactRage" element="6" icon_id="340" mp_cost="11" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Poison Nails" ja="ポイズンネイル" />
   <o id="514" type="BloodPactWard" element="6" icon_id="340" mp_cost="44" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Shining Ruby" ja="ルビーの輝き" />
@@ -469,6 +470,8 @@
   <o id="664" type="BloodPactRage" element="7" icon_id="348" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Ruinous Omen" ja="ルイナスオーメン" />
   <o id="665" type="BloodPactRage" element="7" icon_id="348" mp_cost="177" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Night Terror" ja="ナイトテラー" />
   <o id="666" type="BloodPactWard" element="7" icon_id="348" mp_cost="246" recast_id="174" targets="32" tp_cost="0" range="9" prefix="/pet" en="Pavor Nocturnus" ja="パボルノクターナス" />
+  <o id="668" type="BloodPactRage" element="7" icon_id="23" mp_cost="0" recast_id="0" targets="32" tp_cost="0" range="2" prefix="/pet" en="Atomos (Temp)" ja="アトモス(仮)" />
+  <o id="669" type="BloodPactRage" element="7" icon_id="23" mp_cost="0" recast_id="0" targets="32" tp_cost="0" range="2" prefix="/pet" en="Atomos (Temp)" ja="アトモス(仮)" />
   <o id="670" type="BloodPactRage" element="7" icon_id="349" mp_cost="0" recast_id="0" targets="32" tp_cost="0" range="8" prefix="/pet" en="Zantetsuken" ja="斬鉄剣" />
   <o id="671" type="BloodPactRage" element="7" icon_id="350" mp_cost="0" recast_id="0" targets="32" tp_cost="0" range="0" prefix="/pet" en="Perfect Defense" ja="絶対防御" />
   <o id="672" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Foot Kick" ja="フットキック" />

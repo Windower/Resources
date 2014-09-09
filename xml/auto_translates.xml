@@ -551,6 +551,7 @@
   <o id="3492" en="/partyinfo" ja="/partyinfo" />
   <o id="3493" en="/targetbnpc" ja="/targetbnpc" />
   <o id="3494" en="/equipset" ja="/equipset" />
+  <o id="3495" en="/itemsearch" ja="/itemsearch" />
   <o id="3584" en="Locations" ja="イチ" />
   <o id="3585" en="This way" ja="こっち" />
   <o id="3586" en="That way" ja="そっち" />
@@ -916,7 +917,7 @@
   <o id="5389" en="I don't know." ja="知らないんです。" />
   <o id="5390" en="Just used it." ja="使ったばかりです。" />
   <o id="5391" en="I want experience points." ja="経験値が欲しいです。" />
-  <o id="5392" en="I'm not ready yet." ja="準備中です。" />
+  <o id="5392" en="I'm not ready." ja="準備中です。" />
   <o id="5632" en="Languages" ja="コトバ" />
   <o id="5633" en="Can you hear me?" ja="聞こえていますか？" />
   <o id="5634" en="I can speak a little." ja="少し話せます。" />

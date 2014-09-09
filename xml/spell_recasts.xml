@@ -367,6 +367,7 @@
   <o id="392" recast="240" en="Odin" ja="オーディン召喚" />
   <o id="393" recast="240" en="Alexander" ja="アレキサンダー召喚" />
   <o id="394" recast="20" en="Cait Sith" ja="ケット・シー召喚" />
+  <o id="395" recast="240" en="Atomos" ja="アトモス召喚" />
   <o id="400" recast="120" en="Katon: Ichi" ja="火遁の術:壱" />
   <o id="401" recast="180" en="Katon: Ni" ja="火遁の術:弐" />
   <o id="402" recast="240" en="Katon: San" ja="火遁の術:参" />
@@ -524,6 +525,7 @@
   <o id="563" recast="60" en="Paralyzing Triad" ja="パラライズトライアド" />
   <o id="564" recast="24" en="Glutinous Dart" ja="グルーティナスダート" />
   <o id="565" recast="240" en="Thrashing Assault" ja="T.アッサルト" />
+  <o id="566" recast="80" en="Sinker Drill" ja="シンカードリル" />
   <o id="591" recast="60" en="Blastbomb" ja="炸裂弾" />
   <o id="592" recast="98" en="Bomb Toss" ja="爆弾投げ" />
   <o id="593" recast="120" en="Sound Blast" ja="サウンドブラスト" />
@@ -614,6 +616,9 @@
   <o id="690" recast="44" en="Battery Charge" ja="バッテリーチャージ" />
   <o id="691" recast="70" en="Winds of Promy." ja="虚無の風" />
   <o id="692" recast="180" en="Retinal Glare" ja="レテナグレア" />
+  <o id="693" recast="40" en="Restoral" ja="レストラル" />
+  <o id="694" recast="208" en="Rail Cannon" ja="レールキャノン" />
+  <o id="695" recast="180" en="Diffusion Ray" ja="ディフュージョンレイ" />
   <o id="696" recast="104" en="Blood Drain" ja="吸血" />
   <o id="697" recast="104" en="Soporific" ja="サペリフィック" />
   <o id="698" recast="117" en="Death Ray" ja="デスレイ" />
@@ -635,11 +640,14 @@
   <o id="737" recast="120" en="Bilgestorm" ja="ビルジストーム" />
   <o id="738" recast="120" en="Bloodrake" ja="ブラッドレイク" />
   <o id="742" recast="120" en="Gates of Hades" ja="ゲーツオブハデス" />
+  <o id="743" recast="120" en="Polar Roar" ja="ポラーロア" />
   <o id="744" recast="120" en="Carcharian Verve" ja="カルカリアンヴァーヴ" />
   <o id="746" recast="120" en="Droning Whirlwind" ja="D.ワールウィンド" />
   <o id="748" recast="120" en="Harden Shell" ja="甲羅強化" />
   <o id="750" recast="120" en="Thunderbolt" ja="サンダーボルト" />
+  <o id="751" recast="120" en="Crashing Thunder" ja="クラッシュサンダー" />
   <o id="752" recast="120" en="Pyric Bulwark" ja="ポーラーブルワーク" />
+  <o id="753" recast="120" en="Uproot" ja="アップルート" />
   <o id="754" recast="120" en="Absolute Terror" ja="アブソルートテラー" />
   <o id="755" recast="120" en="Blistering Roar" ja="ブリスターローア" />
   <o id="768" recast="96" en="Foe Requiem" ja="魔物のレクイエム" />
@@ -800,6 +808,7 @@
   <o id="933" recast="192" en="Maat" ja="マート" />
   <o id="934" recast="192" en="D. Shantotto" ja="D.シャントット" />
   <o id="935" recast="192" en="Star Sibyl" ja="星の神子" />
+  <o id="937" recast="192" en="Cid" ja="シド" />
   <o id="941" recast="192" en="Elivira" ja="エリヴィラ" />
   <o id="942" recast="192" en="Noillurie" ja="ノユリ" />
   <o id="943" recast="192" en="Lhu Mhakaracca" ja="ルー・マカラッカ" />
@@ -808,5 +817,8 @@
   <o id="947" recast="192" en="Uka Totlihn" ja="ウカ・トトゥリン" />
   <o id="948" recast="192" en="Klara" ja="クララ" />
   <o id="949" recast="192" en="Romaa Mihgo" ja="ロマー・ミーゴ" />
+  <o id="950" recast="192" en="Kuyin Hathdenna" ja="クイン・ハスデンナ" />
+  <o id="951" recast="192" en="Rahal" ja="ラーアル" />
+  <o id="952" recast="192" en="Koru-Moru" ja="コルモル" />
   <o id="1004" recast="192" en="Excenmille [S]" ja="エグセニミルII" />
 </spell_recasts>

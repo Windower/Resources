@@ -567,6 +567,7 @@ return {
     [579] = {id=579,en="Commitment",ja="一心",enl="Commitment",jal="一心"},
     [580] = {id=580,en="Haste",ja="ヘイスト",enl="hastened",jal="ヘイスト"},
     [581] = {id=581,en="Flurry",ja="スナップ",enl="Flurry",jal="スナップ"},
+    [582] = {id=582,en="Contradance",ja="コントラダンス",enl="Contradance",jal="コントラダンス"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
