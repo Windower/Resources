@@ -513,7 +513,7 @@
   <o id="551" recast="102" en="Goblin Rush" ja="ゴブリンラッシュ" />
   <o id="552" recast="169" en="Vanity Dive" ja="バニティダイブ" />
   <o id="553" recast="124" en="Whirl of Rage" ja="怒りの旋風" />
-  <o id="554" recast="192" en="Benthic Typhoon" ja="ベンシクタイフーン" />
+  <o id="554" recast="204" en="Benthic Typhoon" ja="ベンシクタイフーン" />
   <o id="555" recast="127" en="Quad. Continuum" ja="四連突" />
   <o id="556" recast="163" en="Empty Thrash" ja="エンプティスラッシュ" />
   <o id="557" recast="60" en="Delta Thrust" ja="デルタスラスト" />
@@ -808,11 +808,13 @@
   <o id="933" recast="192" en="Maat" ja="マート" />
   <o id="934" recast="192" en="D. Shantotto" ja="D.シャントット" />
   <o id="935" recast="192" en="Star Sibyl" ja="星の神子" />
+  <o id="936" recast="192" en="Karaha-Baruha" ja="カラハバルハ" />
   <o id="937" recast="192" en="Cid" ja="シド" />
   <o id="941" recast="192" en="Elivira" ja="エリヴィラ" />
   <o id="942" recast="192" en="Noillurie" ja="ノユリ" />
   <o id="943" recast="192" en="Lhu Mhakaracca" ja="ルー・マカラッカ" />
   <o id="944" recast="192" en="Ferreous Coffin" ja="フェリアスコフィン" />
+  <o id="945" recast="192" en="Lilisette" ja="リリゼット" />
   <o id="946" recast="192" en="Mumor" ja="ミュモル" />
   <o id="947" recast="192" en="Uka Totlihn" ja="ウカ・トトゥリン" />
   <o id="948" recast="192" en="Klara" ja="クララ" />
@@ -820,5 +822,8 @@
   <o id="950" recast="192" en="Kuyin Hathdenna" ja="クイン・ハスデンナ" />
   <o id="951" recast="192" en="Rahal" ja="ラーアル" />
   <o id="952" recast="192" en="Koru-Moru" ja="コルモル" />
+  <o id="953" recast="192" en="Special 1" ja="スペシャル１" />
+  <o id="957" recast="192" en="Special 9" ja="スペシャル９" />
   <o id="1004" recast="192" en="Excenmille [S]" ja="エグセニミルII" />
+  <o id="1005" recast="192" en="Special 2" ja="スペシャル２" />
 </spell_recasts>

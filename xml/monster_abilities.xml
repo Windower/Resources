@@ -2769,7 +2769,7 @@
   <o id="3312" en="Rousing Samba" ja="ラウジングサンバ" />
   <o id="3313" en="Vivifying Waltz" ja="ビビファインワルツ" />
   <o id="3314" en="True Strike" ja="トゥルーストライク" />
-  <o id="3315" en="Hexa Strike" ja="ヘイキサストライク" />
+  <o id="3315" en="Hexa Strike" ja="ヘキサストライク" />
   <o id="3316" en="Glutinous Dart" ja="グルーティナスダート" />
   <o id="3317" en="Death Spin" ja="デススピン" />
   <o id="3318" en="Velkkan Pygmachia" ja="ヴェルクピグマキア" />
@@ -2781,4 +2781,26 @@
   <o id="3325" en="Inferno" ja="インフェルノ" />
   <o id="3326" en="Wind Blade" ja="ウインドブレード" />
   <o id="3327" en="Aerial Blast" ja="エリアルブラスト" />
+  <o id="3328" en="Heavenly Strike" ja="ヘヴンリーストライク" />
+  <o id="3329" en="Diamond Dust" ja="ダイヤモンドダスト" />
+  <o id="3330" en="Thunderstorm" ja="サンダーストーム" />
+  <o id="3331" en="Judgment Bolt" ja="ジャッジボルト" />
+  <o id="3332" en="Geocrush" ja="ジオクラッシュ" />
+  <o id="3333" en="Earthen Fury" ja="アースフューリー" />
+  <o id="3334" en="Grand Fall" ja="グランドフォール" />
+  <o id="3335" en="Tidal Wave" ja="タイダルウェイブ" />
+  <o id="3336" en="Howling Moon" ja="ハウリングムーン" />
+  <o id="3337" en="Lunar Bay" ja="ルナーベイ" />
+  <o id="3338" en="Chaos Blast" ja="カオスブラスト" />
+  <o id="3339" en="Oblivion's Mantle" ja="オブリビオンマント" />
+  <o id="3340" en="Dark Moon" ja="ダークムーン" />
+  <o id="3341" en="Dark Sun" ja="ダークサン" />
+  <o id="3342" en="Dark Thorn" ja="ダークソーン" />
+  <o id="3343" en="Durance Whip" ja="デュランスウィップ" />
+  <o id="3345" en="Dark Flare" ja="ダークフレア" />
+  <o id="3346" en="Dark Freeze" ja="ダークフリーズ" />
+  <o id="3347" en="Dark Tornado" ja="ダークトルネド" />
+  <o id="3348" en="Dark Quake" ja="ダーククエイク" />
+  <o id="3349" en="Dark Burst" ja="ダークバースト" />
+  <o id="3350" en="Dark Flood" ja="ダークフラッド" />
 </monster_abilities>

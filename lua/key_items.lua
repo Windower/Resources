@@ -2488,6 +2488,7 @@ return {
     [2593] = {id=2593,en="cryptic memorandum",ja="なぞの記述が浮き出たメモ",category="Temporary Key Items"},
     [2594] = {id=2594,en="memo found in Rala Waterways",ja="ララ水道の不思議メモ",category="Temporary Key Items"},
     [2595] = {id=2595,en="Head Wind phantom gem",ja="ファントムクォーツ【罪狩】",category="Temporary Key Items"},
+    [2596] = {id=2596,en="butterfly-shaped key",ja="胡蝶のカギ",category="Temporary Key Items"},
     [2598] = {id=2598,en="\"Suffering Sacchariferous\"",ja="ハッピー☆になるお菓子の本",category="Temporary Key Items"},
     [2599] = {id=2599,en="sepulcher ensign",ja="王墓の紋章",category="Permanent Key Items"},
     [2600] = {id=2600,en="consummate simulacrum",ja="完全なるシミューラクラム",category="Temporary Key Items"},
@@ -2507,6 +2508,8 @@ return {
     [2616] = {id=2616,en="record of a cavernous foray",ja="中央洞窟突撃戦の記録",category="Temporary Key Items"},
     [2617] = {id=2617,en="record of the knight in black",ja="黒衣の騎士の記録",category="Temporary Key Items"},
     [2618] = {id=2618,en="record of a thousand lights",ja="千の光の記録",category="Temporary Key Items"},
+    [2619] = {id=2619,en="avatar phantom gem",ja="ファントムクォーツ【神獣】",category="Temporary Key Items"},
+    [2620] = {id=2620,en="Heroes and Legends of Adoulin",ja="アドゥリン英雄伝の書写本",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

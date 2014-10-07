@@ -514,7 +514,7 @@ return {
     [551] = {id=551,en="Goblin Rush",ja="ゴブリンラッシュ",recast=102},
     [552] = {id=552,en="Vanity Dive",ja="バニティダイブ",recast=169},
     [553] = {id=553,en="Whirl of Rage",ja="怒りの旋風",recast=124},
-    [554] = {id=554,en="Benthic Typhoon",ja="ベンシクタイフーン",recast=192},
+    [554] = {id=554,en="Benthic Typhoon",ja="ベンシクタイフーン",recast=204},
     [555] = {id=555,en="Quad. Continuum",ja="四連突",recast=127},
     [556] = {id=556,en="Empty Thrash",ja="エンプティスラッシュ",recast=163},
     [557] = {id=557,en="Delta Thrust",ja="デルタスラスト",recast=60},
@@ -809,11 +809,13 @@ return {
     [933] = {id=933,en="Maat",ja="マート",recast=192},
     [934] = {id=934,en="D. Shantotto",ja="D.シャントット",recast=192},
     [935] = {id=935,en="Star Sibyl",ja="星の神子",recast=192},
+    [936] = {id=936,en="Karaha-Baruha",ja="カラハバルハ",recast=192},
     [937] = {id=937,en="Cid",ja="シド",recast=192},
     [941] = {id=941,en="Elivira",ja="エリヴィラ",recast=192},
     [942] = {id=942,en="Noillurie",ja="ノユリ",recast=192},
     [943] = {id=943,en="Lhu Mhakaracca",ja="ルー・マカラッカ",recast=192},
     [944] = {id=944,en="Ferreous Coffin",ja="フェリアスコフィン",recast=192},
+    [945] = {id=945,en="Lilisette",ja="リリゼット",recast=192},
     [946] = {id=946,en="Mumor",ja="ミュモル",recast=192},
     [947] = {id=947,en="Uka Totlihn",ja="ウカ・トトゥリン",recast=192},
     [948] = {id=948,en="Klara",ja="クララ",recast=192},
@@ -821,7 +823,10 @@ return {
     [950] = {id=950,en="Kuyin Hathdenna",ja="クイン・ハスデンナ",recast=192},
     [951] = {id=951,en="Rahal",ja="ラーアル",recast=192},
     [952] = {id=952,en="Koru-Moru",ja="コルモル",recast=192},
+    [953] = {id=953,en="Special 1",ja="スペシャル１",recast=192},
+    [957] = {id=957,en="Special 9",ja="スペシャル９",recast=192},
     [1004] = {id=1004,en="Excenmille [S]",ja="エグセニミルII",recast=192},
+    [1005] = {id=1005,en="Special 2",ja="スペシャル２",recast=192},
 }, {"id", "en", "ja", "recast"}
 
 --[[
