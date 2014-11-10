@@ -2128,6 +2128,7 @@ return {
     [2162] = {id=2162,en="aged Ligneous Naakual crest",ja="古ぼけた紋章-古樹公",category="Permanent Key Items"},
     [2163] = {id=2163,en="aged Booming Naakual crest",ja="古ぼけた紋章-轟雷公",category="Permanent Key Items"},
     [2164] = {id=2164,en="aged Flashfrost Naakual crest",ja="古ぼけた紋章-絶零公",category="Permanent Key Items"},
+    [2165] = {id=2165,en="aged undying Naakual crest",ja="古ぼけた紋章-不死公",category="Permanent Key Items"},
     [2166] = {id=2166,en="prototype attuner",ja="欠けたロゼッタ石",category="Permanent Key Items"},
     [2167] = {id=2167,en="watercraft",ja="携帯ボート",category="Permanent Key Items"},
     [2171] = {id=2171,en="restrainment resilience",ja="レストレイン・リジリアンス",category="Permanent Key Items"},
@@ -2510,6 +2511,20 @@ return {
     [2618] = {id=2618,en="record of a thousand lights",ja="千の光の記録",category="Temporary Key Items"},
     [2619] = {id=2619,en="avatar phantom gem",ja="ファントムクォーツ【神獣】",category="Temporary Key Items"},
     [2620] = {id=2620,en="Heroes and Legends of Adoulin",ja="アドゥリン英雄伝の書写本",category="Temporary Key Items"},
+    [2621] = {id=2621,en="hastily scribbled note",ja="アドゥリン家の紋章入り便せん",category="Temporary Key Items"},
+    [2622] = {id=2622,en="sky blue pome",ja="青色のロスレーシャの実",category="Temporary Key Items"},
+    [2623] = {id=2623,en="sun yellow pome",ja="黄色のロスレーシャの実",category="Temporary Key Items"},
+    [2624] = {id=2624,en="Ashrakk's blood sigil",ja="冥王の聖痕【怪霊君】",category="Permanent Key Items"},
+    [2625] = {id=2625,en="Dhokmak's blood sigil",ja="冥王の聖痕【変妖君】",category="Permanent Key Items"},
+    [2626] = {id=2626,en="ash runic board",ja="ルーンの字刻板",category="Temporary Key Items"},
+    [2627] = {id=2627,en="Teodor's blood sigil",ja="冥王の聖痕【不死君】",category="Permanent Key Items"},
+    [2628] = {id=2628,en="awakened crystallized psyche",ja="タルタロスの魂魄醒",category="Temporary Key Items"},
+    [2629] = {id=2629,en="Arciela's spare bonnet",ja="アシェラのボンネ【スペア】",category="Permanent Key Items"},
+    [2630] = {id=2630,en="Arciela's skirt",ja="アシェラのスカート",category="Permanent Key Items"},
+    [2631] = {id=2631,en="concordoll",ja="魔法人形「つなぐさん」",category="Permanent Key Items"},
+    [2632] = {id=2632,en="crystallized psyche",ja="タルタロスの魂魄",category="Temporary Key Items"},
+    [2633] = {id=2633,en="\"Sakura and the Magic Spoon\"",ja="『サクラちゃんと不思議な匙』",category="Permanent Key Items"},
+    [2640] = {id=2640,en="blank ash runic board",ja="無垢の字刻板",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

@@ -90,6 +90,7 @@ return {
     [91] = {id=91,en="Nether Void",ja="ネザーヴォイド"},
     [92] = {id=92,en="Rune Enchantment",ja="エンチャントルーン"},
     [93] = {id=93,en="Entrust",ja="エントラスト"},
+    [94] = {id=94,en="Bestial Loyalty",ja="しょうしゅう"},
     [97] = {id=97,en="Charm",ja="あやつる"},
     [98] = {id=98,en="Gauge",ja="みやぶる"},
     [99] = {id=99,en="Tame",ja="なだめる"},

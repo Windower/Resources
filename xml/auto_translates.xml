@@ -552,6 +552,7 @@
   <o id="3493" en="/targetbnpc" ja="/targetbnpc" />
   <o id="3494" en="/equipset" ja="/equipset" />
   <o id="3495" en="/itemsearch" ja="/itemsearch" />
+  <o id="3496" en="/unity" ja="/unity" />
   <o id="3584" en="Locations" ja="イチ" />
   <o id="3585" en="This way" ja="こっち" />
   <o id="3586" en="That way" ja="そっち" />
@@ -2262,7 +2263,9 @@
   <o id="10001" en="Southern San d'Oria [S]" ja="南サンドリア〔Ｓ〕" />
   <o id="10002" en="Outer Ra'Kaznar" ja="ラ・カザナル宮外郭" />
   <o id="10003" en="East Ronfaure [S]" ja="東ロンフォール〔Ｓ〕" />
+  <o id="10004" en="Ra'Kaznar Inner Court" ja="ラ・カザナル宮内郭" />
   <o id="10005" en="Jugner Forest [S]" ja="ジャグナー森林〔Ｓ〕" />
+  <o id="10006" en="Ra'Kaznar Turris" ja="ラ・カザナル宮天守" />
   <o id="10007" en="Batallia Downs [S]" ja="バタリア丘陵〔Ｓ〕" />
   <o id="10009" en="Everbloom Hollow" ja="常花の石窟" />
   <o id="10010" en="The Eldieme Necropolis [S]" ja="エルディーム古墳〔Ｓ〕" />

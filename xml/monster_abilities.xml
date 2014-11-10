@@ -767,7 +767,7 @@
   <o id="1026" en="Arbor Storm" ja="アーバーストーム" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1027" en="Combo" ja="コンボ" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1028" en="Tackle" ja="タックル" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
-  <o id="1029" en="One-Inch Punch" ja="短勁" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
+  <o id="1029" en="One-Ilm Punch" ja="短勁" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1030" en="Backhand Blow" ja="バックハンドブロー" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1031" en="Spinning Attack" ja="スピンアタック" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1032" en="Howling Fist" ja="空鳴拳" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
@@ -2803,4 +2803,70 @@
   <o id="3348" en="Dark Quake" ja="ダーククエイク" />
   <o id="3349" en="Dark Burst" ja="ダークバースト" />
   <o id="3350" en="Dark Flood" ja="ダークフラッド" />
+  <o id="3351" en="Wild Oats" ja="種まき" />
+  <o id="3352" en="Photosynthesis" ja="光合成" />
+  <o id="3353" en="Petal Pirouette" ja="ペタルピルエット" />
+  <o id="3354" en="Head Butt" ja="ヘッドバット" />
+  <o id="3355" en="Blow" ja="ブロー" />
+  <o id="3356" en="Uppercut" ja="アッパーカット" />
+  <o id="3357" en="Antiphase" ja="逆位相波" />
+  <o id="3358" en="Blank Gaze" ja="虚ろな眼" />
+  <o id="3363" en="Tearing Gust" ja="テーリングガスト" />
+  <o id="3364" en="Concussive Shock" ja="カンカシブショック" />
+  <o id="3365" en="Chokehold" ja="チョークホルド" />
+  <o id="3366" en="Zap" ja="ザップ" />
+  <o id="3367" en="Shrieking Gale" ja="シュリーキングゲイル" />
+  <o id="3368" en="Undulating Shockwave" ja="アンジュレティングショックウェーブ" />
+  <o id="3372" en="Cesspool" ja="セスプール" />
+  <o id="3373" en="Fetid Eddies" ja="フェテッドエディーズ" />
+  <o id="3374" en="Nullifying Rain" ja="ナリファイングレイン" />
+  <o id="3375" en="Noyade" ja="ノワアッド" />
+  <o id="3376" en="Clobbering Wave" ja="クラバリングウェーブ" />
+  <o id="3380" en="Start from Scratch" ja="スタートフロムスクラッチ" />
+  <o id="3381" en="Frenzied Thrust" ja="フレンジースラスト" />
+  <o id="3382" en="Sinner's Cross" ja="シナークロス" />
+  <o id="3383" en="Open Coffin" ja="オープンコフィン" />
+  <o id="3384" en="Ravenous Assault" ja="ラヴェナスアサルト" />
+  <o id="3385" en="Hemocladis" ja="ヒモクラディス" />
+  <o id="3389" en="Fulminous Smash" ja="ファルミナススマッシュ" />
+  <o id="3390" en="Flaming Kick" ja="フレミングキック" />
+  <o id="3391" en="Icy Grasp" ja="アイシーグラスプ" />
+  <o id="3392" en="Flashflood" ja="フラッシュフラッド" />
+  <o id="3393" en="Eroding Flesh" ja="エローディングフレッシュ" />
+  <o id="3394" en="Vivisection" ja="ヴィヴィセクション" />
+  <o id="3399" en="Impudence" ja="インピュデンス" />
+  <o id="3400" en="Incessant Void" ja="インセサントヴォイド" />
+  <o id="3401" en="Tenebrous Grip" ja="テネブラスグリップ" />
+  <o id="3402" en="Demonfire" ja="デモンファイア" />
+  <o id="3403" en="Frozen Blood" ja="フローズンブラッド" />
+  <o id="3404" en="Blast of Reticence" ja="ブラストオブレティセンス" />
+  <o id="3405" en="Ensepulcher" ja="エンセプルカー" />
+  <o id="3406" en="Ceaseless Surge" ja="シースレスサージ" />
+  <o id="3407" en="Torrential Pain" ja="トレンチャルペイン" />
+  <o id="3408" en="Eternal Misery" ja="エターナルミゼリー" />
+  <o id="3409" en="Crippling Agony" ja="クリップリングアゴニー" />
+  <o id="3410" en="Bane of Tartarus" ja="ベインオブタルタロス" />
+  <o id="3411" en="Power Slash" ja="パワースラッシュ" />
+  <o id="3412" en="Freezebite" ja="フリーズバイト" />
+  <o id="3413" en="Combo" ja="コンボ" />
+  <o id="3414" en="One-Ilm Punch" ja="短勁" />
+  <o id="3415" en="Howling Fist" ja="空鳴拳" />
+  <o id="3416" en="Dragon Kick" ja="双竜脚" />
+  <o id="3417" en="Asuran Fists" ja="夢想阿修羅拳" />
+  <o id="3418" en="Amatsu: Torimai" ja="天つ水影流・鳥舞" />
+  <o id="3419" en="Amatsu: Kazakiri" ja="天つ水影流・風切" />
+  <o id="3420" en="Amatsu: Yukiarashi" ja="天つ水影流・雪嵐" />
+  <o id="3421" en="Amatsu: Tsukioboro" ja="天つ水影流・月朧" />
+  <o id="3422" en="Amatsu: Hanaikusa" ja="天つ水影流・花軍" />
+  <o id="3423" en="Wasp Sting" ja="ワスプスティング" />
+  <o id="3424" en="Dancing Edge" ja="ダンシングエッジ" />
+  <o id="3425" en="Flat Blade" ja="フラットブレード" />
+  <o id="3426" en="Stink Bomb" ja="スティンクボム" />
+  <o id="3427" en="Nectarous Deluge" ja="ネクターデルージュ" />
+  <o id="3428" en="Nepenthic Plunge" ja="ネペンシックプランジ" />
+  <o id="3429" en="Guiding Light" ja="ガイディングライト" />
+  <o id="3430" en="Upgrowth" ja="芽生え" />
+  <o id="3431" en="Fast Blade" ja="ファストブレード" />
+  <o id="3432" en="Savage Blade" ja="サベッジブレード" />
+  <o id="3433" en="Sheep Song" ja="シープソング" />
 </monster_abilities>

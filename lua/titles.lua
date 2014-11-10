@@ -912,6 +912,14 @@ return {
     [924] = {id=924,en="Shedder of Harlequin Tears",ja="ゲームの勝者"},
     [925] = {id=925,en="Hope for the Future",ja="暁の輝き"},
     [926] = {id=926,en="Thousand-Year Traveler",ja="一千年の旅人"},
+    [927] = {id=927,en="Vanquisher of Ashrakk",ja="怪霊を討滅せし者"},
+    [928] = {id=928,en="Vanquisher of Dhokmak",ja="変妖を討滅せし者"},
+    [929] = {id=929,en="Protected by Ulbukan Spirits",ja="英霊の加護ありし者"},
+    [930] = {id=930,en="Receiver of Sigils",ja="聖痕の受難者"},
+    [931] = {id=931,en="Destroyer of Hades",ja="冥王を討ちし者"},
+    [932] = {id=932,en="Bringer of the Dawn",ja="暁の先導者"},
+    [933] = {id=933,en="The One True Pioneer",ja="アドゥリンの真なる開拓者"},
+    [934] = {id=934,en="Bringer of Hope",ja="希望の先導者"},
 }, {"id", "en", "ja"}
 
 --[[

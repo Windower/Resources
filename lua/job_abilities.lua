@@ -360,6 +360,7 @@ return {
     [384] = {id=384,en="Contradance",ja="コントラダンス",element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=229,targets=1,tp_cost=0,type="JobAbility"},
     [385] = {id=385,en="Apogee",ja="アポジー",element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=108,targets=1,tp_cost=0,type="JobAbility"},
     [386] = {id=386,en="Entrust",ja="エントラスト",element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=93,targets=1,tp_cost=0,type="JobAbility"},
+    [387] = {id=387,en="Bestial Loyalty",ja="しょうしゅう",element=6,icon_id=423,mp_cost=0,prefix="/jobability",range=0,recast_id=94,targets=1,tp_cost=0,type="JobAbility"},
     [512] = {id=512,en="Healing Ruby",ja="ルビーの癒し",element=6,icon_id=340,mp_cost=6,prefix="/pet",range=9,recast_id=174,targets=5,tp_cost=0,type="BloodPactWard"},
     [513] = {id=513,en="Poison Nails",ja="ポイズンネイル",element=6,icon_id=340,mp_cost=11,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
     [514] = {id=514,en="Shining Ruby",ja="ルビーの輝き",duration=180,element=6,icon_id=340,mp_cost=44,prefix="/pet",range=4,recast_id=174,targets=1,tp_cost=0,type="BloodPactWard"},
@@ -571,6 +572,11 @@ return {
     [765] = {id=765,en="Sweeping Gouge",ja="スイープガウジ",element=2,icon_id=42,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [766] = {id=766,en="Zealous Snort",ja="ゼラススノート",element=6,icon_id=46,mp_cost=3,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [767] = {id=767,en="Pentapeck",ja="ペンタペック",element=0,icon_id=40,mp_cost=3,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [768] = {id=768,en="Tickling Tendrils",ja="ティックルテンドリル",element=4,icon_id=44,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [769] = {id=769,en="Stink Bomb",ja="スティンクボム",element=3,icon_id=43,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [770] = {id=770,en="Nectarous Deluge",ja="ネクターデルージュ",element=5,icon_id=45,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [771] = {id=771,en="Nepenthic Plunge",ja="ネペンシックプランジ",element=5,icon_id=45,mp_cost=3,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [772] = {id=772,en="Somersault ",ja="サマーソルト",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
 }, {"id", "en", "ja", "duration", "element", "icon_id", "mp_cost", "prefix", "range", "recast_id", "targets", "tp_cost", "type"}
 
 --[[

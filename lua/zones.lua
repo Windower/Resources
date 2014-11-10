@@ -270,6 +270,7 @@ return {
     [274] = {id=274,en="Outer Ra'Kaznar",ja="ラ・カザナル宮外郭",search="OutRaKaz"},
     [275] = {id=275,en="Outer Ra'Kaznar [U]",ja="ラ・カザナル宮外郭〔Ｕ〕",search="OutRaKaz_U"},
     [276] = {id=276,en="Ra'Kaznar Inner Court",ja="ラ・カザナル宮内郭",search="InRaKaz"},
+    [277] = {id=277,en="Ra'Kaznar Turris",ja="ラ・カザナル宮天守",search="RaKazTurris"},
     [280] = {id=280,en="Mog Garden",ja="モグガーデン",search="MogGarden"},
     [281] = {id=281,en="Leafallia",ja="リファーリア",search="Leafallia"},
     [282] = {id=282,en="Mount Kamihr",ja="カミール山",search="MtKamihr"},
