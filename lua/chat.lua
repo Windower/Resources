@@ -8,6 +8,7 @@ return {
     [5] = {id=5,en="linkshell",incoming=14,outgoing=6},
     [8] = {id=8,en="emote",incoming=15,outgoing=7},
     [26] = {id=26,en="yell",incoming=11,outgoing=3},
+    [33] = {id=33,en="unity",incoming=212,outgoing=212},
 }, {"id", "en", "incoming", "outgoing"}
 
 --[[
