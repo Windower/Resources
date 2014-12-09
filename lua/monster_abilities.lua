@@ -2870,6 +2870,16 @@ return {
     [3431] = {id=3431,en="Fast Blade",ja="ファストブレード"},
     [3432] = {id=3432,en="Savage Blade",ja="サベッジブレード"},
     [3433] = {id=3433,en="Sheep Song",ja="シープソング"},
+    [3434] = {id=3434,en="Tachi: Kamai",ja="鎌居太刀"},
+    [3435] = {id=3435,en="Iainuki",ja="居合抜き"},
+    [3436] = {id=3436,en="Tachi: Goten",ja="参之太刀・轟天"},
+    [3437] = {id=3437,en="Tachi: Kasha",ja="九之太刀・花車"},
+    [3438] = {id=3438,en="Dragon Breath",ja="ドラゴンブレス"},
+    [3439] = {id=3439,en="Hurricane Wing",ja="ハリケーンウィング"},
+    [3440] = {id=3440,en="Pocket Sand",ja="ポケットサンド"},
+    [3441] = {id=3441,en="Tripe Gripe",ja="トライプグライプ"},
+    [3442] = {id=3442,en="Sharp Eye",ja="シャープアイ"},
+    [3443] = {id=3443,en="Gloeosuccus",ja="グロオーサケス"},
 }, {"id", "en", "ja", "element", "icon_id", "monster_level", "prefix", "range", "targets", "tp_cost"}
 
 --[[

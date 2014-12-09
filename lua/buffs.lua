@@ -571,6 +571,8 @@ return {
     [583] = {id=583,en="Apogee",ja="アポジー",enl="Apogee",jal="アポジー"},
     [584] = {id=584,en="Entrust",ja="エントラスト",enl="entrusting",jal="エントラスト"},
     [585] = {id=585,en="Costume",ja="コスチューム",enl="costumed",jal="コスチューム"},
+    [586] = {id=586,en="Curing Conduit",ja="被ケアル回復量アップ",enl="Curing Conduit",jal="被ケアル回復量アップ"},
+    [587] = {id=587,en="TP Bonus",ja="TPボーナスアップ",enl="TP Bonus",jal="TPボーナスアップ"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

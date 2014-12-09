@@ -111,6 +111,7 @@ return {
     [121] = {id=121,en="Inspiration",ja="インスパイア",element=6,icon_id=46,range=0,targets=0},
     [122] = {id=122,en="Sleight of Sword",ja="スライトソード",element=2,icon_id=42,range=0,targets=0},
     [123] = {id=123,en="Daken",ja="打剣",element=6,icon_id=46,range=0,targets=0},
+    [124] = {id=124,en="Superior",ja="スペリア",element=6,icon_id=46,range=0,targets=0},
 }, {"id", "en", "ja", "element", "icon_id", "range", "targets"}
 
 --[[
