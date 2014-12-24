@@ -41,7 +41,7 @@
   <o id="54" type="JobAbility" element="6" icon_id="426" mp_cost="0" recast_id="99" targets="32" tp_cost="0" range="11" prefix="/jobability" en="Tame" ja="なだめる" />
   <o id="55" type="JobAbility" element="6" icon_id="423" mp_cost="0" recast_id="255" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Pet commands" ja="ペットコマンド" />
   <o id="56" type="JobAbility" element="3" icon_id="438" mp_cost="0" recast_id="121" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Scavenge" ja="スカベンジ" />
-  <o id="57" type="JobAbility" element="1" icon_id="440" mp_cost="0" recast_id="122" targets="32" tp_cost="0" range="12" prefix="/jobability" en="Shadowbind" ja="影縫い" />
+  <o id="57" type="JobAbility" element="1" icon_id="440" mp_cost="0" recast_id="122" targets="32" tp_cost="0" duration="30" range="12" prefix="/jobability" en="Shadowbind" ja="影縫い" />
   <o id="58" type="JobAbility" element="2" icon_id="446" mp_cost="0" recast_id="123" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Camouflage" ja="カモフラージュ" />
   <o id="59" type="JobAbility" element="4" icon_id="437" mp_cost="0" recast_id="124" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Sharpshot" ja="狙い撃ち" />
   <o id="60" type="JobAbility" element="4" icon_id="439" mp_cost="0" recast_id="125" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Barrage" ja="乱れ撃ち" />
@@ -76,8 +76,8 @@
   <o id="89" type="PetCommand" element="6" icon_id="474" mp_cost="0" recast_id="171" targets="1" tp_cost="0" range="0" prefix="/pet" en="Retreat" ja="神獣の退避" />
   <o id="90" type="PetCommand" element="6" icon_id="475" mp_cost="0" recast_id="172" targets="1" tp_cost="0" range="0" prefix="/pet" en="Release" ja="神獣の帰還" />
   <o id="91" type="PetCommand" element="6" icon_id="477" mp_cost="0" recast_id="173" targets="1" tp_cost="0" range="11" prefix="/pet" en="Blood Pact: Rage" ja="契約の履行:幻術" />
-  <o id="92" type="JobAbility" element="3" icon_id="409" mp_cost="0" recast_id="77" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Rampart" ja="ランパート" />
-  <o id="93" type="JobAbility" element="6" icon_id="81" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Azure Lore" ja="アジュールロー" />
+  <o id="92" type="JobAbility" element="3" icon_id="409" mp_cost="0" recast_id="77" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Rampart" ja="ランパート" />
+  <o id="93" type="JobAbility" element="6" icon_id="81" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Azure Lore" ja="アジュールロー" />
   <o id="94" type="JobAbility" element="6" icon_id="481" mp_cost="0" recast_id="181" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Chain Affinity" ja="ブルーチェーン" />
   <o id="95" type="JobAbility" element="6" icon_id="481" mp_cost="0" recast_id="182" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Burst Affinity" ja="ブルーバースト" />
   <o id="96" type="JobAbility" element="6" icon_id="82" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Wild Card" ja="ワイルドカード" />
@@ -118,7 +118,7 @@
   <o id="131" type="CorsairShot" element="6" icon_id="494" mp_cost="1" recast_id="195" targets="32" tp_cost="0" range="12" prefix="/jobability" en="Light Shot" ja="ライトショット" />
   <o id="132" type="CorsairShot" element="7" icon_id="495" mp_cost="1" recast_id="195" targets="32" tp_cost="0" range="12" prefix="/jobability" en="Dark Shot" ja="ダークショット" />
   <o id="133" type="JobAbility" element="6" icon_id="496" mp_cost="0" recast_id="196" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Random Deal" ja="ランダムディール" />
-  <o id="135" type="JobAbility" element="6" icon_id="83" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Overdrive" ja="オーバードライヴ" />
+  <o id="135" type="JobAbility" element="6" icon_id="83" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Overdrive" ja="オーバードライヴ" />
   <o id="136" type="JobAbility" element="6" icon_id="500" mp_cost="0" recast_id="205" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Activate" ja="アクティベート" />
   <o id="137" type="JobAbility" element="6" icon_id="501" mp_cost="0" recast_id="206" targets="1" tp_cost="0" range="12" prefix="/jobability" en="Repair" ja="リペアー" />
   <o id="138" type="PetCommand" element="6" icon_id="502" mp_cost="0" recast_id="207" targets="32" tp_cost="0" range="11" prefix="/pet" en="Deploy" ja="ディプロイ" />
@@ -132,9 +132,9 @@
   <o id="146" type="PetCommand" element="5" icon_id="510" mp_cost="0" recast_id="210" targets="1" tp_cost="0" range="0" prefix="/pet" en="Water Maneuver" ja="ウォータマニューバ" />
   <o id="147" type="PetCommand" element="6" icon_id="511" mp_cost="0" recast_id="210" targets="1" tp_cost="0" range="0" prefix="/pet" en="Light Maneuver" ja="ライトマニューバ" />
   <o id="148" type="PetCommand" element="7" icon_id="512" mp_cost="0" recast_id="210" targets="1" tp_cost="0" range="0" prefix="/pet" en="Dark Maneuver" ja="ダークマニューバ" />
-  <o id="149" type="JobAbility" element="6" icon_id="368" mp_cost="0" recast_id="6" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Warrior's Charge" ja="ウォリアーチャージ" />
+  <o id="149" type="JobAbility" element="6" icon_id="368" mp_cost="0" recast_id="6" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Warrior's Charge" ja="ウォリアーチャージ" />
   <o id="150" type="JobAbility" element="6" icon_id="369" mp_cost="0" recast_id="7" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Tomahawk" ja="トマホーク" />
-  <o id="151" type="JobAbility" element="6" icon_id="378" mp_cost="0" recast_id="19" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Mantra" ja="マントラ" />
+  <o id="151" type="JobAbility" element="6" icon_id="378" mp_cost="0" recast_id="19" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Mantra" ja="マントラ" />
   <o id="152" type="JobAbility" element="6" icon_id="379" mp_cost="0" recast_id="20" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Formless Strikes" ja="無想無念" />
   <o id="153" type="JobAbility" element="6" icon_id="386" mp_cost="0" recast_id="27" targets="4" tp_cost="0" range="12" prefix="/jobability" en="Martyr" ja="マーター" />
   <o id="154" type="JobAbility" element="6" icon_id="386" mp_cost="0" recast_id="28" targets="4" tp_cost="0" range="8" prefix="/jobability" en="Devotion" ja="デヴォーション" />
@@ -148,23 +148,23 @@
   <o id="162" type="JobAbility" element="6" icon_id="431" mp_cost="0" recast_id="106" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Killer Instinct" ja="K.インスティンクト" />
   <o id="163" type="JobAbility" element="6" icon_id="435" mp_cost="0" recast_id="109" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Nightingale" ja="ナイチンゲール" />
   <o id="164" type="JobAbility" element="6" icon_id="436" mp_cost="0" recast_id="110" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Troubadour" ja="トルバドゥール" />
-  <o id="165" type="JobAbility" element="6" icon_id="445" mp_cost="0" recast_id="127" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Stealth Shot" ja="ステルスショット" />
-  <o id="166" type="JobAbility" element="6" icon_id="445" mp_cost="0" recast_id="128" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Flashy Shot" ja="フラッシーショット" />
+  <o id="165" type="JobAbility" element="6" icon_id="445" mp_cost="0" recast_id="127" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Stealth Shot" ja="ステルスショット" />
+  <o id="166" type="JobAbility" element="6" icon_id="445" mp_cost="0" recast_id="128" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Flashy Shot" ja="フラッシーショット" />
   <o id="167" type="JobAbility" element="6" icon_id="453" mp_cost="0" recast_id="136" targets="4" tp_cost="0" range="8" prefix="/jobability" en="Shikikoyo" ja="士気昂揚" />
   <o id="168" type="JobAbility" element="6" icon_id="458" mp_cost="0" recast_id="137" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Blade Bash" ja="峰打ち" />
-  <o id="169" type="JobAbility" element="6" icon_id="469" mp_cost="0" recast_id="164" targets="1" tp_cost="0" range="8" prefix="/jobability" en="Deep Breathing" ja="ディープブリージング" />
-  <o id="170" type="JobAbility" element="6" icon_id="470" mp_cost="0" recast_id="165" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Angon" ja="アンゴン" />
-  <o id="171" type="JobAbility" element="6" icon_id="462" mp_cost="0" recast_id="145" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Sange" ja="散華" />
+  <o id="169" type="JobAbility" element="6" icon_id="469" mp_cost="0" recast_id="164" targets="1" tp_cost="0" duration="180" range="8" prefix="/jobability" en="Deep Breathing" ja="ディープブリージング" />
+  <o id="170" type="JobAbility" element="6" icon_id="470" mp_cost="0" recast_id="165" targets="32" tp_cost="0" duration="30" range="8" prefix="/jobability" en="Angon" ja="アンゴン" />
+  <o id="171" type="JobAbility" element="6" icon_id="462" mp_cost="0" recast_id="145" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Sange" ja="散華" />
   <o id="172" type="PetCommand" element="6" icon_id="478" mp_cost="0" recast_id="174" targets="1" tp_cost="0" range="11" prefix="/pet" en="Blood Pact: Ward" ja="契約の履行:験術" />
   <o id="173" type="JobAbility" element="6" icon_id="448" mp_cost="0" recast_id="138" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Hasso" ja="八双" />
   <o id="174" type="JobAbility" element="6" icon_id="448" mp_cost="0" recast_id="139" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Seigan" ja="星眼" />
-  <o id="175" type="JobAbility" element="6" icon_id="484" mp_cost="0" recast_id="183" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Convergence" ja="コンバージェンス" />
-  <o id="176" type="JobAbility" element="6" icon_id="484" mp_cost="0" recast_id="184" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Diffusion" ja="ディフュージョン" />
-  <o id="177" type="JobAbility" element="6" icon_id="497" mp_cost="0" recast_id="197" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Snake Eye" ja="スネークアイ" />
+  <o id="175" type="JobAbility" element="6" icon_id="484" mp_cost="0" recast_id="183" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Convergence" ja="コンバージェンス" />
+  <o id="176" type="JobAbility" element="6" icon_id="484" mp_cost="0" recast_id="184" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Diffusion" ja="ディフュージョン" />
+  <o id="177" type="JobAbility" element="6" icon_id="497" mp_cost="0" recast_id="197" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Snake Eye" ja="スネークアイ" />
   <o id="178" type="JobAbility" element="6" icon_id="498" mp_cost="0" recast_id="198" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Fold" ja="フォールド" />
   <o id="179" type="JobAbility" element="6" icon_id="515" mp_cost="0" recast_id="211" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Role Reversal" ja="黒衣チェンジ" />
   <o id="180" type="JobAbility" element="6" icon_id="516" mp_cost="0" recast_id="212" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Ventriloquy" ja="腹話術" />
-  <o id="181" type="JobAbility" element="6" icon_id="84" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Trance" ja="トランス" />
+  <o id="181" type="JobAbility" element="6" icon_id="84" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Trance" ja="トランス" />
   <o id="182" type="JobAbility" element="6" icon_id="518" mp_cost="0" recast_id="216" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Sambas" ja="サンバモード" />
   <o id="183" type="JobAbility" element="6" icon_id="521" mp_cost="0" recast_id="227" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Waltzes" ja="ワルツモード" />
   <o id="184" type="Samba" element="6" icon_id="518" mp_cost="0" recast_id="216" targets="1" tp_cost="100" duration="90" range="0" prefix="/jobability" en="Drain Samba" ja="ドレインサンバ" />
@@ -180,22 +180,22 @@
   <o id="194" type="Waltz" element="6" icon_id="521" mp_cost="0" recast_id="215" targets="5" tp_cost="200" range="12" prefix="/jobability" en="Healing Waltz" ja="ヒーリングワルツ" />
   <o id="195" type="Waltz" element="6" icon_id="522" mp_cost="0" recast_id="225" targets="5" tp_cost="400" range="8" prefix="/jobability" en="Divine Waltz" ja="ディバインワルツ" />
   <o id="196" type="Jig" element="6" icon_id="528" mp_cost="0" recast_id="218" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Spectral Jig" ja="スペクトラルジグ" />
-  <o id="197" type="Jig" element="6" icon_id="529" mp_cost="0" recast_id="218" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Chocobo Jig" ja="チョコボジグ" />
+  <o id="197" type="Jig" element="6" icon_id="529" mp_cost="0" recast_id="218" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Chocobo Jig" ja="チョコボジグ" />
   <o id="198" type="JobAbility" element="6" icon_id="528" mp_cost="0" recast_id="218" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Jigs" ja="ジグモード" />
   <o id="199" type="JobAbility" element="6" icon_id="523" mp_cost="0" recast_id="220" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Steps" ja="ステップ" />
   <o id="200" type="JobAbility" element="6" icon_id="527" mp_cost="0" recast_id="221" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Flourishes I" ja="フラリッシュI" />
-  <o id="201" type="Step" element="6" icon_id="524" mp_cost="0" recast_id="220" targets="32" tp_cost="100" range="2" prefix="/jobability" en="Quickstep" ja="クイックステップ" />
-  <o id="202" type="Step" element="6" icon_id="525" mp_cost="0" recast_id="220" targets="32" tp_cost="100" range="2" prefix="/jobability" en="Box Step" ja="ボックスステップ" />
-  <o id="203" type="Step" element="6" icon_id="523" mp_cost="0" recast_id="220" targets="32" tp_cost="100" range="2" prefix="/jobability" en="Stutter Step" ja="スタッターステップ" />
+  <o id="201" type="Step" element="6" icon_id="524" mp_cost="0" recast_id="220" targets="32" tp_cost="100" duration="60" range="2" prefix="/jobability" en="Quickstep" ja="クイックステップ" />
+  <o id="202" type="Step" element="6" icon_id="525" mp_cost="0" recast_id="220" targets="32" tp_cost="100" duration="60" range="2" prefix="/jobability" en="Box Step" ja="ボックスステップ" />
+  <o id="203" type="Step" element="6" icon_id="523" mp_cost="0" recast_id="220" targets="32" tp_cost="100" duration="60" range="2" prefix="/jobability" en="Stutter Step" ja="スタッターステップ" />
   <o id="204" type="Flourish1" element="6" icon_id="527" mp_cost="0" recast_id="221" targets="32" tp_cost="0" range="11" prefix="/jobability" en="Animated Flourish" ja="A.フラリッシュ" />
   <o id="205" type="Flourish1" element="6" icon_id="527" mp_cost="0" recast_id="221" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Desperate Flourish" ja="D.フラリッシュ" />
   <o id="206" type="Flourish2" element="6" icon_id="527" mp_cost="0" recast_id="222" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Reverse Flourish" ja="R.フラリッシュ" />
   <o id="207" type="Flourish1" element="6" icon_id="527" mp_cost="0" recast_id="221" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Violent Flourish" ja="V.フラリッシュ" />
-  <o id="208" type="Flourish2" element="6" icon_id="527" mp_cost="0" recast_id="222" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Building Flourish" ja="B.フラリッシュ" />
-  <o id="209" type="Flourish2" element="6" icon_id="527" mp_cost="0" recast_id="222" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Wild Flourish" ja="W.フラリッシュ" />
-  <o id="210" type="JobAbility" element="6" icon_id="85" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tabula Rasa" ja="連環計" />
-  <o id="211" type="JobAbility" element="6" icon_id="533" mp_cost="0" recast_id="228" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Light Arts" ja="白のグリモア" />
-  <o id="212" type="JobAbility" element="7" icon_id="534" mp_cost="0" recast_id="232" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Dark Arts" ja="黒のグリモア" />
+  <o id="208" type="Flourish2" element="6" icon_id="527" mp_cost="0" recast_id="222" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Building Flourish" ja="B.フラリッシュ" />
+  <o id="209" type="Flourish2" element="6" icon_id="527" mp_cost="0" recast_id="222" targets="32" tp_cost="0" duration="10" range="2" prefix="/jobability" en="Wild Flourish" ja="W.フラリッシュ" />
+  <o id="210" type="JobAbility" element="6" icon_id="85" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Tabula Rasa" ja="連環計" />
+  <o id="211" type="JobAbility" element="6" icon_id="533" mp_cost="0" recast_id="228" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Light Arts" ja="白のグリモア" />
+  <o id="212" type="JobAbility" element="7" icon_id="534" mp_cost="0" recast_id="232" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Dark Arts" ja="黒のグリモア" />
   <o id="213" type="JobAbility" element="6" icon_id="527" mp_cost="0" recast_id="222" targets="4" tp_cost="0" range="0" prefix="/jobability" en="Flourishes II" ja="フラリッシュII" />
   <o id="214" type="JobAbility" element="6" icon_id="539" mp_cost="1" recast_id="230" targets="32" tp_cost="0" range="12" prefix="/jobability" en="Modus Veritas" ja="以逸待労の計" />
   <o id="215" type="Scholar" element="6" icon_id="541" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Penury" ja="簡素清貧の章" />
@@ -207,77 +207,77 @@
   <o id="221" type="Scholar" element="7" icon_id="542" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ebullience" ja="気炎万丈の章" />
   <o id="222" type="Scholar" element="7" icon_id="542" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Manifestation" ja="精霊光来の章" />
   <o id="223" type="JobAbility" element="6" icon_id="535" mp_cost="0" recast_id="233" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Stratagems" ja="戦術魔道書" />
-  <o id="224" type="JobAbility" element="6" icon_id="445" mp_cost="0" recast_id="129" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Velocity Shot" ja="ベロシティショット" />
+  <o id="224" type="JobAbility" element="6" icon_id="445" mp_cost="0" recast_id="129" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Velocity Shot" ja="ベロシティショット" />
   <o id="225" type="PetCommand" element="6" icon_id="427" mp_cost="0" recast_id="107" targets="1" tp_cost="0" range="8" prefix="/pet" en="Snarl" ja="ひきつけろ" />
-  <o id="226" type="JobAbility" element="3" icon_id="365" mp_cost="0" recast_id="8" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Retaliation" ja="リタリエーション" />
-  <o id="227" type="JobAbility" element="0" icon_id="376" mp_cost="0" recast_id="21" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Footwork" ja="猫足立ち" />
+  <o id="226" type="JobAbility" element="3" icon_id="365" mp_cost="0" recast_id="8" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Retaliation" ja="リタリエーション" />
+  <o id="227" type="JobAbility" element="0" icon_id="376" mp_cost="0" recast_id="21" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Footwork" ja="猫足立ち" />
   <o id="228" type="JobAbility" element="2" icon_id="395" mp_cost="0" recast_id="61" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Despoil" ja="ぶんどる" />
   <o id="229" type="JobAbility" element="6" icon_id="432" mp_cost="0" recast_id="112" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Pianissimo" ja="ピアニッシモ" />
   <o id="230" type="JobAbility" element="6" icon_id="450" mp_cost="0" recast_id="140" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Sekkanoki" ja="石火之機" />
   <o id="232" type="JobAbility" element="6" icon_id="479" mp_cost="0" recast_id="175" targets="1" tp_cost="0" range="8" prefix="/jobability" en="Elemental Siphon" ja="エレメントサイフォン" />
-  <o id="233" type="JobAbility" element="6" icon_id="537" mp_cost="0" recast_id="234" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Sublimation" ja="机上演習" />
+  <o id="233" type="JobAbility" element="6" icon_id="537" mp_cost="0" recast_id="234" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Sublimation" ja="机上演習" />
   <o id="234" type="Scholar" element="6" icon_id="535" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Addendum: White" ja="白の補遺" />
   <o id="235" type="Scholar" element="7" icon_id="536" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Addendum: Black" ja="黒の補遺" />
   <o id="236" type="JobAbility" element="6" icon_id="400" mp_cost="0" recast_id="69" targets="5" tp_cost="0" range="9" prefix="/jobability" en="Collaborator" ja="コラボレーター" />
-  <o id="237" type="JobAbility" element="6" icon_id="531" mp_cost="0" recast_id="219" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Saber Dance" ja="剣の舞い" />
-  <o id="238" type="JobAbility" element="6" icon_id="532" mp_cost="0" recast_id="224" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Fan Dance" ja="扇の舞い" />
+  <o id="237" type="JobAbility" element="6" icon_id="531" mp_cost="0" recast_id="219" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Saber Dance" ja="剣の舞い" />
+  <o id="238" type="JobAbility" element="6" icon_id="532" mp_cost="0" recast_id="224" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Fan Dance" ja="扇の舞い" />
   <o id="239" type="JobAbility" element="6" icon_id="530" mp_cost="0" recast_id="223" targets="1" tp_cost="0" range="0" prefix="/jobability" en="No Foot Rise" ja="ノーフットライズ" />
   <o id="240" type="Scholar" element="6" icon_id="541" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Altruism" ja="不惜身命の章" />
   <o id="241" type="Scholar" element="7" icon_id="542" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Focalization" ja="一心精進の章" />
   <o id="242" type="Scholar" element="6" icon_id="541" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tranquility" ja="天衣無縫の章" />
   <o id="243" type="Scholar" element="7" icon_id="542" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Equanimity" ja="無憂無風の章" />
-  <o id="244" type="JobAbility" element="6" icon_id="540" mp_cost="0" recast_id="235" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Enlightenment" ja="大悟徹底" />
-  <o id="245" type="JobAbility" element="6" icon_id="382" mp_cost="0" recast_id="29" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Afflatus Solace" ja="ハートオブソラス" />
-  <o id="246" type="JobAbility" element="6" icon_id="383" mp_cost="0" recast_id="30" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Afflatus Misery" ja="ハートオブミゼリ" />
-  <o id="247" type="JobAbility" element="6" icon_id="392" mp_cost="0" recast_id="50" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Composure" ja="コンポージャー" />
-  <o id="248" type="JobAbility" element="6" icon_id="460" mp_cost="0" recast_id="146" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Yonin" ja="陽忍" />
-  <o id="249" type="JobAbility" element="7" icon_id="459" mp_cost="0" recast_id="147" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Innin" ja="陰忍" />
+  <o id="244" type="JobAbility" element="6" icon_id="540" mp_cost="0" recast_id="235" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Enlightenment" ja="大悟徹底" />
+  <o id="245" type="JobAbility" element="6" icon_id="382" mp_cost="0" recast_id="29" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Afflatus Solace" ja="ハートオブソラス" />
+  <o id="246" type="JobAbility" element="6" icon_id="383" mp_cost="0" recast_id="30" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Afflatus Misery" ja="ハートオブミゼリ" />
+  <o id="247" type="JobAbility" element="6" icon_id="392" mp_cost="0" recast_id="50" targets="1" tp_cost="0" duration="7200" range="0" prefix="/jobability" en="Composure" ja="コンポージャー" />
+  <o id="248" type="JobAbility" element="6" icon_id="460" mp_cost="0" recast_id="146" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Yonin" ja="陽忍" />
+  <o id="249" type="JobAbility" element="7" icon_id="459" mp_cost="0" recast_id="147" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Innin" ja="陰忍" />
   <o id="250" type="PetCommand" element="6" icon_id="476" mp_cost="0" recast_id="176" targets="1" tp_cost="0" range="0" prefix="/pet" en="Avatar's Favor" ja="神獣の加護" />
   <o id="251" type="PetCommand" element="6" icon_id="423" mp_cost="0" recast_id="255" targets="1" tp_cost="0" range="11" prefix="/pet" en="Ready" ja="しじをさせろ" />
-  <o id="252" type="JobAbility" element="0" icon_id="366" mp_cost="0" recast_id="9" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Restraint" ja="リストレント" />
-  <o id="253" type="JobAbility" element="6" icon_id="377" mp_cost="0" recast_id="22" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Perfect Counter" ja="絶対カウンター" />
-  <o id="254" type="JobAbility" element="7" icon_id="388" mp_cost="0" recast_id="39" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Mana Wall" ja="マナウォール" />
-  <o id="255" type="JobAbility" element="6" icon_id="410" mp_cost="0" recast_id="80" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Divine Emblem" ja="神聖の印" />
-  <o id="256" type="JobAbility" element="7" icon_id="416" mp_cost="0" recast_id="91" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Nether Void" ja="ネザーヴォイド" />
-  <o id="257" type="JobAbility" element="6" icon_id="442" mp_cost="0" recast_id="126" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Double Shot" ja="ダブルショット" />
-  <o id="258" type="JobAbility" element="6" icon_id="452" mp_cost="0" recast_id="141" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Sengikori" ja="先義後利" />
-  <o id="259" type="JobAbility" element="7" icon_id="463" mp_cost="0" recast_id="148" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Futae" ja="二重" />
+  <o id="252" type="JobAbility" element="0" icon_id="366" mp_cost="0" recast_id="9" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Restraint" ja="リストレント" />
+  <o id="253" type="JobAbility" element="6" icon_id="377" mp_cost="0" recast_id="22" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Perfect Counter" ja="絶対カウンター" />
+  <o id="254" type="JobAbility" element="7" icon_id="388" mp_cost="0" recast_id="39" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Mana Wall" ja="マナウォール" />
+  <o id="255" type="JobAbility" element="6" icon_id="410" mp_cost="0" recast_id="80" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Divine Emblem" ja="神聖の印" />
+  <o id="256" type="JobAbility" element="7" icon_id="416" mp_cost="0" recast_id="91" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Nether Void" ja="ネザーヴォイド" />
+  <o id="257" type="JobAbility" element="6" icon_id="442" mp_cost="0" recast_id="126" targets="1" tp_cost="0" duration="90" range="0" prefix="/jobability" en="Double Shot" ja="ダブルショット" />
+  <o id="258" type="JobAbility" element="6" icon_id="452" mp_cost="0" recast_id="141" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Sengikori" ja="先義後利" />
+  <o id="259" type="JobAbility" element="7" icon_id="463" mp_cost="0" recast_id="148" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Futae" ja="二重" />
   <o id="260" type="JobAbility" element="2" icon_id="465" mp_cost="0" recast_id="158" targets="32" tp_cost="0" range="7" prefix="/jobability" en="Spirit Jump" ja="スピリットジャンプ" />
-  <o id="261" type="JobAbility" element="6" icon_id="530" mp_cost="0" recast_id="236" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Presto" ja="プレスト" />
+  <o id="261" type="JobAbility" element="6" icon_id="530" mp_cost="0" recast_id="236" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Presto" ja="プレスト" />
   <o id="262" type="Waltz" element="6" icon_id="522" mp_cost="0" recast_id="225" targets="5" tp_cost="800" range="8" prefix="/jobability" en="Divine Waltz II" ja="ディバインワルツII" />
   <o id="263" type="JobAbility" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Flourishes III" ja="フラリッシュIII" />
-  <o id="264" type="Flourish3" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Climactic Flourish" ja="C.フラリッシュ" />
+  <o id="264" type="Flourish3" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Climactic Flourish" ja="C.フラリッシュ" />
   <o id="265" type="JobAbility" element="6" icon_id="538" mp_cost="0" recast_id="237" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Libra" ja="ライブラ" />
   <o id="266" type="JobAbility" element="6" icon_id="513" mp_cost="0" recast_id="213" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tactical Switch" ja="タクティクスウィッチ" />
   <o id="267" type="JobAbility" element="4" icon_id="367" mp_cost="0" recast_id="11" targets="1" tp_cost="0" duration="30" range="11" prefix="/jobability" en="Blood Rage" ja="ブラッドレイジ" />
   <o id="269" type="JobAbility" element="0" icon_id="380" mp_cost="0" recast_id="31" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Impetus" ja="インピタス" />
-  <o id="270" type="JobAbility" element="6" icon_id="384" mp_cost="0" recast_id="32" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Divine Caress" ja="女神の愛撫" />
-  <o id="271" type="JobAbility" element="6" icon_id="385" mp_cost="0" recast_id="33" targets="1" tp_cost="0" range="11" prefix="/jobability" en="Sacrosanctity" ja="女神の聖域" />
+  <o id="270" type="JobAbility" element="6" icon_id="384" mp_cost="0" recast_id="32" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Divine Caress" ja="女神の愛撫" />
+  <o id="271" type="JobAbility" element="6" icon_id="385" mp_cost="0" recast_id="33" targets="1" tp_cost="0" duration="60" range="11" prefix="/jobability" en="Sacrosanctity" ja="女神の聖域" />
   <o id="272" type="JobAbility" element="7" icon_id="389" mp_cost="0" recast_id="34" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Enmity Douse" ja="エンミティダウス" />
-  <o id="273" type="JobAbility" element="5" icon_id="390" mp_cost="0" recast_id="35" targets="5" tp_cost="0" range="12" prefix="/jobability" en="Manawell" ja="魔力の雫" />
-  <o id="274" type="JobAbility" element="7" icon_id="393" mp_cost="0" recast_id="36" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Saboteur" ja="サボトゥール" />
-  <o id="275" type="JobAbility" element="4" icon_id="394" mp_cost="0" recast_id="37" targets="5" tp_cost="0" range="12" prefix="/jobability" en="Spontaneity" ja="クイックマジック" />
-  <o id="276" type="JobAbility" element="4" icon_id="401" mp_cost="0" recast_id="40" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Conspirator" ja="コンスピレーター" />
-  <o id="277" type="JobAbility" element="6" icon_id="411" mp_cost="0" recast_id="41" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Sepulcher" ja="セプルカー" />
-  <o id="278" type="JobAbility" element="6" icon_id="413" mp_cost="0" recast_id="42" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Palisade" ja="パリセード" />
-  <o id="279" type="JobAbility" element="7" icon_id="420" mp_cost="0" recast_id="43" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Arcane Crest" ja="アルケインクレスト" />
-  <o id="280" type="JobAbility" element="7" icon_id="417" mp_cost="0" recast_id="44" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Scarlet Delirium" ja="レッドデリリアム" />
+  <o id="273" type="JobAbility" element="5" icon_id="390" mp_cost="0" recast_id="35" targets="5" tp_cost="0" duration="60" range="12" prefix="/jobability" en="Manawell" ja="魔力の雫" />
+  <o id="274" type="JobAbility" element="7" icon_id="393" mp_cost="0" recast_id="36" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Saboteur" ja="サボトゥール" />
+  <o id="275" type="JobAbility" element="4" icon_id="394" mp_cost="0" recast_id="37" targets="5" tp_cost="0" duration="60" range="12" prefix="/jobability" en="Spontaneity" ja="クイックマジック" />
+  <o id="276" type="JobAbility" element="4" icon_id="401" mp_cost="0" recast_id="40" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Conspirator" ja="コンスピレーター" />
+  <o id="277" type="JobAbility" element="6" icon_id="411" mp_cost="0" recast_id="41" targets="32" tp_cost="0" duration="180" range="8" prefix="/jobability" en="Sepulcher" ja="セプルカー" />
+  <o id="278" type="JobAbility" element="6" icon_id="413" mp_cost="0" recast_id="42" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Palisade" ja="パリセード" />
+  <o id="279" type="JobAbility" element="7" icon_id="420" mp_cost="0" recast_id="43" targets="32" tp_cost="0" duration="180" range="8" prefix="/jobability" en="Arcane Crest" ja="アルケインクレスト" />
+  <o id="280" type="JobAbility" element="7" icon_id="417" mp_cost="0" recast_id="44" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Scarlet Delirium" ja="レッドデリリアム" />
   <o id="281" type="PetCommand" element="6" icon_id="428" mp_cost="0" recast_id="45" targets="1" tp_cost="0" range="0" prefix="/pet" en="Spur" ja="きばれ" />
   <o id="282" type="PetCommand" element="6" icon_id="429" mp_cost="0" recast_id="46" targets="1" tp_cost="0" range="0" prefix="/pet" en="Run Wild" ja="ふりしぼれ" />
   <o id="283" type="JobAbility" element="6" icon_id="433" mp_cost="0" recast_id="47" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Tenuto" ja="テヌート" />
   <o id="284" type="JobAbility" element="6" icon_id="434" mp_cost="0" recast_id="48" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Marcato" ja="マルカート" />
   <o id="285" type="JobAbility" element="6" icon_id="441" mp_cost="0" recast_id="51" targets="32" tp_cost="0" range="12" prefix="/jobability" en="Bounty Shot" ja="バウンティショット" />
-  <o id="286" type="JobAbility" element="6" icon_id="444" mp_cost="0" recast_id="52" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Decoy Shot" ja="デコイショット" />
-  <o id="287" type="JobAbility" element="6" icon_id="457" mp_cost="0" recast_id="53" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Hamanoha" ja="破魔の刃" />
-  <o id="288" type="JobAbility" element="6" icon_id="454" mp_cost="0" recast_id="54" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Hagakure" ja="葉隠" />
-  <o id="291" type="JobAbility" element="6" icon_id="461" mp_cost="0" recast_id="57" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Issekigan" ja="一隻眼" />
-  <o id="292" type="JobAbility" element="7" icon_id="472" mp_cost="0" recast_id="58" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Dragon Breaker" ja="ドラゴンブレイカー" />
+  <o id="286" type="JobAbility" element="6" icon_id="444" mp_cost="0" recast_id="52" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Decoy Shot" ja="デコイショット" />
+  <o id="287" type="JobAbility" element="6" icon_id="457" mp_cost="0" recast_id="53" targets="32" tp_cost="0" duration="180" range="8" prefix="/jobability" en="Hamanoha" ja="破魔の刃" />
+  <o id="288" type="JobAbility" element="6" icon_id="454" mp_cost="0" recast_id="54" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Hagakure" ja="葉隠" />
+  <o id="291" type="JobAbility" element="6" icon_id="461" mp_cost="0" recast_id="57" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Issekigan" ja="一隻眼" />
+  <o id="292" type="JobAbility" element="7" icon_id="472" mp_cost="0" recast_id="58" targets="32" tp_cost="0" duration="180" range="8" prefix="/jobability" en="Dragon Breaker" ja="ドラゴンブレイカー" />
   <o id="293" type="JobAbility" element="2" icon_id="465" mp_cost="0" recast_id="159" targets="32" tp_cost="0" range="7" prefix="/jobability" en="Soul Jump" ja="ソウルジャンプ" />
   <o id="295" type="PetCommand" element="6" icon_id="468" mp_cost="0" recast_id="70" targets="1" tp_cost="0" range="0" prefix="/pet" en="Steady Wing" ja="ステディウィング" />
   <o id="296" type="JobAbility" element="6" icon_id="480" mp_cost="0" recast_id="71" targets="1" tp_cost="0" range="8" prefix="/jobability" en="Mana Cede" ja="マナシード" />
-  <o id="297" type="JobAbility" element="6" icon_id="482" mp_cost="0" recast_id="185" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Efflux" ja="エフラックス" />
-  <o id="298" type="JobAbility" element="6" icon_id="483" mp_cost="0" recast_id="81" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Unbridled Learning" ja="ノートリアスナレッジ" />
-  <o id="301" type="JobAbility" element="6" icon_id="442" mp_cost="0" recast_id="84" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Triple Shot" ja="トリプルショット" />
+  <o id="297" type="JobAbility" element="6" icon_id="482" mp_cost="0" recast_id="185" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Efflux" ja="エフラックス" />
+  <o id="298" type="JobAbility" element="6" icon_id="483" mp_cost="0" recast_id="81" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Unbridled Learning" ja="ノートリアスナレッジ" />
+  <o id="301" type="JobAbility" element="6" icon_id="442" mp_cost="0" recast_id="84" targets="1" tp_cost="0" duration="90" range="0" prefix="/jobability" en="Triple Shot" ja="トリプルショット" />
   <o id="302" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Allies' Roll" ja="アライズロール" />
   <o id="303" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Miser's Roll" ja="マイザーロール" />
   <o id="304" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Companion's Roll" ja="コンパニオンロール" />
@@ -285,79 +285,79 @@
   <o id="309" type="JobAbility" element="6" icon_id="514" mp_cost="0" recast_id="114" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Cooldown" ja="クールダウン" />
   <o id="310" type="JobAbility" element="6" icon_id="501" mp_cost="0" recast_id="115" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Deus Ex Automata" ja="応急処置" />
   <o id="311" type="Waltz" element="6" icon_id="521" mp_cost="0" recast_id="217" targets="63" tp_cost="800" range="12" prefix="/jobability" en="Curing Waltz V" ja="ケアルワルツV" />
-  <o id="312" type="Step" element="6" icon_id="526" mp_cost="0" recast_id="220" targets="32" tp_cost="100" range="2" prefix="/jobability" en="Feather Step" ja="フェザーステップ" />
-  <o id="313" type="Flourish3" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Striking Flourish" ja="S.フラリッシュ" />
-  <o id="314" type="Flourish3" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ternary Flourish" ja="T.フラリッシュ" />
+  <o id="312" type="Step" element="6" icon_id="526" mp_cost="0" recast_id="220" targets="32" tp_cost="100" duration="60" range="2" prefix="/jobability" en="Feather Step" ja="フェザーステップ" />
+  <o id="313" type="Flourish3" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Striking Flourish" ja="S.フラリッシュ" />
+  <o id="314" type="Flourish3" element="6" icon_id="527" mp_cost="0" recast_id="226" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Ternary Flourish" ja="T.フラリッシュ" />
   <o id="316" type="Scholar" element="6" icon_id="541" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Perpetuance" ja="令狸執鼠の章" />
   <o id="317" type="Scholar" element="7" icon_id="542" mp_cost="1" recast_id="231" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Immanence" ja="震天動地の章" />
   <o id="318" type="PetCommand" element="0" icon_id="466" mp_cost="0" recast_id="238" targets="32" tp_cost="0" range="8" prefix="/pet" en="Smiting Breath" ja="スマイトブレス" />
   <o id="319" type="PetCommand" element="6" icon_id="467" mp_cost="0" recast_id="239" targets="1" tp_cost="0" range="0" prefix="/pet" en="Restoring Breath" ja="レストアブレス" />
-  <o id="320" type="JobAbility" element="6" icon_id="451" mp_cost="0" recast_id="132" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Konzen-ittai" ja="渾然一体" />
-  <o id="321" type="JobAbility" element="6" icon_id="402" mp_cost="0" recast_id="240" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Bully" ja="まどわす" />
+  <o id="320" type="JobAbility" element="6" icon_id="451" mp_cost="0" recast_id="132" targets="32" tp_cost="0" duration="60" range="2" prefix="/jobability" en="Konzen-ittai" ja="渾然一体" />
+  <o id="321" type="JobAbility" element="6" icon_id="402" mp_cost="0" recast_id="240" targets="32" tp_cost="0" duration="30" range="8" prefix="/jobability" en="Bully" ja="まどわす" />
   <o id="322" type="JobAbility" element="6" icon_id="517" mp_cost="0" recast_id="214" targets="1" tp_cost="0" range="12" prefix="/jobability" en="Maintenance" ja="フラッシング" />
-  <o id="323" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Brazen Rush" ja="ブラーゼンラッシュ" />
-  <o id="324" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Inner Strength" ja="インナーストレングス" />
-  <o id="325" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Asylum" ja="女神の羽衣" />
-  <o id="326" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Subtle Sorcery" ja="サテルソーサリー" />
-  <o id="327" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Stymie" ja="スタイミー" />
+  <o id="323" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Brazen Rush" ja="ブラーゼンラッシュ" />
+  <o id="324" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Inner Strength" ja="インナーストレングス" />
+  <o id="325" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Asylum" ja="女神の羽衣" />
+  <o id="326" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Subtle Sorcery" ja="サテルソーサリー" />
+  <o id="327" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Stymie" ja="スタイミー" />
   <o id="328" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Larceny" ja="ラーセニー" />
-  <o id="329" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Intervene" ja="インターヴィーン" />
-  <o id="330" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Soul Enslavement" ja="ソールエンスレーヴ" />
-  <o id="331" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="12" prefix="/jobability" en="Unleash" ja="アンリーシュ" />
-  <o id="332" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Clarion Call" ja="クラリオンコール" />
-  <o id="333" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Overkill" ja="オーバーキル" />
-  <o id="334" type="JobAbility" element="2" icon_id="42" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Yaegasumi" ja="八重霞" />
-  <o id="335" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Mikage" ja="身影" />
-  <o id="336" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Fly High" ja="フライハイ" />
-  <o id="337" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Astral Conduit" ja="アストラルパッセージ" />
-  <o id="338" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Unbridled Wisdom" ja="N.ウィズドム" />
+  <o id="329" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="32" tp_cost="0" duration="30" range="2" prefix="/jobability" en="Intervene" ja="インターヴィーン" />
+  <o id="330" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Soul Enslavement" ja="ソールエンスレーヴ" />
+  <o id="331" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="12" prefix="/jobability" en="Unleash" ja="アンリーシュ" />
+  <o id="332" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Clarion Call" ja="クラリオンコール" />
+  <o id="333" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Overkill" ja="オーバーキル" />
+  <o id="334" type="JobAbility" element="2" icon_id="42" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="45" range="0" prefix="/jobability" en="Yaegasumi" ja="八重霞" />
+  <o id="335" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="45" range="0" prefix="/jobability" en="Mikage" ja="身影" />
+  <o id="336" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Fly High" ja="フライハイ" />
+  <o id="337" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Astral Conduit" ja="アストラルパッセージ" />
+  <o id="338" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Unbridled Wisdom" ja="N.ウィズドム" />
   <o id="339" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="5" tp_cost="0" range="8" prefix="/jobability" en="Cutting Cards" ja="カットカード" />
   <o id="340" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Heady Artifice" ja="ヘディーアーテフィス" />
-  <o id="341" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Grand Pas" ja="グランドパー" />
+  <o id="341" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Grand Pas" ja="グランドパー" />
   <o id="342" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="5" tp_cost="0" range="8" prefix="/jobability" en="Caper Emissarius" ja="カペルエミサリウス" />
-  <o id="343" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Bolster" ja="ボルスター" />
+  <o id="343" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Bolster" ja="ボルスター" />
   <o id="344" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="241" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Swipe" ja="スワイプ" />
   <o id="345" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="243" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Full Circle" ja="フルサークル" />
   <o id="346" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="244" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Lasting Emanation" ja="エンデュアエマネイト" />
   <o id="347" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="244" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ecliptic Attrition" ja="サークルエンリッチ" />
-  <o id="348" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="245" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Collimated Fervor" ja="コリメイトファーバー" />
+  <o id="348" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="245" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Collimated Fervor" ja="コリメイトファーバー" />
   <o id="349" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="246" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Life Cycle" ja="ライフサイクル" />
-  <o id="350" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="247" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Blaze of Glory" ja="グローリーブレイズ" />
-  <o id="351" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="248" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Dematerialize" ja="デマテリアライズ" />
-  <o id="352" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="249" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Theurgic Focus" ja="タウマテルギフォカス" />
+  <o id="350" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="247" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Blaze of Glory" ja="グローリーブレイズ" />
+  <o id="351" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="248" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Dematerialize" ja="デマテリアライズ" />
+  <o id="352" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="249" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Theurgic Focus" ja="タウマテルギフォカス" />
   <o id="353" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="250" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Concentric Pulse" ja="コンセントリクパルス" />
   <o id="354" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="251" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Mending Halation" ja="メンドハレイション" />
   <o id="355" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="252" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Radial Arcana" ja="レイディアルアルカナ" />
-  <o id="356" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="0" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Elemental Sforzo" ja="E.スフォルツォ" />
+  <o id="356" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Elemental Sforzo" ja="E.スフォルツォ" />
   <o id="357" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="92" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Rune Enchantment" ja="エンチャントルーン" />
-  <o id="358" type="Rune" element="0" icon_id="40" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ignis" ja="イグニス" />
-  <o id="359" type="Rune" element="1" icon_id="41" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Gelus" ja="ゲールス" />
-  <o id="360" type="Rune" element="2" icon_id="42" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Flabra" ja="フラブラ" />
-  <o id="361" type="Rune" element="3" icon_id="43" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tellus" ja="テッルス" />
-  <o id="362" type="Rune" element="4" icon_id="44" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Sulpor" ja="スルポール" />
-  <o id="363" type="Rune" element="5" icon_id="45" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Unda" ja="ウンダ" />
-  <o id="364" type="Rune" element="6" icon_id="46" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Lux" ja="ルックス" />
-  <o id="365" type="Rune" element="7" icon_id="47" mp_cost="1" recast_id="10" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Tenebrae" ja="テネブレイ" />
+  <o id="358" type="Rune" element="0" icon_id="40" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Ignis" ja="イグニス" />
+  <o id="359" type="Rune" element="1" icon_id="41" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Gelus" ja="ゲールス" />
+  <o id="360" type="Rune" element="2" icon_id="42" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Flabra" ja="フラブラ" />
+  <o id="361" type="Rune" element="3" icon_id="43" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Tellus" ja="テッルス" />
+  <o id="362" type="Rune" element="4" icon_id="44" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Sulpor" ja="スルポール" />
+  <o id="363" type="Rune" element="5" icon_id="45" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Unda" ja="ウンダ" />
+  <o id="364" type="Rune" element="6" icon_id="46" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Lux" ja="ルックス" />
+  <o id="365" type="Rune" element="7" icon_id="47" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Tenebrae" ja="テネブレイ" />
   <o id="366" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="23" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Vallation" ja="ヴァレション" />
   <o id="367" type="JobAbility" element="2" icon_id="42" mp_cost="0" recast_id="24" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Swordplay" ja="ソードプレイ" />
   <o id="368" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="25" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Lunge" ja="ランジ" />
   <o id="369" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="59" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Pflug" ja="フルーグ" />
-  <o id="370" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="72" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Embolden" ja="エンボルド" />
+  <o id="370" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="72" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Embolden" ja="エンボルド" />
   <o id="371" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="113" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Valiance" ja="ヴァリエンス" />
-  <o id="372" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="116" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Gambit" ja="ガンビット" />
+  <o id="372" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="116" targets="32" tp_cost="0" duration="300" range="2" prefix="/jobability" en="Gambit" ja="ガンビット" />
   <o id="373" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="117" targets="1" tp_cost="0" duration="10" range="0" prefix="/jobability" en="Liement" ja="リエモン" />
   <o id="374" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="118" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="One for All" ja="ワンフォアオール" />
-  <o id="375" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="119" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Rayke" ja="レイク" />
+  <o id="375" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="119" targets="32" tp_cost="0" duration="30" range="2" prefix="/jobability" en="Rayke" ja="レイク" />
   <o id="376" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="120" targets="1" tp_cost="0" duration="90" range="0" prefix="/jobability" en="Battuta" ja="バットゥタ" />
-  <o id="377" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="130" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Widened Compass" ja="ワイデンコンパス" />
-  <o id="378" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="131" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Odyllic Subterfuge" ja="オディリックサブタ" />
+  <o id="377" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="130" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Widened Compass" ja="ワイデンコンパス" />
+  <o id="378" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="131" targets="32" tp_cost="0" duration="30" range="8" prefix="/jobability" en="Odyllic Subterfuge" ja="オディリックサブタ" />
   <o id="379" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="142" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ward" ja="ワード" />
   <o id="380" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="143" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Effusion" ja="エフューズ" />
-  <o id="381" type="Jig" element="6" icon_id="529" mp_cost="0" recast_id="218" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Chocobo Jig II" ja="チョコボジグII" />
+  <o id="381" type="Jig" element="6" icon_id="529" mp_cost="0" recast_id="218" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Chocobo Jig II" ja="チョコボジグII" />
   <o id="382" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="253" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Relinquish" ja="リリンク" />
   <o id="383" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="242" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Vivacious Pulse" ja="ビベイシャス" />
   <o id="384" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="229" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Contradance" ja="コントラダンス" />
-  <o id="385" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="108" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Apogee" ja="アポジー" />
+  <o id="385" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="108" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Apogee" ja="アポジー" />
   <o id="386" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="93" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Entrust" ja="エントラスト" />
   <o id="387" type="JobAbility" element="6" icon_id="423" mp_cost="0" recast_id="94" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Bestial Loyalty" ja="しょうしゅう" />
   <o id="512" type="BloodPactWard" element="6" icon_id="340" mp_cost="6" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Healing Ruby" ja="ルビーの癒し" />
