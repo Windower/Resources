@@ -17864,7 +17864,7 @@ return {
 }, {"id", "en", "ja", "enl", "jal", "category", "flags", "stack", "targets", "type", "cast_time", "jobs", "level", "races", "slots", "cast_delay", "max_charges", "recast_delay", "shield_size", "damage", "delay", "skill", "item_level", "superior_level"}
 
 --[[
-Copyright © 2013-2014, Windower
+Copyright © 2013-2015, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
