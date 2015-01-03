@@ -374,39 +374,39 @@
   <o id="523" type="BloodPactWard" element="6" icon_id="351" mp_cost="134" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Eerie Eye" ja="イアリーアイ" />
   <o id="524" type="BloodPactRage" element="6" icon_id="351" mp_cost="235" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Level ? Holy" ja="レベル？ホーリー" />
   <o id="525" type="BloodPactWard" element="6" icon_id="351" mp_cost="160" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Raise II" ja="レイズII" />
-  <o id="526" type="BloodPactWard" element="6" icon_id="351" mp_cost="80" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Reraise II" ja="リレイズII" />
-  <o id="527" type="BloodPactWard" element="6" icon_id="351" mp_cost="0" recast_id="174" targets="1" tp_cost="0" range="9" prefix="/pet" en="Altana's Favor" ja="アルタナフェーバー" />
+  <o id="526" type="BloodPactWard" element="6" icon_id="351" mp_cost="80" recast_id="174" targets="5" tp_cost="0" duration="3600" range="9" prefix="/pet" en="Reraise II" ja="リレイズII" />
+  <o id="527" type="BloodPactWard" element="6" icon_id="351" mp_cost="0" recast_id="174" targets="1" tp_cost="0" duration="3600" range="9" prefix="/pet" en="Altana's Favor" ja="アルタナフェーバー" />
   <o id="528" type="BloodPactRage" element="7" icon_id="341" mp_cost="17" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Moonlit Charge" ja="ムーンリットチャージ" />
   <o id="529" type="BloodPactRage" element="7" icon_id="341" mp_cost="19" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Crescent Fang" ja="クレセントファング" />
   <o id="530" type="BloodPactWard" element="7" icon_id="341" mp_cost="41" recast_id="174" targets="32" tp_cost="0" range="9" prefix="/pet" en="Lunar Cry" ja="ルナークライ" />
   <o id="531" type="BloodPactWard" element="7" icon_id="341" mp_cost="27" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Lunar Roar" ja="ルナーロア" />
-  <o id="532" type="BloodPactWard" element="7" icon_id="341" mp_cost="46" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Ecliptic Growl" ja="上弦の唸り" />
-  <o id="533" type="BloodPactWard" element="7" icon_id="341" mp_cost="57" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Ecliptic Howl" ja="下弦の咆哮" />
+  <o id="532" type="BloodPactWard" element="7" icon_id="341" mp_cost="46" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Ecliptic Growl" ja="上弦の唸り" />
+  <o id="533" type="BloodPactWard" element="7" icon_id="341" mp_cost="57" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Ecliptic Howl" ja="下弦の咆哮" />
   <o id="534" type="BloodPactRage" element="7" icon_id="341" mp_cost="109" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Eclipse Bite" ja="エクリプスバイト" />
   <o id="536" type="BloodPactRage" element="7" icon_id="341" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Howling Moon" ja="ハウリングムーン" />
   <o id="537" type="BloodPactRage" element="7" icon_id="341" mp_cost="174" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Lunar Bay" ja="ルナーベイ" />
-  <o id="538" type="BloodPactWard" element="7" icon_id="341" mp_cost="96" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Heavenward Howl" ja="ヘヴンズハウル" />
+  <o id="538" type="BloodPactWard" element="7" icon_id="341" mp_cost="96" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Heavenward Howl" ja="ヘヴンズハウル" />
   <o id="544" type="BloodPactRage" element="0" icon_id="342" mp_cost="9" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Punch" ja="パンチ" />
   <o id="545" type="BloodPactRage" element="0" icon_id="342" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Fire II" ja="ファイアII" />
   <o id="546" type="BloodPactRage" element="0" icon_id="342" mp_cost="48" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Burning Strike" ja="バーニングストライク" />
   <o id="547" type="BloodPactRage" element="0" icon_id="342" mp_cost="56" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Double Punch" ja="ダブルパンチ" />
-  <o id="548" type="BloodPactWard" element="0" icon_id="342" mp_cost="84" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Crimson Howl" ja="紅蓮の咆哮" />
+  <o id="548" type="BloodPactWard" element="0" icon_id="342" mp_cost="84" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Crimson Howl" ja="紅蓮の咆哮" />
   <o id="549" type="BloodPactRage" element="0" icon_id="342" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Fire IV" ja="ファイアIV" />
   <o id="550" type="BloodPactRage" element="0" icon_id="342" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Flaming Crush" ja="フレイムクラッシュ" />
   <o id="551" type="BloodPactRage" element="0" icon_id="342" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Meteor Strike" ja="メテオストライク" />
   <o id="552" type="BloodPactRage" element="0" icon_id="342" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Inferno" ja="インフェルノ" />
-  <o id="553" type="BloodPactWard" element="0" icon_id="342" mp_cost="72" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Inferno Howl" ja="灼熱の咆哮" />
+  <o id="553" type="BloodPactWard" element="0" icon_id="342" mp_cost="72" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Inferno Howl" ja="灼熱の咆哮" />
   <o id="554" type="BloodPactRage" element="0" icon_id="342" mp_cost="141" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Conflag Strike" ja="コンフラグストライク" />
   <o id="560" type="BloodPactRage" element="3" icon_id="343" mp_cost="10" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Rock Throw" ja="ロックスロー" />
   <o id="561" type="BloodPactRage" element="3" icon_id="343" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Stone II" ja="ストーンII" />
   <o id="562" type="BloodPactRage" element="3" icon_id="343" mp_cost="39" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Rock Buster" ja="ロックバスター" />
   <o id="563" type="BloodPactRage" element="3" icon_id="343" mp_cost="62" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Megalith Throw" ja="メガリススロー" />
-  <o id="564" type="BloodPactWard" element="3" icon_id="343" mp_cost="92" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Earthen Ward" ja="大地の守り" />
+  <o id="564" type="BloodPactWard" element="3" icon_id="343" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="900" range="4" prefix="/pet" en="Earthen Ward" ja="大地の守り" />
   <o id="565" type="BloodPactRage" element="3" icon_id="343" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Stone IV" ja="ストーンIV" />
   <o id="566" type="BloodPactRage" element="3" icon_id="343" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Mountain Buster" ja="マウンテンバスター" />
   <o id="567" type="BloodPactRage" element="3" icon_id="343" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Geocrush" ja="ジオクラッシュ" />
   <o id="568" type="BloodPactRage" element="3" icon_id="343" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Earthen Fury" ja="アースフューリー" />
-  <o id="569" type="BloodPactWard" element="3" icon_id="343" mp_cost="156" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Earthen Armor" ja="大地の鎧" />
+  <o id="569" type="BloodPactWard" element="3" icon_id="343" mp_cost="156" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Earthen Armor" ja="大地の鎧" />
   <o id="570" type="BloodPactRage" element="3" icon_id="343" mp_cost="124" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Crag Throw" ja="クラッグスロー" />
   <o id="576" type="BloodPactRage" element="5" icon_id="344" mp_cost="8" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Barracuda Dive" ja="バラクーダダイブ" />
   <o id="577" type="BloodPactRage" element="5" icon_id="344" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Water II" ja="ウォータII" />
@@ -422,17 +422,17 @@
   <o id="592" type="BloodPactRage" element="2" icon_id="345" mp_cost="7" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Claw" ja="クロー" />
   <o id="593" type="BloodPactRage" element="2" icon_id="345" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Aero II" ja="エアロII" />
   <o id="594" type="BloodPactWard" element="2" icon_id="345" mp_cost="119" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Whispering Wind" ja="風の囁き" />
-  <o id="595" type="BloodPactWard" element="2" icon_id="345" mp_cost="129" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Hastega" ja="ヘイスガ" />
-  <o id="596" type="BloodPactWard" element="2" icon_id="345" mp_cost="92" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Aerial Armor" ja="真空の鎧" />
+  <o id="595" type="BloodPactWard" element="2" icon_id="345" mp_cost="129" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Hastega" ja="ヘイスガ" />
+  <o id="596" type="BloodPactWard" element="2" icon_id="345" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="900" range="4" prefix="/pet" en="Aerial Armor" ja="真空の鎧" />
   <o id="597" type="BloodPactRage" element="2" icon_id="345" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Aero IV" ja="エアロIV" />
   <o id="598" type="BloodPactRage" element="2" icon_id="345" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Predator Claws" ja="プレデタークロー" />
   <o id="599" type="BloodPactRage" element="2" icon_id="345" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Wind Blade" ja="ウインドブレード" />
   <o id="600" type="BloodPactRage" element="2" icon_id="345" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Aerial Blast" ja="エリアルブラスト" />
-  <o id="601" type="BloodPactWard" element="2" icon_id="345" mp_cost="114" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Fleet Wind" ja="真空の具足" />
+  <o id="601" type="BloodPactWard" element="2" icon_id="345" mp_cost="114" recast_id="174" targets="1" tp_cost="0" duration="120" range="4" prefix="/pet" en="Fleet Wind" ja="真空の具足" />
   <o id="602" type="BloodPactWard" element="2" icon_id="345" mp_cost="248" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Hastega II" ja="ヘイスガII" />
   <o id="608" type="BloodPactRage" element="1" icon_id="346" mp_cost="10" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Axe Kick" ja="アクスキック" />
   <o id="609" type="BloodPactRage" element="1" icon_id="346" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Blizzard II" ja="ブリザドII" />
-  <o id="610" type="BloodPactWard" element="1" icon_id="346" mp_cost="63" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Frost Armor" ja="凍てつく鎧" />
+  <o id="610" type="BloodPactWard" element="1" icon_id="346" mp_cost="63" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Frost Armor" ja="凍てつく鎧" />
   <o id="611" type="BloodPactWard" element="1" icon_id="346" mp_cost="54" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Sleepga" ja="スリプガ" />
   <o id="612" type="BloodPactRage" element="1" icon_id="346" mp_cost="96" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Double Slap" ja="ダブルスラップ" />
   <o id="613" type="BloodPactRage" element="1" icon_id="346" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Blizzard IV" ja="ブリザドIV" />
@@ -443,9 +443,9 @@
   <o id="618" type="BloodPactWard" element="1" icon_id="346" mp_cost="201" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Crystal Blessing" ja="クリスタルブレシング" />
   <o id="624" type="BloodPactRage" element="4" icon_id="347" mp_cost="6" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Shock Strike" ja="ショックストライク" />
   <o id="625" type="BloodPactRage" element="4" icon_id="347" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Thunder II" ja="サンダーII" />
-  <o id="626" type="BloodPactWard" element="4" icon_id="347" mp_cost="52" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Rolling Thunder" ja="雷鼓" />
+  <o id="626" type="BloodPactWard" element="4" icon_id="347" mp_cost="52" recast_id="174" targets="1" tp_cost="0" duration="120" range="4" prefix="/pet" en="Rolling Thunder" ja="雷鼓" />
   <o id="627" type="BloodPactRage" element="4" icon_id="347" mp_cost="38" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Thunderspark" ja="サンダースパーク" />
-  <o id="628" type="BloodPactWard" element="4" icon_id="347" mp_cost="91" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Lightning Armor" ja="雷電の鎧" />
+  <o id="628" type="BloodPactWard" element="4" icon_id="347" mp_cost="91" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Lightning Armor" ja="雷電の鎧" />
   <o id="629" type="BloodPactRage" element="4" icon_id="347" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Thunder IV" ja="サンダーIV" />
   <o id="630" type="BloodPactRage" element="4" icon_id="347" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Chaotic Strike" ja="カオスストライク" />
   <o id="631" type="BloodPactRage" element="4" icon_id="347" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Thunderstorm" ja="サンダーストーム" />
@@ -472,8 +472,8 @@
   <o id="657" type="BloodPactWard" element="7" icon_id="348" mp_cost="30" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Somnolence" ja="ソムノレンス" />
   <o id="658" type="BloodPactWard" element="7" icon_id="348" mp_cost="42" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Nightmare" ja="ナイトメア" />
   <o id="659" type="BloodPactWard" element="7" icon_id="348" mp_cost="27" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Ultimate Terror" ja="アルティメットテラー" />
-  <o id="660" type="BloodPactWard" element="7" icon_id="348" mp_cost="92" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Noctoshield" ja="ノクトシールド" />
-  <o id="661" type="BloodPactWard" element="7" icon_id="348" mp_cost="121" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Dream Shroud" ja="ドリームシュラウド" />
+  <o id="660" type="BloodPactWard" element="7" icon_id="348" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Noctoshield" ja="ノクトシールド" />
+  <o id="661" type="BloodPactWard" element="7" icon_id="348" mp_cost="121" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Dream Shroud" ja="ドリームシュラウド" />
   <o id="662" type="BloodPactRage" element="7" icon_id="348" mp_cost="109" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Nether Blast" ja="ネザーブラスト" />
   <o id="663" type="BloodPactRage" element="7" icon_id="348" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Cacodemonia" ja="カコデモニア" />
   <o id="664" type="BloodPactRage" element="7" icon_id="348" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Ruinous Omen" ja="ルイナスオーメン" />
