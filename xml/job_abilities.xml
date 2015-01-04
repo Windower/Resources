@@ -418,7 +418,7 @@
   <o id="583" type="BloodPactRage" element="5" icon_id="344" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Grand Fall" ja="グランドフォール" />
   <o id="584" type="BloodPactRage" element="5" icon_id="344" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Tidal Wave" ja="タイダルウェイブ" />
   <o id="585" type="BloodPactWard" element="5" icon_id="344" mp_cost="138" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Tidal Roar" ja="タイダルロア" />
-  <o id="586" type="BloodPactWard" element="5" icon_id="344" mp_cost="95" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Soothing Current" ja="スージングカレント" />
+  <o id="586" type="BloodPactWard" element="5" icon_id="344" mp_cost="95" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Soothing Current" ja="スージングカレント" />
   <o id="592" type="BloodPactRage" element="2" icon_id="345" mp_cost="7" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Claw" ja="クロー" />
   <o id="593" type="BloodPactRage" element="2" icon_id="345" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Aero II" ja="エアロII" />
   <o id="594" type="BloodPactWard" element="2" icon_id="345" mp_cost="119" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Whispering Wind" ja="風の囁き" />
@@ -429,7 +429,7 @@
   <o id="599" type="BloodPactRage" element="2" icon_id="345" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Wind Blade" ja="ウインドブレード" />
   <o id="600" type="BloodPactRage" element="2" icon_id="345" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Aerial Blast" ja="エリアルブラスト" />
   <o id="601" type="BloodPactWard" element="2" icon_id="345" mp_cost="114" recast_id="174" targets="1" tp_cost="0" duration="120" range="4" prefix="/pet" en="Fleet Wind" ja="真空の具足" />
-  <o id="602" type="BloodPactWard" element="2" icon_id="345" mp_cost="248" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Hastega II" ja="ヘイスガII" />
+  <o id="602" type="BloodPactWard" element="2" icon_id="345" mp_cost="248" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Hastega II" ja="ヘイスガII" />
   <o id="608" type="BloodPactRage" element="1" icon_id="346" mp_cost="10" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Axe Kick" ja="アクスキック" />
   <o id="609" type="BloodPactRage" element="1" icon_id="346" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Blizzard II" ja="ブリザドII" />
   <o id="610" type="BloodPactWard" element="1" icon_id="346" mp_cost="63" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Frost Armor" ja="凍てつく鎧" />
@@ -440,7 +440,7 @@
   <o id="615" type="BloodPactRage" element="1" icon_id="346" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Heavenly Strike" ja="ヘヴンリーストライク" />
   <o id="616" type="BloodPactRage" element="1" icon_id="346" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Diamond Dust" ja="ダイヤモンドダスト" />
   <o id="617" type="BloodPactWard" element="1" icon_id="346" mp_cost="138" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Diamond Storm" ja="ダイヤモンドストーム" />
-  <o id="618" type="BloodPactWard" element="1" icon_id="346" mp_cost="201" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Crystal Blessing" ja="クリスタルブレシング" />
+  <o id="618" type="BloodPactWard" element="1" icon_id="346" mp_cost="201" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Crystal Blessing" ja="クリスタルブレシング" />
   <o id="624" type="BloodPactRage" element="4" icon_id="347" mp_cost="6" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Shock Strike" ja="ショックストライク" />
   <o id="625" type="BloodPactRage" element="4" icon_id="347" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Thunder II" ja="サンダーII" />
   <o id="626" type="BloodPactWard" element="4" icon_id="347" mp_cost="52" recast_id="174" targets="1" tp_cost="0" duration="120" range="4" prefix="/pet" en="Rolling Thunder" ja="雷鼓" />
