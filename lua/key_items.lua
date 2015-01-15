@@ -2571,6 +2571,14 @@ return {
     [2735] = {id=2735,en="Cheer: Baby Eft",ja="チャチャルンの応援：子エフト",category="Temporary Key Items"},
     [2736] = {id=2736,en="Cheer: Eft",ja="チャチャルンの応援：エフト",category="Temporary Key Items"},
     [2737] = {id=2737,en="Cheer: Tarichuk",ja="チャチャルンの応援：タリチャック",category="Temporary Key Items"},
+    [2810] = {id=2810,en="purple purgation cloth",ja="穢れ祓いの紫布",category="Temporary Key Items"},
+    [2811] = {id=2811,en="Margret's writ of summons",ja="マルグレートの手紙",category="Temporary Key Items"},
+    [2812] = {id=2812,en="portrait of Melvien",ja="メルヴィアンの似顔絵",category="Temporary Key Items"},
+    [2813] = {id=2813,en="Melvien's turn",ja="豹変したメルヴィアン",category="Temporary Key Items"},
+    [2814] = {id=2814,en="Melvien's death?",ja="メルヴィアンは一度死んでいた？",category="Temporary Key Items"},
+    [2815] = {id=2815,en="Margret's memo",ja="マルグレートのメモ",category="Temporary Key Items"},
+    [2816] = {id=2816,en="Margret's imposter's cipher",ja="偽マルグレートの暗号文",category="Temporary Key Items"},
+    [2817] = {id=2817,en="Margret's imposter's cipher redux",ja="偽マルグレートの暗号メモ",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

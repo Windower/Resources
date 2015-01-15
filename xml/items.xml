@@ -5857,6 +5857,12 @@
   <o id="6347" flags="30272" stack="1" type="1" targets="1" cast_time="1" category="Usable" en="Adoulinian Tunes" enl="sheet of Adoulinian tunes" ja="譜面：アドゥリン" jal="譜面：アドゥリン" />
   <o id="6348" flags="30272" stack="1" type="1" targets="1" cast_time="1" category="Usable" en="Promathian Tunes" enl="sheet of Promathian tunes" ja="譜面：プロマシア" jal="譜面：プロマシア" />
   <o id="6349" flags="30272" stack="12" type="1" targets="1" cast_time="1" category="Usable" en="Makel's Grab Bag" enl="Makel-Pakel's grab bag" ja="メイケルの福袋" jal="メイケルの福袋" />
+  <o id="6350" flags="30288" stack="99" type="1" targets="1" cast_time="1" category="Usable" en="Saman. Coffer" enl="Sybaritic Samantha's coffer" ja="サマンサの箱" jal="サマンサの箱" />
+  <o id="6351" flags="30288" stack="99" type="1" targets="1" cast_time="1" category="Usable" en="Heiligtum's Coffer" enl="Keeper of Heiligtum's coffer" ja="ハイリグタムの箱" jal="ハイリグタムの箱" />
+  <o id="6352" flags="30288" stack="99" type="1" targets="1" cast_time="1" category="Usable" en="Douma's Coffer" enl="Douma Weapon's coffer" ja="ドウマの箱" jal="ドウマの箱" />
+  <o id="6353" flags="30288" stack="99" type="1" targets="1" cast_time="1" category="Usable" en="Uropygid's Coffer" enl="King Uropygid's coffer" ja="ウルピジッドの箱" jal="ウルピジッドの箱" />
+  <o id="6354" flags="30288" stack="99" type="1" targets="1" cast_time="1" category="Usable" en="Vedrfolnir's Coffer" enl="Vedrfolnir's coffer" ja="ヴェドルの箱" jal="ヴェドルの箱" />
+  <o id="6355" flags="30288" stack="12" type="7" targets="1" cast_time="1" category="Usable" en="Sti. Bul. Pouch" enl="stinger bullet pouch" ja="胴乱【スティンガ】" jal="胴乱【スティンガ】" />
   <o id="8193" flags="0" stack="1" type="0" targets="0" category="Automaton" en="Harlequin Head" enl="Harlequin head" ja="汎用ヘッド" jal="汎用ヘッド" />
   <o id="8194" flags="0" stack="1" type="0" targets="0" category="Automaton" en="Valoredge Head" enl="Valoredge X-900 head" ja="白兵戦ヘッド" jal="白兵戦ヘッド" />
   <o id="8195" flags="0" stack="1" type="0" targets="0" category="Automaton" en="Sharpshot Head" enl="Sharpshot Z-500 head" ja="射撃戦ヘッド" jal="射撃戦ヘッド" />
@@ -6151,6 +6157,27 @@
   <o id="9000" flags="4" stack="12" type="1" targets="0" category="General" en="Florid Leaf Mold" enl="clump of florid leaf mold" ja="薫る腐葉土" jal="薫る腐葉土" />
   <o id="9001" flags="4" stack="12" type="1" targets="0" category="General" en="Rockoil" enl="vial of rockoil" ja="ロックオイル" jal="ロックオイル" />
   <o id="9010" flags="61504" stack="1" type="1" targets="0" category="General" en="Dense Cluster" enl="dense cluster" ja="ヘヴィクラスター" jal="ヘヴィクラスター" />
+  <o id="9011" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Sword +1" enl="??? sword +1" ja="？？？ソード+1" jal="？？？ソード+1" />
+  <o id="9012" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Dagger +1" enl="??? dagger +1" ja="？？？ダガー+1" jal="？？？ダガー+1" />
+  <o id="9013" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Pole +1" enl="??? pole +1" ja="？？？ポール+1" jal="？？？ポール+1" />
+  <o id="9014" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Axe +1" enl="??? axe +1" ja="？？？アクス+1" jal="？？？アクス+1" />
+  <o id="9015" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Bow +1" enl="??? bow +1" ja="？？？ボウ+1" jal="？？？ボウ+1" />
+  <o id="9016" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Gloves +1" enl="??? gloves +1" ja="？？？グローブ+1" jal="？？？グローブ+1" />
+  <o id="9017" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Footwear +1" enl="??? footwear +1" ja="？？？フット+1" jal="？？？フット+1" />
+  <o id="9018" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Headwear +1" enl="??? headwear +1" ja="？？？ヘッド+1" jal="？？？ヘッド+1" />
+  <o id="9019" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Earring +1" enl="??? earring +1" ja="？？？イヤリング+1" jal="？？？イヤリング+1" />
+  <o id="9020" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Ring +1" enl="??? ring +1" ja="？？？リング+1" jal="？？？リング+1" />
+  <o id="9021" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Cape +1" enl="??? cape +1" ja="？？？ケープ+1" jal="？？？ケープ+1" />
+  <o id="9022" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Sash +1" enl="??? sash +1" ja="？？？サッシュ+1" jal="？？？サッシュ+1" />
+  <o id="9023" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Shield +1" enl="??? shield +1" ja="？？？シールド+1" jal="？？？シールド+1" />
+  <o id="9024" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Necklace +1" enl="??? necklace +1" ja="？？？ネックレス+1" jal="？？？ネックレス+1" />
+  <o id="9025" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Box +1" enl="??? box +1" ja="？？？ボックス+1" jal="？？？ボックス+1" />
+  <o id="9026" flags="12352" stack="1" type="2" targets="0" category="General" en="??? Box +2" enl="??? box +2" ja="？？？ボックス+2" jal="？？？ボックス+2" />
+  <o id="9027" flags="4" stack="12" type="1" targets="0" category="General" en="Samantha's vine" enl="Sybaritic Samantha's vine" ja="サマンサのつる" jal="サマンサのつる" />
+  <o id="9028" flags="4" stack="12" type="1" targets="0" category="General" en="Heiligtum's Moss" enl="handful of Heiligtum's moss" ja="ハイリグタムの苔" jal="ハイリグタムの苔" />
+  <o id="9029" flags="4" stack="12" type="1" targets="0" category="General" en="Douma's Shard" enl="Douma Weapon's shard" ja="ドウマの破片" jal="ドウマの破片" />
+  <o id="9030" flags="4" stack="12" type="1" targets="0" category="General" en="Uropygid's Needle" enl="King Uropygid's needle" ja="ウルピジッドの針" jal="ウルピジッドの針" />
+  <o id="9031" flags="4" stack="12" type="1" targets="0" category="General" en="Vedrfolnir's Wing" enl="Vedrfolnir's wing" ja="ヴェドルの羽根" jal="ヴェドルの羽根" />
   <o id="10112" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Zeid" enl="cipher of Zeid's alter ego" ja="盟-ザイド" jal="盟-ザイド" />
   <o id="10113" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Lion" enl="cipher of Lion's alter ego" ja="盟-ライオン" jal="盟-ライオン" />
   <o id="10114" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Tenzen" enl="cipher of Tenzen's alter ego" ja="盟-テンゼン" jal="盟-テンゼン" />
@@ -6189,6 +6216,7 @@
   <o id="10147" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Margret" enl="cipher of Margret's alter ego" ja="盟-マルグレート" jal="盟-マルグレート" />
   <o id="10148" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Gilgamesh" enl="cipher of Gilgamesh's alter ego" ja="盟-ギルガメッシュ" jal="盟-ギルガメッシュ" />
   <o id="10149" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Areuhat" enl="cipher of Areuhat's alter ego" ja="盟-アレヴァト" jal="盟-アレヴァト" />
+  <o id="10150" flags="61504" stack="1" type="1" targets="0" category="General" en="Cipher: Lhe" enl="cipher of Lhe's alter ego" ja="盟-レイ" jal="盟-レイ" />
   <o id="10240" flags="2084" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="17282" category="Armor" en="Hexed Haubert" enl="hexed haubert" ja="怨まれた胸甲" jal="怨まれた胸甲" />
   <o id="10241" flags="2084" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="274436" category="Armor" en="Hexed Domaru" enl="hexed domaru" ja="怨まれた胴丸" jal="怨まれた胴丸" />
   <o id="10242" flags="2084" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="4925508" category="Armor" en="Hexed Jacket" enl="hexed jacket" ja="怨まれた革鎧" jal="怨まれた革鎧" />
@@ -15834,6 +15862,8 @@
   <o id="20562" flags="63552" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="1024" damage="92" delay="186" skill="2" item_level="119" category="Weapon" en="Carnwenhan" enl="Carnwenhan" ja="カルンウェナン" jal="カルンウェナン" />
   <o id="20563" flags="63552" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="525376" damage="89" delay="176" skill="2" item_level="119" category="Weapon" en="Twashtar" enl="Twashtar" ja="トゥワシュトラ" jal="トゥワシュトラ" />
   <o id="20564" flags="63552" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="525376" damage="89" delay="176" skill="2" item_level="119" category="Weapon" en="Twashtar" enl="Twashtar" ja="トゥワシュトラ" jal="トゥワシュトラ" />
+  <o id="20608" flags="63568" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="64" damage="81" delay="150" skill="2" item_level="119" category="Weapon" en="Jugo Kukri" enl="jugo kukri" ja="ユーゴククリ" jal="ユーゴククリ" />
+  <o id="20609" flags="63568" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="64" damage="82" delay="142" skill="2" item_level="119" category="Weapon" en="Jugo Kukri +1" enl="jugo kukri +1" ja="ユーゴククリ+1" jal="ユーゴククリ+1" />
   <o id="20611" flags="63568" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="258" damage="157" delay="290" skill="3" item_level="119" category="Weapon" en="Sangarius" enl="Sangarius" ja="サンガリアス" jal="サンガリアス" />
   <o id="20612" flags="63568" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="258" damage="158" delay="281" skill="3" item_level="119" category="Weapon" en="Sangarius +1" enl="Sangarius +1" ja="サンガリアス+1" jal="サンガリアス+1" />
   <o id="20613" flags="63568" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="4287970" damage="115" delay="231" skill="3" item_level="119" category="Weapon" en="Pukulatmuj" enl="Pukulatmuj" ja="プクラトムージュ" jal="プクラトムージュ" />
@@ -16112,6 +16142,8 @@
   <o id="21018" flags="63552" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="224" delay="450" skill="10" item_level="119" category="Weapon" en="Kogarasumaru" enl="Kogarasumaru" ja="小鴉丸" jal="小鴉丸" />
   <o id="21019" flags="63552" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="222" delay="437" skill="10" item_level="119" category="Weapon" en="Masamune" enl="Masamune" ja="正宗" jal="正宗" />
   <o id="21020" flags="63552" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="222" delay="437" skill="10" item_level="119" category="Weapon" en="Masamune" enl="Masamune" ja="正宗" jal="正宗" />
+  <o id="21034" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="243" delay="450" skill="10" item_level="119" category="Weapon" en="Kunimune" enl="Kunimune" ja="国宗" jal="国宗" />
+  <o id="21035" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="244" delay="437" skill="10" item_level="119" category="Weapon" en="Kunimune +1" enl="Kunimune +1" ja="国宗改" jal="国宗改" />
   <o id="21036" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="258" delay="480" skill="10" item_level="119" category="Weapon" en="Atakigiri" enl="Atakigiri" ja="安宅切" jal="安宅切" />
   <o id="21037" flags="30800" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="254" delay="484" skill="10" item_level="119" category="Weapon" en="Nenekirimaru" enl="Nenekirimaru" ja="祢々切丸" jal="祢々切丸" />
   <o id="21038" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="4096" damage="215" delay="420" skill="10" item_level="117" category="Weapon" en="Senkuto" enl="Senkuto" ja="先駆刀" jal="先駆刀" />
@@ -16147,6 +16179,8 @@
   <o id="21068" flags="63552" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="2097152" damage="131" delay="280" skill="11" item_level="119" category="Weapon" en="Nodal Wand" enl="nodal wand" ja="ノダルワンド" jal="ノダルワンド" />
   <o id="21069" flags="63552" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="2097152" damage="133" delay="280" skill="11" item_level="119" category="Weapon" en="Nodal Wand" enl="nodal wand" ja="ノダルワンド" jal="ノダルワンド" />
   <o id="21070" flags="63552" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="2097152" damage="139" delay="280" skill="11" item_level="119" category="Weapon" en="Idris" enl="Idris" ja="イドリス" jal="イドリス" />
+  <o id="21095" flags="30784" stack="1" type="4" targets="0" level="1" slots="3" races="510" jobs="8388606" damage="1" delay="264" skill="11" category="Weapon" en="Heartbeater" enl="heartbeater" ja="ハートビーター" jal="ハートビーター" />
+  <o id="21096" flags="31816" stack="1" type="4" targets="1" level="1" slots="3" races="510" jobs="8388606" damage="2" delay="257" skill="11" max_charges="1" cast_time="2" cast_delay="30" recast_delay="86400" category="Weapon" en="Heartbeater +1" enl="heartbeater +1" ja="ハートビーター+1" jal="ハートビーター+1" />
   <o id="21097" flags="63568" stack="1" type="4" targets="0" level="1" slots="3" races="510" jobs="8388606" damage="1" delay="288" skill="11" category="Weapon" en="Leafkin Bopper" enl="leafkin bopper" ja="リフキンバッパー" jal="リフキンバッパー" />
   <o id="21098" flags="64592" stack="1" type="4" targets="1" level="1" slots="3" races="510" jobs="8388606" damage="2" delay="280" skill="11" max_charges="1" cast_time="2" cast_delay="30" recast_delay="86400" category="Weapon" en="Leafkin Bopper +1" enl="leafkin bopper +1" ja="リフキンバッパー+1" jal="リフキンバッパー+1" />
   <o id="21099" flags="63568" stack="1" type="4" targets="0" level="99" slots="3" races="510" jobs="2097160" damage="174" delay="324" skill="11" item_level="119" category="Weapon" en="Magesmasher" enl="Magesmasher" ja="メイジスマッシャー" jal="メイジスマッシャー" />
@@ -16194,6 +16228,8 @@
   <o id="21142" flags="63552" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="32768" damage="200" delay="402" skill="12" item_level="119" category="Weapon" en="Nirvana" enl="Nirvana" ja="ニルヴァーナ" jal="ニルヴァーナ" />
   <o id="21143" flags="63552" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="1081360" damage="198" delay="390" skill="12" item_level="119" category="Weapon" en="Hvergelmir" enl="Hvergelmir" ja="フヴェルゲルミル" jal="フヴェルゲルミル" />
   <o id="21144" flags="63552" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="1081360" damage="198" delay="390" skill="12" item_level="119" category="Weapon" en="Hvergelmir" enl="Hvergelmir" ja="フヴェルゲルミル" jal="フヴェルゲルミル" />
+  <o id="21159" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="3179576" damage="198" delay="366" skill="12" item_level="119" category="Weapon" en="Marin Staff" enl="marin staff" ja="マランスタッフ" jal="マランスタッフ" />
+  <o id="21160" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="3179576" damage="199" delay="356" skill="12" item_level="119" category="Weapon" en="Marin Staff +1" enl="marin staff +1" ja="マランスタッフ+1" jal="マランスタッフ+1" />
   <o id="21162" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="3178524" damage="215" delay="402" skill="12" item_level="119" category="Weapon" en="Pouwhenua" enl="Pouwhenua" ja="ポウェンワ" jal="ポウェンワ" />
   <o id="21163" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="3178524" damage="216" delay="390" skill="12" item_level="119" category="Weapon" en="Pouwhenua +1" enl="Pouwhenua +1" ja="ポウェンワ+1" jal="ポウェンワ+1" />
   <o id="21164" flags="63568" stack="1" type="4" targets="0" level="99" slots="1" races="510" jobs="8" damage="198" delay="366" skill="12" item_level="119" category="Weapon" en="Ababinili" enl="Ababinili" ja="アバブリニ" jal="アバブリニ" />
@@ -16329,6 +16365,7 @@
   <o id="21322" flags="2052" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="2048" damage="94" delay="192" skill="26" item_level="103" category="Weapon" en="Damascus Bolt" enl="damascus bolt" ja="ダマスクボルト" jal="ダマスクボルト" />
   <o id="21323" flags="2052" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="2370" damage="45" delay="192" skill="26" item_level="100" category="Weapon" en="Oxidant Bolt" enl="oxidant bolt" ja="オキシドボルト" jal="オキシドボルト" />
   <o id="21324" flags="2052" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="2048" damage="75" delay="192" skill="26" item_level="100" category="Weapon" en="Midrium Bolt" enl="midrium bolt" ja="ミドリウムボルト" jal="ミドリウムボルト" />
+  <o id="21329" flags="30800" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="2048" damage="254" delay="249" skill="26" item_level="119" category="Weapon" en="Stinger Bullet" enl="stinger bullet" ja="スティンガブレット" jal="スティンガブレット" />
   <o id="21330" flags="2052" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="141376" damage="220" delay="240" skill="26" item_level="115" category="Weapon" en="Decimating Bullet" enl="decimating bullet" ja="デシメートブレット" jal="デシメートブレット" />
   <o id="21331" flags="30804" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="133120" damage="238" delay="240" skill="26" item_level="117" category="Weapon" en="Eminent Bullet" enl="eminent bullet" ja="エミネンブレット" jal="エミネンブレット" />
   <o id="21332" flags="2052" stack="99" type="4" targets="0" level="99" slots="8" races="510" jobs="2048" damage="237" delay="240" skill="26" item_level="115" category="Weapon" en="Ra'Kaznar Bullet" enl="Ra'Kaznar bullet" ja="カザナルブレット" jal="カザナルブレット" />
@@ -16394,6 +16431,8 @@
   <o id="21407" flags="63552" stack="1" type="4" targets="0" level="99" slots="4" races="510" jobs="1024" damage="0" delay="999" skill="41" category="Weapon" en="Terpander" enl="Terpander" ja="テルパンダー" jal="テルパンダー" />
   <o id="21408" flags="63568" stack="1" type="4" targets="0" level="99" slots="4" races="510" jobs="1024" damage="0" delay="240" skill="41" category="Weapon" en="Cama. Harp" enl="camaraderie harp" ja="カマラデリハープ" jal="カマラデリハープ" />
   <o id="21409" flags="63568" stack="1" type="4" targets="0" level="99" slots="4" races="510" jobs="1024" damage="0" delay="999" skill="42" category="Weapon" en="Forefront Flute" enl="forefront flute" ja="フォフロンフルート" jal="フォフロンフルート" />
+  <o id="21418" flags="63568" stack="1" type="4" targets="0" level="99" slots="2" races="510" jobs="8388606" damage="0" delay="0" skill="0" category="Weapon" en="Rigorous Grip" enl="rigorous grip" ja="リガレスグリップ" jal="リガレスグリップ" />
+  <o id="21419" flags="63568" stack="1" type="4" targets="0" level="99" slots="2" races="510" jobs="8388606" damage="0" delay="0" skill="0" category="Weapon" en="Rigorous Grip +1" enl="rigorous grip +1" ja="リガレスグリップ+1" jal="リガレスグリップ+1" />
   <o id="21420" flags="63568" stack="1" type="4" targets="0" level="99" slots="2" races="510" jobs="8388606" damage="0" delay="0" skill="0" category="Weapon" en="Benthos Grip" enl="benthos grip" ja="ベントスグリップ" jal="ベントスグリップ" />
   <o id="21421" flags="63568" stack="1" type="4" targets="0" level="99" slots="2" races="510" jobs="8388606" damage="0" delay="0" skill="0" category="Weapon" en="Immolation Grip" enl="immolation grip" ja="イモレートグリップ" jal="イモレートグリップ" />
   <o id="21422" flags="63568" stack="1" type="4" targets="0" level="99" slots="2" races="510" jobs="8388606" damage="0" delay="0" skill="0" category="Weapon" en="Kupayopl" enl="Kupayopl" ja="クパヨプル" jal="クパヨプル" />
@@ -16506,6 +16545,8 @@
   <o id="26728" flags="64616" stack="1" type="5" targets="1" level="1" slots="16" races="510" jobs="8388606" max_charges="1" cast_time="1" cast_delay="30" recast_delay="3600" category="Armor" en="Frosty Cap" enl="frosty cap" ja="フロスティキャップ" jal="フロスティキャップ" />
   <o id="26729" flags="63552" stack="1" type="5" targets="0" level="1" slots="16" races="510" jobs="8388606" category="Armor" en="Corolla" enl="corolla" ja="コローラ" jal="コローラ" />
   <o id="26730" flags="63552" stack="1" type="5" targets="0" level="1" slots="16" races="510" jobs="8388606" category="Armor" en="Celeste Cap" enl="celeste cap" ja="セレストキャップ" jal="セレストキャップ" />
+  <o id="26731" flags="63568" stack="1" type="5" targets="0" level="99" slots="16" races="510" jobs="20736" item_level="119" category="Armor" en="Stinger Helm" enl="stinger helm" ja="スティンガヘルム" jal="スティンガヘルム" />
+  <o id="26732" flags="63568" stack="1" type="5" targets="0" level="99" slots="16" races="510" jobs="20736" item_level="119" category="Armor" en="Stinger Helm +1" enl="stinger helm +1" ja="スティンガヘルム+1" jal="スティンガヘルム+1" />
   <o id="26800" flags="63552" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="2" item_level="109" category="Armor" en="Agoge Lorica" enl="agoge lorica" ja="アゴージロリカ" jal="アゴージロリカ" />
   <o id="26801" flags="63552" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="2" item_level="119" category="Armor" en="Agoge Lorica +1" enl="agoge lorica +1" ja="ＡＧロリカ+1" jal="ＡＧロリカ+1" />
   <o id="26802" flags="63552" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="4" item_level="109" category="Armor" en="Hes. Cyclas" enl="hesychast's cyclas" ja="ヘシカスシクラス" jal="ヘシカスシクラス" />
@@ -16562,6 +16603,10 @@
   <o id="26884" flags="2080" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="5188164" superior_level="1" item_level="119" category="Armor" en="Sombra Harn. +1" enl="sombra harness +1" ja="ソンブラハーネス+1" jal="ソンブラハーネス+1" />
   <o id="26885" flags="2080" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="3179576" superior_level="1" item_level="119" category="Armor" en="Revealer's Tunic" enl="revealer's tunic" ja="リビラチュニック" jal="リビラチュニック" />
   <o id="26886" flags="2080" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="3179576" superior_level="1" item_level="119" category="Armor" en="Reveal. Tunic +1" enl="revealer's tunic +1" ja="リビラチュニック+1" jal="リビラチュニック+1" />
+  <o id="26887" flags="63568" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="32768" item_level="119" category="Armor" en="Shomonjijoe" enl="shomonjijoe" ja="唱門師浄衣" jal="唱門師浄衣" />
+  <o id="26888" flags="63568" stack="1" type="5" targets="0" level="99" slots="32" races="510" jobs="32768" item_level="119" category="Armor" en="Shomonjijoe +1" enl="shomonjijoe +1" ja="唱門師浄衣改" jal="唱門師浄衣改" />
+  <o id="26889" flags="63600" stack="1" type="5" targets="0" level="1" slots="32" races="510" jobs="8388606" category="Armor" en="Heart Apron" enl="heart apron" ja="ハートエプロン" jal="ハートエプロン" />
+  <o id="26890" flags="64624" stack="1" type="5" targets="1" level="1" slots="32" races="510" jobs="8388606" max_charges="1" cast_time="2" cast_delay="30" recast_delay="86400" category="Armor" en="Heart Apron +1" enl="heart apron +1" ja="ハートエプロン+1" jal="ハートエプロン+1" />
   <o id="26976" flags="63552" stack="1" type="5" targets="0" level="99" slots="64" races="510" jobs="2" item_level="109" category="Armor" en="Agoge Mufflers" enl="agoge mufflers" ja="アゴージマフラ" jal="アゴージマフラ" />
   <o id="26977" flags="63552" stack="1" type="5" targets="0" level="99" slots="64" races="510" jobs="2" item_level="119" category="Armor" en="Agoge Mufflers +1" enl="agoge mufflers +1" ja="ＡＧマフラ+1" jal="ＡＧマフラ+1" />
   <o id="26978" flags="63552" stack="1" type="5" targets="0" level="99" slots="64" races="510" jobs="4" item_level="109" category="Armor" en="Hes. Gloves" enl="hesychast's gloves" ja="ヘシカスグローブ" jal="ヘシカスグローブ" />
@@ -16656,6 +16701,8 @@
   <o id="27227" flags="2080" stack="1" type="5" targets="0" level="99" slots="128" races="510" jobs="5188164" superior_level="1" item_level="119" category="Armor" en="Sombra Tights +1" enl="sombra tights +1" ja="ソンブラタイツ+1" jal="ソンブラタイツ+1" />
   <o id="27228" flags="2080" stack="1" type="5" targets="0" level="99" slots="128" races="510" jobs="3179576" superior_level="1" item_level="119" category="Armor" en="Revealer's Pants" enl="revealer's pants" ja="リビラズボン" jal="リビラズボン" />
   <o id="27229" flags="2080" stack="1" type="5" targets="0" level="99" slots="128" races="510" jobs="3179576" superior_level="1" item_level="119" category="Armor" en="Reveal. Pants +1" enl="revealer's pants +1" ja="リビラズボン+1" jal="リビラズボン+1" />
+  <o id="27230" flags="63568" stack="1" type="5" targets="0" level="99" slots="128" races="510" jobs="4947938" item_level="119" category="Armor" en="Zoar Subligar" enl="zoar subligar" ja="ゾアサブリガ" jal="ゾアサブリガ" />
+  <o id="27231" flags="63568" stack="1" type="5" targets="0" level="99" slots="128" races="510" jobs="4947938" item_level="119" category="Armor" en="Zoar Subligar +1" enl="zoar subligar +1" ja="ゾアサブリガ+1" jal="ゾアサブリガ+1" />
   <o id="27328" flags="63552" stack="1" type="5" targets="0" level="99" slots="256" races="510" jobs="2" item_level="109" category="Armor" en="Agoge Calligae" enl="agoge calligae" ja="アゴージカリガ" jal="アゴージカリガ" />
   <o id="27329" flags="63552" stack="1" type="5" targets="0" level="99" slots="256" races="510" jobs="2" item_level="119" category="Armor" en="Agoge Calligae +1" enl="agoge calligae +1" ja="ＡＧカリガ+1" jal="ＡＧカリガ+1" />
   <o id="27330" flags="63552" stack="1" type="5" targets="0" level="99" slots="256" races="510" jobs="4" item_level="109" category="Armor" en="Hes. Gaiters" enl="hesychast's gaiters" ja="ヘシカスゲートル" jal="ヘシカスゲートル" />
@@ -16708,6 +16755,10 @@
   <o id="27401" flags="2080" stack="1" type="5" targets="0" level="99" slots="256" races="510" jobs="3179576" superior_level="1" item_level="119" category="Armor" en="Reveal. Pumps +1" enl="revealer's pumps +1" ja="リビラパンプス+1" jal="リビラパンプス+1" />
   <o id="27504" flags="63568" stack="1" type="5" targets="0" level="99" slots="512" races="510" jobs="8388606" category="Armor" en="Warder's Charm" enl="warder's charm" ja="ウォーダチャーム" jal="ウォーダチャーム" />
   <o id="27505" flags="63568" stack="1" type="5" targets="0" level="99" slots="512" races="510" jobs="8388606" category="Armor" en="Warder's Charm +1" enl="warder's charm +1" ja="ウォーダチャーム+1" jal="ウォーダチャーム+1" />
+  <o id="27508" flags="63568" stack="1" type="5" targets="0" level="99" slots="512" races="510" jobs="8388606" category="Armor" en="Unmoving Collar" enl="unmoving collar" ja="アンムーヴカラー" jal="アンムーヴカラー" />
+  <o id="27509" flags="63568" stack="1" type="5" targets="0" level="99" slots="512" races="510" jobs="8388606" category="Armor" en="Unmoving Collar +1" enl="unmoving collar +1" ja="アンムーヴカラー+1" jal="アンムーヴカラー+1" />
+  <o id="27562" flags="63568" stack="1" type="5" targets="0" level="99" slots="24576" races="510" jobs="8388606" category="Armor" en="Metamorph Ring" enl="metamorph ring" ja="メタモルリング" jal="メタモルリング" />
+  <o id="27563" flags="63568" stack="1" type="5" targets="0" level="99" slots="24576" races="510" jobs="8388606" category="Armor" en="Metamor. Ring +1" enl="metamorph ring +1" ja="メタモルリング+1" jal="メタモルリング+1" />
   <o id="27564" flags="2052" stack="1" type="5" targets="0" level="99" slots="24576" races="510" jobs="8388606" category="Armor" en="Ifrit Ring" enl="Ifrit ring" ja="炎将の指輪" jal="炎将の指輪" />
   <o id="27565" flags="2048" stack="1" type="5" targets="0" level="99" slots="24576" races="510" jobs="8388606" category="Armor" en="Ifrit Ring +1" enl="Ifrit ring +1" ja="炎将の指輪+1" jal="炎将の指輪+1" />
   <o id="27566" flags="2052" stack="1" type="5" targets="0" level="99" slots="24576" races="510" jobs="8388606" category="Armor" en="Levia. Ring" enl="Leviathan ring" ja="海蛇の指輪" jal="海蛇の指輪" />
@@ -16745,6 +16796,8 @@
   <o id="27600" flags="63572" stack="1" type="5" targets="0" level="99" slots="32768" races="510" jobs="4947942" category="Armor" en="Bleating Mantle" enl="bleating mantle" ja="ブリーテングマント" jal="ブリーテングマント" />
   <o id="27601" flags="63568" stack="1" type="5" targets="0" level="99" slots="32768" races="510" jobs="4947942" category="Armor" en="Grounded Mantle" enl="grounded mantle" ja="グラウンドマント" jal="グラウンドマント" />
   <o id="27602" flags="63568" stack="1" type="5" targets="0" level="99" slots="32768" races="510" jobs="4947942" category="Armor" en="Ground. Mantle +1" enl="grounded mantle +1" ja="グラウンドマント+1" jal="グラウンドマント+1" />
+  <o id="27603" flags="2084" stack="1" type="5" targets="0" level="99" slots="32768" races="510" jobs="8388606" category="Armor" en="Aptitude Mantle" enl="aptitude mantle" ja="アピトマント" jal="アピトマント" />
+  <o id="27604" flags="2080" stack="1" type="5" targets="0" level="99" slots="32768" races="510" jobs="8388606" category="Armor" en="Aptitude Mantle +1" enl="aptitude mantle +1" ja="アピトマント+1" jal="アピトマント+1" />
   <o id="27624" flags="63568" stack="1" type="5" targets="0" level="99" slots="2" races="510" jobs="384" shield_size="3" item_level="117" category="Armor" en="Homestead Shield" enl="homestead shield" ja="ホムステドシールド" jal="ホムステドシールド" />
   <o id="27625" flags="30784" stack="1" type="5" targets="0" level="1" slots="2" races="510" jobs="8388606" shield_size="2" category="Armor" en="Morbol Shield" enl="morbol shield" ja="モルボルシールド" jal="モルボルシールド" />
   <o id="27626" flags="31816" stack="1" type="5" targets="1" level="1" slots="2" races="510" jobs="8388606" shield_size="2" max_charges="1" cast_time="2" cast_delay="30" recast_delay="86400" category="Armor" en="Cassie's Shield" enl="Cassie's shield" ja="キャシーシールド" jal="キャシーシールド" />

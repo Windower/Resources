@@ -2880,6 +2880,13 @@ return {
     [3441] = {id=3441,en="Tripe Gripe",ja="トライプグライプ"},
     [3442] = {id=3442,en="Sharp Eye",ja="シャープアイ"},
     [3443] = {id=3443,en="Gloeosuccus",ja="グロオーサケス"},
+    [3444] = {id=3444,en="Afflatus Misery",ja="ハートオブミゼリ"},
+    [3445] = {id=3445,en="Merciless Strike",ja="マーサレスストライク"},
+    [3446] = {id=3446,en="Villainous Rebuke",ja="ヴィラナス・レビューク"},
+    [3447] = {id=3447,en="Stygian Release",ja="スティジアン・リリース"},
+    [3448] = {id=3448,en="Uppercut",ja="アッパーカット"},
+    [3449] = {id=3449,en="Infernal Bulwark",ja="インファーナル・バルワーク"},
+    [3450] = {id=3450,en="Earthbreaker",ja="アースブレイカー"},
 }, {"id", "en", "ja", "element", "icon_id", "monster_level", "prefix", "range", "targets", "tp_cost"}
 
 --[[
