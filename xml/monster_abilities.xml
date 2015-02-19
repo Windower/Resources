@@ -2886,4 +2886,115 @@
   <o id="3448" en="Uppercut" ja="アッパーカット" />
   <o id="3449" en="Infernal Bulwark" ja="インファーナル・バルワーク" />
   <o id="3450" en="Earthbreaker" ja="アースブレイカー" />
+  <o id="3451" en="Dynastic Gravitas" ja="ダイナスティーグラビタス" />
+  <o id="3452" en="Illustrious Aid" ja="イラストリアスアイド" />
+  <o id="3453" en="Guiding Light" ja="ガイディングライト" />
+  <o id="3454" en="Coming Up Roses" ja="カミングアップローゼス" />
+  <o id="3461" en="Bloody Breath" ja="血生臭い息" />
+  <o id="3462" en="Excessively Bad Breath" ja="とても臭い息" />
+  <o id="3840" en="Foot Kick" ja="フットキック" />
+  <o id="3841" en="Dust Cloud" ja="土煙" />
+  <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
+  <o id="3843" en="Head Butt" ja="ヘッドバット" />
+  <o id="3844" en="Dream Flower" ja="夢想花" />
+  <o id="3845" en="Wild Oats" ja="種まき" />
+  <o id="3846" en="Leaf Dagger" ja="リーフダガー" />
+  <o id="3847" en="Scream" ja="スクリーム" />
+  <o id="3848" en="Roar" ja="咆哮" />
+  <o id="3849" en="Razor Fang" ja="レイザーファング" />
+  <o id="3850" en="Claw Cyclone" ja="クローサイクロン" />
+  <o id="3851" en="Tail Blow" ja="テイルブロー" />
+  <o id="3852" en="Fireball" ja="ファイアボール" />
+  <o id="3853" en="Blockhead" ja="ブロックヘッド" />
+  <o id="3854" en="Brain Crush" ja="ブレインクラッシュ" />
+  <o id="3855" en="Infrasonics" ja="超低周波" />
+  <o id="3856" en="Secretion" ja="体液分泌" />
+  <o id="3857" en="Lamb Chop" ja="頭突き" />
+  <o id="3858" en="Rage" ja="レイジ" />
+  <o id="3859" en="Sheep Charge" ja="シープチャージ" />
+  <o id="3860" en="Sheep Song" ja="シープソング" />
+  <o id="3861" en="Bubble Shower" ja="バブルシャワー" />
+  <o id="3862" en="Bubble Curtain" ja="バブルカーテン" />
+  <o id="3863" en="Big Scissors" ja="ビッグシザー" />
+  <o id="3864" en="Scissor Guard" ja="シザーガード" />
+  <o id="3865" en="Metallic Body" ja="メタルボディ" />
+  <o id="3866" en="Needleshot" ja="ニードルショット" />
+  <o id="3867" en="??? Needles" ja="針？本" />
+  <o id="3868" en="Frogkick" ja="フロッグキック" />
+  <o id="3869" en="Spore" ja="スポア" />
+  <o id="3870" en="Queasyshroom" ja="マヨイタケ" />
+  <o id="3871" en="Numbshroom" ja="シビレタケ" />
+  <o id="3872" en="Shakeshroom" ja="オドリタケ" />
+  <o id="3873" en="Silence Gas" ja="サイレスガス" />
+  <o id="3874" en="Dark Spore" ja="ダークスポア" />
+  <o id="3875" en="Power Attack" ja="パワーアタック" />
+  <o id="3876" en="Hi-Freq Field" ja="高周波フィールド" />
+  <o id="3877" en="Rhino Attack" ja="ライノアタック" />
+  <o id="3878" en="Rhino Guard" ja="ライノガード" />
+  <o id="3879" en="Spoil" ja="スポイル" />
+  <o id="3880" en="Cursed Sphere" ja="カースドスフィア" />
+  <o id="3881" en="Venom" ja="毒液" />
+  <o id="3882" en="Sandblast" ja="サンドブラスト" />
+  <o id="3883" en="Sandpit" ja="サンドピット" />
+  <o id="3884" en="Venom Spray" ja="ベノムスプレー" />
+  <o id="3885" en="Mandibular Bite" ja="マンディビュラバイト" />
+  <o id="3886" en="Soporific" ja="サペリフィック" />
+  <o id="3887" en="Gloeosuccus" ja="グロオーサケス" />
+  <o id="3888" en="Palsy Pollen" ja="パルジィパレン" />
+  <o id="3889" en="Geist Wall" ja="ガイストウォール" />
+  <o id="3890" en="Numbing Noise" ja="ナビングノイズ" />
+  <o id="3891" en="Nimble Snap" ja="ニンブルスナップ" />
+  <o id="3892" en="Cyclotail" ja="サイクロテール" />
+  <o id="3893" en="Toxic Spit" ja="トクシックスピット" />
+  <o id="3894" en="Double Claw" ja="ダブルクロー" />
+  <o id="3895" en="Grapple" ja="グラップル" />
+  <o id="3896" en="Filamented Hold" ja="フィラメンテッドホールド" />
+  <o id="3897" en="Spinning Top" ja="スピニングトップ" />
+  <o id="3898" en="Chaotic Eye" ja="カオティックアイ" />
+  <o id="3899" en="Blaster" ja="ブラスター" />
+  <o id="3900" en="Suction" ja="吸着" />
+  <o id="3901" en="Drainkiss" ja="ドレインキッス" />
+  <o id="3902" en="Snow Cloud" ja="雪煙" />
+  <o id="3903" en="Wild Carrot" ja="ワイルドカロット" />
+  <o id="3904" en="Sudden Lunge" ja="サドンランジ" />
+  <o id="3905" en="Spiral Spin" ja="スパイラルスピン" />
+  <o id="3906" en="Noisome Powder" ja="ノイサムパウダー" />
+  <o id="3907" en="Acid Mist" ja="アシッドミスト" />
+  <o id="3908" en="TP Drainkiss" ja="TP吸収キッス" />
+  <o id="3909" en="Scythe Tail" ja="サイズテール" />
+  <o id="3910" en="Ripper Fang" ja="リッパーファング" />
+  <o id="3911" en="Chomp Rush" ja="噛みつきラッシュ" />
+  <o id="3912" en="Charged Whisker" ja="チャージドホイスカー" />
+  <o id="3913" en="Purulent Ooze" ja="ピュルラントウーズ" />
+  <o id="3914" en="Corrosive Ooze" ja="コローシブウーズ" />
+  <o id="3915" en="Back Heel" ja="バックヒール" />
+  <o id="3916" en="Jettatura" ja="ジェタチュラ" />
+  <o id="3917" en="Choke Breath" ja="チョークブレス" />
+  <o id="3918" en="Fantod" ja="ファンタッド" />
+  <o id="3919" en="Tortoise Stomp" ja="トータスストンプ" />
+  <o id="3920" en="Harden Shell" ja="甲羅強化" />
+  <o id="3921" en="Aqua Breath" ja="アクアブレス" />
+  <o id="3922" en="Wing Slap" ja="ウィングスラップ" />
+  <o id="3923" en="Beak Lunge" ja="ビークランジ" />
+  <o id="3924" en="Intimidate" ja="威嚇" />
+  <o id="3925" en="Recoil Dive" ja="リコイルダイブ" />
+  <o id="3926" en="Water Wall" ja="ウォーターウォール" />
+  <o id="3927" en="Sensilla Blades" ja="センシラブレード" />
+  <o id="3928" en="Tegmina Buffet" ja="テグミナバフェット" />
+  <o id="3929" en="Molting Plumage" ja="モルトプルメイジ" />
+  <o id="3930" en="Swooping Frenzy" ja="スワープフレンジー" />
+  <o id="3931" en="Sweeping Gouge" ja="スイープガウジ" />
+  <o id="3932" en="Zealous Snort" ja="ゼラススノート" />
+  <o id="3933" en="Pentapeck" ja="ペンタペック" />
+  <o id="3934" en="Tickling Tendrils" ja="ティックルテンドリル" />
+  <o id="3935" en="Stink Bomb" ja="スティンクボム" />
+  <o id="3936" en="Nectarous Deluge" ja="ネクターデルージュ" />
+  <o id="3937" en="Nepenthic Plunge" ja="ネペンシックプランジ" />
+  <o id="3938" en="Somersault" ja="サマーソルト" />
+  <o id="3939" en="Foul Waters" ja="ファウルウォーター" />
+  <o id="3940" en="Pestilent Plume" ja="ペステレントプルーム" />
+  <o id="3941" en="Pecking Flurry" ja="ペッキングフラリー" />
+  <o id="3942" en="Sickle Slash" ja="シックルスラッシュ" />
+  <o id="3943" en="Acid Spray" ja="アシッドスプレー" />
+  <o id="3944" en="Spider Web" ja="スパイダーウェブ" />
 </monster_abilities>

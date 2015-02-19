@@ -2496,6 +2496,7 @@
   <o id="2600" en="consummate simulacrum" ja="完全なるシミューラクラム" category="Temporary Key Items" />
   <o id="2601" en="broken fuse" ja="信管の破片" category="Temporary Key Items" />
   <o id="2602" en="Rala eudaemon" ja="ユデイモン：ララ" category="Temporary Key Items" />
+  <o id="2603" en="Yorcia eudaemon" ja="ユデイモン：ヨルシア" category="Temporary Key Items" />
   <o id="2604" en="Cirdas eudaemon" ja="ユデイモン：シルダス" category="Temporary Key Items" />
   <o id="2606" en="Velkk fetish" ja="ヴェルク族のお守り" category="Temporary Key Items" />
   <o id="2607" en="Ymmr-Ulvid's necklace" ja="イムル・アルヴィッドの首飾り" category="Temporary Key Items" />
@@ -2548,6 +2549,21 @@
   <o id="2661" en="baby eft memento" ja="子エフトの思い出" category="Permanent Key Items" />
   <o id="2662" en="eft memento" ja="エフトの思い出" category="Permanent Key Items" />
   <o id="2663" en="tarichuk memento" ja="タリチャックの思い出" category="Permanent Key Items" />
+  <o id="2664" en="dhalmel calf memento" ja="子ダルメルの思い出" category="Permanent Key Items" />
+  <o id="2665" en="dhalmel memento" ja="ダルメルの思い出" category="Permanent Key Items" />
+  <o id="2666" en="great dhalmel memento" ja="大ダルメルの思い出" category="Permanent Key Items" />
+  <o id="2667" en="sea monk larva memento" ja="幼生シーモンクの思い出" category="Permanent Key Items" />
+  <o id="2668" en="sea monk memento" ja="シーモンクの思い出" category="Permanent Key Items" />
+  <o id="2669" en="blue sea monk memento" ja="青シーモンクの思い出" category="Permanent Key Items" />
+  <o id="2670" en="uragnite youngling memento" ja="幼生ウラグナイトの思い出" category="Permanent Key Items" />
+  <o id="2671" en="uragnite memento" ja="ウラグナイトの思い出" category="Permanent Key Items" />
+  <o id="2672" en="limascabra memento" ja="リマスカブラの思い出" category="Permanent Key Items" />
+  <o id="2673" en="immature crab memento" ja="幼生クラブの思い出" category="Permanent Key Items" />
+  <o id="2674" en="crab memento" ja="クラブの思い出" category="Permanent Key Items" />
+  <o id="2675" en="porter crab memento" ja="ポータークラブの思い出" category="Permanent Key Items" />
+  <o id="2676" en="colibri chick memento" ja="幼鳥コリブリの思い出" category="Permanent Key Items" />
+  <o id="2677" en="colibri memento" ja="コリブリの思い出" category="Permanent Key Items" />
+  <o id="2678" en="toucalibri memento" ja="トゥカリブリの思い出" category="Permanent Key Items" />
   <o id="2716" en="Cheer: Lamb" ja="チャチャルンの応援：子羊" category="Temporary Key Items" />
   <o id="2717" en="Cheer: Sheep" ja="チャチャルンの応援：大羊" category="Temporary Key Items" />
   <o id="2718" en="Cheer: Karakul" ja="チャチャルンの応援：カラクール" category="Temporary Key Items" />
@@ -2570,6 +2586,25 @@
   <o id="2735" en="Cheer: Baby Eft" ja="チャチャルンの応援：子エフト" category="Temporary Key Items" />
   <o id="2736" en="Cheer: Eft" ja="チャチャルンの応援：エフト" category="Temporary Key Items" />
   <o id="2737" en="Cheer: Tarichuk" ja="チャチャルンの応援：タリチャック" category="Temporary Key Items" />
+  <o id="2738" en="Cheer: Dhalmel Calf" ja="チャチャルンの応援：子ダルメル" category="Temporary Key Items" />
+  <o id="2739" en="Cheer: Dhalmel" ja="チャチャルンの応援：ダルメル" category="Temporary Key Items" />
+  <o id="2740" en="Cheer: Great Dhalmel" ja="チャチャルンの応援：大ダルメル" category="Temporary Key Items" />
+  <o id="2741" en="Cheer: Sea Monk Larva" ja="チャチャルンの応援：幼生シーモンク" category="Temporary Key Items" />
+  <o id="2742" en="Cheer: Sea Monk" ja="チャチャルンの応援：シーモンク" category="Temporary Key Items" />
+  <o id="2743" en="Cheer: Blue Sea Monk" ja="チャチャルンの応援：青シーモンク" category="Temporary Key Items" />
+  <o id="2744" en="Cheer: Uragnite Youngling" ja="チャチャルンの応援：幼生ウラグナイト" category="Temporary Key Items" />
+  <o id="2745" en="Cheer: Uragnite" ja="チャチャルンの応援：ウラグナイト" category="Temporary Key Items" />
+  <o id="2746" en="Cheer: Limascabra" ja="チャチャルンの応援：リマスカブラ" category="Temporary Key Items" />
+  <o id="2747" en="Cheer: Immature Crab" ja="チャチャルンの応援：幼生クラブ" category="Temporary Key Items" />
+  <o id="2748" en="Cheer: Crab" ja="チャチャルンの応援：クラブ" category="Temporary Key Items" />
+  <o id="2749" en="Cheer: Porter Crab" ja="チャチャルンの応援：ポータークラブ" category="Temporary Key Items" />
+  <o id="2750" en="Cheer: Baby Colibri" ja="チャチャルンの応援：幼鳥コリブリ" category="Temporary Key Items" />
+  <o id="2751" en="Cheer: Colibri" ja="チャチャルンの応援：コリブリ" category="Temporary Key Items" />
+  <o id="2752" en="Cheer: Toucalibri" ja="チャチャルンの応援：トゥカリブリ" category="Temporary Key Items" />
+  <o id="2790" en="sheet of conflict tunes" ja="オーケストリオン譜：ボスバトル" category="Permanent Key Items" />
+  <o id="2791" en="sheet of Promathia tunes" ja="オーケストリオン譜：プロマシアの呪縛" category="Permanent Key Items" />
+  <o id="2792" en="sheet of Adoulinian tunes" ja="オーケストリオン譜：アドゥリンの魔境" category="Permanent Key Items" />
+  <o id="2793" en="&quot;Sakura and the Fountain&quot;" ja="『サクラちゃんと幻影の泉』" category="Permanent Key Items" />
   <o id="2810" en="purple purgation cloth" ja="穢れ祓いの紫布" category="Temporary Key Items" />
   <o id="2811" en="Margret's writ of summons" ja="マルグレートの手紙" category="Temporary Key Items" />
   <o id="2812" en="portrait of Melvien" ja="メルヴィアンの似顔絵" category="Temporary Key Items" />
@@ -2578,4 +2613,5 @@
   <o id="2815" en="Margret's memo" ja="マルグレートのメモ" category="Temporary Key Items" />
   <o id="2816" en="Margret's imposter's cipher" ja="偽マルグレートの暗号文" category="Temporary Key Items" />
   <o id="2817" en="Margret's imposter's cipher redux" ja="偽マルグレートの暗号メモ" category="Temporary Key Items" />
+  <o id="2854" en="Moghancement: Resist Virus" ja="モーグリの応援：レジストウィルス" category="Temporary Key Items" />
 </key_items>

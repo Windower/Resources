@@ -510,7 +510,7 @@
   <o id="696" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Scissor Guard" ja="シザーガード" />
   <o id="697" type="Monster" element="3" icon_id="43" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Metallic Body" ja="メタルボディ" />
   <o id="698" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Needleshot" ja="ニードルショット" />
-  <o id="699" type="Monster" element="6" icon_id="46" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="1000 Needles" ja="針千本" />
+  <o id="699" type="Monster" element="6" icon_id="46" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="??? Needles" ja="針？本" />
   <o id="700" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Frogkick" ja="フロッグキック" />
   <o id="701" type="Monster" element="1" icon_id="41" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spore" ja="スポア" />
   <o id="702" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Queasyshroom" ja="マヨイタケ" />
@@ -583,4 +583,10 @@
   <o id="771" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Nepenthic Plunge" ja="ネペンシックプランジ" />
   <o id="772" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Somersault " ja="サマーソルト" />
   <o id="773" type="BloodPactWard" element="6" icon_id="340" mp_cost="83" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Pacifying Ruby" ja="ルビーの贖罪" />
+  <o id="774" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Foul Waters" ja="ファウルウォーター" />
+  <o id="775" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Pestilent Plume" ja="ペステレントプルーム" />
+  <o id="776" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Pecking Flurry" ja="ペッキングフラリー" />
+  <o id="777" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sickle Slash" ja="シックルスラッシュ" />
+  <o id="778" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Acid Spray" ja="アシッドスプレー" />
+  <o id="779" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spider Web" ja="スパイダーウェブ" />
 </job_abilities>

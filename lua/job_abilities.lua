@@ -511,7 +511,7 @@ return {
     [696] = {id=696,en="Scissor Guard",ja="シザーガード",element=3,icon_id=43,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [697] = {id=697,en="Metallic Body",ja="メタルボディ",element=3,icon_id=43,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [698] = {id=698,en="Needleshot",ja="ニードルショット",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
-    [699] = {id=699,en="1000 Needles",ja="針千本",element=6,icon_id=46,mp_cost=3,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [699] = {id=699,en="??? Needles",ja="針？本",element=6,icon_id=46,mp_cost=3,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [700] = {id=700,en="Frogkick",ja="フロッグキック",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [701] = {id=701,en="Spore",ja="スポア",element=1,icon_id=41,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [702] = {id=702,en="Queasyshroom",ja="マヨイタケ",element=7,icon_id=47,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
@@ -584,6 +584,12 @@ return {
     [771] = {id=771,en="Nepenthic Plunge",ja="ネペンシックプランジ",element=5,icon_id=45,mp_cost=3,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [772] = {id=772,en="Somersault ",ja="サマーソルト",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [773] = {id=773,en="Pacifying Ruby",ja="ルビーの贖罪",element=6,icon_id=340,mp_cost=83,prefix="/pet",range=9,recast_id=174,targets=5,tp_cost=0,type="BloodPactWard"},
+    [774] = {id=774,en="Foul Waters",ja="ファウルウォーター",element=5,icon_id=45,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [775] = {id=775,en="Pestilent Plume",ja="ペステレントプルーム",element=7,icon_id=47,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [776] = {id=776,en="Pecking Flurry",ja="ペッキングフラリー",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [777] = {id=777,en="Sickle Slash",ja="シックルスラッシュ",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [778] = {id=778,en="Acid Spray",ja="アシッドスプレー",element=5,icon_id=45,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [779] = {id=779,en="Spider Web",ja="スパイダーウェブ",element=3,icon_id=43,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
 }, {"id", "en", "ja", "duration", "element", "icon_id", "mp_cost", "prefix", "range", "recast_id", "targets", "tp_cost", "type"}
 
 --[[

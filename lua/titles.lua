@@ -821,6 +821,7 @@ return {
     [825] = {id=825,en="Lithosphere Annihilator",ja="リソスフィア　アナイアレーター"},
     [826] = {id=826,en="Fulmination Disruptor",ja="フルミネーション　ディスラプター"},
     [827] = {id=827,en="Bore Repulsor",ja="ボア　リパルサー"},
+    [831] = {id=831,en="Alluvion Assailant",ja="アルビオン　アセーラント"},
     [836] = {id=836,en="Geodancer",ja="見習い風水士"},
     [837] = {id=837,en="Runic Engraver",ja="ルーンを刻みし者"},
     [838] = {id=838,en="Apprentice Tarutaru Sauce Manager",ja="タルタル★ソース・マネージャー見習い"},
@@ -920,6 +921,7 @@ return {
     [932] = {id=932,en="Bringer of the Dawn",ja="暁の先導者"},
     [933] = {id=933,en="The One True Pioneer",ja="アドゥリンの真なる開拓者"},
     [934] = {id=934,en="Bringer of Hope",ja="希望の先導者"},
+    [935] = {id=935,en="Good Dew-er",ja="アドゥリンの露騎士候補"},
 }, {"id", "en", "ja"}
 
 --[[

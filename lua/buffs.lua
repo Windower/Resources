@@ -573,6 +573,15 @@ return {
     [585] = {id=585,en="Costume",ja="コスチューム",enl="costumed",jal="コスチューム"},
     [586] = {id=586,en="Curing Conduit",ja="被ケアル回復量アップ",enl="Curing Conduit",jal="被ケアル回復量アップ"},
     [587] = {id=587,en="TP Bonus",ja="TPボーナスアップ",enl="TP Bonus",jal="TPボーナスアップ"},
+    [588] = {id=588,en="Finishing Move (6+)",ja="フィニシングムーブ(5+)",enl="Finishing Move (6+)",jal="フィニシングムーブ(5+)"},
+    [589] = {id=589,en="Firestorm",ja="熱波の陣II",enl="Firestorm",jal="熱波の陣II"},
+    [590] = {id=590,en="Hailstorm",ja="吹雪の陣II",enl="Hailstorm",jal="吹雪の陣II"},
+    [591] = {id=591,en="Windstorm",ja="烈風の陣II",enl="Windstorm",jal="烈風の陣II"},
+    [592] = {id=592,en="Sandstorm",ja="砂塵の陣II",enl="Sandstorm",jal="砂塵の陣II"},
+    [593] = {id=593,en="Thunderstorm",ja="疾雷の陣II",enl="Thunderstorm",jal="疾雷の陣II"},
+    [594] = {id=594,en="Rainstorm",ja="豪雨の陣II",enl="Rainstorm",jal="豪雨の陣II"},
+    [595] = {id=595,en="Aurorastorm",ja="極光の陣II",enl="Aurorastorm",jal="極光の陣II"},
+    [596] = {id=596,en="Voidstorm",ja="妖霧の陣II",enl="Voidstorm",jal="妖霧の陣II"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

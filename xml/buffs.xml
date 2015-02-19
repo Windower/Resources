@@ -572,4 +572,13 @@
   <o id="585" en="Costume" enl="costumed" ja="コスチューム" jal="コスチューム" />
   <o id="586" en="Curing Conduit" enl="Curing Conduit" ja="被ケアル回復量アップ" jal="被ケアル回復量アップ" />
   <o id="587" en="TP Bonus" enl="TP Bonus" ja="TPボーナスアップ" jal="TPボーナスアップ" />
+  <o id="588" en="Finishing Move (6+)" enl="Finishing Move (6+)" ja="フィニシングムーブ(5+)" jal="フィニシングムーブ(5+)" />
+  <o id="589" en="Firestorm" enl="Firestorm" ja="熱波の陣II" jal="熱波の陣II" />
+  <o id="590" en="Hailstorm" enl="Hailstorm" ja="吹雪の陣II" jal="吹雪の陣II" />
+  <o id="591" en="Windstorm" enl="Windstorm" ja="烈風の陣II" jal="烈風の陣II" />
+  <o id="592" en="Sandstorm" enl="Sandstorm" ja="砂塵の陣II" jal="砂塵の陣II" />
+  <o id="593" en="Thunderstorm" enl="Thunderstorm" ja="疾雷の陣II" jal="疾雷の陣II" />
+  <o id="594" en="Rainstorm" enl="Rainstorm" ja="豪雨の陣II" jal="豪雨の陣II" />
+  <o id="595" en="Aurorastorm" enl="Aurorastorm" ja="極光の陣II" jal="極光の陣II" />
+  <o id="596" en="Voidstorm" enl="Voidstorm" ja="妖霧の陣II" jal="妖霧の陣II" />
 </buffs>
