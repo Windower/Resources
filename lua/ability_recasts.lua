@@ -153,7 +153,7 @@ return {
     [170] = {id=170,en="Assault",ja="神獣の攻撃",action_id=88},
     [171] = {id=171,en="Retreat",ja="神獣の退避",action_id=89},
     [172] = {id=172,en="Release",ja="神獣の帰還",action_id=90},
-    [173] = {id=173,en="Blood Pact: Rage",ja="契約の履行:幻術",action_id=665},
+    [173] = {id=173,en="Blood Pact: Rage",ja="契約の履行:幻術",action_id=780},
     [174] = {id=174,en="Blood Pact: Ward",ja="契約の履行:験術",action_id=773},
     [175] = {id=175,en="Elemental Siphon",ja="エレメントサイフォン",action_id=232},
     [176] = {id=176,en="Avatar's Favor",ja="神獣の加護",action_id=250},

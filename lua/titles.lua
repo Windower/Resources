@@ -821,7 +821,12 @@ return {
     [825] = {id=825,en="Lithosphere Annihilator",ja="リソスフィア　アナイアレーター"},
     [826] = {id=826,en="Fulmination Disruptor",ja="フルミネーション　ディスラプター"},
     [827] = {id=827,en="Bore Repulsor",ja="ボア　リパルサー"},
+    [828] = {id=828,en="Palloritus Punisher",ja="パロリタス　パニシャー"},
+    [829] = {id=829,en="Putraxia Pulverizer",ja="ピュトラクシア　パルバライザー"},
+    [830] = {id=830,en="Rancibus Ravager",ja="ランシバス　ラバジャー"},
     [831] = {id=831,en="Alluvion Assailant",ja="アルビオン　アセーラント"},
+    [832] = {id=832,en="Perfidien Paindealer",ja="パフィディアン　ペインディーラー"},
+    [833] = {id=833,en="Plouton Pincer",ja="プルートン　ピンサー"},
     [836] = {id=836,en="Geodancer",ja="見習い風水士"},
     [837] = {id=837,en="Runic Engraver",ja="ルーンを刻みし者"},
     [838] = {id=838,en="Apprentice Tarutaru Sauce Manager",ja="タルタル★ソース・マネージャー見習い"},
@@ -922,6 +927,8 @@ return {
     [933] = {id=933,en="The One True Pioneer",ja="アドゥリンの真なる開拓者"},
     [934] = {id=934,en="Bringer of Hope",ja="希望の先導者"},
     [935] = {id=935,en="Good Dew-er",ja="アドゥリンの露騎士候補"},
+    [936] = {id=936,en="Lifecycler",ja="森羅"},
+    [937] = {id=937,en="Sword Saint",ja="剣聖"},
 }, {"id", "en", "ja"}
 
 --[[

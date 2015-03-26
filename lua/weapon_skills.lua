@@ -205,6 +205,7 @@ return {
     [224] = {id=224,en="Exenterator",ja="エクゼンテレター",element=3,icon_id=643,prefix="/weaponskill",range=2,skill=2,skillchain_a="Fragmentation",skillchain_b="Scission",skillchain_c="",targets=32},
     [225] = {id=225,en="Chant du Cygne",ja="シャンデュシニュ",element=6,icon_id=644,prefix="/weaponskill",range=2,skill=3,skillchain_a="Light",skillchain_b="Distortion",skillchain_c="",targets=32},
     [226] = {id=226,en="Requiescat",ja="レクイエスカット",element=6,icon_id=644,prefix="/weaponskill",range=2,skill=3,skillchain_a="Gravitation",skillchain_b="Scission",skillchain_c="",targets=32},
+    [227] = {id=227,en="Knights of Rotund",ja="ナイスオブラウンド",element=6,icon_id=598,prefix="/weaponskill",range=2,targets=32},
     [238] = {id=238,en="Uriel Blade",ja="ウリエルブレード",element=6,icon_id=645,prefix="/weaponskill",range=2,skill=2,skillchain_a="",skillchain_b="",skillchain_c="",targets=32},
     [239] = {id=239,en="Glory Slash",ja="グローリースラッシュ",element=4,icon_id=646,prefix="/weaponskill",range=2,skill=2,skillchain_a="",skillchain_b="",skillchain_c="",targets=32},
     [240] = {id=240,en="Tartarus Torpor",ja="タルタロストーパー",element=7,icon_id=647,prefix="/weaponskill",range=2,skill=12,skillchain_a="",skillchain_b="",skillchain_c="",targets=32},

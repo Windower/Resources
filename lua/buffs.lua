@@ -582,6 +582,7 @@ return {
     [594] = {id=594,en="Rainstorm",ja="豪雨の陣II",enl="Rainstorm",jal="豪雨の陣II"},
     [595] = {id=595,en="Aurorastorm",ja="極光の陣II",enl="Aurorastorm",jal="極光の陣II"},
     [596] = {id=596,en="Voidstorm",ja="妖霧の陣II",enl="Voidstorm",jal="妖霧の陣II"},
+    [597] = {id=597,en="Ardor",ja="アーダー",enl="Ardor",jal="アーダー"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

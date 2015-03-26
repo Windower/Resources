@@ -204,6 +204,7 @@
   <o id="224" skillchain_a="Fragmentation" element="3" icon_id="643" skill="2" skillchain_c="" targets="32" skillchain_b="Scission" range="2" prefix="/weaponskill" en="Exenterator" ja="エクゼンテレター" />
   <o id="225" skillchain_a="Light" element="6" icon_id="644" skill="3" skillchain_c="" targets="32" skillchain_b="Distortion" range="2" prefix="/weaponskill" en="Chant du Cygne" ja="シャンデュシニュ" />
   <o id="226" skillchain_a="Gravitation" element="6" icon_id="644" skill="3" skillchain_c="" targets="32" skillchain_b="Scission" range="2" prefix="/weaponskill" en="Requiescat" ja="レクイエスカット" />
+  <o id="227" element="6" icon_id="598" targets="32" range="2" prefix="/weaponskill" en="Knights of Rotund" ja="ナイスオブラウンド" />
   <o id="238" skillchain_a="" element="6" icon_id="645" skill="2" skillchain_c="" targets="32" skillchain_b="" range="2" prefix="/weaponskill" en="Uriel Blade" ja="ウリエルブレード" />
   <o id="239" skillchain_a="" element="4" icon_id="646" skill="2" skillchain_c="" targets="32" skillchain_b="" range="2" prefix="/weaponskill" en="Glory Slash" ja="グローリースラッシュ" />
   <o id="240" skillchain_a="" element="7" icon_id="647" skill="12" skillchain_c="" targets="32" skillchain_b="" range="2" prefix="/weaponskill" en="Tartarus Torpor" ja="タルタロストーパー" />
