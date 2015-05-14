@@ -2,15 +2,16 @@
 
 return {
     [0] = {id=0,en="Inventory",access="Everywhere"},
-    [1] = {id=1,en="Safe",access="Mog House"},
-    [2] = {id=2,en="Storage",access="Mog House"},
+    [1] = {id=1,en="Safe",access="Mog House",command="bank"},
+    [2] = {id=2,en="Storage",access="Mog House",command="storage"},
     [3] = {id=3,en="Temporary",access="Situational"},
-    [4] = {id=4,en="Locker",access="Mog House"},
-    [5] = {id=5,en="Satchel",access="Everywhere"},
-    [6] = {id=6,en="Sack",access="Everywhere"},
-    [7] = {id=7,en="Case",access="Everywhere"},
-    [8] = {id=8,en="Wardrobe",access="Everywhere"},
-}, {"id", "en", "access"}
+    [4] = {id=4,en="Locker",access="Mog House",command="locker"},
+    [5] = {id=5,en="Satchel",access="Everywhere",command="satchel"},
+    [6] = {id=6,en="Sack",access="Everywhere",command="sack"},
+    [7] = {id=7,en="Case",access="Everywhere",command="case"},
+    [8] = {id=8,en="Wardrobe",access="Everywhere",command="wardrobe"},
+    [9] = {id=9,en="Safe 2",access="Mog House",command="bank2"},
+}, {"id", "en", "access", "command"}
 
 --[[
 Copyright © 2013-2015, Windower
