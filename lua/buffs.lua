@@ -334,6 +334,7 @@ return {
     [336] = {id=336,en="Miser's Roll",ja="マイザーロール",enl="Miser's Roll",jal="マイザーロール"},
     [337] = {id=337,en="Companion's Roll",ja="コンパニオンロール",enl="Companion's Roll",jal="コンパニオンロール"},
     [338] = {id=338,en="Avenger's Roll",ja="カウンターロール",enl="Avenger's Roll",jal="カウンターロール"},
+    [339] = {id=339,en="Naturalist's Roll",ja="ナチュラリストロール",enl="Naturalist's Roll",jal="ナチュラリストロール"},
     [340] = {id=340,en="Warrior's Charge",ja="ウォリアーチャージ",enl="Warrior's Charge",jal="ウォリアーチャージ"},
     [341] = {id=341,en="Formless Strikes",ja="無想無念",enl="Formless Strikes",jal="無想無念"},
     [342] = {id=342,en="Assassin's Charge",ja="アサシンチャージ",enl="Assassin's Charge",jal="アサシンチャージ"},
@@ -582,7 +583,12 @@ return {
     [594] = {id=594,en="Rainstorm",ja="豪雨の陣II",enl="Rainstorm",jal="豪雨の陣II"},
     [595] = {id=595,en="Aurorastorm",ja="極光の陣II",enl="Aurorastorm",jal="極光の陣II"},
     [596] = {id=596,en="Voidstorm",ja="妖霧の陣II",enl="Voidstorm",jal="妖霧の陣II"},
-    [597] = {id=597,en="Ardor",ja="アーダー",enl="Ardor",jal="アーダー"},
+    [597] = {id=597,en="Inundation",ja="イナンデーション",enl="Inundation",jal="イナンデーション"},
+    [598] = {id=598,en="Cascade",ja="カスケード",enl="Cascade",jal="カスケード"},
+    [599] = {id=599,en="Consume Mana",ja="コンスームマナ",enl="Consume Mana",jal="コンスームマナ"},
+    [600] = {id=600,en="Runeist's Roll",ja="ルーニストロール",enl="Runeist's Roll",jal="ルーニストロール"},
+    [601] = {id=601,en="Crooked Cards",ja="クルケッドカード",enl="Crooked Cards",jal="クルケッドカード"},
+    [602] = {id=602,en="Vorseal",ja="神符",enl="Vorseal",jal="神符"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

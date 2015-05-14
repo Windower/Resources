@@ -827,6 +827,8 @@ return {
     [831] = {id=831,en="Alluvion Assailant",ja="アルビオン　アセーラント"},
     [832] = {id=832,en="Perfidien Paindealer",ja="パフィディアン　ペインディーラー"},
     [833] = {id=833,en="Plouton Pincer",ja="プルートン　ピンサー"},
+    [834] = {id=834,en="Fleetstalker Fileter",ja="フリートストーカー　フィレーヤー"},
+    [835] = {id=835,en="Shockmaw Subjugator",ja="ショックモー　サブジュゲーター"},
     [836] = {id=836,en="Geodancer",ja="見習い風水士"},
     [837] = {id=837,en="Runic Engraver",ja="ルーンを刻みし者"},
     [838] = {id=838,en="Apprentice Tarutaru Sauce Manager",ja="タルタル★ソース・マネージャー見習い"},
@@ -929,6 +931,12 @@ return {
     [935] = {id=935,en="Good Dew-er",ja="アドゥリンの露騎士候補"},
     [936] = {id=936,en="Lifecycler",ja="森羅"},
     [937] = {id=937,en="Sword Saint",ja="剣聖"},
+    [938] = {id=938,en="The Fated",ja="運命を知った者"},
+    [940] = {id=940,en="Urmahlullu Usurper",ja="ウルマフール　ウサーパー"},
+    [941] = {id=941,en="Blazewing Berater",ja="ブレイズウィング　ビレーター"},
+    [942] = {id=942,en="Cove Collapser",ja="カヴン　カラプサー"},
+    [943] = {id=943,en="Pazuzu Perplexer",ja="パズズ　パプレックサー"},
+    [944] = {id=944,en="Wrathare Waxer",ja="ラースヘア　ワックサー"},
 }, {"id", "en", "ja"}
 
 --[[

@@ -540,6 +540,8 @@
   <o id="538" en="Moghancement: Money" ja="モーグリの応援：金運アップ" category="Temporary Key Items" />
   <o id="539" en="Moghancement: Campaign" ja="モーグリの応援：勲功アップ" category="Temporary Key Items" />
   <o id="540" en="Moghancement: Money II" ja="モーグリの応援：金運アップII" category="Temporary Key Items" />
+  <o id="541" en="Moghancement: Skill Gains" ja="モーグリの応援：スキル上昇率アップ" category="Temporary Key Items" />
+  <o id="542" en="Moghancement: Bounty" ja="モーグリの応援：稼ぎどきっ！" category="Temporary Key Items" />
   <o id="544" en="Moglification: Fishing" ja="モーグリのすごい応援：釣り" category="Temporary Key Items" />
   <o id="545" en="Moglification: Woodworking" ja="モーグリのすごい応援：木工" category="Temporary Key Items" />
   <o id="546" en="Moglification: Smithing" ja="モーグリのすごい応援：鍛冶" category="Temporary Key Items" />
@@ -2128,7 +2130,7 @@
   <o id="2162" en="aged Ligneous Naakual crest" ja="古ぼけた紋章-古樹公" category="Permanent Key Items" />
   <o id="2163" en="aged Booming Naakual crest" ja="古ぼけた紋章-轟雷公" category="Permanent Key Items" />
   <o id="2164" en="aged Flashfrost Naakual crest" ja="古ぼけた紋章-絶零公" category="Permanent Key Items" />
-  <o id="2165" en="aged undying Naakual crest" ja="古ぼけた紋章-不死公" category="Permanent Key Items" />
+  <o id="2165" en="aged Undying Naakual crest" ja="古ぼけた紋章-不死公" category="Permanent Key Items" />
   <o id="2166" en="prototype attuner" ja="欠けたロゼッタ石" category="Permanent Key Items" />
   <o id="2167" en="watercraft" ja="携帯ボート" category="Permanent Key Items" />
   <o id="2171" en="restrainment resilience" ja="レストレイン・リジリアンス" category="Permanent Key Items" />
@@ -2238,6 +2240,7 @@
   <o id="2303" en="map of Yorcia Weald [U]" ja="ヨルシア森林〔Ｕ〕地図" category="Magical Maps" />
   <o id="2304" en="map of Cirdas Caverns [U]" ja="シルダス洞窟〔Ｕ〕地図" category="Magical Maps" />
   <o id="2305" en="map of Outer Ra'Kaznar [U]" ja="ラ・カザナル宮外郭〔Ｕ〕地図" category="Magical Maps" />
+  <o id="2307" en="map of Escha - Zi'Tah" ja="エスカ-ジ・タ地図" category="Magical Maps" />
   <o id="2334" en="Mog Kupon A-DeII" ja="クーポンA-MeII" category="Temporary Key Items" />
   <o id="2335" en="Mog Kupon A-De" ja="クーポンA-Me" category="Temporary Key Items" />
   <o id="2336" en="Mog Kupon A-Sal" ja="クーポンA-Sal" category="Temporary Key Items" />
@@ -2565,6 +2568,15 @@
   <o id="2676" en="colibri chick memento" ja="幼鳥コリブリの思い出" category="Permanent Key Items" />
   <o id="2677" en="colibri memento" ja="コリブリの思い出" category="Permanent Key Items" />
   <o id="2678" en="toucalibri memento" ja="トゥカリブリの思い出" category="Permanent Key Items" />
+  <o id="2679" en="coeurl cub memento" ja="子クァールの思い出" category="Permanent Key Items" />
+  <o id="2680" en="coeurl memento" ja="クァールの思い出" category="Permanent Key Items" />
+  <o id="2681" en="lynx memento" ja="リンクスの思い出" category="Permanent Key Items" />
+  <o id="2682" en="buffalo calf memento" ja="子バッファローの思い出" category="Permanent Key Items" />
+  <o id="2683" en="buffalo memento" ja="バッファローの思い出" category="Permanent Key Items" />
+  <o id="2684" en="mini slime memento" ja="ミニスライムの思い出" category="Permanent Key Items" />
+  <o id="2685" en="slime memento" ja="スライムの思い出" category="Permanent Key Items" />
+  <o id="2686" en="clot memento" ja="クロットの思い出" category="Permanent Key Items" />
+  <o id="2687" en="hecteyes memento" ja="ヘクトアイズの思い出" category="Permanent Key Items" />
   <o id="2716" en="Cheer: Lamb" ja="チャチャルンの応援：子羊" category="Temporary Key Items" />
   <o id="2717" en="Cheer: Sheep" ja="チャチャルンの応援：大羊" category="Temporary Key Items" />
   <o id="2718" en="Cheer: Karakul" ja="チャチャルンの応援：カラクール" category="Temporary Key Items" />
@@ -2602,6 +2614,15 @@
   <o id="2750" en="Cheer: Baby Colibri" ja="チャチャルンの応援：幼鳥コリブリ" category="Temporary Key Items" />
   <o id="2751" en="Cheer: Colibri" ja="チャチャルンの応援：コリブリ" category="Temporary Key Items" />
   <o id="2752" en="Cheer: Toucalibri" ja="チャチャルンの応援：トゥカリブリ" category="Temporary Key Items" />
+  <o id="2753" en="Cheer: Coeurl Cub" ja="チャチャルンの応援：子クァール" category="Temporary Key Items" />
+  <o id="2754" en="Cheer: Coeurl" ja="チャチャルンの応援：クァール" category="Temporary Key Items" />
+  <o id="2755" en="Cheer: Lynx" ja="チャチャルンの応援：リンクス" category="Temporary Key Items" />
+  <o id="2756" en="Cheer: Buffalo Calf" ja="チャチャルンの応援：子バッファロー" category="Temporary Key Items" />
+  <o id="2757" en="Cheer: Buffalo" ja="チャチャルンの応援：バッファロー" category="Temporary Key Items" />
+  <o id="2758" en="Cheer: Mini Slime" ja="チャチャルンの応援：ミニスライム" category="Temporary Key Items" />
+  <o id="2759" en="Cheer: Slime" ja="チャチャルンの応援：スライム" category="Temporary Key Items" />
+  <o id="2760" en="Cheer: Clot" ja="チャチャルンの応援：クロット" category="Temporary Key Items" />
+  <o id="2761" en="Cheer: Hecteyes" ja="チャチャルンの応援：ヘクトアイズ" category="Temporary Key Items" />
   <o id="2790" en="sheet of conflict tunes" ja="オーケストリオン譜：ボスバトル" category="Permanent Key Items" />
   <o id="2791" en="sheet of Promathia tunes" ja="オーケストリオン譜：プロマシアの呪縛" category="Permanent Key Items" />
   <o id="2792" en="sheet of Adoulinian tunes" ja="オーケストリオン譜：アドゥリンの魔境" category="Permanent Key Items" />
@@ -2637,9 +2658,42 @@
   <o id="2822" en="fabricated pearl of the false king" ja="宝珠【偽冥王】" category="Temporary Key Items" />
   <o id="2823" en="prototype pearl of ashen wings" ja="模造魂魄の宝珠【偽冥翼】" category="Temporary Key Items" />
   <o id="2824" en="prototype pearl of the false king" ja="模造魂魄の宝珠【偽冥王】" category="Temporary Key Items" />
+  <o id="2825" en="Gilgamesh's introductory letter" ja="ギルガメッシュの紹介状" category="Temporary Key Items" />
+  <o id="2837" en="Reisen Shrine orb" ja="醴泉神社の勾玉" category="Permanent Key Items" />
+  <o id="2838" en="&quot;Sakura and the Magicked Net&quot;" ja="『サクラちゃんと呪縛の手綱』" category="Permanent Key Items" />
+  <o id="2839" en="reaper" ja="リーパー" category="Temporary Key Items" />
   <o id="2854" en="Moghancement: Resist Virus" ja="モーグリの応援：レジストウィルス" category="Temporary Key Items" />
   <o id="2880" en="iridal core of the ruins" ja="イリダルコア【廃墟】" category="Temporary Key Items" />
   <o id="2881" en="iridal core of the tomb" ja="イリダルコア【龍王】" category="Temporary Key Items" />
   <o id="2882" en="iridal core of the pass" ja="イリダルコア【峠】" category="Temporary Key Items" />
   <o id="2883" en="arcus fiber" ja="アークスファイバー" category="Temporary Key Items" />
+  <o id="2884" en="&quot;Rhapsody in White&quot;" ja="星唄の煌めき【一奏】" category="Permanent Key Items" />
+  <o id="2885" en="&quot;Rhapsody in Umber&quot;" ja="星唄の煌めき【二奏】" category="Permanent Key Items" />
+  <o id="2886" en="&quot;Rhapsody in Azure&quot;" ja="星唄の煌めき【三奏】" category="Permanent Key Items" />
+  <o id="2894" en="tribulens" ja="トリビュレンズ" category="Temporary Key Items" />
+  <o id="2895" en="Wepwawet's tooth" ja="ウェプワウェトの歯" category="Temporary Key Items" />
+  <o id="2896" en="Lydia's vine" ja="リディアの蔓" category="Temporary Key Items" />
+  <o id="2897" en="Aglaophotis bud" ja="アグラフォーティスの芽" category="Temporary Key Items" />
+  <o id="2898" en="Tangata's wing" ja="タンガタの羽根" category="Temporary Key Items" />
+  <o id="2899" en="Vidala's claw" ja="ヴィダラの爪" category="Temporary Key Items" />
+  <o id="2900" en="Gestalt's retina" ja="ゲスタルトの網膜" category="Temporary Key Items" />
+  <o id="2901" en="Angrboda's necklace" ja="アングルボーダのネックレス" category="Temporary Key Items" />
+  <o id="2902" en="Cunnast's talon" ja="クナストの鉤爪" category="Temporary Key Items" />
+  <o id="2903" en="Revetaur's horn" ja="レベターの角" category="Temporary Key Items" />
+  <o id="2904" en="Ferrodon's scale" ja="フェロドンの鱗" category="Temporary Key Items" />
+  <o id="2905" en="Gulltop's shell" ja="グールトップの甲羅" category="Temporary Key Items" />
+  <o id="2906" en="Yali's prey" ja="ヤーリの獲物" category="Temporary Key Items" />
+  <o id="2907" en="Blazewing's pincer" ja="ブレイズウィングの鎌" category="Temporary Key Items" />
+  <o id="2908" en="Coven's dust" ja="カヴンの粉末" category="Temporary Key Items" />
+  <o id="2909" en="Pazuzu's blade hilt" ja="パズズの剣柄" category="Temporary Key Items" />
+  <o id="2910" en="Wrathare's carrot" ja="ラースヘアの人参" category="Temporary Key Items" />
+  <o id="2911" en="Ionos's webbing" ja="アイオノスの巣" category="Temporary Key Items" />
+  <o id="2912" en="Sandy's lasher" ja="サンディーの蔓" category="Temporary Key Items" />
+  <o id="2913" en="Nosoi's feather" ja="ノソイの羽根" category="Temporary Key Items" />
+  <o id="2914" en="Brittilis's ring" ja="ブリタリスの指輪" category="Temporary Key Items" />
+  <o id="2915" en="Kamohoalii's fin" ja="カモホアリィのヒレ" category="Temporary Key Items" />
+  <o id="2916" en="Umdhlebi's flower" ja="ウムドレビの花" category="Temporary Key Items" />
+  <o id="2917" en="Fleetstalker's claw" ja="フリートストーカーの爪" category="Temporary Key Items" />
+  <o id="2918" en="Shockmaw's blubber" ja="ショックモーの脂肪" category="Temporary Key Items" />
+  <o id="2919" en="Urmahlullu's armor" ja="ウルマフールの鎧" category="Temporary Key Items" />
 </key_items>

@@ -90,6 +90,8 @@
   <o id="92" action_id="357" en="Rune Enchantment" ja="エンチャントルーン" />
   <o id="93" action_id="386" en="Entrust" ja="エントラスト" />
   <o id="94" action_id="387" en="Bestial Loyalty" ja="しょうしゅう" />
+  <o id="95" action_id="389" en="Consume Mana" ja="コンスームマナ" />
+  <o id="96" action_id="392" en="Crooked Cards" ja="クルケッドカード" />
   <o id="97" action_id="52" en="Charm" ja="あやつる" />
   <o id="98" action_id="53" en="Gauge" ja="みやぶる" />
   <o id="99" action_id="54" en="Tame" ja="なだめる" />
@@ -161,7 +163,7 @@
   <o id="183" action_id="175" en="Convergence" ja="コンバージェンス" />
   <o id="184" action_id="176" en="Diffusion" ja="ディフュージョン" />
   <o id="185" action_id="297" en="Efflux" ja="エフラックス" />
-  <o id="193" action_id="306" en="Phantom Roll" ja="ファントムロール" />
+  <o id="193" action_id="391" en="Phantom Roll" ja="ファントムロール" />
   <o id="194" action_id="123" en="Double-Up" ja="ダブルアップ" />
   <o id="195" action_id="132" en="Quick Draw" ja="クイックドロー" />
   <o id="196" action_id="134" en="Random Deal" ja="ランダムディール" />

@@ -326,8 +326,8 @@
   <o id="351" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="248" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Dematerialize" ja="デマテリアライズ" />
   <o id="352" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="249" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Theurgic Focus" ja="タウマテルギフォカス" />
   <o id="353" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="250" targets="32" tp_cost="0" range="8" prefix="/jobability" en="Concentric Pulse" ja="コンセントリクパルス" />
-  <o id="354" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="251" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Mending Halation" ja="メンドハレイション" />
-  <o id="355" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="252" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Radial Arcana" ja="レイディアルアルカナ" />
+  <o id="354" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="251" targets="1" tp_cost="0" range="10" prefix="/jobability" en="Mending Halation" ja="メンドハレイション" />
+  <o id="355" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="252" targets="1" tp_cost="0" range="10" prefix="/jobability" en="Radial Arcana" ja="レイディアルアルカナ" />
   <o id="356" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Elemental Sforzo" ja="E.スフォルツォ" />
   <o id="357" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="92" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Rune Enchantment" ja="エンチャントルーン" />
   <o id="358" type="Rune" element="0" icon_id="40" mp_cost="1" recast_id="10" targets="1" tp_cost="0" duration="300" range="0" prefix="/jobability" en="Ignis" ja="イグニス" />
@@ -360,6 +360,11 @@
   <o id="385" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="108" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Apogee" ja="アポジー" />
   <o id="386" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="93" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Entrust" ja="エントラスト" />
   <o id="387" type="JobAbility" element="6" icon_id="423" mp_cost="0" recast_id="94" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Bestial Loyalty" ja="しょうしゅう" />
+  <o id="388" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="12" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Cascade" ja="カスケード" />
+  <o id="389" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="95" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Consume Mana" ja="コンスームマナ" />
+  <o id="390" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Naturalist's Roll" ja="ナチュラリストロール" />
+  <o id="391" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Runeist's Roll" ja="ルーニストロール" />
+  <o id="392" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="96" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Crooked Cards" ja="クルケッドカード" />
   <o id="512" type="BloodPactWard" element="6" icon_id="340" mp_cost="6" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Healing Ruby" ja="ルビーの癒し" />
   <o id="513" type="BloodPactRage" element="6" icon_id="340" mp_cost="11" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Poison Nails" ja="ポイズンネイル" />
   <o id="514" type="BloodPactWard" element="6" icon_id="340" mp_cost="44" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Shining Ruby" ja="ルビーの輝き" />

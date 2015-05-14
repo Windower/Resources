@@ -826,6 +826,8 @@
   <o id="831" en="Alluvion Assailant" ja="アルビオン　アセーラント" />
   <o id="832" en="Perfidien Paindealer" ja="パフィディアン　ペインディーラー" />
   <o id="833" en="Plouton Pincer" ja="プルートン　ピンサー" />
+  <o id="834" en="Fleetstalker Fileter" ja="フリートストーカー　フィレーヤー" />
+  <o id="835" en="Shockmaw Subjugator" ja="ショックモー　サブジュゲーター" />
   <o id="836" en="Geodancer" ja="見習い風水士" />
   <o id="837" en="Runic Engraver" ja="ルーンを刻みし者" />
   <o id="838" en="Apprentice Tarutaru Sauce Manager" ja="タルタル★ソース・マネージャー見習い" />
@@ -928,4 +930,10 @@
   <o id="935" en="Good Dew-er" ja="アドゥリンの露騎士候補" />
   <o id="936" en="Lifecycler" ja="森羅" />
   <o id="937" en="Sword Saint" ja="剣聖" />
+  <o id="938" en="The Fated" ja="運命を知った者" />
+  <o id="940" en="Urmahlullu Usurper" ja="ウルマフール　ウサーパー" />
+  <o id="941" en="Blazewing Berater" ja="ブレイズウィング　ビレーター" />
+  <o id="942" en="Cove Collapser" ja="カヴン　カラプサー" />
+  <o id="943" en="Pazuzu Perplexer" ja="パズズ　パプレックサー" />
+  <o id="944" en="Wrathare Waxer" ja="ラースヘア　ワックサー" />
 </titles>

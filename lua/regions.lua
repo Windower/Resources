@@ -54,6 +54,7 @@ return {
     [50] = {id=50,en="The Adoulin Islands",ja="アドゥリン諸島"},
     [51] = {id=51,en="East Ulbuka Territory",ja="東ウルブカ地方"},
     [52] = {id=52,en="Ra'Kaznar",ja="ラ・カザナル"},
+    [53] = {id=53,en="Escha",ja="エスカ"},
 }, {"id", "en", "ja"}
 
 --[[

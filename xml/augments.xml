@@ -25,13 +25,13 @@
   <o id="23" en="DEF%+d " ja="防%+d " />
   <o id="24" en="Mag. Acc.%+d " ja="魔命%+d " />
   <o id="25" en="Mag. Evasion%+d " ja="魔回避%+d " />
-  <o id="26" en="Crit.hit rate %+d " ja="クリティカルヒット%+d " />
+  <o id="26" en="Crit. hit rate %+d%% " ja="クリティカルヒット%+d " />
   <o id="27" en="Enemy crit. hit rate %+d " ja="被クリティカルヒット%+d " />
   <o id="28" en="&quot;Charm&quot;%+d" ja="あやつる%+d " />
   <o id="29" en="Enmity%+d" ja="敵対心%+d " />
   <o id="30" en="DMG:%+d " ja="Ｄ%+d " />
   <o id="31" en="Delay:%+d%% " ja="隔%+d%% " />
-  <o id="32" en="Haste%+d " ja="ヘイスト%+d " />
+  <o id="32" en="Haste%+d%% " ja="ヘイスト%+d " />
   <o id="33" en="&quot;Slow&quot;%+d " ja="スロウ%+d " />
   <o id="34" en="HP recovered while healing %+d " ja="ヒーリングHP%+d " />
   <o id="35" en="MP recovered while healing %+d " ja="ヒーリングMP%+d " />
@@ -2043,7 +2043,7 @@
   <o id="2042" en="2043" ja="2043" />
   <o id="2043" en="2044" ja="2044" />
   <o id="2044" en="2045" ja="2045" />
-  <o id="2045" en="2046" ja="2046" />
+  <o id="2045" en="Automaton: " ja="オートマトン:" />
   <o id="2046" en="???" ja="？？？" />
   <o id="2047" en="[Trial %d]" ja="[試練No.%d]" />
 </augments>
