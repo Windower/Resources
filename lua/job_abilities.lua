@@ -589,7 +589,7 @@ return {
     [769] = {id=769,en="Stink Bomb",ja="スティンクボム",element=3,icon_id=43,mp_cost=2,prefix="/pet",range=8,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [770] = {id=770,en="Nectarous Deluge",ja="ネクターデルージュ",element=5,icon_id=45,mp_cost=2,prefix="/pet",range=8,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [771] = {id=771,en="Nepenthic Plunge",ja="ネペンシックプランジ",element=5,icon_id=45,mp_cost=3,prefix="/pet",range=8,recast_id=102,targets=1,tp_cost=0,type="Monster"},
-    [772] = {id=772,en="Somersault ",ja="サマーソルト",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [772] = {id=772,en="Somersault",ja="サマーソルト",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [773] = {id=773,en="Pacifying Ruby",ja="ルビーの贖罪",element=6,icon_id=340,mp_cost=83,prefix="/pet",range=2,recast_id=174,targets=5,tp_cost=0,type="BloodPactWard"},
     [774] = {id=774,en="Foul Waters",ja="ファウルウォーター",element=5,icon_id=45,mp_cost=2,prefix="/pet",range=10,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [775] = {id=775,en="Pestilent Plume",ja="ペステレントプルーム",element=7,icon_id=47,mp_cost=2,prefix="/pet",range=10,recast_id=102,targets=1,tp_cost=0,type="Monster"},

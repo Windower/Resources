@@ -588,7 +588,7 @@
   <o id="769" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Stink Bomb" ja="スティンクボム" />
   <o id="770" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Nectarous Deluge" ja="ネクターデルージュ" />
   <o id="771" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Nepenthic Plunge" ja="ネペンシックプランジ" />
-  <o id="772" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Somersault " ja="サマーソルト" />
+  <o id="772" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Somersault" ja="サマーソルト" />
   <o id="773" type="BloodPactWard" element="6" icon_id="340" mp_cost="83" recast_id="174" targets="5" tp_cost="0" range="2" prefix="/pet" en="Pacifying Ruby" ja="ルビーの贖罪" />
   <o id="774" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="10" prefix="/pet" en="Foul Waters" ja="ファウルウォーター" />
   <o id="775" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="10" prefix="/pet" en="Pestilent Plume" ja="ペステレントプルーム" />
