@@ -932,11 +932,18 @@ return {
     [936] = {id=936,en="Lifecycler",ja="森羅"},
     [937] = {id=937,en="Sword Saint",ja="剣聖"},
     [938] = {id=938,en="The Fated",ja="運命を知った者"},
+    [939] = {id=939,en="Protector of the Sacred City",ja="アドゥリンを守りし者"},
     [940] = {id=940,en="Urmahlullu Usurper",ja="ウルマフール　ウサーパー"},
     [941] = {id=941,en="Blazewing Berater",ja="ブレイズウィング　ビレーター"},
-    [942] = {id=942,en="Cove Collapser",ja="カヴン　カラプサー"},
+    [942] = {id=942,en="Coven Collapser",ja="カヴン　カラプサー"},
     [943] = {id=943,en="Pazuzu Perplexer",ja="パズズ　パプレックサー"},
     [944] = {id=944,en="Wrathare Waxer",ja="ラースヘア　ワックサー"},
+    [945] = {id=945,en="Lupine Liquidator",ja="ルーパイン　リクィデーター"},
+    [946] = {id=946,en="Ruby Repulser",ja="ルビー　リパルサー"},
+    [947] = {id=947,en="Devil's Demise",ja="デヴィル　ディマイズ"},
+    [972] = {id=972,en="Assistant Extraordinaire",ja="最高の助手"},
+    [973] = {id=973,en="Exalted Fisherman",ja="釣神"},
+    [975] = {id=975,en="Fish Whisperer",ja="一竿入魂の太公望"},
 }, {"id", "en", "ja"}
 
 --[[

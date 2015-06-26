@@ -182,8 +182,6 @@
   <o id="2134" en="Rent-a-Room" ja="レンタルハウス" />
   <o id="2135" en="Outpost" ja="アウトポスト" />
   <o id="2136" en="Crystal" ja="クリスタル" />
-  <o id="2137" en="Beastmen's Seal" ja="獣人印章" />
-  <o id="2138" en="Kindred's Seal" ja="獣神印章" />
   <o id="2139" en="Weakened" ja="衰弱" />
   <o id="2140" en="Cursed" ja="呪い" />
   <o id="2141" en="Diseased" ja="病気" />
@@ -212,11 +210,8 @@
   <o id="2164" en="Besieged" ja="ビシージ" />
   <o id="2165" en="Assault" ja="アサルト" />
   <o id="2166" en="Rank Evaluation" ja="昇進試験" />
-  <o id="2167" en="Mercenary Assessment" ja="勤務評価" />
-  <o id="2168" en="Mercenary Rank" ja="傭兵階級" />
   <o id="2169" en="Assault Points" ja="作戦戦績" />
   <o id="2170" en="Imperial Standing" ja="皇国軍戦績" />
-  <o id="2171" en="Runic Seal" ja="秘封" />
   <o id="2172" en="Runic Portal" ja="移送の幻灯" />
   <o id="2173" en="Astral Candescence" ja="魔笛" />
   <o id="2174" en="Mamool Ja Savages" ja="マムージャ蕃国軍" />
@@ -227,7 +222,6 @@
   <o id="2179" en="Automaton" ja="オートマトン" />
   <o id="2180" en="Chocobo stables" ja="チョコボ厩舎" />
   <o id="2181" en="Chocobo raising" ja="育成" />
-  <o id="2182" en="Care schedule" ja="育成計画" />
   <o id="2183" en="Plan length" ja="実行日数" />
   <o id="2184" en="Matchmaking" ja="交配" />
   <o id="2185" en="Care" ja="世話" />
@@ -247,11 +241,6 @@
   <o id="2199" en="Energy" ja="体力" />
   <o id="2200" en="Stamina" ja="スタミナ" />
   <o id="2201" en="Retirement" ja="引退" />
-  <o id="2202" en="Destrier" ja="デストリア" />
-  <o id="2203" en="Courser" ja="コーサー" />
-  <o id="2204" en="Palfrey" ja="ポールフリー" />
-  <o id="2205" en="Jennet" ja="ジェニット" />
-  <o id="2206" en="Rounsey" ja="ラウンシー" />
   <o id="2207" en="Mog Locker" ja="モグロッカー" />
   <o id="2208" en="Salvage" ja="サルベージ" />
   <o id="2209" en="Support Job" ja="サポートジョブ" />
@@ -262,11 +251,8 @@
   <o id="2214" en="Einherjar" ja="エインヘリヤル" />
   <o id="2215" en="Grip" ja="グリップ" />
   <o id="2216" en="Pankration" ja="パンクラティオン" />
-  <o id="2217" en="Feral Skill" ja="獣性" />
-  <o id="2218" en="Feral Drain" ja="封獣" />
   <o id="2219" en="FP" ja="FP" />
   <o id="2220" en="Kamp Kweh" ja="チョコボの集い" />
-  <o id="2221" en="FP" ja="FP" />
   <o id="2222" en="Campaign" ja="カンパニエ" />
   <o id="2223" en="Allied Notes" ja="連合軍戦績" />
   <o id="2224" en="Morale" ja="士気" />
@@ -276,9 +262,6 @@
   <o id="2228" en="Resources" ja="戦略物資" />
   <o id="2229" en="Influence" ja="エリア支配率" />
   <o id="2230" en="Controlled Areas" ja="支配エリア" />
-  <o id="2231" en="Heroism Gauge" ja="ヒロイズムゲージ" />
-  <o id="2232" en="In Conflict" ja="交戦アイコン" />
-  <o id="2233" en="Confederate Icon" ja="血盟軍アイコン" />
   <o id="2234" en="Layer Area" ja="レイヤーエリア" />
   <o id="2235" en="Campaign Evaluation" ja="叙勲審査" />
   <o id="2236" en="Allied Tags" ja="アライドタグ" />
@@ -289,14 +272,12 @@
   <o id="2241" en="campaign battle" ja="カンパニエバトル" />
   <o id="2242" en="checkpoint garrison" ja="検問所" />
   <o id="2243" en="medal" ja="叙勲" />
-  <o id="2244" en="opinion poll" ja="意見具申" />
   <o id="2245" en="audience" ja="謁見" />
   <o id="2246" en="war climate details" ja="戦況報告" />
   <o id="2247" en="battle strategies" ja="作戦方針" />
   <o id="2248" en="internal policy" ja="後方支援" />
   <o id="2249" en="skill (Campaign)" ja="技術力" />
   <o id="2250" en="production" ja="生産力" />
-  <o id="2251" en="Op Credits" ja="受領券" />
   <o id="2252" en="Campaign Ops" ja="カンパニエops" />
   <o id="2253" en="Campaign Ops" ja="カンパニエops" />
   <o id="2254" en="Level Sync" ja="レベルシンク" />
@@ -314,20 +295,17 @@
   <o id="2566" en="Mithra" ja="ミスラ" />
   <o id="2567" en="Zilart" ja="ジラート" />
   <o id="2816" en="Settings &amp; Setup" ja="カンキョウ" />
-  <o id="2817" en="Connection Speed" ja="回線速度" />
   <o id="2818" en="Black List" ja="ブラックリスト" />
   <o id="2819" en="Friend List" ja="フレンドリスト" />
   <o id="2820" en="Config" ja="コンフィグ" />
   <o id="2821" en="Connection" ja="接続" />
   <o id="2822" en="Screenshot" ja="スクリーンショット" />
-  <o id="2823" en="Patch" ja="パッチ" />
   <o id="2824" en="Version" ja="バージョン" />
   <o id="2825" en="Connection Lost" ja="回線切断" />
   <o id="2826" en="Lag" ja="ラグ" />
   <o id="2827" en="Filter" ja="フィルタ" />
   <o id="2828" en="Client" ja="クライアント" />
   <o id="2829" en="Backup" ja="バックアップ" />
-  <o id="2830" en="Ignore List" ja="着信拒否リスト" />
   <o id="2831" en="Save" ja="セーブ" />
   <o id="2832" en="TV" ja="テレビ" />
   <o id="2833" en="Modem" ja="モデム" />
@@ -335,7 +313,6 @@
   <o id="2835" en="Log off" ja="ログアウト" />
   <o id="2836" en="Log on" ja="ログイン" />
   <o id="2837" en="Power" ja="電源" />
-  <o id="2838" en="Phone Line" ja="電話回線" />
   <o id="2839" en="Hard Disk" ja="ハードディスク" />
   <o id="2840" en="Server" ja="サーバー" />
   <o id="2841" en="Macro" ja="マクロ" />
@@ -372,10 +349,6 @@
   <o id="3107" en="Artisan" ja="高弟" />
   <o id="3108" en="Adept" ja="皆伝" />
   <o id="3109" en="Veteran" ja="師範" />
-  <o id="3113" en="Private Second Class" ja="二等傭兵" />
-  <o id="3114" en="Private First Class" ja="一等傭兵" />
-  <o id="3115" en="Superior Private" ja="上等傭兵" />
-  <o id="3116" en="Lance Corporal" ja="傭兵長" />
   <o id="3117" en="Corporal" ja="伍長" />
   <o id="3118" en="Sergeant" ja="軍曹" />
   <o id="3119" en="Sergeant Major" ja="曹長" />
@@ -566,6 +539,9 @@
   <o id="3507" en="/primer" ja="/primer" />
   <o id="3508" en="/furcc" ja="/furcc" />
   <o id="3509" en="/layoutctrl" ja="/layoutctrl" />
+  <o id="3510" en="/bstpet" ja="/bstpet" />
+  <o id="3511" en="/targetcharaeffect" ja="/targetcharaeffect" />
+  <o id="3512" en="/sitchair" ja="/sitchair" />
   <o id="3584" en="Locations" ja="イチ" />
   <o id="3585" en="This way" ja="こっち" />
   <o id="3586" en="That way" ja="そっち" />
@@ -1218,9 +1194,7 @@
   <o id="7197" en="Dirge" ja="ダージュ" />
   <o id="7424" en="Equipment" ja="ソウビメイパーツ" />
   <o id="7425" en="Boots" ja="ブーツ" />
-  <o id="7426" en="Gaiters" ja="ゲートル" />
   <o id="7427" en="Ring" ja="リング" />
-  <o id="7428" en="Ledelsen" ja="レデルセン" />
   <o id="7429" en="Leather" ja="レザー" />
   <o id="7430" en="Robe" ja="ローブ" />
   <o id="7431" en="Rapier" ja="レイピア" />
@@ -1229,7 +1203,6 @@
   <o id="7434" en="Armor" ja="アーマー" />
   <o id="7435" en="Amulet" ja="アミュレット" />
   <o id="7436" en="Earring" ja="イヤリング" />
-  <o id="7437" en="Bait" ja="エサ" />
   <o id="7438" en="Leggings" ja="レギンス" />
   <o id="7439" en="Mail" ja="メイル" />
   <o id="7440" en="Obi" ja="帯" />
@@ -1240,38 +1213,23 @@
   <o id="7445" en="Short Sword" ja="ショートソード" />
   <o id="7446" en="Starting Gear" ja="初期装備" />
   <o id="7447" en="Headband" ja="ヘッドバンド" />
-  <o id="7448" en="Jerkin" ja="ジャーキン" />
   <o id="7449" en="Gloves" ja="グローブ" />
-  <o id="7450" en="Collar" ja="カラー" />
-  <o id="7451" en="Scimitar" ja="曲刀" />
-  <o id="7452" en="Cuisses" ja="クウィス" />
   <o id="7453" en="Scarf" ja="スカーフ" />
-  <o id="7454" en="Spear" ja="スピア" />
-  <o id="7455" en="Baselard" ja="バゼラート" />
-  <o id="7456" en="Patas" ja="パタ" />
   <o id="7457" en="Cesti" ja="セスタス" />
   <o id="7458" en="Plate" ja="プレート" />
   <o id="7459" en="Artifact" ja="アーティファクト" />
   <o id="7460" en="Racial Gear" ja="種族装備" />
-  <o id="7461" en="Sallet" ja="サリット" />
   <o id="7462" en="Claymore" ja="クレイモア" />
   <o id="7463" en="Subligar" ja="サブリガ" />
-  <o id="7464" en="Lance" ja="ランス" />
-  <o id="7465" en="Shinobi-gatana" ja="忍刀" />
-  <o id="7466" en="Uchigatana" ja="打刀" />
   <o id="7467" en="Tachi" ja="太刀" />
   <o id="7468" en="Gorget" ja="ゴルゲット" />
-  <o id="7469" en="Cloak" ja="クローク" />
   <o id="7470" en="Bastard Sword" ja="バスタードソード" />
   <o id="7471" en="Scale" ja="スケイル" />
   <o id="7472" en="Finger Gauntlets" ja="フィンガー" />
-  <o id="7473" en="Trousers" ja="トラウザ" />
   <o id="7474" en="Tunic" ja="チュニック" />
   <o id="7475" en="Chain" ja="チェーン" />
   <o id="7476" en="Slacks" ja="ズボン" />
   <o id="7477" en="Doublet" ja="ダブレット" />
-  <o id="7478" en="Hachimaki" ja="鉢巻" />
-  <o id="7479" en="Slops" ja="スロップス" />
   <o id="7480" en="Buckler" ja="バックラー" />
   <o id="7481" en="Instruments" ja="楽器" />
   <o id="7482" en="Longsword" ja="ロングソード" />
@@ -1279,7 +1237,6 @@
   <o id="7484" en="Bullet" ja="弾" />
   <o id="7485" en="Helm" ja="ヘルム" />
   <o id="7486" en="Arrow" ja="矢" />
-  <o id="7487" en="Clogs" ja="クロッグ" />
   <o id="7488" en="Harness" ja="ハーネス" />
   <o id="7489" en="Circlet" ja="サークレット" />
   <o id="7490" en="Knuckles" ja="ナックル" />
@@ -1289,11 +1246,6 @@
   <o id="7494" en="Mask" ja="マスク" />
   <o id="7495" en="Mantle" ja="マント" />
   <o id="7496" en="Crossbow" ja="クロスボウ" />
-  <o id="7497" en="Sitabaki" ja="下ばき" />
-  <o id="7498" en="Fishing Rod" ja="釣り竿" />
-  <o id="7499" en="Head Gear" ja="ヘッドギア" />
-  <o id="7500" en="Greaves" ja="グリーヴ" />
-  <o id="7501" en="Greaves" ja="グリーヴ" />
   <o id="7680" en="General Terms" ja="イッパンメイシ" />
   <o id="7681" en="anything" ja="何でも" />
   <o id="7682" en="gentleman" ja="紳士" />
@@ -2015,6 +1967,26 @@
   <o id="8628" en="Tachi: Ageha" ja="十一之太刀・鳳蝶" />
   <o id="8629" en="Refulgent Arrow" ja="リフルジェントアロー" />
   <o id="8630" en="Numbing Shot" ja="ナビングショット" />
+  <o id="8631" en="Victory Smite" ja="ビクトリースマイト" />
+  <o id="8632" en="Rudra's Storm" ja="ルドラストーム" />
+  <o id="8633" en="Chant du Cygne" ja="シャンデュシニュ" />
+  <o id="8634" en="Torcleaver" ja="トアクリーバー" />
+  <o id="8635" en="Cloudsplitter" ja="クラウドスプリッタ" />
+  <o id="8636" en="Ukko's Fury" ja="ウッコフューリー" />
+  <o id="8637" en="Quietus" ja="クワイタス" />
+  <o id="8638" en="Camlann's Torment" ja="カムラン" />
+  <o id="8639" en="Blade: Hi" ja="秘" />
+  <o id="8640" en="Tachi: Fudo" ja="祖之太刀・不動" />
+  <o id="8641" en="Dagan" ja="ダガン" />
+  <o id="8642" en="Myrkr" ja="ミルキル" />
+  <o id="8643" en="Jishnu's Radiance" ja="ジシュヌの光輝" />
+  <o id="8644" en="Wildfire" ja="ワイルドファイア" />
+  <o id="8645" en="Dimidiation" ja="デミディエーション" />
+  <o id="8646" en="Exudation" ja="エクズデーション" />
+  <o id="8647" en="Uriel Blade" ja="ウリエルブレード" />
+  <o id="8648" en="Glory Slash" ja="グローリースラッシュ" />
+  <o id="8649" en="Tartarus Torpor" ja="タルタロストーパー" />
+  <o id="8650" en="Knights of Rotund" ja="ナイスオブラウンド" />
   <o id="8704" en="Ninjutsu" ja="ニンジュツ" />
   <o id="8705" en="Jubaku" ja="呪縛の術" />
   <o id="8706" en="Tonko" ja="遁甲の術" />
@@ -2296,6 +2268,7 @@
   <o id="10005" en="Jugner Forest [S]" ja="ジャグナー森林〔Ｓ〕" />
   <o id="10006" en="Ra'Kaznar Turris" ja="ラ・カザナル宮天守" />
   <o id="10007" en="Batallia Downs [S]" ja="バタリア丘陵〔Ｓ〕" />
+  <o id="10008" en="Escha - Zi'Tah" ja="エスカ-ジ・タ" />
   <o id="10009" en="Everbloom Hollow" ja="常花の石窟" />
   <o id="10010" en="The Eldieme Necropolis [S]" ja="エルディーム古墳〔Ｓ〕" />
   <o id="10012" en="Bastok Markets [S]" ja="バストゥーク商業区〔Ｓ〕" />
@@ -2396,4 +2369,6 @@
   <o id="10505" en="Scars of Abyssea" ja="アビセアの死闘" />
   <o id="10506" en="Heroes of Abyssea" ja="アビセアの覇者" />
   <o id="10507" en="Seekers of Adoulin" ja="アドゥリンの魔境" />
+  <o id="10508" en="Rhapsodies of Vana'diel" ja="ヴァナ・ディールの星唄" />
+  <o id="10509" en="Rhapsodies of Vana'diel" ja="ヴァナ・ディールの星唄" />
 </auto_translates>

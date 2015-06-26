@@ -361,11 +361,11 @@ return {
     [385] = {id=385,en="Apogee",ja="アポジー",duration=60,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=108,targets=1,tp_cost=0,type="JobAbility"},
     [386] = {id=386,en="Entrust",ja="エントラスト",element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=93,targets=1,tp_cost=0,type="JobAbility"},
     [387] = {id=387,en="Bestial Loyalty",ja="しょうしゅう",element=6,icon_id=423,mp_cost=0,prefix="/jobability",range=0,recast_id=94,targets=1,tp_cost=0,type="JobAbility"},
-    [388] = {id=388,en="Cascade",ja="カスケード",element=7,icon_id=47,mp_cost=0,prefix="/jobability",range=0,recast_id=12,targets=1,tp_cost=0,type="JobAbility"},
-    [389] = {id=389,en="Consume Mana",ja="コンスームマナ",element=7,icon_id=47,mp_cost=0,prefix="/jobability",range=0,recast_id=95,targets=1,tp_cost=0,type="JobAbility"},
+    [388] = {id=388,en="Cascade",ja="カスケード",element=7,icon_id=661,mp_cost=0,prefix="/jobability",range=0,recast_id=12,targets=1,tp_cost=0,type="JobAbility"},
+    [389] = {id=389,en="Consume Mana",ja="コンスームマナ",element=7,icon_id=662,mp_cost=0,prefix="/jobability",range=0,recast_id=95,targets=1,tp_cost=0,type="JobAbility"},
     [390] = {id=390,en="Naturalist's Roll",ja="ナチュラリストロール",element=1,icon_id=485,mp_cost=0,prefix="/jobability",range=0,recast_id=193,targets=1,tp_cost=0,type="CorsairRoll"},
     [391] = {id=391,en="Runeist's Roll",ja="ルーニストロール",element=1,icon_id=485,mp_cost=0,prefix="/jobability",range=0,recast_id=193,targets=1,tp_cost=0,type="CorsairRoll"},
-    [392] = {id=392,en="Crooked Cards",ja="クルケッドカード",element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=96,targets=1,tp_cost=0,type="JobAbility"},
+    [392] = {id=392,en="Crooked Cards",ja="クルケッドカード",element=6,icon_id=663,mp_cost=0,prefix="/jobability",range=0,recast_id=96,targets=1,tp_cost=0,type="JobAbility"},
     [512] = {id=512,en="Healing Ruby",ja="ルビーの癒し",element=6,icon_id=340,mp_cost=6,prefix="/pet",range=9,recast_id=174,targets=5,tp_cost=0,type="BloodPactWard"},
     [513] = {id=513,en="Poison Nails",ja="ポイズンネイル",element=6,icon_id=340,mp_cost=11,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
     [514] = {id=514,en="Shining Ruby",ja="ルビーの輝き",duration=180,element=6,icon_id=340,mp_cost=44,prefix="/pet",range=4,recast_id=174,targets=1,tp_cost=0,type="BloodPactWard"},
@@ -598,6 +598,8 @@ return {
     [778] = {id=778,en="Acid Spray",ja="アシッドスプレー",element=5,icon_id=45,mp_cost=1,prefix="/pet",range=9,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [779] = {id=779,en="Spider Web",ja="スパイダーウェブ",element=3,icon_id=43,mp_cost=2,prefix="/pet",range=9,recast_id=102,targets=1,tp_cost=0,type="Monster"},
     [780] = {id=780,en="Regal Gash",ja="リーガルガッシュ",element=6,icon_id=351,mp_cost=118,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
+    [781] = {id=781,en="Infected Leech",ja="I.サッカー",element=7,icon_id=47,mp_cost=1,prefix="/pet",range=8,recast_id=102,targets=1,tp_cost=0,type="Monster"},
+    [782] = {id=782,en="Gloom Spray",ja="グルームスプレー",element=7,icon_id=47,mp_cost=2,prefix="/pet",range=8,recast_id=102,targets=1,tp_cost=0,type="Monster"},
 }, {"id", "en", "ja", "duration", "element", "icon_id", "mp_cost", "prefix", "range", "recast_id", "targets", "tp_cost", "type"}
 
 --[[

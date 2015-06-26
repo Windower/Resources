@@ -360,11 +360,11 @@
   <o id="385" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="108" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Apogee" ja="アポジー" />
   <o id="386" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="93" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Entrust" ja="エントラスト" />
   <o id="387" type="JobAbility" element="6" icon_id="423" mp_cost="0" recast_id="94" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Bestial Loyalty" ja="しょうしゅう" />
-  <o id="388" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="12" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Cascade" ja="カスケード" />
-  <o id="389" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="95" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Consume Mana" ja="コンスームマナ" />
+  <o id="388" type="JobAbility" element="7" icon_id="661" mp_cost="0" recast_id="12" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Cascade" ja="カスケード" />
+  <o id="389" type="JobAbility" element="7" icon_id="662" mp_cost="0" recast_id="95" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Consume Mana" ja="コンスームマナ" />
   <o id="390" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Naturalist's Roll" ja="ナチュラリストロール" />
   <o id="391" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Runeist's Roll" ja="ルーニストロール" />
-  <o id="392" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="96" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Crooked Cards" ja="クルケッドカード" />
+  <o id="392" type="JobAbility" element="6" icon_id="663" mp_cost="0" recast_id="96" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Crooked Cards" ja="クルケッドカード" />
   <o id="512" type="BloodPactWard" element="6" icon_id="340" mp_cost="6" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Healing Ruby" ja="ルビーの癒し" />
   <o id="513" type="BloodPactRage" element="6" icon_id="340" mp_cost="11" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Poison Nails" ja="ポイズンネイル" />
   <o id="514" type="BloodPactWard" element="6" icon_id="340" mp_cost="44" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Shining Ruby" ja="ルビーの輝き" />
@@ -597,4 +597,6 @@
   <o id="778" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Acid Spray" ja="アシッドスプレー" />
   <o id="779" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Spider Web" ja="スパイダーウェブ" />
   <o id="780" type="BloodPactRage" element="6" icon_id="351" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Regal Gash" ja="リーガルガッシュ" />
+  <o id="781" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Infected Leech" ja="I.サッカー" />
+  <o id="782" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Gloom Spray" ja="グルームスプレー" />
 </job_abilities>

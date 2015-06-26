@@ -1823,6 +1823,10 @@
   <o id="1846" en="pouch of weighted stones" ja="程よい重さの石" category="Permanent Key Items" />
   <o id="1847" en="gossamer Ballista chevron" ja="地星城球襟章" category="Temporary Key Items" />
   <o id="1848" en="steel Ballista chevron" ja="剣星城球襟章" category="Temporary Key Items" />
+  <o id="1849" en="Mog Kupon AW-Vgr" ja="クーポンAW-Vgr" category="Temporary Key Items" />
+  <o id="1850" en="Mog Kupon AW-VgrII" ja="クーポンAW-VgrII" category="Temporary Key Items" />
+  <o id="1851" en="Mog Kupon W-Pulse" ja="クーポンW-Pulse" category="Temporary Key Items" />
+  <o id="1852" en="Mog Kupon I-Stone" ja="クーポンI-Stone" category="Temporary Key Items" />
   <o id="1854" en="periapt of sapience" ja="慧眼のジェイド" category="Voidwatch" />
   <o id="1855" en="periapt of clarity" ja="活眼のジェイド" category="Voidwatch" />
   <o id="1856" en="map of Al Zahbi" ja="アルザビ地図" category="Magical Maps" />
@@ -2577,6 +2581,15 @@
   <o id="2685" en="slime memento" ja="スライムの思い出" category="Permanent Key Items" />
   <o id="2686" en="clot memento" ja="クロットの思い出" category="Permanent Key Items" />
   <o id="2687" en="hecteyes memento" ja="ヘクトアイズの思い出" category="Permanent Key Items" />
+  <o id="2688" en="tiny bugard memento" ja="子ブガードの思い出" category="Permanent Key Items" />
+  <o id="2689" en="bugard memento" ja="ブガードの思い出" category="Permanent Key Items" />
+  <o id="2690" en="abyssobugard memento" ja="アビソブガードの思い出" category="Permanent Key Items" />
+  <o id="2691" en="baby adamantoise memento" ja="子アダマンタスの思い出" category="Permanent Key Items" />
+  <o id="2692" en="adamantoise memento" ja="アダマンタスの思い出" category="Permanent Key Items" />
+  <o id="2693" en="great adamantoise memento" ja="大アダマンタスの思い出" category="Permanent Key Items" />
+  <o id="2694" en="white adamantoise memento" ja="白アダマンタスの思い出" category="Permanent Key Items" />
+  <o id="2695" en="ferromantoise memento" ja="フェロマンタスの思い出" category="Permanent Key Items" />
+  <o id="2696" en="great ferromantoise memento" ja="大フェロマンタスの思い出" category="Permanent Key Items" />
   <o id="2716" en="Cheer: Lamb" ja="チャチャルンの応援：子羊" category="Temporary Key Items" />
   <o id="2717" en="Cheer: Sheep" ja="チャチャルンの応援：大羊" category="Temporary Key Items" />
   <o id="2718" en="Cheer: Karakul" ja="チャチャルンの応援：カラクール" category="Temporary Key Items" />
@@ -2623,6 +2636,15 @@
   <o id="2759" en="Cheer: Slime" ja="チャチャルンの応援：スライム" category="Temporary Key Items" />
   <o id="2760" en="Cheer: Clot" ja="チャチャルンの応援：クロット" category="Temporary Key Items" />
   <o id="2761" en="Cheer: Hecteyes" ja="チャチャルンの応援：ヘクトアイズ" category="Temporary Key Items" />
+  <o id="2762" en="Cheer: Tiny Bugard" ja="チャチャルンの応援：子ブガード" category="Temporary Key Items" />
+  <o id="2763" en="Cheer: Bugard" ja="チャチャルンの応援：ブガード" category="Temporary Key Items" />
+  <o id="2764" en="Cheer: Abyssobugard" ja="チャチャルンの応援：アビソブガード" category="Temporary Key Items" />
+  <o id="2765" en="Cheer: Baby Adamantoise" ja="チャチャルンの応援：子アダマンタス" category="Temporary Key Items" />
+  <o id="2766" en="Cheer: Adamantoise" ja="チャチャルンの応援：アダマンタス" category="Temporary Key Items" />
+  <o id="2767" en="Cheer: Great Adamantoise" ja="チャチャルンの応援：大アダマンタス" category="Temporary Key Items" />
+  <o id="2768" en="Cheer: White Adamantoise" ja="チャチャルンの応援：白アダマンタス" category="Temporary Key Items" />
+  <o id="2769" en="Cheer: Ferromantoise" ja="チャチャルンの応援：フェロマンタス" category="Temporary Key Items" />
+  <o id="2770" en="Cheer: Great Ferromantoise" ja="チャチャルンの応援：大フェロマンタス" category="Temporary Key Items" />
   <o id="2790" en="sheet of conflict tunes" ja="オーケストリオン譜：ボスバトル" category="Permanent Key Items" />
   <o id="2791" en="sheet of Promathia tunes" ja="オーケストリオン譜：プロマシアの呪縛" category="Permanent Key Items" />
   <o id="2792" en="sheet of Adoulinian tunes" ja="オーケストリオン譜：アドゥリンの魔境" category="Permanent Key Items" />
@@ -2659,9 +2681,17 @@
   <o id="2823" en="prototype pearl of ashen wings" ja="模造魂魄の宝珠【偽冥翼】" category="Temporary Key Items" />
   <o id="2824" en="prototype pearl of the false king" ja="模造魂魄の宝珠【偽冥王】" category="Temporary Key Items" />
   <o id="2825" en="Gilgamesh's introductory letter" ja="ギルガメッシュの紹介状" category="Temporary Key Items" />
+  <o id="2826" en="imperial chair" ja="インペリアルチェア" category="Permanent Key Items" />
+  <o id="2827" en="decorative chair" ja="リビングチェア" category="Permanent Key Items" />
+  <o id="2828" en="ornate stool" ja="オナースツール" category="Permanent Key Items" />
+  <o id="2829" en="refined chair" ja="ノーブルチェア" category="Permanent Key Items" />
   <o id="2837" en="Reisen Shrine orb" ja="醴泉神社の勾玉" category="Permanent Key Items" />
   <o id="2838" en="&quot;Sakura and the Magicked Net&quot;" ja="『サクラちゃんと呪縛の手綱』" category="Permanent Key Items" />
   <o id="2839" en="reaper" ja="リーパー" category="Temporary Key Items" />
+  <o id="2840" en="forgotten memory" ja="失われた記録" category="Temporary Key Items" />
+  <o id="2841" en="＿" ja="＿" category="Temporary Key Items" />
+  <o id="2842" en="weathered Haverton hat" ja="烏騎士制式帽子" category="Temporary Key Items" />
+  <o id="2844" en="&quot;Sakura's Excellent Adventure&quot;" ja="『サクラちゃんとクポフリートの秘宝』" category="Permanent Key Items" />
   <o id="2854" en="Moghancement: Resist Virus" ja="モーグリの応援：レジストウィルス" category="Temporary Key Items" />
   <o id="2880" en="iridal core of the ruins" ja="イリダルコア【廃墟】" category="Temporary Key Items" />
   <o id="2881" en="iridal core of the tomb" ja="イリダルコア【龍王】" category="Temporary Key Items" />
@@ -2696,4 +2726,9 @@
   <o id="2917" en="Fleetstalker's claw" ja="フリートストーカーの爪" category="Temporary Key Items" />
   <o id="2918" en="Shockmaw's blubber" ja="ショックモーの脂肪" category="Temporary Key Items" />
   <o id="2919" en="Urmahlullu's armor" ja="ウルマフールの鎧" category="Temporary Key Items" />
+  <o id="2920" en="eschan urn" ja="エスカアーン" category="Permanent Key Items" />
+  <o id="2923" en="Moonlit Path phantom gem" ja="ファントムクォーツ【月導】" category="Temporary Key Items" />
+  <o id="2924" en="Waking the Beast phantom gem" ja="ファントムクォーツ【神在】" category="Temporary Key Items" />
+  <o id="2925" en="Waking Dreams phantom gem" ja="ファントムクォーツ【夢魔】" category="Temporary Key Items" />
+  <o id="2926" en="&quot;Card Jailer Teodor&quot;" ja="これであなたも『お遊戯王』" category="Permanent Key Items" />
 </key_items>

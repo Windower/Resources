@@ -2938,7 +2938,7 @@
   <o id="3512" en="Sonic Buffet" ja="ソニックバフェット" />
   <o id="3513" en="Entice" ja="エンタイス" />
   <o id="3514" en="Hysteric Assault" ja="ヒステリックアサルト" />
-  <o id="3515" en="Clarsach Call" ja="クラ－サクコール" />
+  <o id="3515" en="Clarsach Call" ja="クラーサクコール" />
   <o id="3516" en="Infected Leech" ja="インフェクティドサッカー" />
   <o id="3517" en="Gloom Spray" ja="グルームスプレー" />
   <o id="3518" en="Bloody Mist" ja="ブラッディーミスト" />
@@ -2954,6 +2954,20 @@
   <o id="3531" en="Bad Breath" ja="臭い息" />
   <o id="3532" en="Wings of Agony" ja="ウィングオブアゴニ" />
   <o id="3533" en="Wings of Woe" ja="ウィングオブウォウ" />
+  <o id="3536" en="Spine Chiller" ja="スパインチラー" />
+  <o id="3537" en="Quietus Sphere" ja="クアイタススフィア" />
+  <o id="3538" en="Null Blast" ja="ナルブラスト" />
+  <o id="3545" en="Tartarus Torpor" ja="タルタロストーパー" />
+  <o id="3546" en="Unbridled Wisdom" ja="N.ウィズドム" />
+  <o id="3547" en="Hard Membrane" ja="粘膜強化" />
+  <o id="3548" en="Regeneration" ja="リジェネレーション" />
+  <o id="3549" en="Sandstorm" ja="砂塵" />
+  <o id="3550" en="Sand Veil" ja="サンドヴェール" />
+  <o id="3551" en="Lunar Bay" ja="ルナーベイ" />
+  <o id="3552" en="Impact" ja="インパクト" />
+  <o id="3553" en="Holy Mist" ja="ホーリーミスト" />
+  <o id="3554" en="Night Terror" ja="ナイトテラー" />
+  <o id="3555" en="Ruinous Omen" ja="ルイナスオーメン" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3059,4 +3073,6 @@
   <o id="3942" en="Sickle Slash" ja="シックルスラッシュ" />
   <o id="3943" en="Acid Spray" ja="アシッドスプレー" />
   <o id="3944" en="Spider Web" ja="スパイダーウェブ" />
+  <o id="3945" en="Infected Leech" ja="インフェクティドサッカー" />
+  <o id="3946" en="Gloom Spray" ja="グルームスプレー" />
 </monster_abilities>
