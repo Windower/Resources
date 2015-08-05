@@ -278,6 +278,7 @@ return {
     [284] = {id=284,en="Celennia Memorial Library",ja="セレニア図書館",search="Celennia"},
     [285] = {id=285,en="Feretory",ja="魂の聖櫃",search="Feretory"},
     [288] = {id=288,en="Escha - Zi'Tah",ja="エスカ-ジ・タ",search="EschaZiTah"},
+    [289] = {id=289,en="Escha - Ru'Aun",ja="エスカ-ル・オン",search="EschaRuAun"},
 }, {"id", "en", "ja", "search"}
 
 --[[

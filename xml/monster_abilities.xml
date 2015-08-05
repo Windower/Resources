@@ -1826,6 +1826,8 @@
   <o id="2145" en="Gospel of the Lost" ja="万霊の福音" />
   <o id="2146" en="Void of Repentance" ja="懺悔の間" />
   <o id="2147" en="Divine Judgement" ja="聖なる審判" />
+  <o id="2148" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="2149" en="Chi Blast" ja="気孔弾" />
   <o id="2150" en="Snatch Morsel" ja="スナッチモースル" />
   <o id="2151" en="1000 Needles" ja="針千本" />
   <o id="2152" en="Aqua Fortis" ja="アクアフォーティス" />
@@ -1887,6 +1889,7 @@
   <o id="2208" en="Microspores" ja="マイクロスポア" />
   <o id="2209" en="Blink of Peril" ja="ブリンクオブペリル" />
   <o id="2210" en="Petal Pirouette" ja="ペタルピルエット" />
+  <o id="2213" en="Dark Mist" ja="ダークミスト" />
   <o id="2216" en="Nocturnal Combustion" ja="闇炎爆" />
   <o id="2217" en="Berserk" ja="バーサク" />
   <o id="2218" en="Penumbral Impact" ja="惣闇衝" />
@@ -2167,6 +2170,7 @@
   <o id="2550" en="Dissolve" ja="ディゾルブ" />
   <o id="2551" en="Mucus Spread" ja="ミューカススプレッド" />
   <o id="2552" en="Epoxy Spread" ja="イポクシースプレッド" />
+  <o id="2553" en="Rice Ball" ja="おにぎり" />
   <o id="2556" en="Ofnir" ja="オヴニル" />
   <o id="2557" en="Valfodr" ja="ヴァルファズル" />
   <o id="2558" en="Yggr" ja="ユッグ" />
@@ -2957,6 +2961,12 @@
   <o id="3536" en="Spine Chiller" ja="スパインチラー" />
   <o id="3537" en="Quietus Sphere" ja="クアイタススフィア" />
   <o id="3538" en="Null Blast" ja="ナルブラスト" />
+  <o id="3539" en="Psychoanima" ja="剛体香" />
+  <o id="3540" en="Hysteroanima" ja="気魂香" />
+  <o id="3541" en="Salaheem Spirit" ja="山猫傭兵隊歌、第壱番" />
+  <o id="3542" en="Oisoya" ja="負征矢" />
+  <o id="3543" en="Knuckle Sandwich" ja="ナックルサンドイッチ" />
+  <o id="3544" en="Whirling Edge" ja="ワーリングエッジ" />
   <o id="3545" en="Tartarus Torpor" ja="タルタロストーパー" />
   <o id="3546" en="Unbridled Wisdom" ja="N.ウィズドム" />
   <o id="3547" en="Hard Membrane" ja="粘膜強化" />
@@ -2968,6 +2978,96 @@
   <o id="3553" en="Holy Mist" ja="ホーリーミスト" />
   <o id="3554" en="Night Terror" ja="ナイトテラー" />
   <o id="3555" en="Ruinous Omen" ja="ルイナスオーメン" />
+  <o id="3556" en="Amatsu: Fuga" ja="天つ水影流・風雅" />
+  <o id="3557" en="Amatsu: Kyori" ja="天つ水影流・鏡裏" />
+  <o id="3558" en="Amatsu: Hanadoki" ja="天つ水影流・花時" />
+  <o id="3559" en="Amatsu: Choun" ja="天つ水影流・鳥雲" />
+  <o id="3560" en="Amatsu: Gachirin" ja="天つ水影流・月輪" />
+  <o id="3561" en="Amatsu: Suien" ja="天つ水影流・水烟" />
+  <o id="3562" en="Curtain Call" ja="カーテンコール" />
+  <o id="3563" en="Denied Prowess" ja="デナイプラウウス" />
+  <o id="3564" en="Aetheric Pull" ja="エーテリックプル" />
+  <o id="3565" en="Necrotic Wave" ja="ネクロティックウェーブ" />
+  <o id="3566" en="Shearing Gale" ja="シーリングゲール" />
+  <o id="3567" en="Beclouding Dust" ja="ビクラウドダスト" />
+  <o id="3568" en="Brewing Storm" ja="ブルーイングストーム" />
+  <o id="3569" en="Debilitating Surge" ja="デビリテートサージ" />
+  <o id="3570" en="Weighted Flux" ja="ウェイテッドフラックス" />
+  <o id="3571" en="Viscous Deluge" ja="ビスカスデルージュ" />
+  <o id="3572" en="Leeching Vines" ja="リーチングヴァイン" />
+  <o id="3577" en="Ascension" ja="アセンション" />
+  <o id="3578" en="Descension" ja="デセンション" />
+  <o id="3579" en="Expunge Magic" ja="エクスパンジマジック" />
+  <o id="3580" en="Harmonic Displacement" ja="ハーモニックディスプレイスメント" />
+  <o id="3581" en="Sight Unseen" ja="サイトアンシーン" />
+  <o id="3582" en="Darkest Hour" ja="ダーケストアワー" />
+  <o id="3583" en="Dread" ja="アンシーシングドレッド" />
+  <o id="3584" en="Awe" ja="ディグニファイアウ" />
+  <o id="3585" en="Naakual's Vengeance" ja="ナークアルヴェンジャンス" />
+  <o id="3590" en="Daybreak" ja="デイブレイク" />
+  <o id="3591" en="Tartaric Sigil" ja="タルタリックシギル" />
+  <o id="3592" en="Null Field" ja="ヌルフィールド" />
+  <o id="3593" en="Alabaster Burst" ja="アラバスターバースト" />
+  <o id="3594" en="Noble Frenzy" ja="ノーブルフレンジー" />
+  <o id="3595" en="Fulminous Fury" ja="ファルミナスフューリー" />
+  <o id="3596" en="No Quarter" ja="ノークォーター" />
+  <o id="3602" en="Repelling Shout" ja="リペリングシャウト" />
+  <o id="3603" en="Chastise" ja="チャスタイズ" />
+  <o id="3604" en="Scorching Luminescense" ja="スコーチングルミネセンス" />
+  <o id="3605" en="Rending Blow" ja="レンディングブロー" />
+  <o id="3606" en="Vicious Rake" ja="ビシャスレーク" />
+  <o id="3607" en="Heavens' Grace" ja="ヘブンズグレース" />
+  <o id="3608" en="Denounce" ja="ディナウンス" />
+  <o id="3609" en="Relentless Discord" ja="レストレスディスコード" />
+  <o id="3610" en="Ruthlessness" ja="ルースレスネス" />
+  <o id="3611" en="Inexorable Strike" ja="インエクソラブルストライク" />
+  <o id="3612" en="Self-Aggrandizement" ja="セルフアグランダイズメント" />
+  <o id="3617" en="Feast of Arrows" ja="フィーストオブアロー" />
+  <o id="3618" en="Regurgitated Swarm" ja="レガジテイトスウァーム" />
+  <o id="3619" en="Setting the Stage" ja="ステージセット" />
+  <o id="3620" en="Last Laugh" ja="ラストラフ" />
+  <o id="3621" en="Luminous Lance" ja="ルミナスランス" />
+  <o id="3622" en="Rejuvenation" ja="リジュヴァネーション" />
+  <o id="3623" en="Revelation" ja="リヴァレーション" />
+  <o id="3624" en="Memento Mori" ja="メメントモーリ" />
+  <o id="3625" en="Silence Seal" ja="サイレンスシール" />
+  <o id="3626" en="Envoutement" ja="エンバウトメント" />
+  <o id="3627" en="Bored to Tears" ja="ボードトゥティアズ" />
+  <o id="3631" en="Start from Scratch" ja="スタートフロムスクラッチ" />
+  <o id="3632" en="Frenzied Thrust" ja="フレンジースラスト" />
+  <o id="3633" en="Sinner's Cross" ja="シナークロス" />
+  <o id="3634" en="Open Coffin" ja="オープンコフィン" />
+  <o id="3635" en="Ravenous Assault" ja="ラヴェナスアサルト" />
+  <o id="3636" en="Hemocladis" ja="ヒモクラディス" />
+  <o id="3637" en="Shining Summer Samba" ja="サマー・シャイニング・サンバ" />
+  <o id="3638" en="Lovely Miracle Waltz" ja="ミラクル・ラブリー・ワルツ" />
+  <o id="3639" en="Neo Crystal Jig" ja="クリスタル・ネオ・ジグ" />
+  <o id="3640" en="Super Crusher Jig" ja="スーパー・ジグ・クラッシャー" />
+  <o id="3641" en="Eternal Vana Illusion" ja="エターナル・ヴァナ・イリュージョン" />
+  <o id="3642" en="Final Eternal Heart" ja="ファイナル・エターナル・ハート" />
+  <o id="3643" en="Firesday Night Fever" ja="スーパーアイドルタイム" />
+  <o id="3644" en="Ruthlessness" ja="ルースレスネス" />
+  <o id="3645" en="Inexorable Strike" ja="インエクソラブルストライク" />
+  <o id="3646" en="Self-Aggrandizement" ja="セルフアグランダイズメント" />
+  <o id="3647" en="Merciless Strike" ja="マーサレスストライク" />
+  <o id="3652" en="Daybreak" ja="デイブレイク" />
+  <o id="3653" en="Tartaric Sigil" ja="タルタリックシギル" />
+  <o id="3654" en="Null Field" ja="ヌルフィールド" />
+  <o id="3655" en="Alabaster Burst" ja="アラバスターバースト" />
+  <o id="3656" en="Noble Frenzy" ja="ノーブルフレンジー" />
+  <o id="3657" en="Fulminous Fury" ja="ファルミナスフューリー" />
+  <o id="3658" en="No Quarter" ja="ノークォーター" />
+  <o id="3662" en="Baneful Blades" ja="ベインブレイド" />
+  <o id="3663" en="Wildwood Indignation" ja="フォレストインディグネイト" />
+  <o id="3664" en="Dryad's Kiss" ja="ドライアドキス" />
+  <o id="3665" en="Depraved Dandia" ja="デプレイブダンディア" />
+  <o id="3666" en="Matriarchal Fiat" ja="メイトリアークフィアット" />
+  <o id="3667" en="Wings of Gehenna" ja="ウイング・オブ・ゲヘナ" />
+  <o id="3668" en="Decollation" ja="デコレーション" />
+  <o id="3669" en="Nosferatu's Kiss" ja="ノスフェラトゥキス" />
+  <o id="3670" en="Heliovoid" ja="ヒリオヴォイド" />
+  <o id="3671" en="Deep Sea Dirge" ja="ディープシーダージ" />
+  <o id="3672" en="Illustrious Aid" ja="イラストリアスアイド" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3075,4 +3175,7 @@
   <o id="3944" en="Spider Web" ja="スパイダーウェブ" />
   <o id="3945" en="Infected Leech" ja="インフェクティドサッカー" />
   <o id="3946" en="Gloom Spray" ja="グルームスプレー" />
+  <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
+  <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
+  <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
 </monster_abilities>

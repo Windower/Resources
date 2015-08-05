@@ -295,26 +295,26 @@
   <o id="320" type="JobAbility" element="6" icon_id="451" mp_cost="0" recast_id="132" targets="32" tp_cost="0" duration="60" range="2" prefix="/jobability" en="Konzen-ittai" ja="渾然一体" />
   <o id="321" type="JobAbility" element="6" icon_id="402" mp_cost="0" recast_id="240" targets="32" tp_cost="0" duration="30" range="8" prefix="/jobability" en="Bully" ja="まどわす" />
   <o id="322" type="JobAbility" element="6" icon_id="517" mp_cost="0" recast_id="214" targets="1" tp_cost="0" range="12" prefix="/jobability" en="Maintenance" ja="フラッシング" />
-  <o id="323" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Brazen Rush" ja="ブラーゼンラッシュ" />
-  <o id="324" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Inner Strength" ja="インナーストレングス" />
-  <o id="325" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Asylum" ja="女神の羽衣" />
-  <o id="326" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Subtle Sorcery" ja="サテルソーサリー" />
-  <o id="327" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Stymie" ja="スタイミー" />
-  <o id="328" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Larceny" ja="ラーセニー" />
-  <o id="329" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="32" tp_cost="0" duration="30" range="2" prefix="/jobability" en="Intervene" ja="インターヴィーン" />
-  <o id="330" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Soul Enslavement" ja="ソールエンスレーヴ" />
-  <o id="331" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="12" prefix="/jobability" en="Unleash" ja="アンリーシュ" />
-  <o id="332" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Clarion Call" ja="クラリオンコール" />
-  <o id="333" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Overkill" ja="オーバーキル" />
-  <o id="334" type="JobAbility" element="2" icon_id="42" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="45" range="0" prefix="/jobability" en="Yaegasumi" ja="八重霞" />
-  <o id="335" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="45" range="0" prefix="/jobability" en="Mikage" ja="身影" />
-  <o id="336" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Fly High" ja="フライハイ" />
-  <o id="337" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Astral Conduit" ja="アストラルパッセージ" />
-  <o id="338" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Unbridled Wisdom" ja="N.ウィズドム" />
-  <o id="339" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="5" tp_cost="0" range="8" prefix="/jobability" en="Cutting Cards" ja="カットカード" />
-  <o id="340" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Heady Artifice" ja="ヘディーアーテフィス" />
-  <o id="341" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Grand Pas" ja="グランドパー" />
-  <o id="342" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="254" targets="5" tp_cost="0" range="8" prefix="/jobability" en="Caper Emissarius" ja="カペルエミサリウス" />
+  <o id="323" type="JobAbility" element="6" icon_id="1064" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Brazen Rush" ja="ブラーゼンラッシュ" />
+  <o id="324" type="JobAbility" element="6" icon_id="1065" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Inner Strength" ja="インナーストレングス" />
+  <o id="325" type="JobAbility" element="6" icon_id="1066" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Asylum" ja="女神の羽衣" />
+  <o id="326" type="JobAbility" element="7" icon_id="1067" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Subtle Sorcery" ja="サテルソーサリー" />
+  <o id="327" type="JobAbility" element="6" icon_id="1068" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Stymie" ja="スタイミー" />
+  <o id="328" type="JobAbility" element="6" icon_id="1069" mp_cost="0" recast_id="254" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Larceny" ja="ラーセニー" />
+  <o id="329" type="JobAbility" element="6" icon_id="1070" mp_cost="0" recast_id="254" targets="32" tp_cost="0" duration="30" range="2" prefix="/jobability" en="Intervene" ja="インターヴィーン" />
+  <o id="330" type="JobAbility" element="7" icon_id="1071" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Soul Enslavement" ja="ソールエンスレーヴ" />
+  <o id="331" type="JobAbility" element="6" icon_id="1072" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="12" prefix="/jobability" en="Unleash" ja="アンリーシュ" />
+  <o id="332" type="JobAbility" element="6" icon_id="1073" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Clarion Call" ja="クラリオンコール" />
+  <o id="333" type="JobAbility" element="6" icon_id="1074" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Overkill" ja="オーバーキル" />
+  <o id="334" type="JobAbility" element="2" icon_id="1075" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="45" range="0" prefix="/jobability" en="Yaegasumi" ja="八重霞" />
+  <o id="335" type="JobAbility" element="6" icon_id="1076" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="45" range="0" prefix="/jobability" en="Mikage" ja="身影" />
+  <o id="336" type="JobAbility" element="6" icon_id="1077" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Fly High" ja="フライハイ" />
+  <o id="337" type="JobAbility" element="6" icon_id="1078" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Astral Conduit" ja="アストラルパッセージ" />
+  <o id="338" type="JobAbility" element="6" icon_id="1079" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Unbridled Wisdom" ja="N.ウィズドム" />
+  <o id="339" type="JobAbility" element="6" icon_id="1080" mp_cost="0" recast_id="254" targets="5" tp_cost="0" range="8" prefix="/jobability" en="Cutting Cards" ja="カットカード" />
+  <o id="340" type="JobAbility" element="6" icon_id="1081" mp_cost="0" recast_id="254" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Heady Artifice" ja="ヘディーアーテフィス" />
+  <o id="341" type="JobAbility" element="6" icon_id="1082" mp_cost="0" recast_id="254" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="Grand Pas" ja="グランドパー" />
+  <o id="342" type="JobAbility" element="6" icon_id="1083" mp_cost="0" recast_id="254" targets="5" tp_cost="0" range="8" prefix="/jobability" en="Caper Emissarius" ja="カペルエミサリウス" />
   <o id="343" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="0" targets="1" tp_cost="0" duration="180" range="0" prefix="/jobability" en="Bolster" ja="ボルスター" />
   <o id="344" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="241" targets="32" tp_cost="0" range="2" prefix="/jobability" en="Swipe" ja="スワイプ" />
   <o id="345" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="243" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Full Circle" ja="フルサークル" />
@@ -349,8 +349,8 @@
   <o id="374" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="118" targets="1" tp_cost="0" duration="30" range="0" prefix="/jobability" en="One for All" ja="ワンフォアオール" />
   <o id="375" type="Effusion" element="6" icon_id="46" mp_cost="0" recast_id="119" targets="32" tp_cost="0" duration="30" range="2" prefix="/jobability" en="Rayke" ja="レイク" />
   <o id="376" type="Ward" element="6" icon_id="46" mp_cost="0" recast_id="120" targets="1" tp_cost="0" duration="90" range="0" prefix="/jobability" en="Battuta" ja="バットゥタ" />
-  <o id="377" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="130" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Widened Compass" ja="ワイデンコンパス" />
-  <o id="378" type="JobAbility" element="7" icon_id="47" mp_cost="0" recast_id="131" targets="32" tp_cost="0" duration="30" range="8" prefix="/jobability" en="Odyllic Subterfuge" ja="オディリックサブタ" />
+  <o id="377" type="JobAbility" element="6" icon_id="1084" mp_cost="0" recast_id="130" targets="1" tp_cost="0" duration="60" range="0" prefix="/jobability" en="Widened Compass" ja="ワイデンコンパス" />
+  <o id="378" type="JobAbility" element="7" icon_id="1085" mp_cost="0" recast_id="131" targets="32" tp_cost="0" duration="30" range="8" prefix="/jobability" en="Odyllic Subterfuge" ja="オディリックサブタ" />
   <o id="379" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="142" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Ward" ja="ワード" />
   <o id="380" type="JobAbility" element="6" icon_id="46" mp_cost="0" recast_id="143" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Effusion" ja="エフューズ" />
   <o id="381" type="Jig" element="6" icon_id="529" mp_cost="0" recast_id="218" targets="1" tp_cost="0" duration="120" range="0" prefix="/jobability" en="Chocobo Jig II" ja="チョコボジグII" />
@@ -365,80 +365,80 @@
   <o id="390" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Naturalist's Roll" ja="ナチュラリストロール" />
   <o id="391" type="CorsairRoll" element="1" icon_id="485" mp_cost="0" recast_id="193" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Runeist's Roll" ja="ルーニストロール" />
   <o id="392" type="JobAbility" element="6" icon_id="663" mp_cost="0" recast_id="96" targets="1" tp_cost="0" range="0" prefix="/jobability" en="Crooked Cards" ja="クルケッドカード" />
-  <o id="512" type="BloodPactWard" element="6" icon_id="340" mp_cost="6" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Healing Ruby" ja="ルビーの癒し" />
+  <o id="512" type="BloodPactWard" element="6" icon_id="340" mp_cost="6" recast_id="174" targets="5" tp_cost="0" range="11" prefix="/pet" en="Healing Ruby" ja="ルビーの癒し" />
   <o id="513" type="BloodPactRage" element="6" icon_id="340" mp_cost="11" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Poison Nails" ja="ポイズンネイル" />
-  <o id="514" type="BloodPactWard" element="6" icon_id="340" mp_cost="44" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Shining Ruby" ja="ルビーの輝き" />
-  <o id="515" type="BloodPactWard" element="6" icon_id="340" mp_cost="62" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Glittering Ruby" ja="ルビーの煌き" />
+  <o id="514" type="BloodPactWard" element="6" icon_id="340" mp_cost="44" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Shining Ruby" ja="ルビーの輝き" />
+  <o id="515" type="BloodPactWard" element="6" icon_id="340" mp_cost="62" recast_id="174" targets="1" tp_cost="0" range="11" prefix="/pet" en="Glittering Ruby" ja="ルビーの煌き" />
   <o id="516" type="BloodPactRage" element="6" icon_id="340" mp_cost="108" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Meteorite" ja="プチメテオ" />
-  <o id="517" type="BloodPactWard" element="6" icon_id="340" mp_cost="124" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Healing Ruby II" ja="ルビーの癒しII" />
+  <o id="517" type="BloodPactWard" element="6" icon_id="340" mp_cost="124" recast_id="174" targets="1" tp_cost="0" range="11" prefix="/pet" en="Healing Ruby II" ja="ルビーの癒しII" />
   <o id="518" type="BloodPactRage" element="6" icon_id="340" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Searing Light" ja="シアリングライト" />
   <o id="519" type="BloodPactRage" element="6" icon_id="340" mp_cost="152" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Holy Mist" ja="ホーリーミスト" />
-  <o id="520" type="BloodPactWard" element="6" icon_id="340" mp_cost="74" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Soothing Ruby" ja="ルビーの安らぎ" />
+  <o id="520" type="BloodPactWard" element="6" icon_id="340" mp_cost="74" recast_id="174" targets="1" tp_cost="0" range="11" prefix="/pet" en="Soothing Ruby" ja="ルビーの安らぎ" />
   <o id="521" type="BloodPactRage" element="6" icon_id="351" mp_cost="5" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Regal Scratch" ja="リーガルスクラッチ" />
   <o id="522" type="BloodPactWard" element="6" icon_id="351" mp_cost="61" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Mewing Lullaby" ja="ミュインララバイ" />
   <o id="523" type="BloodPactWard" element="6" icon_id="351" mp_cost="134" recast_id="174" targets="32" tp_cost="0" range="2" prefix="/pet" en="Eerie Eye" ja="イアリーアイ" />
   <o id="524" type="BloodPactRage" element="6" icon_id="351" mp_cost="235" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Level ? Holy" ja="レベル？ホーリー" />
   <o id="525" type="BloodPactWard" element="6" icon_id="351" mp_cost="160" recast_id="174" targets="5" tp_cost="0" range="9" prefix="/pet" en="Raise II" ja="レイズII" />
-  <o id="526" type="BloodPactWard" element="6" icon_id="351" mp_cost="80" recast_id="174" targets="5" tp_cost="0" duration="3600" range="9" prefix="/pet" en="Reraise II" ja="リレイズII" />
+  <o id="526" type="BloodPactWard" element="6" icon_id="351" mp_cost="80" recast_id="174" targets="5" tp_cost="0" duration="3600" range="11" prefix="/pet" en="Reraise II" ja="リレイズII" />
   <o id="527" type="BloodPactWard" element="6" icon_id="351" mp_cost="0" recast_id="174" targets="1" tp_cost="0" duration="3600" range="9" prefix="/pet" en="Altana's Favor" ja="アルタナフェーバー" />
   <o id="528" type="BloodPactRage" element="7" icon_id="341" mp_cost="17" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Moonlit Charge" ja="ムーンリットチャージ" />
   <o id="529" type="BloodPactRage" element="7" icon_id="341" mp_cost="19" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Crescent Fang" ja="クレセントファング" />
   <o id="530" type="BloodPactWard" element="7" icon_id="341" mp_cost="41" recast_id="174" targets="32" tp_cost="0" range="9" prefix="/pet" en="Lunar Cry" ja="ルナークライ" />
   <o id="531" type="BloodPactWard" element="7" icon_id="341" mp_cost="27" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Lunar Roar" ja="ルナーロア" />
-  <o id="532" type="BloodPactWard" element="7" icon_id="341" mp_cost="46" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Ecliptic Growl" ja="上弦の唸り" />
-  <o id="533" type="BloodPactWard" element="7" icon_id="341" mp_cost="57" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Ecliptic Howl" ja="下弦の咆哮" />
+  <o id="532" type="BloodPactWard" element="7" icon_id="341" mp_cost="46" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Ecliptic Growl" ja="上弦の唸り" />
+  <o id="533" type="BloodPactWard" element="7" icon_id="341" mp_cost="57" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Ecliptic Howl" ja="下弦の咆哮" />
   <o id="534" type="BloodPactRage" element="7" icon_id="341" mp_cost="109" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Eclipse Bite" ja="エクリプスバイト" />
   <o id="536" type="BloodPactRage" element="7" icon_id="341" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Howling Moon" ja="ハウリングムーン" />
   <o id="537" type="BloodPactRage" element="7" icon_id="341" mp_cost="174" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Lunar Bay" ja="ルナーベイ" />
-  <o id="538" type="BloodPactWard" element="7" icon_id="341" mp_cost="96" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Heavenward Howl" ja="ヘヴンズハウル" />
+  <o id="538" type="BloodPactWard" element="7" icon_id="341" mp_cost="96" recast_id="174" targets="1" tp_cost="0" duration="60" range="11" prefix="/pet" en="Heavenward Howl" ja="ヘヴンズハウル" />
   <o id="539" type="BloodPactRage" element="7" icon_id="341" mp_cost="222" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Impact" ja="インパクト" />
   <o id="544" type="BloodPactRage" element="0" icon_id="342" mp_cost="9" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Punch" ja="パンチ" />
   <o id="545" type="BloodPactRage" element="0" icon_id="342" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Fire II" ja="ファイアII" />
   <o id="546" type="BloodPactRage" element="0" icon_id="342" mp_cost="48" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Burning Strike" ja="バーニングストライク" />
   <o id="547" type="BloodPactRage" element="0" icon_id="342" mp_cost="56" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Double Punch" ja="ダブルパンチ" />
-  <o id="548" type="BloodPactWard" element="0" icon_id="342" mp_cost="84" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Crimson Howl" ja="紅蓮の咆哮" />
+  <o id="548" type="BloodPactWard" element="0" icon_id="342" mp_cost="84" recast_id="174" targets="1" tp_cost="0" duration="60" range="11" prefix="/pet" en="Crimson Howl" ja="紅蓮の咆哮" />
   <o id="549" type="BloodPactRage" element="0" icon_id="342" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Fire IV" ja="ファイアIV" />
   <o id="550" type="BloodPactRage" element="0" icon_id="342" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Flaming Crush" ja="フレイムクラッシュ" />
   <o id="551" type="BloodPactRage" element="0" icon_id="342" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Meteor Strike" ja="メテオストライク" />
   <o id="552" type="BloodPactRage" element="0" icon_id="342" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Inferno" ja="インフェルノ" />
-  <o id="553" type="BloodPactWard" element="0" icon_id="342" mp_cost="72" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Inferno Howl" ja="灼熱の咆哮" />
+  <o id="553" type="BloodPactWard" element="0" icon_id="342" mp_cost="72" recast_id="174" targets="1" tp_cost="0" duration="60" range="11" prefix="/pet" en="Inferno Howl" ja="灼熱の咆哮" />
   <o id="554" type="BloodPactRage" element="0" icon_id="342" mp_cost="141" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Conflag Strike" ja="コンフラグストライク" />
   <o id="560" type="BloodPactRage" element="3" icon_id="343" mp_cost="10" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Rock Throw" ja="ロックスロー" />
   <o id="561" type="BloodPactRage" element="3" icon_id="343" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Stone II" ja="ストーンII" />
   <o id="562" type="BloodPactRage" element="3" icon_id="343" mp_cost="39" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Rock Buster" ja="ロックバスター" />
   <o id="563" type="BloodPactRage" element="3" icon_id="343" mp_cost="62" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Megalith Throw" ja="メガリススロー" />
-  <o id="564" type="BloodPactWard" element="3" icon_id="343" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="900" range="4" prefix="/pet" en="Earthen Ward" ja="大地の守り" />
+  <o id="564" type="BloodPactWard" element="3" icon_id="343" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="900" range="11" prefix="/pet" en="Earthen Ward" ja="大地の守り" />
   <o id="565" type="BloodPactRage" element="3" icon_id="343" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Stone IV" ja="ストーンIV" />
   <o id="566" type="BloodPactRage" element="3" icon_id="343" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Mountain Buster" ja="マウンテンバスター" />
   <o id="567" type="BloodPactRage" element="3" icon_id="343" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Geocrush" ja="ジオクラッシュ" />
   <o id="568" type="BloodPactRage" element="3" icon_id="343" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Earthen Fury" ja="アースフューリー" />
-  <o id="569" type="BloodPactWard" element="3" icon_id="343" mp_cost="156" recast_id="174" targets="1" tp_cost="0" duration="60" range="4" prefix="/pet" en="Earthen Armor" ja="大地の鎧" />
+  <o id="569" type="BloodPactWard" element="3" icon_id="343" mp_cost="156" recast_id="174" targets="1" tp_cost="0" duration="60" range="11" prefix="/pet" en="Earthen Armor" ja="大地の鎧" />
   <o id="570" type="BloodPactRage" element="3" icon_id="343" mp_cost="124" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Crag Throw" ja="クラッグスロー" />
   <o id="576" type="BloodPactRage" element="5" icon_id="344" mp_cost="8" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Barracuda Dive" ja="バラクーダダイブ" />
   <o id="577" type="BloodPactRage" element="5" icon_id="344" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Water II" ja="ウォータII" />
   <o id="578" type="BloodPactRage" element="5" icon_id="344" mp_cost="49" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Tail Whip" ja="テールウィップ" />
-  <o id="579" type="BloodPactWard" element="5" icon_id="344" mp_cost="99" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Spring Water" ja="湧水" />
+  <o id="579" type="BloodPactWard" element="5" icon_id="344" mp_cost="99" recast_id="174" targets="1" tp_cost="0" range="11" prefix="/pet" en="Spring Water" ja="湧水" />
   <o id="580" type="BloodPactWard" element="5" icon_id="344" mp_cost="48" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Slowga" ja="スロウガ" />
   <o id="581" type="BloodPactRage" element="5" icon_id="344" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Water IV" ja="ウォータIV" />
   <o id="582" type="BloodPactRage" element="5" icon_id="344" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Spinning Dive" ja="スピニングダイブ" />
   <o id="583" type="BloodPactRage" element="5" icon_id="344" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Grand Fall" ja="グランドフォール" />
   <o id="584" type="BloodPactRage" element="5" icon_id="344" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Tidal Wave" ja="タイダルウェイブ" />
   <o id="585" type="BloodPactWard" element="5" icon_id="344" mp_cost="138" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Tidal Roar" ja="タイダルロア" />
-  <o id="586" type="BloodPactWard" element="5" icon_id="344" mp_cost="95" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Soothing Current" ja="スージングカレント" />
+  <o id="586" type="BloodPactWard" element="5" icon_id="344" mp_cost="95" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Soothing Current" ja="スージングカレント" />
   <o id="592" type="BloodPactRage" element="2" icon_id="345" mp_cost="7" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Claw" ja="クロー" />
   <o id="593" type="BloodPactRage" element="2" icon_id="345" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Aero II" ja="エアロII" />
-  <o id="594" type="BloodPactWard" element="2" icon_id="345" mp_cost="119" recast_id="174" targets="1" tp_cost="0" range="4" prefix="/pet" en="Whispering Wind" ja="風の囁き" />
-  <o id="595" type="BloodPactWard" element="2" icon_id="345" mp_cost="129" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Hastega" ja="ヘイスガ" />
-  <o id="596" type="BloodPactWard" element="2" icon_id="345" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="900" range="4" prefix="/pet" en="Aerial Armor" ja="真空の鎧" />
+  <o id="594" type="BloodPactWard" element="2" icon_id="345" mp_cost="119" recast_id="174" targets="1" tp_cost="0" range="11" prefix="/pet" en="Whispering Wind" ja="風の囁き" />
+  <o id="595" type="BloodPactWard" element="2" icon_id="345" mp_cost="129" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Hastega" ja="ヘイスガ" />
+  <o id="596" type="BloodPactWard" element="2" icon_id="345" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="900" range="11" prefix="/pet" en="Aerial Armor" ja="真空の鎧" />
   <o id="597" type="BloodPactRage" element="2" icon_id="345" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Aero IV" ja="エアロIV" />
   <o id="598" type="BloodPactRage" element="2" icon_id="345" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Predator Claws" ja="プレデタークロー" />
   <o id="599" type="BloodPactRage" element="2" icon_id="345" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Wind Blade" ja="ウインドブレード" />
   <o id="600" type="BloodPactRage" element="2" icon_id="345" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Aerial Blast" ja="エリアルブラスト" />
-  <o id="601" type="BloodPactWard" element="2" icon_id="345" mp_cost="114" recast_id="174" targets="1" tp_cost="0" duration="120" range="4" prefix="/pet" en="Fleet Wind" ja="真空の具足" />
-  <o id="602" type="BloodPactWard" element="2" icon_id="345" mp_cost="248" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Hastega II" ja="ヘイスガII" />
+  <o id="601" type="BloodPactWard" element="2" icon_id="345" mp_cost="114" recast_id="174" targets="1" tp_cost="0" duration="120" range="11" prefix="/pet" en="Fleet Wind" ja="真空の具足" />
+  <o id="602" type="BloodPactWard" element="2" icon_id="345" mp_cost="248" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Hastega II" ja="ヘイスガII" />
   <o id="608" type="BloodPactRage" element="1" icon_id="346" mp_cost="10" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Axe Kick" ja="アクスキック" />
   <o id="609" type="BloodPactRage" element="1" icon_id="346" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Blizzard II" ja="ブリザドII" />
-  <o id="610" type="BloodPactWard" element="1" icon_id="346" mp_cost="63" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Frost Armor" ja="凍てつく鎧" />
+  <o id="610" type="BloodPactWard" element="1" icon_id="346" mp_cost="63" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Frost Armor" ja="凍てつく鎧" />
   <o id="611" type="BloodPactWard" element="1" icon_id="346" mp_cost="54" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Sleepga" ja="スリプガ" />
   <o id="612" type="BloodPactRage" element="1" icon_id="346" mp_cost="96" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Double Slap" ja="ダブルスラップ" />
   <o id="613" type="BloodPactRage" element="1" icon_id="346" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Blizzard IV" ja="ブリザドIV" />
@@ -446,12 +446,12 @@
   <o id="615" type="BloodPactRage" element="1" icon_id="346" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Heavenly Strike" ja="ヘヴンリーストライク" />
   <o id="616" type="BloodPactRage" element="1" icon_id="346" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Diamond Dust" ja="ダイヤモンドダスト" />
   <o id="617" type="BloodPactWard" element="1" icon_id="346" mp_cost="138" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Diamond Storm" ja="ダイヤモンドストーム" />
-  <o id="618" type="BloodPactWard" element="1" icon_id="346" mp_cost="201" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Crystal Blessing" ja="クリスタルブレシング" />
+  <o id="618" type="BloodPactWard" element="1" icon_id="346" mp_cost="201" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Crystal Blessing" ja="クリスタルブレシング" />
   <o id="624" type="BloodPactRage" element="4" icon_id="347" mp_cost="6" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Shock Strike" ja="ショックストライク" />
   <o id="625" type="BloodPactRage" element="4" icon_id="347" mp_cost="24" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Thunder II" ja="サンダーII" />
-  <o id="626" type="BloodPactWard" element="4" icon_id="347" mp_cost="52" recast_id="174" targets="1" tp_cost="0" duration="120" range="4" prefix="/pet" en="Rolling Thunder" ja="雷鼓" />
+  <o id="626" type="BloodPactWard" element="4" icon_id="347" mp_cost="52" recast_id="174" targets="1" tp_cost="0" duration="120" range="11" prefix="/pet" en="Rolling Thunder" ja="雷鼓" />
   <o id="627" type="BloodPactRage" element="4" icon_id="347" mp_cost="38" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Thunderspark" ja="サンダースパーク" />
-  <o id="628" type="BloodPactWard" element="4" icon_id="347" mp_cost="91" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Lightning Armor" ja="雷電の鎧" />
+  <o id="628" type="BloodPactWard" element="4" icon_id="347" mp_cost="91" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Lightning Armor" ja="雷電の鎧" />
   <o id="629" type="BloodPactRage" element="4" icon_id="347" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="8" prefix="/pet" en="Thunder IV" ja="サンダーIV" />
   <o id="630" type="BloodPactRage" element="4" icon_id="347" mp_cost="164" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Chaotic Strike" ja="カオスストライク" />
   <o id="631" type="BloodPactRage" element="4" icon_id="347" mp_cost="182" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Thunderstorm" ja="サンダーストーム" />
@@ -478,8 +478,8 @@
   <o id="657" type="BloodPactWard" element="7" icon_id="348" mp_cost="30" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Somnolence" ja="ソムノレンス" />
   <o id="658" type="BloodPactWard" element="7" icon_id="348" mp_cost="42" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Nightmare" ja="ナイトメア" />
   <o id="659" type="BloodPactWard" element="7" icon_id="348" mp_cost="27" recast_id="174" targets="32" tp_cost="0" range="4" prefix="/pet" en="Ultimate Terror" ja="アルティメットテラー" />
-  <o id="660" type="BloodPactWard" element="7" icon_id="348" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Noctoshield" ja="ノクトシールド" />
-  <o id="661" type="BloodPactWard" element="7" icon_id="348" mp_cost="121" recast_id="174" targets="1" tp_cost="0" duration="180" range="4" prefix="/pet" en="Dream Shroud" ja="ドリームシュラウド" />
+  <o id="660" type="BloodPactWard" element="7" icon_id="348" mp_cost="92" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Noctoshield" ja="ノクトシールド" />
+  <o id="661" type="BloodPactWard" element="7" icon_id="348" mp_cost="121" recast_id="174" targets="1" tp_cost="0" duration="180" range="11" prefix="/pet" en="Dream Shroud" ja="ドリームシュラウド" />
   <o id="662" type="BloodPactRage" element="7" icon_id="348" mp_cost="109" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Nether Blast" ja="ネザーブラスト" />
   <o id="663" type="BloodPactRage" element="7" icon_id="348" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="9" prefix="/pet" en="Cacodemonia" ja="カコデモニア" />
   <o id="664" type="BloodPactRage" element="7" icon_id="348" mp_cost="0" recast_id="173" targets="32" tp_cost="0" range="4" prefix="/pet" en="Ruinous Omen" ja="ルイナスオーメン" />
@@ -492,111 +492,111 @@
   <o id="671" type="BloodPactRage" element="7" icon_id="350" mp_cost="0" recast_id="0" targets="32" tp_cost="0" range="0" prefix="/pet" en="Perfect Defense" ja="絶対防御" />
   <o id="672" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Foot Kick" ja="フットキック" />
   <o id="673" type="Monster" element="3" icon_id="43" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Dust Cloud" ja="土煙" />
-  <o id="674" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Whirl Claws" ja="爪旋風脚" />
+  <o id="674" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Whirl Claws" ja="爪旋風脚" />
   <o id="675" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Head Butt" ja="ヘッドバット" />
-  <o id="676" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Dream Flower" ja="夢想花" />
-  <o id="677" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Wild Oats" ja="種まき" />
-  <o id="678" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Leaf Dagger" ja="リーフダガー" />
-  <o id="679" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Scream" ja="スクリーム" />
-  <o id="680" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Roar" ja="咆哮" />
+  <o id="676" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Dream Flower" ja="夢想花" />
+  <o id="677" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Wild Oats" ja="種まき" />
+  <o id="678" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Leaf Dagger" ja="リーフダガー" />
+  <o id="679" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Scream" ja="スクリーム" />
+  <o id="680" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Roar" ja="咆哮" />
   <o id="681" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Razor Fang" ja="レイザーファング" />
-  <o id="682" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Claw Cyclone" ja="クローサイクロン" />
+  <o id="682" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Claw Cyclone" ja="クローサイクロン" />
   <o id="683" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Tail Blow" ja="テイルブロー" />
-  <o id="684" type="Monster" element="0" icon_id="40" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Fireball" ja="ファイアボール" />
+  <o id="684" type="Monster" element="0" icon_id="40" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Fireball" ja="ファイアボール" />
   <o id="685" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Blockhead" ja="ブロックヘッド" />
   <o id="686" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Brain Crush" ja="ブレインクラッシュ" />
   <o id="687" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Infrasonics" ja="超低周波" />
-  <o id="688" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Secretion" ja="体液分泌" />
+  <o id="688" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Secretion" ja="体液分泌" />
   <o id="689" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Lamb Chop" ja="頭突き" />
-  <o id="690" type="Monster" element="0" icon_id="40" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Rage" ja="レイジ" />
+  <o id="690" type="Monster" element="0" icon_id="40" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Rage" ja="レイジ" />
   <o id="691" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sheep Charge" ja="シープチャージ" />
-  <o id="692" type="Monster" element="6" icon_id="46" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Sheep Song" ja="シープソング" />
-  <o id="693" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="12" prefix="/pet" en="Bubble Shower" ja="バブルシャワー" />
-  <o id="694" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Bubble Curtain" ja="バブルカーテン" />
+  <o id="692" type="Monster" element="6" icon_id="46" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sheep Song" ja="シープソング" />
+  <o id="693" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Bubble Shower" ja="バブルシャワー" />
+  <o id="694" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Bubble Curtain" ja="バブルカーテン" />
   <o id="695" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Big Scissors" ja="ビッグシザー" />
-  <o id="696" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Scissor Guard" ja="シザーガード" />
-  <o id="697" type="Monster" element="3" icon_id="43" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Metallic Body" ja="メタルボディ" />
-  <o id="698" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="12" prefix="/pet" en="Needleshot" ja="ニードルショット" />
-  <o id="699" type="Monster" element="6" icon_id="46" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="??? Needles" ja="針？本" />
+  <o id="696" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Scissor Guard" ja="シザーガード" />
+  <o id="697" type="Monster" element="3" icon_id="43" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Metallic Body" ja="メタルボディ" />
+  <o id="698" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Needleshot" ja="ニードルショット" />
+  <o id="699" type="Monster" element="6" icon_id="46" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="??? Needles" ja="針？本" />
   <o id="700" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Frogkick" ja="フロッグキック" />
   <o id="701" type="Monster" element="1" icon_id="41" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spore" ja="スポア" />
-  <o id="702" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Queasyshroom" ja="マヨイタケ" />
-  <o id="703" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Numbshroom" ja="シビレタケ" />
-  <o id="704" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Shakeshroom" ja="オドリタケ" />
-  <o id="705" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Silence Gas" ja="サイレスガス" />
-  <o id="706" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Dark Spore" ja="ダークスポア" />
+  <o id="702" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Queasyshroom" ja="マヨイタケ" />
+  <o id="703" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Numbshroom" ja="シビレタケ" />
+  <o id="704" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Shakeshroom" ja="オドリタケ" />
+  <o id="705" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Silence Gas" ja="サイレスガス" />
+  <o id="706" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Dark Spore" ja="ダークスポア" />
   <o id="707" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Power Attack" ja="パワーアタック" />
-  <o id="708" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Hi-Freq Field" ja="高周波フィールド" />
+  <o id="708" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Hi-Freq Field" ja="高周波フィールド" />
   <o id="709" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Rhino Attack" ja="ライノアタック" />
-  <o id="710" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Rhino Guard" ja="ライノガード" />
+  <o id="710" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Rhino Guard" ja="ライノガード" />
   <o id="711" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spoil" ja="スポイル" />
-  <o id="712" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Cursed Sphere" ja="カースドスフィア" />
-  <o id="713" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Venom" ja="毒液" />
-  <o id="714" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Sandblast" ja="サンドブラスト" />
+  <o id="712" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Cursed Sphere" ja="カースドスフィア" />
+  <o id="713" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Venom" ja="毒液" />
+  <o id="714" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sandblast" ja="サンドブラスト" />
   <o id="715" type="Monster" element="1" icon_id="41" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sandpit" ja="サンドピット" />
-  <o id="716" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Venom Spray" ja="ベノムスプレー" />
+  <o id="716" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Venom Spray" ja="ベノムスプレー" />
   <o id="717" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Mandibular Bite" ja="M.バイト" />
-  <o id="718" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Soporific" ja="サペリフィック" />
-  <o id="719" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Gloeosuccus" ja="グロオーサケス" />
+  <o id="718" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Soporific" ja="サペリフィック" />
+  <o id="719" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Gloeosuccus" ja="グロオーサケス" />
   <o id="720" type="Monster" element="1" icon_id="41" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Palsy Pollen" ja="パルジィパレン" />
-  <o id="721" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Geist Wall" ja="ガイストウォール" />
-  <o id="722" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Numbing Noise" ja="ナビングノイズ" />
+  <o id="721" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Geist Wall" ja="ガイストウォール" />
+  <o id="722" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Numbing Noise" ja="ナビングノイズ" />
   <o id="723" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Nimble Snap" ja="ニンブルスナップ" />
-  <o id="724" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Cyclotail" ja="サイクロテール" />
-  <o id="725" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="12" prefix="/pet" en="Toxic Spit" ja="トクシックスピット" />
+  <o id="724" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Cyclotail" ja="サイクロテール" />
+  <o id="725" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Toxic Spit" ja="トクシックスピット" />
   <o id="726" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Double Claw" ja="ダブルクロー" />
-  <o id="727" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Grapple" ja="グラップル" />
-  <o id="728" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Spinning Top" ja="スピニングトップ" />
-  <o id="729" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Filamented Hold" ja="F.ホールド" />
-  <o id="730" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Chaotic Eye" ja="カオティックアイ" />
-  <o id="731" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Blaster" ja="ブラスター" />
+  <o id="727" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Grapple" ja="グラップル" />
+  <o id="728" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spinning Top" ja="スピニングトップ" />
+  <o id="729" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Filamented Hold" ja="F.ホールド" />
+  <o id="730" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Chaotic Eye" ja="カオティックアイ" />
+  <o id="731" type="Monster" element="1" icon_id="41" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Blaster" ja="ブラスター" />
   <o id="732" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Suction" ja="吸着" />
   <o id="733" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Drainkiss" ja="ドレインキッス" />
   <o id="734" type="Monster" element="1" icon_id="41" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Snow Cloud" ja="雪煙" />
-  <o id="735" type="Monster" element="6" icon_id="46" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Wild Carrot" ja="ワイルドカロット" />
-  <o id="736" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="4" prefix="/pet" en="Sudden Lunge" ja="サドンランジ" />
-  <o id="737" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Spiral Spin" ja="スパイラルスピン" />
-  <o id="738" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Noisome Powder" ja="ノイサムパウダー" />
-  <o id="740" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Acid Mist" ja="アシッドミスト" />
+  <o id="735" type="Monster" element="6" icon_id="46" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Wild Carrot" ja="ワイルドカロット" />
+  <o id="736" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sudden Lunge" ja="サドンランジ" />
+  <o id="737" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spiral Spin" ja="スパイラルスピン" />
+  <o id="738" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Noisome Powder" ja="ノイサムパウダー" />
+  <o id="740" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Acid Mist" ja="アシッドミスト" />
   <o id="741" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="TP Drainkiss" ja="TP吸収キッス" />
   <o id="743" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Scythe Tail" ja="サイズテール" />
   <o id="744" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Ripper Fang" ja="リッパーファング" />
   <o id="745" type="Monster" element="3" icon_id="43" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Chomp Rush" ja="噛みつきラッシュ" />
-  <o id="746" type="Monster" element="4" icon_id="44" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Charged Whisker" ja="チャージドホイスカー" />
-  <o id="747" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Purulent Ooze" ja="ピュルラントウーズ" />
-  <o id="748" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Corrosive Ooze" ja="コローシブウーズ" />
+  <o id="746" type="Monster" element="4" icon_id="44" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Charged Whisker" ja="チャージドホイスカー" />
+  <o id="747" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Purulent Ooze" ja="ピュルラントウーズ" />
+  <o id="748" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Corrosive Ooze" ja="コローシブウーズ" />
   <o id="749" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Back Heel" ja="バックヒール" />
-  <o id="750" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Jettatura" ja="ジェタチュラ" />
-  <o id="751" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Choke Breath" ja="チョークブレス" />
-  <o id="752" type="Monster" element="0" icon_id="40" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Fantod" ja="ファンタッド" />
+  <o id="750" type="Monster" element="7" icon_id="47" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Jettatura" ja="ジェタチュラ" />
+  <o id="751" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Choke Breath" ja="チョークブレス" />
+  <o id="752" type="Monster" element="0" icon_id="40" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Fantod" ja="ファンタッド" />
   <o id="753" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Tortoise Stomp" ja="トータスストンプ" />
-  <o id="754" type="Monster" element="3" icon_id="43" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Harden Shell" ja="甲羅強化" />
-  <o id="755" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Aqua Breath" ja="アクアブレス" />
+  <o id="754" type="Monster" element="3" icon_id="43" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Harden Shell" ja="甲羅強化" />
+  <o id="755" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Aqua Breath" ja="アクアブレス" />
   <o id="756" type="Monster" element="4" icon_id="44" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Wing Slap" ja="ウィングスラップ" />
-  <o id="757" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="7" prefix="/pet" en="Beak Lunge" ja="ビークランジ" />
-  <o id="758" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Intimidate" ja="威嚇" />
-  <o id="759" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Recoil Dive" ja="リコイルダイブ" />
-  <o id="760" type="Monster" element="3" icon_id="43" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Water Wall" ja="ウォーターウォール" />
-  <o id="761" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Sensilla Blades" ja="センシラブレード" />
-  <o id="762" type="Monster" element="6" icon_id="46" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="4" prefix="/pet" en="Tegmina Buffet" ja="テグミナバフェット" />
-  <o id="763" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Molting Plumage" ja="モルトプルメイジ" />
-  <o id="764" type="Monster" element="2" icon_id="42" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Swooping Frenzy" ja="スワープフレンジー" />
+  <o id="757" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Beak Lunge" ja="ビークランジ" />
+  <o id="758" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Intimidate" ja="威嚇" />
+  <o id="759" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Recoil Dive" ja="リコイルダイブ" />
+  <o id="760" type="Monster" element="3" icon_id="43" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Water Wall" ja="ウォーターウォール" />
+  <o id="761" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sensilla Blades" ja="センシラブレード" />
+  <o id="762" type="Monster" element="6" icon_id="46" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Tegmina Buffet" ja="テグミナバフェット" />
+  <o id="763" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Molting Plumage" ja="モルトプルメイジ" />
+  <o id="764" type="Monster" element="2" icon_id="42" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Swooping Frenzy" ja="スワープフレンジー" />
   <o id="765" type="Monster" element="2" icon_id="42" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sweeping Gouge" ja="スイープガウジ" />
-  <o id="766" type="Monster" element="6" icon_id="46" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="0" prefix="/pet" en="Zealous Snort" ja="ゼラススノート" />
-  <o id="767" type="Monster" element="0" icon_id="40" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="4" prefix="/pet" en="Pentapeck" ja="ペンタペック" />
-  <o id="768" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="4" prefix="/pet" en="Tickling Tendrils" ja="ティックルテンドリル" />
-  <o id="769" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Stink Bomb" ja="スティンクボム" />
-  <o id="770" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Nectarous Deluge" ja="ネクターデルージュ" />
-  <o id="771" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Nepenthic Plunge" ja="ネペンシックプランジ" />
+  <o id="766" type="Monster" element="6" icon_id="46" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Zealous Snort" ja="ゼラススノート" />
+  <o id="767" type="Monster" element="0" icon_id="40" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Pentapeck" ja="ペンタペック" />
+  <o id="768" type="Monster" element="4" icon_id="44" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Tickling Tendrils" ja="ティックルテンドリル" />
+  <o id="769" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Stink Bomb" ja="スティンクボム" />
+  <o id="770" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Nectarous Deluge" ja="ネクターデルージュ" />
+  <o id="771" type="Monster" element="5" icon_id="45" mp_cost="3" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Nepenthic Plunge" ja="ネペンシックプランジ" />
   <o id="772" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Somersault" ja="サマーソルト" />
-  <o id="773" type="BloodPactWard" element="6" icon_id="340" mp_cost="83" recast_id="174" targets="5" tp_cost="0" range="2" prefix="/pet" en="Pacifying Ruby" ja="ルビーの贖罪" />
-  <o id="774" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="10" prefix="/pet" en="Foul Waters" ja="ファウルウォーター" />
-  <o id="775" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="10" prefix="/pet" en="Pestilent Plume" ja="ペステレントプルーム" />
-  <o id="776" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="4" prefix="/pet" en="Pecking Flurry" ja="ペッキングフラリー" />
+  <o id="773" type="BloodPactWard" element="6" icon_id="340" mp_cost="83" recast_id="174" targets="5" tp_cost="0" range="11" prefix="/pet" en="Pacifying Ruby" ja="ルビーの贖罪" />
+  <o id="774" type="Monster" element="5" icon_id="45" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Foul Waters" ja="ファウルウォーター" />
+  <o id="775" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Pestilent Plume" ja="ペステレントプルーム" />
+  <o id="776" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Pecking Flurry" ja="ペッキングフラリー" />
   <o id="777" type="Monster" element="6" icon_id="46" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Sickle Slash" ja="シックルスラッシュ" />
-  <o id="778" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Acid Spray" ja="アシッドスプレー" />
-  <o id="779" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="9" prefix="/pet" en="Spider Web" ja="スパイダーウェブ" />
+  <o id="778" type="Monster" element="5" icon_id="45" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Acid Spray" ja="アシッドスプレー" />
+  <o id="779" type="Monster" element="3" icon_id="43" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Spider Web" ja="スパイダーウェブ" />
   <o id="780" type="BloodPactRage" element="6" icon_id="351" mp_cost="118" recast_id="173" targets="32" tp_cost="0" range="2" prefix="/pet" en="Regal Gash" ja="リーガルガッシュ" />
-  <o id="781" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Infected Leech" ja="I.サッカー" />
-  <o id="782" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="8" prefix="/pet" en="Gloom Spray" ja="グルームスプレー" />
+  <o id="781" type="Monster" element="7" icon_id="47" mp_cost="1" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Infected Leech" ja="I.サッカー" />
+  <o id="782" type="Monster" element="7" icon_id="47" mp_cost="2" recast_id="102" targets="1" tp_cost="0" range="2" prefix="/pet" en="Gloom Spray" ja="グルームスプレー" />
 </job_abilities>

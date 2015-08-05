@@ -144,7 +144,7 @@ return {
     [1474] = {id=1474,en="Automaton Ranged Skill",ja="オートマトン射撃戦スキル",endesc="Adjust automaton's ranged skill by 2 points.",jadesc="能力値1でオートマトンの射撃戦スキルを2ポイントアップします。"},
     [1476] = {id=1476,en="Automaton Magic Skill",ja="オートマトン魔法戦スキル",endesc="Adjust automaton's magic skill by 2 points.",jadesc="能力値1でオートマトンの魔法戦スキルを2ポイントアップします。"},
     [1478] = {id=1478,en="Activate Recast",ja="アクティベート使用間隔",endesc="Shorten recast time by 40 seconds.",jadesc="能力値1で使用間隔を40秒短縮します。"},
-    [1480] = {id=1480,en="Repair Recast",ja="リペアー使用間隔",endesc="Shorten recast time by 6 seconds.",jadesc="能力値1で使用間隔を6秒短縮します。"},
+    [1480] = {id=1480,en="Repair Recast",ja="リペアー使用間隔",endesc="Shorten recast time by 3 seconds.",jadesc="能力値1で使用間隔を3秒短縮します。"},
     [1536] = {id=1536,en="Step Accuracy",ja="ステップ命中率",endesc="Increase the accuracy of Steps by 3.",jadesc="能力値1でステップの命中率を+3します。"},
     [1538] = {id=1538,en="Haste Samba Effect",ja="ヘイストサンバ効果",endesc="Increase the effect of Haste Samba by 1.",jadesc="能力値1でヘイストサンバの効果を+1します。"},
     [1540] = {id=1540,en="Reverse Flourish Effect",ja="R.フラリッシュ効果",endesc="Increase TP gained via Reverse Flourish by 30.",jadesc="能力値1でR.フラリッシュ発動時のTP変換量を+30します。"},

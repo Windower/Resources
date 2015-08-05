@@ -251,7 +251,6 @@
   <o id="2214" en="Einherjar" ja="エインヘリヤル" />
   <o id="2215" en="Grip" ja="グリップ" />
   <o id="2216" en="Pankration" ja="パンクラティオン" />
-  <o id="2219" en="FP" ja="FP" />
   <o id="2220" en="Kamp Kweh" ja="チョコボの集い" />
   <o id="2222" en="Campaign" ja="カンパニエ" />
   <o id="2223" en="Allied Notes" ja="連合軍戦績" />
@@ -542,6 +541,9 @@
   <o id="3510" en="/bstpet" ja="/bstpet" />
   <o id="3511" en="/targetcharaeffect" ja="/targetcharaeffect" />
   <o id="3512" en="/sitchair" ja="/sitchair" />
+  <o id="3513" en="/statusparty" ja="/statusparty" />
+  <o id="3514" en="/focustarget" ja="/focustarget" />
+  <o id="3515" en="/groundtargetst" ja="/groundtargetst" />
   <o id="3584" en="Locations" ja="イチ" />
   <o id="3585" en="This way" ja="こっち" />
   <o id="3586" en="That way" ja="そっち" />
@@ -2271,6 +2273,7 @@
   <o id="10008" en="Escha - Zi'Tah" ja="エスカ-ジ・タ" />
   <o id="10009" en="Everbloom Hollow" ja="常花の石窟" />
   <o id="10010" en="The Eldieme Necropolis [S]" ja="エルディーム古墳〔Ｓ〕" />
+  <o id="10011" en="Escha - Ru'Aun" ja="エスカ-ル・オン" />
   <o id="10012" en="Bastok Markets [S]" ja="バストゥーク商業区〔Ｓ〕" />
   <o id="10014" en="North Gustaberg [S]" ja="北グスタベルグ〔Ｓ〕" />
   <o id="10016" en="Grauberg [S]" ja="グロウベルグ〔Ｓ〕" />

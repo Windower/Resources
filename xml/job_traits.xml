@@ -111,6 +111,6 @@
   <o id="122" element="2" icon_id="42" targets="0" range="0" en="Sleight of Sword" ja="スライトソード" />
   <o id="123" element="6" icon_id="46" targets="0" range="0" en="Daken" ja="打剣" />
   <o id="124" element="6" icon_id="46" targets="0" range="0" en="Superior" ja="スペリア" />
-  <o id="125" element="6" icon_id="46" targets="0" range="0" en="Magic Accuracy Bonus" ja="魔法命中率アップ" />
-  <o id="126" element="7" icon_id="47" targets="0" range="0" en="Magic Evasion Bonus" ja="魔法回避率アップ" />
+  <o id="125" element="6" icon_id="46" targets="0" range="0" en="Magic Acc. Bonus" ja="魔法命中率アップ" />
+  <o id="126" element="7" icon_id="47" targets="0" range="0" en="Magic Eva. Bonus" ja="魔法回避率アップ" />
 </job_traits>

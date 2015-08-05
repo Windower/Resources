@@ -583,12 +583,13 @@ return {
     [594] = {id=594,en="Rainstorm",ja="豪雨の陣II",enl="Rainstorm",jal="豪雨の陣II"},
     [595] = {id=595,en="Aurorastorm",ja="極光の陣II",enl="Aurorastorm",jal="極光の陣II"},
     [596] = {id=596,en="Voidstorm",ja="妖霧の陣II",enl="Voidstorm",jal="妖霧の陣II"},
-    [597] = {id=597,en="Inundation",ja="イナンデーション",enl="Inundation",jal="イナンデーション"},
+    [597] = {id=597,en="Inundation",ja="イナンデーション",enl="innundated",jal="イナンデーション"},
     [598] = {id=598,en="Cascade",ja="カスケード",enl="Cascade",jal="カスケード"},
     [599] = {id=599,en="Consume Mana",ja="コンスームマナ",enl="Consume Mana",jal="コンスームマナ"},
     [600] = {id=600,en="Runeist's Roll",ja="ルーニストロール",enl="Runeist's Roll",jal="ルーニストロール"},
     [601] = {id=601,en="Crooked Cards",ja="クルケッドカード",enl="Crooked Cards",jal="クルケッドカード"},
     [602] = {id=602,en="Vorseal",ja="神符",enl="Vorseal",jal="神符"},
+    [603] = {id=603,en="Elvorseal",ja="祈祷神符",enl="Elvorseal",jal="祈祷神符"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

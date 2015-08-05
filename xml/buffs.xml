@@ -582,10 +582,11 @@
   <o id="594" en="Rainstorm" enl="Rainstorm" ja="豪雨の陣II" jal="豪雨の陣II" />
   <o id="595" en="Aurorastorm" enl="Aurorastorm" ja="極光の陣II" jal="極光の陣II" />
   <o id="596" en="Voidstorm" enl="Voidstorm" ja="妖霧の陣II" jal="妖霧の陣II" />
-  <o id="597" en="Inundation" enl="Inundation" ja="イナンデーション" jal="イナンデーション" />
+  <o id="597" en="Inundation" enl="innundated" ja="イナンデーション" jal="イナンデーション" />
   <o id="598" en="Cascade" enl="Cascade" ja="カスケード" jal="カスケード" />
   <o id="599" en="Consume Mana" enl="Consume Mana" ja="コンスームマナ" jal="コンスームマナ" />
   <o id="600" en="Runeist's Roll" enl="Runeist's Roll" ja="ルーニストロール" jal="ルーニストロール" />
   <o id="601" en="Crooked Cards" enl="Crooked Cards" ja="クルケッドカード" jal="クルケッドカード" />
   <o id="602" en="Vorseal" enl="Vorseal" ja="神符" jal="神符" />
+  <o id="603" en="Elvorseal" enl="Elvorseal" ja="祈祷神符" jal="祈祷神符" />
 </buffs>

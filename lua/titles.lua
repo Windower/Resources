@@ -941,9 +941,19 @@ return {
     [945] = {id=945,en="Lupine Liquidator",ja="ルーパイン　リクィデーター"},
     [946] = {id=946,en="Ruby Repulser",ja="ルビー　リパルサー"},
     [947] = {id=947,en="Devil's Demise",ja="デヴィル　ディマイズ"},
+    [948] = {id=948,en="Custodian of Ulbuka",ja="カストーディアン　オブ　ウルブカ"},
+    [949] = {id=949,en="Azi Dahaka Annihilator",ja="アジダハーカ　アナイアレーター"},
+    [950] = {id=950,en="Naga Raja Nullifier",ja="ナーガラージャ　ナリファイヤー"},
+    [952] = {id=952,en="Pakicet Pacifier",ja="パキケタス　パシファイヤー"},
+    [953] = {id=953,en="Duke Vepar Vanquisher",ja="デュークヴェパー　ヴァンキシャー"},
+    [954] = {id=954,en="Vir'ava Vegetator",ja="ヴィラーヴァ　ヴェジテーター"},
     [972] = {id=972,en="Assistant Extraordinaire",ja="最高の助手"},
     [973] = {id=973,en="Exalted Fisherman",ja="釣神"},
+    [974] = {id=974,en="Sauce Supreme",ja="タルタル★ソース・いっぱしマネージャー"},
     [975] = {id=975,en="Fish Whisperer",ja="一竿入魂の太公望"},
+    [976] = {id=976,en="Abyssal Purveyor",ja="深淵を覗く者"},
+    [977] = {id=977,en="Banisher of the Profane",ja="享楽と悪意を退けし者"},
+    [978] = {id=978,en="Spirit Seeker",ja="魂の眼を持つ者"},
 }, {"id", "en", "ja"}
 
 --[[
