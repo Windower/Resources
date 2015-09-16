@@ -590,6 +590,7 @@ return {
     [601] = {id=601,en="Crooked Cards",ja="クルケッドカード",enl="Crooked Cards",jal="クルケッドカード"},
     [602] = {id=602,en="Vorseal",ja="神符",enl="Vorseal",jal="神符"},
     [603] = {id=603,en="Elvorseal",ja="祈祷神符",enl="Elvorseal",jal="祈祷神符"},
+    [604] = {id=604,en="Mighty Guard",ja="マイティガード",enl="mightly guarded",jal="マイティガード"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

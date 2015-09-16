@@ -1000,7 +1000,7 @@
   <o id="1264" en="Turbofan" ja="ターボファン" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1265" en="Smoke Discharger" ja="スモークディスチャージャー" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1266" en="High-Tension Discharger" ja="HTディスチャージャー" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
-  <o id="1267" en="Hydro Canon" ja="ハイドロキャノン" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
+  <o id="1267" en="Hydro Cannon" ja="ハイドロキャノン" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1268" en="Nuclear Waste" ja="ニュークリアウェースト" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1269" en="Chemical Bomb" ja="ケミカルボム" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
   <o id="1270" en="Particle Shield" ja="パーティクルシールド" element="6" icon_id="46" targets="32" tp_cost="9999" monster_level="-1" range="0" prefix="/monsterskill" />
@@ -3001,8 +3001,8 @@
   <o id="3580" en="Harmonic Displacement" ja="ハーモニックディスプレイスメント" />
   <o id="3581" en="Sight Unseen" ja="サイトアンシーン" />
   <o id="3582" en="Darkest Hour" ja="ダーケストアワー" />
-  <o id="3583" en="Dread" ja="アンシーシングドレッド" />
-  <o id="3584" en="Awe" ja="ディグニファイアウ" />
+  <o id="3583" en="Unceasing Dread" ja="アンシーシングドレッド" />
+  <o id="3584" en="Dignified Awe" ja="ディグニファイアウ" />
   <o id="3585" en="Naakual's Vengeance" ja="ナークアルヴェンジャンス" />
   <o id="3590" en="Daybreak" ja="デイブレイク" />
   <o id="3591" en="Tartaric Sigil" ja="タルタリックシギル" />
@@ -3068,6 +3068,55 @@
   <o id="3670" en="Heliovoid" ja="ヒリオヴォイド" />
   <o id="3671" en="Deep Sea Dirge" ja="ディープシーダージ" />
   <o id="3672" en="Illustrious Aid" ja="イラストリアスアイド" />
+  <o id="3676" en="Vehement Resolution" ja="ヴェヒーメントレゾリューション" />
+  <o id="3677" en="Camaraderie of the Crevasse" ja="クレバスカマラデリー" />
+  <o id="3678" en="Into the Light" ja="インツーライト" />
+  <o id="3679" en="Arduous Decision" ja="アーデュアス・ディシジョン" />
+  <o id="3680" en="12 Blades of Remorse" ja="トゥウェルブブレイドリモース" />
+  <o id="3684" en="Aurous Charge" ja="オーラス・チャージ" />
+  <o id="3685" en="Howling Gust" ja="ハウリング・ガスト" />
+  <o id="3686" en="Righteous Rasp" ja="ライチャス・ラスプ" />
+  <o id="3687" en="Starward Yowl" ja="スターワード・ヤウル" />
+  <o id="3688" en="Stalking Prey" ja="ストーキング・プレー" />
+  <o id="3689" en="Shuffle" ja="シャッフル" />
+  <o id="3690" en="Double Down" ja="ダブルダウン" />
+  <o id="3691" en="Bludgeon" ja="メッタ打ち" />
+  <o id="3692" en="Deal Out" ja="ディールアウト" />
+  <o id="3697" en="Ascension" ja="アセンション" />
+  <o id="3698" en="Descension" ja="デセンション" />
+  <o id="3699" en="Expunge Magic" ja="エクスパンジマジック" />
+  <o id="3700" en="Harmonic Displacement" ja="ハーモニックディスプレイスメント" />
+  <o id="3701" en="Sight Unseen" ja="サイトアンシーン" />
+  <o id="3702" en="Darkest Hour" ja="ダーケストアワー" />
+  <o id="3703" en="Unceasing Dread" ja="アンシーシングドレッド" />
+  <o id="3704" en="Dignified Awe" ja="ディグニファイアウ" />
+  <o id="3705" en="Naakual's Vengeance" ja="ナークアルヴェンジャンス" />
+  <o id="3706" en="Cross Reaver" ja="絶双十悶刃" />
+  <o id="3707" en="Circle Blade" ja="サークルブレード" />
+  <o id="3708" en="Swift Blade" ja="スウィフトブレード" />
+  <o id="3709" en="Chant du Cygne" ja="シャンデュシニュ" />
+  <o id="3710" en="Arrogance Incarnate" ja="アロガンズインカーネイト" />
+  <o id="3711" en="Vorpal Blade" ja="ボーパルブレード" />
+  <o id="3712" en="Dominion Slash" ja="ドミニオンスラッシュ" />
+  <o id="3713" en="Chant du Cygne" ja="シャンデュシニュ" />
+  <o id="3714" en="Shield Strike" ja="シールドストライク" />
+  <o id="3715" en="Rampage" ja="ランページ" />
+  <o id="3716" en="Calamity" ja="カラミティ" />
+  <o id="3717" en="Havoc Spiral" ja="ハボックスパイラル" />
+  <o id="3718" en="Cloudsplitter" ja="クラウドスプリッタ" />
+  <o id="3719" en="Spinning Scythe" ja="スピニングサイス" />
+  <o id="3720" en="Amon Drive" ja="アモンドライブ" />
+  <o id="3721" en="Guillotine" ja="ギロティン" />
+  <o id="3722" en="Tachi: Yukikaze" ja="七之太刀・雪風" />
+  <o id="3723" en="Tachi: Gekko" ja="八之太刀・月光" />
+  <o id="3724" en="Dragonfall" ja="亢竜天鎚落" />
+  <o id="3725" en="Tachi: Kasha" ja="九之太刀・花車" />
+  <o id="3726" en="Tachi: Fudo" ja="祖之太刀・不動" />
+  <o id="3727" en="Disorienting Waul" ja="魂の咆哮" />
+  <o id="3728" en="Arrogance Incarnate" ja="アロガンズインカーネイト" />
+  <o id="3729" en="Amon Drive" ja="アモンドライブ" />
+  <o id="3730" en="Self-Destruct" ja="自爆" />
+  <o id="3731" en="Self-Destruct" ja="自爆" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />

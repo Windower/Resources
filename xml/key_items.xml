@@ -2591,6 +2591,15 @@
   <o id="2694" en="white adamantoise memento" ja="白アダマンタスの思い出" category="Permanent Key Items" />
   <o id="2695" en="ferromantoise memento" ja="フェロマンタスの思い出" category="Permanent Key Items" />
   <o id="2696" en="great ferromantoise memento" ja="大フェロマンタスの思い出" category="Permanent Key Items" />
+  <o id="2697" en="cluster memento" ja="クラスターの思い出" category="Permanent Key Items" />
+  <o id="2698" en="bomb memento" ja="ボムの思い出" category="Permanent Key Items" />
+  <o id="2699" en="djinn memento" ja="ジンの思い出" category="Permanent Key Items" />
+  <o id="2700" en="snoll memento" ja="スノールの思い出" category="Permanent Key Items" />
+  <o id="2701" en="behemoth cub memento" ja="ベビーモスの思い出" category="Permanent Key Items" />
+  <o id="2702" en="behemoth memento" ja="ベヒーモスの思い出" category="Permanent Key Items" />
+  <o id="2703" en="king behemoth memento" ja="キングベヒーモスの思い出" category="Permanent Key Items" />
+  <o id="2704" en="elasmoth memento" ja="エラスモスの思い出" category="Permanent Key Items" />
+  <o id="2705" en="skormoth memento" ja="スコーモスの思い出" category="Permanent Key Items" />
   <o id="2716" en="Cheer: Lamb" ja="チャチャルンの応援：子羊" category="Temporary Key Items" />
   <o id="2717" en="Cheer: Sheep" ja="チャチャルンの応援：大羊" category="Temporary Key Items" />
   <o id="2718" en="Cheer: Karakul" ja="チャチャルンの応援：カラクール" category="Temporary Key Items" />
@@ -2646,6 +2655,15 @@
   <o id="2768" en="Cheer: White Adamantoise" ja="チャチャルンの応援：白アダマンタス" category="Temporary Key Items" />
   <o id="2769" en="Cheer: Ferromantoise" ja="チャチャルンの応援：フェロマンタス" category="Temporary Key Items" />
   <o id="2770" en="Cheer: Great Ferromantoise" ja="チャチャルンの応援：大フェロマンタス" category="Temporary Key Items" />
+  <o id="2771" en="Cheer: Cluster" ja="チャチャルンの応援：クラスター" category="Temporary Key Items" />
+  <o id="2772" en="Cheer: Bomb" ja="チャチャルンの応援：ボム" category="Temporary Key Items" />
+  <o id="2773" en="Cheer: Djinn" ja="チャチャルンの応援：ジン" category="Temporary Key Items" />
+  <o id="2774" en="Cheer: Snoll" ja="チャチャルンの応援：スノール" category="Temporary Key Items" />
+  <o id="2775" en="Cheer: Behemoth Cub" ja="チャチャルンの応援：ベビーモス" category="Temporary Key Items" />
+  <o id="2776" en="Cheer: Behemoth" ja="チャチャルンの応援：ベヒーモス" category="Temporary Key Items" />
+  <o id="2777" en="Cheer: King Behemoth" ja="チャチャルンの応援：キングベヒーモス" category="Temporary Key Items" />
+  <o id="2778" en="Cheer: Elasmoth" ja="チャチャルンの応援：エラスモス" category="Temporary Key Items" />
+  <o id="2779" en="Cheer: Skormoth" ja="チャチャルンの応援：スコーモス" category="Temporary Key Items" />
   <o id="2790" en="sheet of conflict tunes" ja="オーケストリオン譜：ボスバトル" category="Permanent Key Items" />
   <o id="2791" en="sheet of Promathia tunes" ja="オーケストリオン譜：プロマシアの呪縛" category="Permanent Key Items" />
   <o id="2792" en="sheet of Adoulinian tunes" ja="オーケストリオン譜：アドゥリンの魔境" category="Permanent Key Items" />
@@ -2686,6 +2704,10 @@
   <o id="2827" en="decorative chair" ja="リビングチェア" category="Permanent Key Items" />
   <o id="2828" en="ornate stool" ja="オナースツール" category="Permanent Key Items" />
   <o id="2829" en="refined chair" ja="ノーブルチェア" category="Permanent Key Items" />
+  <o id="2830" en="portable container" ja="ポータブルコンテナ" category="Permanent Key Items" />
+  <o id="2831" en="chocobo chair" ja="チョコボチェア" category="Permanent Key Items" />
+  <o id="2832" en="Ephramadian throne" ja="イフラマドスローン" category="Permanent Key Items" />
+  <o id="2833" en="shadow throne" ja="シャドウスローン" category="Permanent Key Items" />
   <o id="2837" en="Reisen Shrine orb" ja="醴泉神社の勾玉" category="Permanent Key Items" />
   <o id="2838" en="&quot;Sakura and the Magicked Net&quot;" ja="『サクラちゃんと呪縛の手綱』" category="Permanent Key Items" />
   <o id="2839" en="reaper" ja="リーパー" category="Temporary Key Items" />
@@ -2694,8 +2716,10 @@
   <o id="2842" en="weathered Haverton hat" ja="烏騎士制式帽子" category="Temporary Key Items" />
   <o id="2843" en="lightsworm" ja="露光蟲" category="Temporary Key Items" />
   <o id="2844" en="&quot;Sakura's Excellent Adventure&quot;" ja="『サクラちゃんとクポフリートの秘宝』" category="Permanent Key Items" />
+  <o id="2845" en="&quot;Sakura and the Cactus Corps&quot;" ja="『サクラちゃんとサボテン兵団』" category="Permanent Key Items" />
   <o id="2847" en="Siren's plume" ja="セイレーンの風切り羽根" category="Temporary Key Items" />
   <o id="2854" en="Moghancement: Resist Virus" ja="モーグリの応援：レジストウィルス" category="Temporary Key Items" />
+  <o id="2855" en="Moghancement: Resist Curse" ja="モーグリの応援：レジストカーズ" category="Temporary Key Items" />
   <o id="2880" en="iridal core of the ruins" ja="イリダルコア【廃墟】" category="Temporary Key Items" />
   <o id="2881" en="iridal core of the tomb" ja="イリダルコア【龍王】" category="Temporary Key Items" />
   <o id="2882" en="iridal core of the pass" ja="イリダルコア【峠】" category="Temporary Key Items" />
@@ -2718,7 +2742,7 @@
   <o id="2903" en="Revetaur's horn" ja="レベターの角" category="Temporary Key Items" />
   <o id="2904" en="Ferrodon's scale" ja="フェロドンの鱗" category="Temporary Key Items" />
   <o id="2905" en="Gulltop's shell" ja="グールトップの甲羅" category="Temporary Key Items" />
-  <o id="2906" en="Yali's prey" ja="ヤーリの獲物" category="Temporary Key Items" />
+  <o id="2906" en="Vyala's prey" ja="ヴィヤーラの獲物" category="Temporary Key Items" />
   <o id="2907" en="Blazewing's pincer" ja="ブレイズウィングの鎌" category="Temporary Key Items" />
   <o id="2908" en="Coven's dust" ja="カヴンの粉末" category="Temporary Key Items" />
   <o id="2909" en="Pazuzu's blade hilt" ja="パズズの剣柄" category="Temporary Key Items" />
@@ -2744,10 +2768,10 @@
   <o id="2930" en="Khon's scepter" ja="コーンのセプター" category="Temporary Key Items" />
   <o id="2931" en="Met's ring" ja="メトの指輪" category="Temporary Key Items" />
   <o id="2932" en="Khun's crown" ja="クーンの王冠" category="Temporary Key Items" />
-  <o id="2933" en="Wasserspeir's horn" ja="ワッサーシュピールの角" category="Temporary Key Items" />
+  <o id="2933" en="Wasserspeier's horn" ja="ワッサーシュピールの角" category="Temporary Key Items" />
   <o id="2934" en="Emputa's wing" ja="エンプータの羽根" category="Temporary Key Items" />
   <o id="2935" en="Peirithoos's hoof" ja="ペリトスの蹄" category="Temporary Key Items" />
-  <o id="2936" en="Panna Cotta's gel" ja="パンナコッタのゼリー" category="Temporary Key Items" />
+  <o id="2936" en="Asida's gel" ja="アシーダのゼリー" category="Temporary Key Items" />
   <o id="2937" en="Tenodera's scythe" ja="テノデラの鎌" category="Temporary Key Items" />
   <o id="2938" en="Sava Savanovic's cape" ja="サーヴァサヴァノヴィッチのケープ" category="Temporary Key Items" />
   <o id="2939" en="Palila's talon" ja="パリラの鉤爪" category="Temporary Key Items" />
@@ -2756,12 +2780,43 @@
   <o id="2942" en="Amymone's tooth" ja="アミモネの歯" category="Temporary Key Items" />
   <o id="2943" en="Naphula's bracelet" ja="ナフーラのブレスレット" category="Temporary Key Items" />
   <o id="2944" en="Kammavaca's binding" ja="カマヴァカのとじ" category="Temporary Key Items" />
-  <o id="2945" en="Pakicut's blubber" ja="パキケトの脂肪" category="Temporary Key Items" />
+  <o id="2945" en="Pakecet's blubber" ja="パキケトの脂肪" category="Temporary Key Items" />
   <o id="2946" en="Duke Vepar's signet" ja="デュークヴェパーの印" category="Temporary Key Items" />
   <o id="2947" en="Vir'ava's stalk" ja="ヴィラーヴァの花梗" category="Temporary Key Items" />
+  <o id="2948" en="Byakko's Pride" ja="白虎の誇り" category="Temporary Key Items" />
+  <o id="2949" en="Genbu's Honor" ja="玄武の名誉" category="Temporary Key Items" />
+  <o id="2950" en="Seiryu's Nobility" ja="青龍の高潔さ" category="Temporary Key Items" />
+  <o id="2951" en="Suzaku's Benefaction" ja="朱雀の恩恵" category="Temporary Key Items" />
+  <o id="2952" en="Kirin's Fervor" ja="麒麟の熱意" category="Temporary Key Items" />
+  <o id="2953" en="Ark Angel HM's coat" ja="アークエンジェルHMのコート" category="Temporary Key Items" />
+  <o id="2954" en="Ark Angel TT's necklace" ja="アークエンジェルTTのネックレス" category="Temporary Key Items" />
+  <o id="2955" en="Ark Angel MR's buckle" ja="アークエンジェルMRのバックル" category="Temporary Key Items" />
+  <o id="2956" en="Ark Angel EV's sash" ja="アークエンジェルEVのサッシュ" category="Temporary Key Items" />
+  <o id="2957" en="Ark Angel GK's bangle" ja="アークエンジェルGKの装飾品" category="Temporary Key Items" />
   <o id="2958" en="most curious curio" ja="魔法人形「ワルノリくん」" category="Temporary Key Items" />
   <o id="2959" en="most confounding curio" ja="魔力切れした「ワルノリくん」" category="Temporary Key Items" />
   <o id="2960" en="macabre simulacrum" ja="髑髏蝶のシミューラクラム" category="Temporary Key Items" />
   <o id="2961" en="motionless plume" ja="動きを止めた風切り羽根" category="Temporary Key Items" />
   <o id="2962" en="guffawshroom" ja="ワライツボタケ" category="Temporary Key Items" />
+  <o id="2963" en="job gesture: geomancer" ja="ジョブエモーション：風水士" category="Permanent Key Items" />
+  <o id="2964" en="job gesture: rune fencer" ja="ジョブエモーション：魔導剣士" category="Permanent Key Items" />
+  <o id="2965" en="golden scope inginia" ja="黄金スコップ勲章" category="Permanent Key Items" />
+  <o id="2966" en="fabricated ward of impurity" ja="呪符【偽暴風】" category="Temporary Key Items" />
+  <o id="2967" en="fabricated ward of miasma" ja="呪符【偽猛毒】" category="Temporary Key Items" />
+  <o id="2968" en="fabricated ward of biting winds" ja="呪符【偽不浄】" category="Temporary Key Items" />
+  <o id="2969" en="fabricated ward of ashen wings" ja="呪符【偽冥翼】" category="Temporary Key Items" />
+  <o id="2970" en="fabricated ward of the false king" ja="呪符【偽冥王】" category="Temporary Key Items" />
+  <o id="2976" en="primary nazar" ja="第一の至徳" category="Temporary Key Items" />
+  <o id="2977" en="secondary nazar" ja="第二の至徳" category="Temporary Key Items" />
+  <o id="2978" en="tertiary nazar" ja="第三の至徳" category="Temporary Key Items" />
+  <o id="2979" en="quaternary nazar" ja="第四の至徳" category="Temporary Key Items" />
+  <o id="2980" en="quinary nazar" ja="第五の至徳" category="Temporary Key Items" />
+  <o id="2981" en="senary nazar" ja="第六の至徳" category="Temporary Key Items" />
+  <o id="2982" en="septenary nazar" ja="第七の至徳" category="Temporary Key Items" />
+  <o id="2983" en="octonary nazar" ja="第八の至徳" category="Temporary Key Items" />
+  <o id="2984" en="nonary nazar" ja="第九の至徳" category="Temporary Key Items" />
+  <o id="2985" en="denary nazar" ja="第十の至徳" category="Temporary Key Items" />
+  <o id="2986" en="primal nazar" ja="十一至徳" category="Temporary Key Items" />
+  <o id="2987" en="Feared One phantom gem" ja="ファントムクォーツ【畏我】" category="Temporary Key Items" />
+  <o id="2988" en="Dawn phantom gem" ja="ファントムクォーツ【男神】" category="Temporary Key Items" />
 </key_items>

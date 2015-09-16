@@ -29,6 +29,7 @@ return {
     [60] = {id=60,en="Fishing line break"},
     [61] = {id=61,en="Fishing monster catch"},
     [62] = {id=62,en="Fishing no catch or lost"},
+    [63] = {id=63,en="Sitchair"},
 }, {"id", "en"}
 
 --[[

@@ -544,6 +544,10 @@
   <o id="3513" en="/statusparty" ja="/statusparty" />
   <o id="3514" en="/focustarget" ja="/focustarget" />
   <o id="3515" en="/groundtargetst" ja="/groundtargetst" />
+  <o id="3516" en="/statustimer" ja="/statustimer" />
+  <o id="3517" en="/recruit" ja="/recruit" />
+  <o id="3518" en="/recruitlist" ja="/recruitlist" />
+  <o id="3519" en="/partyrequestcmd" ja="/partyrequestcmd" />
   <o id="3584" en="Locations" ja="イチ" />
   <o id="3585" en="This way" ja="こっち" />
   <o id="3586" en="That way" ja="そっち" />
