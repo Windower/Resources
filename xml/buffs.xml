@@ -590,4 +590,10 @@
   <o id="602" en="Vorseal" enl="Vorseal" ja="神符" jal="神符" />
   <o id="603" en="Elvorseal" enl="Elvorseal" ja="祈祷神符" jal="祈祷神符" />
   <o id="604" en="Mighty Guard" enl="mightly guarded" ja="マイティガード" jal="マイティガード" />
+  <o id="605" en="Gale Spikes" enl="Gale Spikes" ja="ゲイルスパイク" jal="ゲイルスパイク" />
+  <o id="606" en="Clod Spikes" enl="Clod Spikes" ja="クロッドスパイク" jal="クロッドスパイク" />
+  <o id="607" en="Glint Spikes" enl="Glint Spikes" ja="グリントスパイク" jal="グリントスパイク" />
+  <o id="608" en="Negate Virus" enl="Negate Virus" ja="ネゲートウィルス" jal="ネゲートウィルス" />
+  <o id="609" en="Negate Curse" enl="Negate Curse" ja="ネゲートカーズ" jal="ネゲートカーズ" />
+  <o id="610" en="Negate Charm" enl="Negate Charm" ja="ネゲートチャーム" jal="ネゲートチャーム" />
 </buffs>

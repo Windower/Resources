@@ -28,7 +28,7 @@
   <o id="25" en="The Hornsplitter" ja="ホーンスプリッター" />
   <o id="26" en="Tortoise Torturer" ja="トータストーチャラー" />
   <o id="27" en="Mon Cherry" ja="モン　チェリー" />
-  <o id="28" en="Behemoth Dethroner" ja="べヒーモス　デスローナー" />
+  <o id="28" en="Behemoth Dethroner" ja="ベヒーモス　デスローナー" />
   <o id="29" en="The Vivisector" ja="ビビセクター" />
   <o id="30" en="Dragon Asher" ja="ドラゴンアッシャー" />
   <o id="31" en="Expeditionary Trooper" ja="遠征軍遊撃隊員" />
@@ -743,7 +743,7 @@
   <o id="748" en="Supernal Savant" ja="スパーナルサバント" />
   <o id="749" en="Solar Sage" ja="ソーラーセージ" />
   <o id="750" en="Bolide Baron" ja="ボライドバロン" />
-  <o id="751" en="Moon Maven" ja="ムーンメ―ヴェン" />
+  <o id="751" en="Moon Maven" ja="ムーンメーヴェン" />
   <o id="752" en="Izyx Vexer" ja="イジックス　ヴェックサー" />
   <o id="753" en="Grannus Garroter" ja="グランナス　ガロッター" />
   <o id="754" en="Svaha Striker" ja="スヴァッハ　ストライカー" />
@@ -943,6 +943,7 @@
   <o id="948" en="Custodian of Ulbuka" ja="カストーディアン　オブ　ウルブカ" />
   <o id="949" en="Azi Dahaka Annihilator" ja="アジダハーカ　アナイアレーター" />
   <o id="950" en="Naga Raja Nullifier" ja="ナーガラージャ　ナリファイヤー" />
+  <o id="951" en="Quetzalcoatl Plucker" ja="ケツァルコアトル　プラッカー" />
   <o id="952" en="Pakecet Pacifier" ja="パキケト　パシファイヤー" />
   <o id="953" en="Duke Vepar Vanquisher" ja="デュークヴェパー　ヴァンキシャー" />
   <o id="954" en="Vir'ava Vegetator" ja="ヴィラーヴァ　ヴェジテーター" />
@@ -959,6 +960,10 @@
   <o id="965" en="Purger of the Warder" ja="番人を打ち破ったもの" />
   <o id="966" en="Conquerer of Fear" ja="コンカラー　オブ　フィアー" />
   <o id="967" en="Dawn's Delight" ja="ドーン　ディライト" />
+  <o id="968" en="Maju Mauler" ja="マジュー　モーラー" />
+  <o id="969" en="Yakshi Yanker" ja="ヤクシー　ヤンカー" />
+  <o id="970" en="Neak Nullifier" ja="ニーク　ナリファイア" />
+  <o id="971" en="Teles Terrifier" ja="テレス　リペラー" />
   <o id="972" en="Assistant Extraordinaire" ja="最高の助手" />
   <o id="973" en="Exalted Fisherman" ja="釣神" />
   <o id="974" en="Sauce Supreme" ja="タルタル★ソース・いっぱしマネージャー" />
@@ -967,4 +972,41 @@
   <o id="977" en="Banisher of the Profane" ja="享楽と悪意を退けし者" />
   <o id="978" en="Spirit Seeker" ja="魂の眼を持つ者" />
   <o id="979" en="One-Eyed Jack" ja="ピュラクモンの真実を知る者" />
+  <o id="980" en="Curator Culler" ja="キュレーター　カラー" />
+  <o id="981" en="Master Centurion" ja="ファイターマスター" />
+  <o id="982" en="Master Brawler" ja="テンプルマスター" />
+  <o id="983" en="Master Healer" ja="ヒーラーマスター" />
+  <o id="984" en="Master Wizard" ja="ウィザードマスター" />
+  <o id="985" en="Master Warlock" ja="ワーロックマスター" />
+  <o id="986" en="Master Rogue" ja="ローグマスター" />
+  <o id="987" en="Master Templar" ja="ガラントマスター" />
+  <o id="988" en="Master Soulstealer" ja="カオスマスター" />
+  <o id="989" en="Master Tamer" ja="ビーストマスター" />
+  <o id="990" en="Master Lyricist" ja="コラルマスター" />
+  <o id="991" en="Master Hunter" ja="ハンターマスター" />
+  <o id="992" en="Master Mononofu" ja="モノノフマスター" />
+  <o id="993" en="Master Shinobi" ja="シノビマスター" />
+  <o id="994" en="Master Hussar" ja="ドラケンマスター" />
+  <o id="995" en="Master Evoker" ja="エボカーマスター" />
+  <o id="996" en="Master Magus" ja="メガスマスター" />
+  <o id="997" en="Master Privateer" ja="コルセアマスター" />
+  <o id="998" en="Master Puppeteer" ja="パペトリマスター" />
+  <o id="999" en="Master Headliner" ja="ダンサーマスター" />
+  <o id="1000" en="Master Academic" ja="スカラーマスター" />
+  <o id="1001" en="Master Naturalist" ja="ジオマスター" />
+  <o id="1002" en="Master Runeist" ja="ルーニストマスター" />
+  <o id="1003" en="Zerde Zapper" ja="ゼルデ　ザッパー" />
+  <o id="1004" en="Vinipata Vanquisher" ja="ヴィニパタ　ヴァンクィシャー" />
+  <o id="1005" en="Schah Scraper" ja="シャー　スクレーパー" />
+  <o id="1006" en="Albumen Aggrivator" ja="アルブメン　アグリヴェーター" />
+  <o id="1007" en="Onychophora Obliterator" ja="オニコフォロア　オブリテレーター" />
+  <o id="1008" en="Erinys Engulfer" ja="エリニス　エンガルファー" />
+  <o id="1044" en="Vegetable Hero" ja="カリカリ救世主" />
+  <o id="1045" en="Contributer from the Shadows" ja="陰の貢献者なのん" />
+  <o id="1046" en="The Decider" ja="裁定者" />
+  <o id="1047" en="The Ascended" ja="神となりし者" />
+  <o id="1048" en="The Savior of Vana'diel" ja="ヴァナ・ディールの救世主" />
+  <o id="1049" en="Blessed by the Avatars" ja="大いなる力の継承者" />
+  <o id="1050" en="Seer of Songs" ja="星唄に乗せて歩み続ける者" />
+  <o id="1051" en="The Eternal Wind" ja="悠久の風" />
 </titles>

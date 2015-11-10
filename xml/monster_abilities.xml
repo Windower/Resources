@@ -2557,7 +2557,7 @@
   <o id="3040" en="Abdominal Assault" ja="アブドメンアッサルト" />
   <o id="3041" en="Mandibular Massacre" ja="マンディブルマッサカー" />
   <o id="3043" en="Whirling Inferno" ja="ワーリングインフェルノ" />
-  <o id="3044" en="Benumbing Blaze" ja="べナムブレイズ" />
+  <o id="3044" en="Benumbing Blaze" ja="ベナムブレイズ" />
   <o id="3045" en="Concentric Pulse" ja="コンセントリクパルス" />
   <o id="3046" en="Foul Waters" ja="ファウルウォーター" />
   <o id="3047" en="Pestilent Plume" ja="ペステレントプルーム" />
@@ -3117,6 +3117,61 @@
   <o id="3729" en="Amon Drive" ja="アモンドライブ" />
   <o id="3730" en="Self-Destruct" ja="自爆" />
   <o id="3731" en="Self-Destruct" ja="自爆" />
+  <o id="3732" en="Amatsu: Fuga" ja="天つ水影流・風雅" />
+  <o id="3733" en="Amatsu: Kyori" ja="天つ水影流・鏡裏" />
+  <o id="3734" en="Amatsu: Hanadoki" ja="天つ水影流・花時" />
+  <o id="3735" en="Amatsu: Choun" ja="天つ水影流・鳥雲" />
+  <o id="3736" en="Amatsu: Gachirin" ja="天つ水影流・月輪" />
+  <o id="3737" en="Amatsu: Suien" ja="天つ水影流・水烟" />
+  <o id="3738" en="Rise From Ashes" ja="ライズフロムアシェズ" />
+  <o id="3740" en="Final Exam" ja="ファイナルエクザム" />
+  <o id="3741" en="Doctor's Orders" ja="ドクターオーダー" />
+  <o id="3742" en="Empirical Research" ja="エンピリカルリサーチ" />
+  <o id="3743" en="Lesson in Pain" ja="レッスンインペイン" />
+  <o id="3744" en="Peccant Typhoon" ja="ペカントタイフーン" />
+  <o id="3745" en="Censure" ja="センシャー" />
+  <o id="3746" en="Osmotic Wave" ja="オズモチックウェーブ" />
+  <o id="3750" en="Shearing Undulation" ja="シーリングアンデュレーション" />
+  <o id="3751" en="Celling Rupture" ja="カリングラプチャー" />
+  <o id="3752" en="Destitution" ja="デスティトゥーション" />
+  <o id="3753" en="Essence Devour" ja="エッセンスディヴァラー" />
+  <o id="3754" en="Primordial Surge" ja="プリモーディアルサージ" />
+  <o id="3755" en="Waning Vigor" ja="ワーニングヴィガー" />
+  <o id="3756" en="Expunge" ja="エクスパンジ" />
+  <o id="3757" en="Disembowel" ja="ディスエンバウエル" />
+  <o id="3758" en="Vertigo" ja="ヴァーティゴ" />
+  <o id="3759" en="Extirpating Salvo" ja="エクティアパーチングサルヴォ" />
+  <o id="3760" en="Beguiling Gaze" ja="ビガイリングゲイズ" />
+  <o id="3761" en="Backdraft" ja="バックドラフト" />
+  <o id="3762" en="Cordon of Apathy" ja="コードンオブアパシー" />
+  <o id="3763" en="Discordant Note" ja="ディスコーダントノート" />
+  <o id="3764" en="Telsonic Tempest" ja="テルソニックテンペスト" />
+  <o id="3765" en="Memento Mori" ja="メメントモーリ" />
+  <o id="3766" en="Death Trap" ja="デストラップ" />
+  <o id="3767" en="Mog Shrapnel" ja="モグシュラプネル" />
+  <o id="3768" en="Mog Bomb" ja="モグボム" />
+  <o id="3769" en="Flowerpot" ja="フラワーポット" />
+  <o id="3770" en="Somnic Shell" ja="ソムニックシェル" />
+  <o id="3771" en="Absolute Terror" ja="アブソルートテラー" />
+  <o id="3772" en="Horrid Roar" ja="ホリッドロア" />
+  <o id="3773" en="Cyclone Wing" ja="サイクロンウィング" />
+  <o id="3774" en="Sable Breath" ja="セイブルブレス" />
+  <o id="3775" en="Cyclone Wing" ja="サイクロンウィング" />
+  <o id="3776" en="Touchdown" ja="タッチダウン" />
+  <o id="3777" en="Absolute Terror" ja="アブソルートテラー" />
+  <o id="3778" en="Horrid Roar" ja="ホリッドロア" />
+  <o id="3779" en="Gregale Wing" ja="グレガーレウィング" />
+  <o id="3780" en="Glacial Breath" ja="グレイシャルブレス" />
+  <o id="3781" en="Gregale Wing" ja="グレガーレウィング" />
+  <o id="3782" en="Touchdown" ja="タッチダウン" />
+  <o id="3783" en="Absolute Terror" ja="アブソルートテラー" />
+  <o id="3784" en="Horrid Roar" ja="ホリッドロア" />
+  <o id="3785" en="Tebbad Wing" ja="テバッドウィング" />
+  <o id="3786" en="Fiery Breath" ja="ファイリィブレス" />
+  <o id="3787" en="Tebbad Wing" ja="テバッドウィング" />
+  <o id="3788" en="Touchdown" ja="タッチダウン" />
+  <o id="3789" en="Charm" ja="あやつる" />
+  <o id="3790" en="Mog Shrapnel" ja="モグシュラプネル" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
