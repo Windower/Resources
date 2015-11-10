@@ -279,6 +279,9 @@ return {
     [285] = {id=285,en="Feretory",ja="魂の聖櫃",search="Feretory"},
     [288] = {id=288,en="Escha - Zi'Tah",ja="エスカ-ジ・タ",search="EschaZiTah"},
     [289] = {id=289,en="Escha - Ru'Aun",ja="エスカ-ル・オン",search="EschaRuAun"},
+    [290] = {id=290,en="Desuetia - Empyreal Paradox",ja="デスエチア-天象の鎖",search="DesParadox"},
+    [291] = {id=291,en="Reisenjima",ja="醴泉島",search="Reisenjima"},
+    [293] = {id=293,en="Reisenjima Sanctorium",ja="醴泉島の祠",search="ReisenSanc"},
 }, {"id", "en", "ja", "search"}
 
 --[[

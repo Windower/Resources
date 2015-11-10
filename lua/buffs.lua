@@ -591,6 +591,12 @@ return {
     [602] = {id=602,en="Vorseal",ja="神符",enl="Vorseal",jal="神符"},
     [603] = {id=603,en="Elvorseal",ja="祈祷神符",enl="Elvorseal",jal="祈祷神符"},
     [604] = {id=604,en="Mighty Guard",ja="マイティガード",enl="mightly guarded",jal="マイティガード"},
+    [605] = {id=605,en="Gale Spikes",ja="ゲイルスパイク",enl="Gale Spikes",jal="ゲイルスパイク"},
+    [606] = {id=606,en="Clod Spikes",ja="クロッドスパイク",enl="Clod Spikes",jal="クロッドスパイク"},
+    [607] = {id=607,en="Glint Spikes",ja="グリントスパイク",enl="Glint Spikes",jal="グリントスパイク"},
+    [608] = {id=608,en="Negate Virus",ja="ネゲートウィルス",enl="Negate Virus",jal="ネゲートウィルス"},
+    [609] = {id=609,en="Negate Curse",ja="ネゲートカーズ",enl="Negate Curse",jal="ネゲートカーズ"},
+    [610] = {id=610,en="Negate Charm",ja="ネゲートチャーム",enl="Negate Charm",jal="ネゲートチャーム"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

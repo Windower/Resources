@@ -29,7 +29,16 @@ return {
     [60] = {id=60,en="Fishing line break"},
     [61] = {id=61,en="Fishing monster catch"},
     [62] = {id=62,en="Fishing no catch or lost"},
-    [63] = {id=63,en="Sitchair"},
+    [63] = {id=63,en="Sitchair 0"},
+    [64] = {id=64,en="Sitchair 1"},
+    [65] = {id=65,en="Sitchair 2"},
+    [66] = {id=66,en="Sitchair 3"},
+    [67] = {id=67,en="Sitchair 4"},
+    [68] = {id=68,en="Sitchair 5"},
+    [69] = {id=69,en="Sitchair 6"},
+    [70] = {id=70,en="Sitchair 7"},
+    [71] = {id=71,en="Sitchair 8"},
+    [72] = {id=72,en="Sitchair 9"},
 }, {"id", "en"}
 
 --[[

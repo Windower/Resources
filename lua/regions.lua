@@ -55,6 +55,7 @@ return {
     [51] = {id=51,en="East Ulbuka Territory",ja="東ウルブカ地方"},
     [52] = {id=52,en="Ra'Kaznar",ja="ラ・カザナル"},
     [53] = {id=53,en="Escha",ja="エスカ"},
+    [54] = {id=54,en="Far East",ja="ひんがし"},
 }, {"id", "en", "ja"}
 
 --[[
