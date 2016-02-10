@@ -2732,9 +2732,11 @@
   <o id="2831" en="chocobo chair" ja="チョコボチェア" category="Permanent Key Items" />
   <o id="2832" en="Ephramadian throne" ja="イフラマドスローン" category="Permanent Key Items" />
   <o id="2833" en="shadow throne" ja="シャドウスローン" category="Permanent Key Items" />
+  <o id="2834" en="leaf bench" ja="リーフベンチ" category="Permanent Key Items" />
+  <o id="2835" en="astral cube" ja="アストラルキューブ" category="Permanent Key Items" />
   <o id="2837" en="Reisenjima Sanctorium orb" ja="醴泉神社の勾玉" category="Temporary Key Items" />
   <o id="2838" en="&quot;Sakura and the Magicked Net&quot;" ja="『サクラちゃんと呪縛の手綱』" category="Permanent Key Items" />
-  <o id="2839" en="reaper" ja="リーパー" category="Temporary Key Items" />
+  <o id="2839" en="reaper" ja="リーパー" category="Geas Fete" />
   <o id="2840" en="forgotten memory" ja="失われた記録" category="Temporary Key Items" />
   <o id="2841" en="＿" ja="＿" category="Temporary Key Items" />
   <o id="2842" en="weathered Haverton hat" ja="烏騎士制式帽子" category="Temporary Key Items" />
@@ -2760,70 +2762,70 @@
   <o id="2891" en="&quot;Rhapsody in Puce&quot;" ja="星唄の煌めき【八奏】" category="Permanent Key Items" />
   <o id="2892" en="&quot;Rhapsody in Ochre&quot;" ja="星唄の煌めき【九奏】" category="Permanent Key Items" />
   <o id="2893" en="&quot;Scintillating Rhapsody&quot;" ja="星唄の煌めき【終奏】" category="Permanent Key Items" />
-  <o id="2894" en="tribulens" ja="トリビュレンズ" category="Temporary Key Items" />
-  <o id="2895" en="Wepwawet's tooth" ja="ウェプワウェトの歯" category="Temporary Key Items" />
-  <o id="2896" en="Lydia's vine" ja="リディアの蔓" category="Temporary Key Items" />
-  <o id="2897" en="Aglaophotis bud" ja="アグラフォーティスの芽" category="Temporary Key Items" />
-  <o id="2898" en="Tangata's wing" ja="タンガタの羽根" category="Temporary Key Items" />
-  <o id="2899" en="Vidala's claw" ja="ヴィダラの爪" category="Temporary Key Items" />
-  <o id="2900" en="Gestalt's retina" ja="ゲスタルトの網膜" category="Temporary Key Items" />
-  <o id="2901" en="Angrboda's necklace" ja="アングルボーダのネックレス" category="Temporary Key Items" />
-  <o id="2902" en="Cunnast's talon" ja="クナストの鉤爪" category="Temporary Key Items" />
-  <o id="2903" en="Revetaur's horn" ja="レベターの角" category="Temporary Key Items" />
-  <o id="2904" en="Ferrodon's scale" ja="フェロドンの鱗" category="Temporary Key Items" />
-  <o id="2905" en="Gulltop's shell" ja="グールトップの甲羅" category="Temporary Key Items" />
-  <o id="2906" en="Vyala's prey" ja="ヴィヤーラの獲物" category="Temporary Key Items" />
-  <o id="2907" en="Blazewing's pincer" ja="ブレイズウィングの鎌" category="Temporary Key Items" />
-  <o id="2908" en="Coven's dust" ja="カヴンの粉末" category="Temporary Key Items" />
-  <o id="2909" en="Pazuzu's blade hilt" ja="パズズの剣柄" category="Temporary Key Items" />
-  <o id="2910" en="Wrathare's carrot" ja="ラースヘアの人参" category="Temporary Key Items" />
-  <o id="2911" en="Ionos's webbing" ja="アイオノスの巣" category="Temporary Key Items" />
-  <o id="2912" en="Sandy's lasher" ja="サンディーの蔓" category="Temporary Key Items" />
-  <o id="2913" en="Nosoi's feather" ja="ノソイの羽根" category="Temporary Key Items" />
-  <o id="2914" en="Brittilis's ring" ja="ブリタリスの指輪" category="Temporary Key Items" />
-  <o id="2915" en="Kamohoalii's fin" ja="カモホアリィのヒレ" category="Temporary Key Items" />
-  <o id="2916" en="Umdhlebi's flower" ja="ウムドレビの花" category="Temporary Key Items" />
-  <o id="2917" en="Fleetstalker's claw" ja="フリートストーカーの爪" category="Temporary Key Items" />
-  <o id="2918" en="Shockmaw's blubber" ja="ショックモーの脂肪" category="Temporary Key Items" />
-  <o id="2919" en="Urmahlullu's armor" ja="ウルマフールの鎧" category="Temporary Key Items" />
-  <o id="2920" en="eschan urn" ja="エスカアーン" category="Permanent Key Items" />
-  <o id="2921" en="eschan cellar" ja="エスカンセラー" category="Permanent Key Items" />
-  <o id="2922" en="eschan nef" ja="エスカンネフ" category="Permanent Key Items" />
+  <o id="2894" en="tribulens" ja="トリビュレンズ" category="Geas Fete" />
+  <o id="2895" en="Wepwawet's tooth" ja="ウェプワウェトの歯" category="Geas Fete" />
+  <o id="2896" en="Lydia's vine" ja="リディアの蔓" category="Geas Fete" />
+  <o id="2897" en="Aglaophotis bud" ja="アグラフォーティスの芽" category="Geas Fete" />
+  <o id="2898" en="Tangata's wing" ja="タンガタの羽根" category="Geas Fete" />
+  <o id="2899" en="Vidala's claw" ja="ヴィダラの爪" category="Geas Fete" />
+  <o id="2900" en="Gestalt's retina" ja="ゲスタルトの網膜" category="Geas Fete" />
+  <o id="2901" en="Angrboda's necklace" ja="アングルボーダのネックレス" category="Geas Fete" />
+  <o id="2902" en="Cunnast's talon" ja="クナストの鉤爪" category="Geas Fete" />
+  <o id="2903" en="Revetaur's horn" ja="レベターの角" category="Geas Fete" />
+  <o id="2904" en="Ferrodon's scale" ja="フェロドンの鱗" category="Geas Fete" />
+  <o id="2905" en="Gulltop's shell" ja="グールトップの甲羅" category="Geas Fete" />
+  <o id="2906" en="Vyala's prey" ja="ヴィヤーラの獲物" category="Geas Fete" />
+  <o id="2907" en="Blazewing's pincer" ja="ブレイズウィングの鎌" category="Geas Fete" />
+  <o id="2908" en="Coven's dust" ja="カヴンの粉末" category="Geas Fete" />
+  <o id="2909" en="Pazuzu's blade hilt" ja="パズズの剣柄" category="Geas Fete" />
+  <o id="2910" en="Wrathare's carrot" ja="ラースヘアの人参" category="Geas Fete" />
+  <o id="2911" en="Ionos's webbing" ja="アイオノスの巣" category="Geas Fete" />
+  <o id="2912" en="Sandy's lasher" ja="サンディーの蔓" category="Geas Fete" />
+  <o id="2913" en="Nosoi's feather" ja="ノソイの羽根" category="Geas Fete" />
+  <o id="2914" en="Brittilis's ring" ja="ブリタリスの指輪" category="Geas Fete" />
+  <o id="2915" en="Kamohoalii's fin" ja="カモホアリィのヒレ" category="Geas Fete" />
+  <o id="2916" en="Umdhlebi's flower" ja="ウムドレビの花" category="Geas Fete" />
+  <o id="2917" en="Fleetstalker's claw" ja="フリートストーカーの爪" category="Geas Fete" />
+  <o id="2918" en="Shockmaw's blubber" ja="ショックモーの脂肪" category="Geas Fete" />
+  <o id="2919" en="Urmahlullu's armor" ja="ウルマフールの鎧" category="Geas Fete" />
+  <o id="2920" en="eschan urn" ja="エスカアーン" category="Geas Fete" />
+  <o id="2921" en="eschan cellar" ja="エスカンセラー" category="Geas Fete" />
+  <o id="2922" en="eschan nef" ja="エスカンネフ" category="Geas Fete" />
   <o id="2923" en="Moonlit Path phantom gem" ja="ファントムクォーツ【月導】" category="Temporary Key Items" />
   <o id="2924" en="Waking the Beast phantom gem" ja="ファントムクォーツ【神在】" category="Temporary Key Items" />
   <o id="2925" en="Waking Dreams phantom gem" ja="ファントムクォーツ【夢魔】" category="Temporary Key Items" />
   <o id="2926" en="&quot;Card Jailer Teodor&quot;" ja="これであなたも『お遊戯王』" category="Permanent Key Items" />
-  <o id="2927" en="Bia's glove" ja="ビアのグローブ" category="Temporary Key Items" />
-  <o id="2928" en="Ruea's stone" ja="ルエアの魔道石" category="Temporary Key Items" />
-  <o id="2929" en="Ma's lance" ja="マーの槍" category="Temporary Key Items" />
-  <o id="2930" en="Khon's scepter" ja="コーンのセプター" category="Temporary Key Items" />
-  <o id="2931" en="Met's ring" ja="メトの指輪" category="Temporary Key Items" />
-  <o id="2932" en="Khun's crown" ja="クーンの王冠" category="Temporary Key Items" />
-  <o id="2933" en="Wasserspeier's horn" ja="ワッサーシュピールの角" category="Temporary Key Items" />
-  <o id="2934" en="Emputa's wing" ja="エンプータの羽根" category="Temporary Key Items" />
-  <o id="2935" en="Peirithoos's hoof" ja="ペリトスの蹄" category="Temporary Key Items" />
-  <o id="2936" en="Asida's gel" ja="アシーダのゼリー" category="Temporary Key Items" />
-  <o id="2937" en="Tenodera's scythe" ja="テノデラの鎌" category="Temporary Key Items" />
-  <o id="2938" en="Sava Savanovic's cape" ja="サーヴァサヴァノヴィッチのケープ" category="Temporary Key Items" />
-  <o id="2939" en="Palila's talon" ja="パリラの鉤爪" category="Temporary Key Items" />
-  <o id="2940" en="Hanbi's nail" ja="ハンビの爪" category="Temporary Key Items" />
-  <o id="2941" en="Yilan's scale" ja="ユランの鱗" category="Temporary Key Items" />
-  <o id="2942" en="Amymone's tooth" ja="アミモネの歯" category="Temporary Key Items" />
-  <o id="2943" en="Naphula's bracelet" ja="ナフーラのブレスレット" category="Temporary Key Items" />
-  <o id="2944" en="Kammavaca's binding" ja="カマヴァカのとじ" category="Temporary Key Items" />
-  <o id="2945" en="Pakecet's blubber" ja="パキケトの脂肪" category="Temporary Key Items" />
-  <o id="2946" en="Duke Vepar's signet" ja="デュークヴェパーの印" category="Temporary Key Items" />
-  <o id="2947" en="Vir'ava's stalk" ja="ヴィラーヴァの花梗" category="Temporary Key Items" />
-  <o id="2948" en="Byakko's Pride" ja="白虎の誇り" category="Temporary Key Items" />
-  <o id="2949" en="Genbu's Honor" ja="玄武の名誉" category="Temporary Key Items" />
-  <o id="2950" en="Seiryu's Nobility" ja="青龍の高潔さ" category="Temporary Key Items" />
-  <o id="2951" en="Suzaku's Benefaction" ja="朱雀の恩恵" category="Temporary Key Items" />
-  <o id="2952" en="Kirin's Fervor" ja="麒麟の熱意" category="Temporary Key Items" />
-  <o id="2953" en="Ark Angel HM's coat" ja="アークエンジェルHMのコート" category="Temporary Key Items" />
-  <o id="2954" en="Ark Angel TT's necklace" ja="アークエンジェルTTのネックレス" category="Temporary Key Items" />
-  <o id="2955" en="Ark Angel MR's buckle" ja="アークエンジェルMRのバックル" category="Temporary Key Items" />
-  <o id="2956" en="Ark Angel EV's sash" ja="アークエンジェルEVのサッシュ" category="Temporary Key Items" />
-  <o id="2957" en="Ark Angel GK's bangle" ja="アークエンジェルGKの装飾品" category="Temporary Key Items" />
+  <o id="2927" en="Bia's glove" ja="ビアのグローブ" category="Geas Fete" />
+  <o id="2928" en="Ruea's stone" ja="ルエアの魔道石" category="Geas Fete" />
+  <o id="2929" en="Ma's lance" ja="マーの槍" category="Geas Fete" />
+  <o id="2930" en="Khon's scepter" ja="コーンのセプター" category="Geas Fete" />
+  <o id="2931" en="Met's ring" ja="メトの指輪" category="Geas Fete" />
+  <o id="2932" en="Khun's crown" ja="クーンの王冠" category="Geas Fete" />
+  <o id="2933" en="Wasserspeier's horn" ja="ワッサーシュピールの角" category="Geas Fete" />
+  <o id="2934" en="Emputa's wing" ja="エンプータの羽根" category="Geas Fete" />
+  <o id="2935" en="Peirithoos's hoof" ja="ペリトスの蹄" category="Geas Fete" />
+  <o id="2936" en="Asida's gel" ja="アシーダのゼリー" category="Geas Fete" />
+  <o id="2937" en="Tenodera's scythe" ja="テノデラの鎌" category="Geas Fete" />
+  <o id="2938" en="Sava Savanovic's cape" ja="サーヴァサヴァノヴィッチのケープ" category="Geas Fete" />
+  <o id="2939" en="Palila's talon" ja="パリラの鉤爪" category="Geas Fete" />
+  <o id="2940" en="Hanbi's nail" ja="ハンビの爪" category="Geas Fete" />
+  <o id="2941" en="Yilan's scale" ja="ユランの鱗" category="Geas Fete" />
+  <o id="2942" en="Amymone's tooth" ja="アミモネの歯" category="Geas Fete" />
+  <o id="2943" en="Naphula's bracelet" ja="ナフーラのブレスレット" category="Geas Fete" />
+  <o id="2944" en="Kammavaca's binding" ja="カマヴァカのとじ" category="Geas Fete" />
+  <o id="2945" en="Pakecet's blubber" ja="パキケトの脂肪" category="Geas Fete" />
+  <o id="2946" en="Duke Vepar's signet" ja="デュークヴェパーの印" category="Geas Fete" />
+  <o id="2947" en="Vir'ava's stalk" ja="ヴィラーヴァの花梗" category="Geas Fete" />
+  <o id="2948" en="Byakko's Pride" ja="白虎の誇り" category="Geas Fete" />
+  <o id="2949" en="Genbu's Honor" ja="玄武の名誉" category="Geas Fete" />
+  <o id="2950" en="Seiryu's Nobility" ja="青龍の高潔さ" category="Geas Fete" />
+  <o id="2951" en="Suzaku's Benefaction" ja="朱雀の恩恵" category="Geas Fete" />
+  <o id="2952" en="Kirin's Fervor" ja="麒麟の熱意" category="Geas Fete" />
+  <o id="2953" en="Ark Angel HM's coat" ja="アークエンジェルHMのコート" category="Geas Fete" />
+  <o id="2954" en="Ark Angel TT's necklace" ja="アークエンジェルTTのネックレス" category="Geas Fete" />
+  <o id="2955" en="Ark Angel MR's buckle" ja="アークエンジェルMRのバックル" category="Geas Fete" />
+  <o id="2956" en="Ark Angel EV's sash" ja="アークエンジェルEVのサッシュ" category="Geas Fete" />
+  <o id="2957" en="Ark Angel GK's bangle" ja="アークエンジェルGKの装飾品" category="Geas Fete" />
   <o id="2958" en="most curious curio" ja="魔法人形「ワルノリくん」" category="Temporary Key Items" />
   <o id="2959" en="most confounding curio" ja="魔力切れした「ワルノリくん」" category="Temporary Key Items" />
   <o id="2960" en="macabre simulacrum" ja="髑髏蝶のシミューラクラム" category="Temporary Key Items" />
@@ -2842,57 +2844,63 @@
   <o id="2973" en="Cait Sith's whisker" ja="ケット・シーのヒゲ" category="Temporary Key Items" />
   <o id="2974" en="extradimensional scar" ja="次元の傷跡" category="Temporary Key Items" />
   <o id="2975" en="breath of the avatars" ja="大いなるものたちの息吹" category="Temporary Key Items" />
-  <o id="2976" en="primary nazar" ja="第一の至徳" category="Temporary Key Items" />
-  <o id="2977" en="secondary nazar" ja="第二の至徳" category="Temporary Key Items" />
-  <o id="2978" en="tertiary nazar" ja="第三の至徳" category="Temporary Key Items" />
-  <o id="2979" en="quaternary nazar" ja="第四の至徳" category="Temporary Key Items" />
-  <o id="2980" en="quinary nazar" ja="第五の至徳" category="Temporary Key Items" />
-  <o id="2981" en="senary nazar" ja="第六の至徳" category="Temporary Key Items" />
-  <o id="2982" en="septenary nazar" ja="第七の至徳" category="Temporary Key Items" />
-  <o id="2983" en="octonary nazar" ja="第八の至徳" category="Temporary Key Items" />
-  <o id="2984" en="nonary nazar" ja="第九の至徳" category="Temporary Key Items" />
-  <o id="2985" en="denary nazar" ja="第十の至徳" category="Temporary Key Items" />
-  <o id="2986" en="primal nazar" ja="十一至徳" category="Temporary Key Items" />
+  <o id="2976" en="primary nazar" ja="第一の至徳" category="Geas Fete" />
+  <o id="2977" en="secondary nazar" ja="第二の至徳" category="Geas Fete" />
+  <o id="2978" en="tertiary nazar" ja="第三の至徳" category="Geas Fete" />
+  <o id="2979" en="quaternary nazar" ja="第四の至徳" category="Geas Fete" />
+  <o id="2980" en="quinary nazar" ja="第五の至徳" category="Geas Fete" />
+  <o id="2981" en="senary nazar" ja="第六の至徳" category="Geas Fete" />
+  <o id="2982" en="septenary nazar" ja="第七の至徳" category="Geas Fete" />
+  <o id="2983" en="octonary nazar" ja="第八の至徳" category="Geas Fete" />
+  <o id="2984" en="nonary nazar" ja="第九の至徳" category="Geas Fete" />
+  <o id="2985" en="denary nazar" ja="第十の至徳" category="Geas Fete" />
+  <o id="2986" en="primal nazar" ja="十一至徳" category="Geas Fete" />
   <o id="2987" en="Feared One phantom gem" ja="ファントムクォーツ【畏我】" category="Temporary Key Items" />
   <o id="2988" en="Dawn phantom gem" ja="ファントムクォーツ【男神】" category="Temporary Key Items" />
   <o id="2989" en="dimensional compass" ja="時空の羅針盤" category="Permanent Key Items" />
   <o id="2990" en="Chacharoon's sack of supplies" ja="チャチャルン宛ての荷物" category="Temporary Key Items" />
-  <o id="2991" en="Crom Dubh's helm" ja="クロムドゥーブの兜" category="Temporary Key Items" />
-  <o id="2992" en="Golden Kist's key" ja="ゴールデンキストのカギ" category="Temporary Key Items" />
-  <o id="2993" en="Mauve-wristed Gomberry's knife" ja="モーブリストゴンベリーのナイフ" category="Temporary Key Items" />
-  <o id="2994" en="Dazzling Dolores's vine" ja="ダズリングドローレスの蔓" category="Temporary Key Items" />
-  <o id="2995" en="Taelmoth's staff" ja="テールモスの杖" category="Temporary Key Items" />
-  <o id="2996" en="Belphegor's crown" ja="ベルフェゴールの冠" category="Temporary Key Items" />
-  <o id="2997" en="Kabandha's wing" ja="カバンダの羽根" category="Temporary Key Items" />
-  <o id="2998" en="Selkit's pincer" ja="セルキットのハサミ" category="Temporary Key Items" />
-  <o id="2999" en="Sang Buaya's tusk" ja="サンブアヤの牙" category="Temporary Key Items" />
-  <o id="3000" en="Sabotender Royal's needle" ja="サボテンダーロイヤルの針" category="Temporary Key Items" />
-  <o id="3001" en="Zduhac's talon" ja="ズハックの爪" category="Temporary Key Items" />
-  <o id="3002" en="Oryx's plumage" ja="オリックスの羽衣" category="Temporary Key Items" />
-  <o id="3003" en="Strophadia's pearl" ja="ストロファディアの真珠" category="Temporary Key Items" />
-  <o id="3004" en="Gajasimha's mane" ja="ガジャシムハのたてがみ" category="Temporary Key Items" />
-  <o id="3005" en="Ironside's maul" ja="アイアンサイドの大木槌" category="Temporary Key Items" />
-  <o id="3006" en="Sarsaok's hoard" ja="サラサオックの秘蔵" category="Temporary Key Items" />
-  <o id="3007" en="Old Shuck's tuft" ja="オールドシャックの房" category="Temporary Key Items" />
-  <o id="3008" en="Bashmu's trinket" ja="バシュムの装身具" category="Temporary Key Items" />
-  <o id="3009" en="Maju's claw" ja="マジューのクロー" category="Temporary Key Items" />
-  <o id="3010" en="Yakshi's scroll" ja="ヤクシーの巻物" category="Temporary Key Items" />
-  <o id="3011" en="Neak's treasure" ja="ニークのお宝" category="Temporary Key Items" />
-  <o id="3012" en="Teles's hymn" ja="テレスの聖歌" category="Temporary Key Items" />
+  <o id="2991" en="Crom Dubh's helm" ja="クロムドゥーブの兜" category="Geas Fete" />
+  <o id="2992" en="Golden Kist's key" ja="ゴールデンキストのカギ" category="Geas Fete" />
+  <o id="2993" en="Mauve-wristed Gomberry's knife" ja="モーブリストゴンベリーのナイフ" category="Geas Fete" />
+  <o id="2994" en="Dazzling Dolores's vine" ja="ダズリングドローレスの蔓" category="Geas Fete" />
+  <o id="2995" en="Taelmoth's staff" ja="テールモスの杖" category="Geas Fete" />
+  <o id="2996" en="Belphegor's crown" ja="ベルフェゴールの冠" category="Geas Fete" />
+  <o id="2997" en="Kabandha's wing" ja="カバンダの羽根" category="Geas Fete" />
+  <o id="2998" en="Selkit's pincer" ja="セルキットのハサミ" category="Geas Fete" />
+  <o id="2999" en="Sang Buaya's tusk" ja="サンブアヤの牙" category="Geas Fete" />
+  <o id="3000" en="Sabotender Royal's needle" ja="サボテンダーロイヤルの針" category="Geas Fete" />
+  <o id="3001" en="Zduhac's talon" ja="ズハックの爪" category="Geas Fete" />
+  <o id="3002" en="Oryx's plumage" ja="オリックスの羽衣" category="Geas Fete" />
+  <o id="3003" en="Strophadia's pearl" ja="ストロファディアの真珠" category="Geas Fete" />
+  <o id="3004" en="Gajasimha's mane" ja="ガジャシムハのたてがみ" category="Geas Fete" />
+  <o id="3005" en="Ironside's maul" ja="アイアンサイドの大木槌" category="Geas Fete" />
+  <o id="3006" en="Sarsaok's hoard" ja="サラサオックの秘蔵" category="Geas Fete" />
+  <o id="3007" en="Old Shuck's tuft" ja="オールドシャックの房" category="Geas Fete" />
+  <o id="3008" en="Bashmu's trinket" ja="バシュムの装身具" category="Geas Fete" />
+  <o id="3009" en="Maju's claw" ja="マジューのクロー" category="Geas Fete" />
+  <o id="3010" en="Yakshi's scroll" ja="ヤクシーの巻物" category="Geas Fete" />
+  <o id="3011" en="Neak's treasure" ja="ニークのお宝" category="Geas Fete" />
+  <o id="3012" en="Teles's hymn" ja="テレスの聖歌" category="Geas Fete" />
+  <o id="3013" en="Zerde's cup" ja="ゼルデのカップ" category="Geas Fete" />
+  <o id="3014" en="Vinipata's blade" ja="ヴィニパタの刃" category="Geas Fete" />
+  <o id="3015" en="Schah's gambit" ja="シャーの策略" category="Geas Fete" />
+  <o id="3016" en="Albumen's flower" ja="アルブメンの花" category="Geas Fete" />
+  <o id="3017" en="Onychophora's soil" ja="オニコフォラの土" category="Geas Fete" />
+  <o id="3018" en="Erinys's beak" ja="エリニスのくちばし" category="Geas Fete" />
   <o id="3019" en="Mog Kupon AW-GFII" ja="クーポンAW-GeII" category="Temporary Key Items" />
   <o id="3020" en="Mog Kupon AW-GF" ja="クーポンAW-Ge" category="Temporary Key Items" />
   <o id="3021" en="Mog Kupon AW-UWIII" ja="クーポンAW-UWIII" category="Temporary Key Items" />
   <o id="3022" en="Mog Kupon AW-UWII" ja="クーポンAW-UWII" category="Temporary Key Items" />
   <o id="3023" en="Mog Kupon AW-UW" ja="クーポンAW-UW" category="Temporary Key Items" />
-  <o id="3024" en="Mog Kupon A-Ad" ja="クーポンA-Ad" category="Temporary Key Items" />
+  <o id="3024" en="Mog Kupon A-Ab" ja="クーポンA-Ab" category="Temporary Key Items" />
   <o id="3025" en="Mog Kupon AW-Cos" ja="クーポンAW-Cos" category="Temporary Key Items" />
   <o id="3026" en="Phoenix's blessing" ja="鳳凰の息吹" category="Permanent Key Items" />
   <o id="3027" en="packet of Midras's explosives" ja="ミドラスお手製爆薬" category="Temporary Key Items" />
   <o id="3028" en="tarnished ring" ja="古びた指輪" category="Temporary Key Items" />
   <o id="3029" en="rusty locket" ja="古びたロケット" category="Temporary Key Items" />
   <o id="3030" en="invitation to a feast most dire" ja="「災厄の饗宴」招待状" category="Temporary Key Items" />
-  <o id="3031" en="radialens" ja="レディアレンズ" category="Temporary Key Items" />
-  <o id="3032" en="mollifier" ja="退魔の神符" category="Temporary Key Items" />
+  <o id="3031" en="radialens" ja="レディアレンズ" category="Geas Fete" />
+  <o id="3032" en="mollifier" ja="退魔の神符" category="Geas Fete" />
   <o id="3033" en="Mog Kupon AW-Kupo" ja="クーポンAW-Kup" category="Temporary Key Items" />
   <o id="3034" en="drained orb" ja="力を奪われた勾玉" category="Temporary Key Items" />
   <o id="3035" en="malformed knuckles" ja="灰色の鉄甲" category="Temporary Key Items" />

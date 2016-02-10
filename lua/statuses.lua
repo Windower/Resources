@@ -39,10 +39,13 @@ return {
     [70] = {id=70,en="Sitchair 7"},
     [71] = {id=71,en="Sitchair 8"},
     [72] = {id=72,en="Sitchair 9"},
+    [73] = {id=73,en="Sitchair 10"},
+    [74] = {id=74,en="Sitchair 11"},
+    [75] = {id=75,en="Sitchair 12"},
 }, {"id", "en"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

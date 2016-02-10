@@ -106,7 +106,7 @@ return {
     [708] = {id=708,en="Overkill Effect",ja="オーバーキル効果アップ",endesc="Reduces enmity while under the effects of Overkill.\nReduce enmity by 1.",jadesc="オーバーキル中、敵対心を減少します。\n能力値1で敵対心を-1します。"},
     [710] = {id=710,en="Camouflage Effect",ja="カモフラージュ効果アップ",endesc="Increases the critical hit rate of ranged attacks while under the effects of Camouflage.\nIncrease critical hit rate by 1.",jadesc="カモフラージュ中、遠隔攻撃のクリティカル率を\nアップします。\n能力値1でクリティカル率を+1します。"},
     [712] = {id=712,en="Barrage Effect",ja="乱れ撃ち効果アップ",endesc="Increases ranged attack power while under the effects of Barrage.\nIncrease ranged attack power by 3.",jadesc="乱れ撃ち中、遠隔攻撃力をアップします。\n能力値1で遠隔攻撃力を+3します。"},
-    [714] = {id=714,en="Shadowbind Duration",ja="影縫い効果効果時間延長",endesc="Increases the effect duration of Shadowbind.\nIncrease effect duration by 1 second.",jadesc="影縫いの効果時間を延長します。\n能力値1で効果時間を+1秒します。"},
+    [714] = {id=714,en="Shadowbind Duration",ja="影縫い効果時間延長",endesc="Increases the effect duration of Shadowbind.\nIncrease effect duration by 1 second.",jadesc="影縫いの効果時間を延長します。\n能力値1で効果時間を+1秒します。"},
     [716] = {id=716,en="Velocity Shot Effect",ja="ベロシティショット効果アップ",endesc="Increases ranged attack while under the effects of Velocity Shot.\nIncrease ranged attack by 2.",jadesc="ベロシティショット中、遠隔攻撃力をアップします。\n能力値1で遠隔攻撃力を+2します。"},
     [718] = {id=718,en="Double Shot Effect",ja="ダブルショット効果アップ",endesc="Increases the chance of shooting twice while under the effects of Double Shot.\nIncrease chance by 1 percent.",jadesc="ダブルショット中、ダブルショットの確率をアップ\nします。\n能力値1で確率を+1%します。"},
     [720] = {id=720,en="Decoy Shot Effect",ja="デコイショット効果アップ",endesc="Increases the maximum amount of enmity transferable while under the effects of Decoy Shot.\nIncrease the volatile enmity limit by 15 and the cumulative enmity limit by 5.",jadesc="デコイショット中、肩代わりさせられる敵対心の\n上限値をアップします。\n能力値1で揮発型の敵対心の上限を+15\n不揮発型の敵対心の上限を+5します。"},
@@ -211,7 +211,7 @@ return {
     [1358] = {id=1358,en="Theurgic Focus Effect",ja="タウマテルギフォカス効果アップ",endesc="Increases the magic damage of specific spells while under the effects of Theurgic Focus.\nIncrease magic damage by 3.",jadesc="タウマテルギフォカス中、特定の魔法の魔法ダメージ\nをアップします。\n能力値1で魔法ダメージを+3します。"},
     [1360] = {id=1360,en="Concentric Pulse Effect",ja="コンセントリクパルス効果アップ",endesc="Increases damage when using Concentric Pulse.\nIncrease damage by 1 percent.",jadesc="コンセントリクパルス使用時、ダメージをアップ\nします。\n能力値1でダメージを+1%します。"},
     [1362] = {id=1362,en="Indicolure Spell Effect Dur.",ja="インデ系魔法効果時間延長",endesc="Increases the effect duration of Indicolure spells.\nIncrease spell effect duration by 2 seconds.",jadesc="インデ系魔法の効果時間を延長します。\n能力値1で効果時間を+2秒します。"},
-    [1408] = {id=1408,en="Elemental Sforzo Effect",ja="E.スフォルツォ効果アップ",endesc="Absorbs elemental damage while under the effects of Elemental Sforzo.\nIncrease the amount of damage absorbed by 2 percent.",jadesc="E.スフォルツォ中、属性ダメージを吸収します。\n能力値1で吸収量を+2%します。"},
+    [1408] = {id=1408,en="Elemental Sforzo Effect",ja="E.スフォルツォ効果アップ",endesc="Absorbs magic attacks while under the effects of Elemental Sforzo.\nIncrease the amount of damage absorbed by 2 percent.",jadesc="E.スフォルツォ中、魔法攻撃を吸収します。\n能力値1で吸収量を+2%します。"},
     [1410] = {id=1410,en="Rune Enchantment Effect",ja="エンチャントルーン効果アップ",endesc="Increases elemental resistance granted by each rune.\nIncrease resistance by 1.",jadesc="エンチャントルーンの属性耐性をアップします。\n能力値1で属性耐性を+1します。"},
     [1412] = {id=1412,en="Odyllic Subterfuge Effect",ja="オディリックサブタ効果アップ",endesc="Reduces Magic Atk. Bonus while under the effects of Odyllic Subterfuge.\nReduce Magic Atk. Bonus by 2.",jadesc="オディリックサブタ中、魔法攻撃力をダウンします。\n能力値1で魔法攻撃力を-2します。"},
     [1414] = {id=1414,en="Vallation Duration",ja="ヴァレション効果時間延長",endesc="Increases the effect duration of Vallation and Valiance.\nIncrease effect duration by 1 second.",jadesc="ヴァレションの効果時間を延長します。\n能力値1で効果時間を+1秒します。\nヴァリエンスも同様の効果を得ます。"},
@@ -224,7 +224,7 @@ return {
 }, {"id", "en", "ja", "endesc", "jadesc"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

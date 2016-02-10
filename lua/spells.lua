@@ -772,8 +772,8 @@ return {
     [829] = {id=829,en="Fira II",ja="ファイラII",cast_time=3,element=0,icon_id=246,icon_id_nq=8,levels={[21]=85},mp_cost=206,prefix="/magic",range=8,recast=15,recast_id=829,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [830] = {id=830,en="Blizzara",ja="ブリザラ",cast_time=1.5,element=1,icon_id=274,icon_id_nq=9,levels={[21]=45},mp_cost=108,prefix="/magic",range=8,recast=5,recast_id=830,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [831] = {id=831,en="Blizzara II",ja="ブリザラII",cast_time=3,element=1,icon_id=275,icon_id_nq=9,levels={[21]=90},mp_cost=229,prefix="/magic",range=8,recast=15,recast_id=831,requirements=64,skill=36,targets=32,type="BlackMagic"},
-    [832] = {id=832,en="Aerora",ja="エアロラ",cast_time=1.5,element=2,icon_id=285,icon_id_nq=10,levels={[21]=35},mp_cost=79,prefix="/magic",range=8,recast=5,recast_id=832,requirements=64,skill=36,targets=32,type="BlackMagic"},
-    [833] = {id=833,en="Aerora II",ja="エアロラII",cast_time=3,element=2,icon_id=286,icon_id_nq=10,levels={[21]=80},mp_cost=184,prefix="/magic",range=8,recast=15,recast_id=833,requirements=64,skill=36,targets=32,type="BlackMagic"},
+    [832] = {id=832,en="Aera",ja="エアロラ",cast_time=1.5,element=2,icon_id=285,icon_id_nq=10,levels={[21]=35},mp_cost=79,prefix="/magic",range=8,recast=5,recast_id=832,requirements=64,skill=36,targets=32,type="BlackMagic"},
+    [833] = {id=833,en="Aera II",ja="エアロラII",cast_time=3,element=2,icon_id=286,icon_id_nq=10,levels={[21]=80},mp_cost=184,prefix="/magic",range=8,recast=15,recast_id=833,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [834] = {id=834,en="Stonera",ja="ストンラ",cast_time=1.5,element=3,icon_id=215,icon_id_nq=11,levels={[21]=25},mp_cost=54,prefix="/magic",range=8,recast=5,recast_id=834,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [835] = {id=835,en="Stonera II",ja="ストンラII",cast_time=3,element=3,icon_id=216,icon_id_nq=11,levels={[21]=70},mp_cost=143,prefix="/magic",range=8,recast=15,recast_id=835,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [836] = {id=836,en="Thundara",ja="サンダラ",cast_time=1.5,element=4,icon_id=265,icon_id_nq=12,levels={[21]=50},mp_cost=123,prefix="/magic",range=8,recast=5,recast_id=836,requirements=64,skill=36,targets=32,type="BlackMagic"},
@@ -807,7 +807,7 @@ return {
     [864] = {id=864,en="Aurorastorm II",ja="極光の陣II",cast_time=2,duration=180,element=6,icon_id=654,icon_id_nq=6,levels={[20]=100},mp_cost=60,prefix="/magic",range=12,recast=18,recast_id=864,requirements=1,skill=34,targets=5,type="WhiteMagic"},
     [865] = {id=865,en="Fira III",ja="ファイラIII",cast_time=4.5,duration=90,element=0,icon_id=247,icon_id_nq=8,levels={[21]=1200},mp_cost=390,prefix="/magic",range=8,recast=30,recast_id=865,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [866] = {id=866,en="Blizzara III",ja="ブリザラIII",cast_time=4.5,duration=90,element=1,icon_id=276,icon_id_nq=9,levels={[21]=1200},mp_cost=432,prefix="/magic",range=8,recast=30,recast_id=866,requirements=64,skill=36,targets=32,type="BlackMagic"},
-    [867] = {id=867,en="Aerora III",ja="エアロラIII",cast_time=4.5,duration=90,element=2,icon_id=287,icon_id_nq=10,levels={[21]=1200},mp_cost=350,prefix="/magic",range=8,recast=30,recast_id=867,requirements=64,skill=36,targets=32,type="BlackMagic"},
+    [867] = {id=867,en="Aera III",ja="エアロラIII",cast_time=4.5,duration=90,element=2,icon_id=287,icon_id_nq=10,levels={[21]=1200},mp_cost=350,prefix="/magic",range=8,recast=30,recast_id=867,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [868] = {id=868,en="Stonera III",ja="ストンラIII",cast_time=4.5,duration=90,element=3,icon_id=217,icon_id_nq=11,levels={[21]=1200},mp_cost=276,prefix="/magic",range=8,recast=30,recast_id=868,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [869] = {id=869,en="Thundara III",ja="サンダラIII",cast_time=4.5,duration=90,element=4,icon_id=267,icon_id_nq=12,levels={[21]=1200},mp_cost=476,prefix="/magic",range=8,recast=30,recast_id=869,requirements=64,skill=36,targets=32,type="BlackMagic"},
     [870] = {id=870,en="Watera III",ja="ウォタラIII",cast_time=4.5,duration=90,element=5,icon_id=256,icon_id_nq=13,levels={[21]=1200},mp_cost=312,prefix="/magic",range=8,recast=30,recast_id=870,requirements=64,skill=36,targets=32,type="BlackMagic"},
@@ -957,7 +957,7 @@ return {
 }, {"id", "en", "ja", "cast_time", "element", "icon_id", "icon_id_nq", "levels", "mp_cost", "prefix", "range", "recast", "recast_id", "requirements", "skill", "targets", "type", "duration"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

@@ -1000,8 +1000,9 @@ return {
     [1004] = {id=1004,en="Vinipata Vanquisher",ja="ヴィニパタ　ヴァンクィシャー"},
     [1005] = {id=1005,en="Schah Scraper",ja="シャー　スクレーパー"},
     [1006] = {id=1006,en="Albumen Aggrivator",ja="アルブメン　アグリヴェーター"},
-    [1007] = {id=1007,en="Onychophora Obliterator",ja="オニコフォロア　オブリテレーター"},
+    [1007] = {id=1007,en="Onychophora Obliterator",ja="オニコフォラ　オブリテレーター"},
     [1008] = {id=1008,en="Erinys Engulfer",ja="エリニス　エンガルファー"},
+    [1009] = {id=1009,en="Herald of a New Age",ja="ヘラルド　オブ　ア　ニュー　エイジ"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
@@ -1013,7 +1014,7 @@ return {
 }, {"id", "en", "ja"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

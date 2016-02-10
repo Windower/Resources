@@ -3173,6 +3173,21 @@ return {
     [3788] = {id=3788,en="Touchdown",ja="タッチダウン"},
     [3789] = {id=3789,en="Charm",ja="あやつる"},
     [3790] = {id=3790,en="Mog Shrapnel",ja="モグシュラプネル"},
+    [3791] = {id=3791,en="Royal Decree",ja="ロイヤルデクリー"},
+    [3793] = {id=3793,en="Doomvoid",ja="ドゥームヴォイド"},
+    [3794] = {id=3794,en="Leaf Dagger",ja="リーフダガー"},
+    [3795] = {id=3795,en="Raksha: Vengeance",ja="羅刹之断・黒牙"},
+    [3796] = {id=3796,en="Demonic Flower",ja="夢狂花"},
+    [3797] = {id=3797,en="Mine Blast",ja="マインブラスト"},
+    [3798] = {id=3798,en="Bad Breath",ja="臭い息"},
+    [3799] = {id=3799,en="Sweet Breath",ja="甘い息"},
+    [3800] = {id=3800,en="Heat Breath",ja="火炎の息"},
+    [3801] = {id=3801,en="Riddle",ja="リドル"},
+    [3802] = {id=3802,en="Deadly Hold",ja="デッドリーホールド"},
+    [3803] = {id=3803,en="Tail Swing",ja="テールスイング"},
+    [3804] = {id=3804,en="Tail Smash",ja="テールスマッシュ"},
+    [3805] = {id=3805,en="Great Sandstorm",ja="大砂塵"},
+    [3806] = {id=3806,en="Great Whirlwind",ja="大旋風"},
     [3840] = {id=3840,en="Foot Kick",ja="フットキック"},
     [3841] = {id=3841,en="Dust Cloud",ja="土煙"},
     [3842] = {id=3842,en="Whirl Claws",ja="爪旋風脚"},
@@ -3286,7 +3301,7 @@ return {
 }, {"id", "en", "ja", "element", "icon_id", "monster_level", "prefix", "range", "targets", "tp_cost"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

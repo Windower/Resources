@@ -550,6 +550,7 @@ return {
     [3518] = {id=3518,en="/recruitlist",ja="/recruitlist"},
     [3519] = {id=3519,en="/partyrequestcmd",ja="/partyrequestcmd"},
     [3520] = {id=3520,en="/jobmasterdisp",ja="/jobmasterdisp"},
+    [3521] = {id=3521,en="/jump",ja="/jump"},
     [3584] = {id=3584,en="Locations",ja="イチ"},
     [3585] = {id=3585,en="This way",ja="こっち"},
     [3586] = {id=3586,en="That way",ja="そっち"},
@@ -2386,7 +2387,7 @@ return {
 }, {"id", "en", "ja"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

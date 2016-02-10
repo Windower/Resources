@@ -281,11 +281,12 @@ return {
     [289] = {id=289,en="Escha - Ru'Aun",ja="エスカ-ル・オン",search="EschaRuAun"},
     [290] = {id=290,en="Desuetia - Empyreal Paradox",ja="デスエチア-天象の鎖",search="DesParadox"},
     [291] = {id=291,en="Reisenjima",ja="醴泉島",search="Reisenjima"},
+    [292] = {id=292,en="Reisenjima Henge",ja="醴泉島-秘境",search=""},
     [293] = {id=293,en="Reisenjima Sanctorium",ja="醴泉島の祠",search="ReisenSanc"},
 }, {"id", "en", "ja", "search"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

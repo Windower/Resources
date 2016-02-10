@@ -597,10 +597,11 @@ return {
     [608] = {id=608,en="Negate Virus",ja="ネゲートウィルス",enl="Negate Virus",jal="ネゲートウィルス"},
     [609] = {id=609,en="Negate Curse",ja="ネゲートカーズ",enl="Negate Curse",jal="ネゲートカーズ"},
     [610] = {id=610,en="Negate Charm",ja="ネゲートチャーム",enl="Negate Charm",jal="ネゲートチャーム"},
+    [611] = {id=611,en="Magic Evasion Boost",ja="魔法回避率アップ",enl="Magic Evasion Boost",jal="魔法回避率アップ"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
-Copyright © 2013-2015, Windower
+Copyright © 2013-2016, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
