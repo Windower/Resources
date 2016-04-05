@@ -2747,6 +2747,7 @@ return {
     [2846] = {id=2846,en="\"Sakura and the Holy Grail\"",ja="『サクラちゃんと魔境の聖杯』",category="Permanent Key Items"},
     [2847] = {id=2847,en="Siren's plume",ja="セイレーンの風切り羽根",category="Temporary Key Items"},
     [2852] = {id=2852,en="Moglification: Resist Silence",ja="モーグリの応援：レジストサイレス",category="Temporary Key Items"},
+    [2853] = {id=2853,en="Moglification: Resist Petrification",ja="モーグリの応援：レジストペトリ",category="Temporary Key Items"},
     [2854] = {id=2854,en="Moglification: Resist Virus",ja="モーグリの応援：レジストウィルス",category="Temporary Key Items"},
     [2855] = {id=2855,en="Moglification: Resist Curse",ja="モーグリの応援：レジストカーズ",category="Temporary Key Items"},
     [2880] = {id=2880,en="iridal core of the ruins",ja="イリダルコア【廃墟】",category="Temporary Key Items"},
@@ -2920,6 +2921,13 @@ return {
     [3048] = {id=3048,en="malformed gun",ja="灰色の長銃",category="Temporary Key Items"},
     [3049] = {id=3049,en="malformed shield",ja="灰色の楯",category="Temporary Key Items"},
     [3050] = {id=3050,en="malformed flute",ja="灰色の管楽器",category="Temporary Key Items"},
+    [3051] = {id=3051,en="Mog Patio design document",ja="モグの中庭の設計図",category="Permanent Key Items"},
+    [3052] = {id=3052,en="Ambuscade Primer Volume One",ja="アンバスケード大典1章",category="Temporary Key Items"},
+    [3053] = {id=3053,en="Ambuscade Primer Volume Two",ja="アンバスケード大典2章",category="Temporary Key Items"},
+    [3055] = {id=3055,en="trainer's whistle",ja="呼子霊笛",category="Mounts"},
+    [3072] = {id=3072,en="♪Chocobo companion",ja="♪マイチョコボ",category="Mounts"},
+    [3073] = {id=3073,en="♪Raptor companion",ja="♪ラプトル",category="Mounts"},
+    [3074] = {id=3074,en="♪Tiger companion",ja="♪剣虎",category="Mounts"},
 }, {"id", "en", "ja", "category"}
 
 --[[

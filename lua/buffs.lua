@@ -248,7 +248,7 @@ return {
     [249] = {id=249,en="Dedication",ja="専心",enl="Dedication",jal="専心"},
     [250] = {id=250,en="EF Badge",ja="遠征軍参加資格",enl="EF Badge",jal="遠征軍参加資格"},
     [251] = {id=251,en="Food",ja="食事",enl="Food",jal="食事"},
-    [252] = {id=252,en="Chocobo",ja="チョコボ",enl="Chocobo",jal="チョコボ"},
+    [252] = {id=252,en="Mounted",ja="マウント",enl="Mounted",jal="マウント"},
     [253] = {id=253,en="Signet",ja="シグネット",enl="Signet",jal="シグネット"},
     [254] = {id=254,en="Battlefield",ja="バトルフィールド",enl="Battlefield",jal="バトルフィールド"},
     [256] = {id=256,en="Sanction",ja="サンクション",enl="Sanction",jal="サンクション"},

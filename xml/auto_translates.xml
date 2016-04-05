@@ -182,6 +182,7 @@
   <o id="2134" en="Rent-a-Room" ja="レンタルハウス" />
   <o id="2135" en="Outpost" ja="アウトポスト" />
   <o id="2136" en="Crystal" ja="クリスタル" />
+  <o id="2137" en="Leave the party" ja="パーティから抜ける" />
   <o id="2139" en="Weakened" ja="衰弱" />
   <o id="2140" en="Cursed" ja="呪い" />
   <o id="2141" en="Diseased" ja="病気" />
@@ -550,6 +551,12 @@
   <o id="3519" en="/partyrequestcmd" ja="/partyrequestcmd" />
   <o id="3520" en="/jobmasterdisp" ja="/jobmasterdisp" />
   <o id="3521" en="/jump" ja="/jump" />
+  <o id="3522" en="/mount" ja="/mount" />
+  <o id="3523" en="/wardrobe2" ja="/wardrobe2" />
+  <o id="3524" en="/mutebgm" ja="/mutebgm" />
+  <o id="3525" en="/mutese" ja="/mutese" />
+  <o id="3526" en="/emotefaith" ja="/emotefaith" />
+  <o id="3527" en="/emotetrust" ja="/emotetrust" />
   <o id="3584" en="Locations" ja="イチ" />
   <o id="3585" en="This way" ja="こっち" />
   <o id="3586" en="That way" ja="そっち" />
@@ -1463,6 +1470,11 @@
   <o id="7886" en="Thunder" ja="雷" />
   <o id="7887" en="Umbra" ja="黒闇" />
   <o id="7888" en="Radiance" ja="極光" />
+  <o id="7889" en="blue" ja="青" />
+  <o id="7890" en="yellow" ja="黄" />
+  <o id="7891" en="red" ja="赤" />
+  <o id="7892" en="white" ja="白" />
+  <o id="7893" en="weak point" ja="弱点" />
   <o id="7936" en="Job Abilities" ja="ジョブアビリティ" />
   <o id="7937" en="Provoke" ja="挑発" />
   <o id="7938" en="Aggressor" ja="アグレッサー" />
@@ -1997,6 +2009,21 @@
   <o id="8648" en="Glory Slash" ja="グローリースラッシュ" />
   <o id="8649" en="Tartarus Torpor" ja="タルタロストーパー" />
   <o id="8650" en="Knights of Rotund" ja="ナイスオブラウンド" />
+  <o id="8651" en="Final Heaven" ja="ファイナルヘヴン" />
+  <o id="8652" en="Final Heaven" ja="ファイナルヘヴン" />
+  <o id="8653" en="Mercy Stroke" ja="マーシーストローク" />
+  <o id="8654" en="Knights of Round" ja="ナイツオブラウンド" />
+  <o id="8655" en="Scourge" ja="スカージ" />
+  <o id="8656" en="Onslaught" ja="オンスロート" />
+  <o id="8657" en="Metatron Torment" ja="メタトロントーメント" />
+  <o id="8658" en="Catastrophe" ja="カタストロフィ" />
+  <o id="8659" en="Geirskogul" ja="ゲイルスコグル" />
+  <o id="8660" en="Blade: Metsu" ja="生者必滅" />
+  <o id="8661" en="Tachi: Kaiten" ja="零之太刀・回天" />
+  <o id="8662" en="Randgrith" ja="ランドグリース" />
+  <o id="8663" en="Gate of Tartarus" ja="タルタロスゲート" />
+  <o id="8664" en="Namas Arrow" ja="南無八幡" />
+  <o id="8665" en="Coronach" ja="カラナック" />
   <o id="8704" en="Ninjutsu" ja="ニンジュツ" />
   <o id="8705" en="Jubaku" ja="呪縛の術" />
   <o id="8706" en="Tonko" ja="遁甲の術" />
@@ -2333,6 +2360,19 @@
   <o id="10240" en="Game Terms 2" ja="ゲームヨウゴ２" />
   <o id="10241" en="Delve" ja="メナスインスペクター" />
   <o id="10242" en="Monstrosity" ja="モンストロス・プレッジ" />
+  <o id="10243" en="Domain Invasion" ja="ドメインベージョン" />
+  <o id="10244" en="Geas Fete" ja="ギアスフェット" />
+  <o id="10245" en="Vagary" ja="ベガリーインスペクター" />
+  <o id="10246" en="Wanted" ja="ユニティ：ウォンテッド" />
+  <o id="10247" en="Alluvion Skirmish" ja="アルビオン・スカーム" />
+  <o id="10248" en="Coalition assignment" ja="ワークスコール" />
+  <o id="10249" en="Incursion" ja="インカージョン" />
+  <o id="10250" en="Meeble Burrows" ja="ミーブル・バローズ" />
+  <o id="10251" en="Endowed Walk" ja="エンダウウォーク" />
+  <o id="10252" en="Surge Walk" ja="サージウォーク" />
+  <o id="10253" en="Black magic" ja="黒魔法" />
+  <o id="10254" en="White magic" ja="白魔法" />
+  <o id="10255" en="Blue magic" ja="青魔法" />
   <o id="10267" en="Maze Monger" ja="メイズモンガー" />
   <o id="10268" en="Moblin Marble" ja="モブリンマーブル" />
   <o id="10269" en="Job Points" ja="ジョブポイント" />

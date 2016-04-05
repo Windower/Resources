@@ -2746,6 +2746,7 @@
   <o id="2846" en="&quot;Sakura and the Holy Grail&quot;" ja="『サクラちゃんと魔境の聖杯』" category="Permanent Key Items" />
   <o id="2847" en="Siren's plume" ja="セイレーンの風切り羽根" category="Temporary Key Items" />
   <o id="2852" en="Moglification: Resist Silence" ja="モーグリの応援：レジストサイレス" category="Temporary Key Items" />
+  <o id="2853" en="Moglification: Resist Petrification" ja="モーグリの応援：レジストペトリ" category="Temporary Key Items" />
   <o id="2854" en="Moglification: Resist Virus" ja="モーグリの応援：レジストウィルス" category="Temporary Key Items" />
   <o id="2855" en="Moglification: Resist Curse" ja="モーグリの応援：レジストカーズ" category="Temporary Key Items" />
   <o id="2880" en="iridal core of the ruins" ja="イリダルコア【廃墟】" category="Temporary Key Items" />
@@ -2919,4 +2920,11 @@
   <o id="3048" en="malformed gun" ja="灰色の長銃" category="Temporary Key Items" />
   <o id="3049" en="malformed shield" ja="灰色の楯" category="Temporary Key Items" />
   <o id="3050" en="malformed flute" ja="灰色の管楽器" category="Temporary Key Items" />
+  <o id="3051" en="Mog Patio design document" ja="モグの中庭の設計図" category="Permanent Key Items" />
+  <o id="3052" en="Ambuscade Primer Volume One" ja="アンバスケード大典1章" category="Temporary Key Items" />
+  <o id="3053" en="Ambuscade Primer Volume Two" ja="アンバスケード大典2章" category="Temporary Key Items" />
+  <o id="3055" en="trainer's whistle" ja="呼子霊笛" category="Mounts" />
+  <o id="3072" en="♪Chocobo companion" ja="♪マイチョコボ" category="Mounts" />
+  <o id="3073" en="♪Raptor companion" ja="♪ラプトル" category="Mounts" />
+  <o id="3074" en="♪Tiger companion" ja="♪剣虎" category="Mounts" />
 </key_items>

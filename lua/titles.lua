@@ -1011,6 +1011,7 @@ return {
     [1049] = {id=1049,en="Blessed by the Avatars",ja="大いなる力の継承者"},
     [1050] = {id=1050,en="Seer of Songs",ja="星唄に乗せて歩み続ける者"},
     [1051] = {id=1051,en="The Eternal Wind",ja="悠久の風"},
+    [1116] = {id=1116,en="Raptor Wrangler",ja="爆速ラプトルライダー"},
 }, {"id", "en", "ja"}
 
 --[[
