@@ -1,10 +1,10 @@
 -- Automatically generated file: Mounts
 
 return {
-    [0] = {id=0,en="Chocobo",ja="マイチョコボ",endesc="Calls forth your personal chocobo.",jadesc="マイチョコボを呼び出す。"},
-    [1] = {id=1,en="Raptor",ja="ラプトル",endesc="Calls forth a raptor.",jadesc="ラプトルを呼び出す。"},
-    [2] = {id=2,en="Tiger",ja="剣虎",endesc="Calls forth a tiger.",jadesc="剣虎を呼び出す。"},
-}, {"id", "en", "ja", "endesc", "jadesc"}
+    [0] = {id=0,en="Chocobo",ja="マイチョコボ",endesc="Calls forth your personal chocobo.",icon_id=86,jadesc="マイチョコボを呼び出す。",prefix="/mount"},
+    [1] = {id=1,en="Raptor",ja="ラプトル",endesc="Calls forth a raptor.",icon_id=87,jadesc="ラプトルを呼び出す。",prefix="/mount"},
+    [2] = {id=2,en="Tiger",ja="剣虎",endesc="Calls forth a tiger.",icon_id=87,jadesc="剣虎を呼び出す。",prefix="/mount"},
+}, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
 Copyright © 2013-2016, Windower

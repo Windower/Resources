@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <mounts>
-  <o id="0" en="Chocobo" ja="マイチョコボ" endesc="Calls forth your personal chocobo." jadesc="マイチョコボを呼び出す。" />
-  <o id="1" en="Raptor" ja="ラプトル" endesc="Calls forth a raptor." jadesc="ラプトルを呼び出す。" />
-  <o id="2" en="Tiger" ja="剣虎" endesc="Calls forth a tiger." jadesc="剣虎を呼び出す。" />
+  <o id="0" en="Chocobo" icon_id="86" ja="マイチョコボ" endesc="Calls forth your personal chocobo." jadesc="マイチョコボを呼び出す。" prefix="/mount" />
+  <o id="1" en="Raptor" icon_id="87" ja="ラプトル" endesc="Calls forth a raptor." jadesc="ラプトルを呼び出す。" prefix="/mount" />
+  <o id="2" en="Tiger" icon_id="87" ja="剣虎" endesc="Calls forth a tiger." jadesc="剣虎を呼び出す。" prefix="/mount" />
 </mounts>
