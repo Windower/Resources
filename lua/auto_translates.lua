@@ -2410,6 +2410,8 @@ return {
     [10305] = {id=10305,en="Trust",ja="フェイス(魔法)"},
     [10306] = {id=10306,en="Alter Ego",ja="フェイス(NPC)"},
     [10307] = {id=10307,en="Unity Concord",ja="ユニティ・コンコード"},
+    [10308] = {id=10308,en="Ambuscade",ja="アンバスケード"},
+    [10309] = {id=10309,en="Mount",ja="マウント"},
     [10496] = {id=10496,en="Expansions",ja="タイトル"},
     [10497] = {id=10497,en="Rise of the Zilart",ja="ジラートの幻影"},
     [10498] = {id=10498,en="Chains of Promathia",ja="プロマシアの呪縛"},

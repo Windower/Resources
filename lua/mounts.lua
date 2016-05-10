@@ -4,6 +4,8 @@ return {
     [0] = {id=0,en="Chocobo",ja="マイチョコボ",endesc="Calls forth your personal chocobo.",icon_id=86,jadesc="マイチョコボを呼び出す。",prefix="/mount"},
     [1] = {id=1,en="Raptor",ja="ラプトル",endesc="Calls forth a raptor.",icon_id=87,jadesc="ラプトルを呼び出す。",prefix="/mount"},
     [2] = {id=2,en="Tiger",ja="剣虎",endesc="Calls forth a tiger.",icon_id=87,jadesc="剣虎を呼び出す。",prefix="/mount"},
+    [3] = {id=3,en="Crab",ja="クラブ",endesc="Calls forth a crab.",icon_id=87,jadesc="クラブを呼び出す。",prefix="/mount"},
+    [4] = {id=4,en="Red Crab",ja="赤クラブ",endesc="Calls forth a red crab.",icon_id=87,jadesc="赤クラブを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[

@@ -2924,7 +2924,22 @@
   <o id="3052" en="Ambuscade Primer Volume One" ja="アンバスケード大典1章" category="Temporary Key Items" />
   <o id="3053" en="Ambuscade Primer Volume Two" ja="アンバスケード大典2章" category="Temporary Key Items" />
   <o id="3055" en="trainer's whistle" ja="呼子霊笛" category="Mounts" />
+  <o id="3056" en="Mog Kupon W-EMI" ja="クーポンW-EMI" category="Temporary Key Items" />
+  <o id="3057" en="Mog Kupon A-EMI" ja="クーポンA-EMI" category="Temporary Key Items" />
+  <o id="3058" en="Mog Kupon W-SRW" ja="クーポンW-SRR" category="Temporary Key Items" />
+  <o id="3059" en="Mog Kupon W-SCC" ja="クーポンW-SCI" category="Temporary Key Items" />
+  <o id="3060" en="Mog Kupon A-SYW" ja="クーポンA-SYO" category="Temporary Key Items" />
+  <o id="3061" en="Mog Kupon W-ASRW" ja="クーポンW-ASRR" category="Temporary Key Items" />
+  <o id="3062" en="Mog Kupon W-ASCC" ja="クーポンW-ASCI" category="Temporary Key Items" />
+  <o id="3063" en="Mog Kupon A-ASYW" ja="クーポンA-ASYO" category="Temporary Key Items" />
+  <o id="3064" en="Mog Kupon W-R119" ja="クーポンW-R119" category="Temporary Key Items" />
+  <o id="3065" en="Mog Kupon W-M119" ja="クーポンW-M119" category="Temporary Key Items" />
+  <o id="3066" en="Mog Kupon W-E119" ja="クーポンW-E119" category="Temporary Key Items" />
+  <o id="3067" en="Mog Kupon W-A119" ja="クーポンW-A119" category="Temporary Key Items" />
+  <o id="3068" en="Mog Kupon AW-GeIV" ja="クーポンAW-GeIV" category="Temporary Key Items" />
   <o id="3072" en="♪Chocobo companion" ja="♪マイチョコボ" category="Mounts" />
   <o id="3073" en="♪Raptor companion" ja="♪ラプトル" category="Mounts" />
   <o id="3074" en="♪Tiger companion" ja="♪剣虎" category="Mounts" />
+  <o id="3075" en="♪Crab companion" ja="♪クラブ" category="Mounts" />
+  <o id="3076" en="♪Red crab companion" ja="♪赤クラブ" category="Mounts" />
 </key_items>

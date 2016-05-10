@@ -3187,6 +3187,11 @@
   <o id="3804" en="Tail Smash" ja="テールスマッシュ" />
   <o id="3805" en="Great Sandstorm" ja="大砂塵" />
   <o id="3806" en="Great Whirlwind" ja="大旋風" />
+  <o id="3807" en="Shin Zantetsuken" ja="真・斬鉄剣" />
+  <o id="3808" en="Zantetsuken Jin" ja="斬鉄剣・迅" />
+  <o id="3809" en="Gospel of the Lost" ja="万霊の福音" />
+  <o id="3810" en="Void of Repentance" ja="懺悔の間" />
+  <o id="3811" en="Perfect Defense" ja="絶対防御" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3297,40 +3302,34 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Aerial Wheel" ja="エアリアルホイール" />
-  <o id="3969" en="Shoulder Attack" ja="ショルダーアタック" />
-  <o id="3970" en="Slam Dunk" ja="スラムダンク" />
-  <o id="3971" en="Arm Block" ja="アームブロック" />
-  <o id="3972" en="Battle Dance" ja="バトルダンス" />
-  <o id="3973" en="Heroes' Warcry" ja="英魂の雄叫び" />
-  <o id="3974" en="Fanatic Dance" ja="ファナティックダンス" />
-  <o id="3975" en="Champions' Warcry" ja="雄飛の雄叫び" />
-  <o id="3976" en="Manic Dance" ja="マニックダンス" />
-  <o id="3977" en="Orcish Counterstance" ja="カウンタースタンス" />
-  <o id="3978" en="Berserker Dance" ja="バーサーカーダンス" />
-  <o id="3979" en="Tornado Edge" ja="トルネードエッジ" />
-  <o id="3980" en="Shoulder Charge" ja="ショルダーチャージ" />
-  <o id="3981" en="Veil of Chaos" ja="ベール・オブ・カオス" />
-  <o id="3982" en="Veil of Disarray" ja="ベール・オブ・ディサレー" />
-  <o id="3983" en="Death Ray" ja="デスレイ" />
-  <o id="3984" en="Hex Eye" ja="凶眼" />
-  <o id="3985" en="Ignis" ja="イグニス" />
-  <o id="3986" en="Gelus" ja="ゲールス" />
-  <o id="3987" en="Flabra" ja="フラブラ" />
-  <o id="3988" en="Tellus" ja="テッルス" />
-  <o id="3989" en="Sulpor" ja="スルポール" />
-  <o id="3990" en="Unda" ja="ウンダ" />
-  <o id="3991" en="Lux" ja="ルックス" />
-  <o id="3992" en="Tenebrae" ja="テネブレイ" />
-  <o id="3993" en="Vallation" ja="ヴァレション" />
-  <o id="4032" en="Flame Breath" ja="フレイムブレス" />
-  <o id="4033" en="Poison Breath" ja="ポイズンブレス" />
-  <o id="4034" en="Wind Breath" ja="ウィンドブレス" />
-  <o id="4035" en="Body Slam" ja="ボディプレス" />
-  <o id="4036" en="Heavy Stomp" ja="ヘビーストンプ" />
-  <o id="4037" en="Chaos Blade" ja="カオスブレード" />
-  <o id="4038" en="Petro Eyes" ja="ペトロアイズ" />
-  <o id="4039" en="Voidsong" ja="無の歌" />
-  <o id="4040" en="Thornsong" ja="棘の歌" />
-  <o id="4041" en="Lodesong" ja="鉛の歌" />
+  <o id="3968" en="Ore Toss" ja="鉱石投げ" />
+  <o id="3969" en="Shoulder Attack" ja="ヘッドバット" />
+  <o id="3970" en="Shell Bash" ja="シェルバッシュ" />
+  <o id="3971" en="Howl" ja="雄叫び" />
+  <o id="3972" en="Ecstacy of Gu'Dha" ja="グ・ダの喜び" />
+  <o id="3973" en="Galumph" ja="ガランフ" />
+  <o id="3974" en="Ore Lob" ja="炸裂岩投げ" />
+  <o id="3975" en="Skull Smash" ja="スカルスマッシュ" />
+  <o id="3976" en="Shell Charge" ja="シェルチャージ" />
+  <o id="3977" en="Wrath of Gu'Dha" ja="グ・ダの怒り" />
+  <o id="3978" en="Rage of Gu'Dah" ja="グ・ダの激怒り" />
+  <o id="3979" en="Torment of Gu'Dha" ja="トーメント・オブ・グ・ダ" />
+  <o id="3980" en="Imperfect Defense Shell" ja="インパーフェクトディフェンスシェル" />
+  <o id="3981" en="Imperfect Defense Shell" ja="インパーフェクトディフェンスシェル" />
+  <o id="3982" en="Imperfect Defense Shell" ja="インパーフェクトディフェンスシェル" />
+  <o id="3983" en="Imperfect Defense Shell" ja="インパーフェクトディフェンスシェル" />
+  <o id="3984" en="Sorrow of Gu'Dha" ja="グ・ダの哀しみ" />
+  <o id="3985" en="Sorrow of Gu'Dha" ja="グ・ダの楽しみ" />
+  <o id="4032" en="Triclip" ja="トライクリップ" />
+  <o id="4033" en="Back Swish" ja="バックスウィッシュ" />
+  <o id="4034" en="Mow" ja="モウ" />
+  <o id="4035" en="Frightful Roar" ja="フライトフルロア" />
+  <o id="4036" en="Mortal Ray" ja="モータルレイ" />
+  <o id="4037" en="Unblest Armor" ja="アンブレストアーマー" />
+  <o id="4038" en="Counterstance" ja="かまえる" />
+  <o id="4048" en="Soul Drain" ja="ソウルドレイン" />
+  <o id="4049" en="Hecatomb Wave" ja="ヘカトンウェーブ" />
+  <o id="4050" en="Demonic Howl" ja="デモニックハウル" />
+  <o id="4051" en="Condemnation" ja="コンデムネーション" />
+  <o id="4052" en="Quadrastrike" ja="クアドラストライク" />
 </monster_abilities>

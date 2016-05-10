@@ -1003,6 +1003,7 @@ return {
     [1007] = {id=1007,en="Onychophora Obliterator",ja="オニコフォラ　オブリテレーター"},
     [1008] = {id=1008,en="Erinys Engulfer",ja="エリニス　エンガルファー"},
     [1009] = {id=1009,en="Herald of a New Age",ja="ヘラルド　オブ　ア　ニュー　エイジ"},
+    [1010] = {id=1010,en="Preventer of the Second Coming",ja="再臨を食い止めし者"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
