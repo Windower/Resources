@@ -473,6 +473,7 @@ return {
     [478] = {id=478,en="Palisade",ja="パリセード",enl="Palisade",jal="パリセード"},
     [479] = {id=479,en="Scarlet Delirium",ja="レッドデリリアム",enl="Scarlet Delirium",jal="レッドデリリアム"},
     [480] = {id=480,en="Scarlet Delirium",ja="レッドデリリアム",enl="Scarlet Delirium",jal="レッドデリリアム"},
+    [481] = {id=481,en="Abdhaljs Seal",ja="アブダルスの焼印",enl="Abdhaljs Seal",jal="アブダルスの焼印"},
     [482] = {id=482,en="Decoy Shot",ja="デコイショット",enl="Decoy Shot",jal="デコイショット"},
     [483] = {id=483,en="Hagakure",ja="葉隠",enl="Hagakure",jal="葉隠"},
     [484] = {id=484,en="Issekigan",ja="一隻眼",enl="Issekigan",jal="一隻眼"},

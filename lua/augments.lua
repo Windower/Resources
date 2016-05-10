@@ -99,7 +99,7 @@ return {
     [96] = {id=96,en="Attack%+d Ranged Atk.%+d ",ja="攻%+d 飛攻%+d "},
     [97] = {id=97,en="Acc%+d/R.Acc%+d/Atk.%+d/R.Atk%+d",ja="命中%+d 飛命%+d 攻%+d 飛攻%+d "},
     [98] = {id=98,en="Mag. Acc.%+d/Mag. Dmg.%+d",ja="魔命%+d 魔法ダメージ%+d "},
-    [99] = {id=99,en="Eva.%+d/Mag. Eva.$+d",ja="回避%+d 魔回避%+d "},
+    [99] = {id=99,en="Eva.%+d/Mag. Eva.%+d",ja="回避%+d 魔回避%+d "},
     [100] = {id=100,en="101",ja="101"},
     [101] = {id=101,en="102",ja="102"},
     [102] = {id=102,en="103",ja="103"},
