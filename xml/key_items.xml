@@ -2783,7 +2783,7 @@
   <o id="2911" en="Ionos's webbing" ja="アイオノスの巣" category="Geas Fete" />
   <o id="2912" en="Sandy's lasher" ja="サンディーの蔓" category="Geas Fete" />
   <o id="2913" en="Nosoi's feather" ja="ノソイの羽根" category="Geas Fete" />
-  <o id="2914" en="Brittilis's ring" ja="ブリタリスの指輪" category="Geas Fete" />
+  <o id="2914" en="Brittlis's ring" ja="ブリタリスの指輪" category="Geas Fete" />
   <o id="2915" en="Kamohoalii's fin" ja="カモホアリィのヒレ" category="Geas Fete" />
   <o id="2916" en="Umdhlebi's flower" ja="ウムドレビの花" category="Geas Fete" />
   <o id="2917" en="Fleetstalker's claw" ja="フリートストーカーの爪" category="Geas Fete" />
@@ -2937,6 +2937,7 @@
   <o id="3066" en="Mog Kupon W-E119" ja="クーポンW-E119" category="Temporary Key Items" />
   <o id="3067" en="Mog Kupon W-A119" ja="クーポンW-A119" category="Temporary Key Items" />
   <o id="3068" en="Mog Kupon AW-GeIV" ja="クーポンAW-GeIV" category="Temporary Key Items" />
+  <o id="3069" en="shimmering invitation" ja="またたく招待状" category="Permanent Key Items" />
   <o id="3072" en="♪Chocobo companion" ja="♪マイチョコボ" category="Mounts" />
   <o id="3073" en="♪Raptor companion" ja="♪ラプトル" category="Mounts" />
   <o id="3074" en="♪Tiger companion" ja="♪剣虎" category="Mounts" />
