@@ -113,4 +113,5 @@
   <o id="124" element="6" icon_id="46" targets="0" range="0" en="Superior" ja="スペリア" />
   <o id="125" element="6" icon_id="46" targets="0" range="0" en="Magic Acc. Bonus" ja="魔法命中率アップ" />
   <o id="126" element="7" icon_id="47" targets="0" range="0" en="Magic Eva. Bonus" ja="魔法回避率アップ" />
+  <o id="127" element="0" icon_id="40" targets="0" range="0" en="Smite" ja="スマイト" />
 </job_traits>

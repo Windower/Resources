@@ -2760,7 +2760,7 @@ return {
     [2887] = {id=2887,en="\"Rhapsody in Crimson\"",ja="星唄の煌めき【四奏】",category="Permanent Key Items"},
     [2888] = {id=2888,en="\"Rhapsody in Emerald\"",ja="星唄の煌めき【五奏】",category="Permanent Key Items"},
     [2889] = {id=2889,en="\"Rhapsody in Mauve\"",ja="星唄の煌めき【六奏】",category="Permanent Key Items"},
-    [2890] = {id=2890,en="\"Rhapsody in Fuschia\"",ja="星唄の煌めき【七奏】",category="Permanent Key Items"},
+    [2890] = {id=2890,en="\"Rhapsody in Fuchsia\"",ja="星唄の煌めき【七奏】",category="Permanent Key Items"},
     [2891] = {id=2891,en="\"Rhapsody in Puce\"",ja="星唄の煌めき【八奏】",category="Permanent Key Items"},
     [2892] = {id=2892,en="\"Rhapsody in Ochre\"",ja="星唄の煌めき【九奏】",category="Permanent Key Items"},
     [2893] = {id=2893,en="\"Scintillating Rhapsody\"",ja="星唄の煌めき【終奏】",category="Permanent Key Items"},
@@ -2944,6 +2944,9 @@ return {
     [3074] = {id=3074,en="♪Tiger companion",ja="♪剣虎",category="Mounts"},
     [3075] = {id=3075,en="♪Crab companion",ja="♪クラブ",category="Mounts"},
     [3076] = {id=3076,en="♪Red crab companion",ja="♪赤クラブ",category="Mounts"},
+    [3077] = {id=3077,en="♪Bomb companion",ja="♪ボム",category="Mounts"},
+    [3078] = {id=3078,en="♪Ram companion",ja="♪大羊",category="Mounts"},
+    [3079] = {id=3079,en="♪Morbol companion",ja="♪モルボル",category="Mounts"},
 }, {"id", "en", "ja", "category"}
 
 --[[

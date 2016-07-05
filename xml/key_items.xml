@@ -2759,7 +2759,7 @@
   <o id="2887" en="&quot;Rhapsody in Crimson&quot;" ja="星唄の煌めき【四奏】" category="Permanent Key Items" />
   <o id="2888" en="&quot;Rhapsody in Emerald&quot;" ja="星唄の煌めき【五奏】" category="Permanent Key Items" />
   <o id="2889" en="&quot;Rhapsody in Mauve&quot;" ja="星唄の煌めき【六奏】" category="Permanent Key Items" />
-  <o id="2890" en="&quot;Rhapsody in Fuschia&quot;" ja="星唄の煌めき【七奏】" category="Permanent Key Items" />
+  <o id="2890" en="&quot;Rhapsody in Fuchsia&quot;" ja="星唄の煌めき【七奏】" category="Permanent Key Items" />
   <o id="2891" en="&quot;Rhapsody in Puce&quot;" ja="星唄の煌めき【八奏】" category="Permanent Key Items" />
   <o id="2892" en="&quot;Rhapsody in Ochre&quot;" ja="星唄の煌めき【九奏】" category="Permanent Key Items" />
   <o id="2893" en="&quot;Scintillating Rhapsody&quot;" ja="星唄の煌めき【終奏】" category="Permanent Key Items" />
@@ -2943,4 +2943,7 @@
   <o id="3074" en="♪Tiger companion" ja="♪剣虎" category="Mounts" />
   <o id="3075" en="♪Crab companion" ja="♪クラブ" category="Mounts" />
   <o id="3076" en="♪Red crab companion" ja="♪赤クラブ" category="Mounts" />
+  <o id="3077" en="♪Bomb companion" ja="♪ボム" category="Mounts" />
+  <o id="3078" en="♪Ram companion" ja="♪大羊" category="Mounts" />
+  <o id="3079" en="♪Morbol companion" ja="♪モルボル" category="Mounts" />
 </key_items>

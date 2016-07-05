@@ -6,6 +6,9 @@ return {
     [2] = {id=2,en="Tiger",ja="剣虎",endesc="Calls forth a tiger.",icon_id=87,jadesc="剣虎を呼び出す。",prefix="/mount"},
     [3] = {id=3,en="Crab",ja="クラブ",endesc="Calls forth a crab.",icon_id=87,jadesc="クラブを呼び出す。",prefix="/mount"},
     [4] = {id=4,en="Red Crab",ja="赤クラブ",endesc="Calls forth a red crab.",icon_id=87,jadesc="赤クラブを呼び出す。",prefix="/mount"},
+    [5] = {id=5,en="Bomb",ja="ボム",endesc="Calls forth a bomb.",icon_id=87,jadesc="ボムを呼び出す。",prefix="/mount"},
+    [6] = {id=6,en="Ram",ja="大羊",endesc="Calls forth a ram.",icon_id=87,jadesc="大羊を呼び出す。",prefix="/mount"},
+    [7] = {id=7,en="Morbol",ja="モルボル",endesc="Calls forth a morbol.",icon_id=87,jadesc="モルボルを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
