@@ -114,6 +114,7 @@ return {
     [124] = {id=124,en="Superior",ja="スペリア",element=6,icon_id=46,range=0,targets=0},
     [125] = {id=125,en="Magic Acc. Bonus",ja="魔法命中率アップ",element=6,icon_id=46,range=0,targets=0},
     [126] = {id=126,en="Magic Eva. Bonus",ja="魔法回避率アップ",element=7,icon_id=47,range=0,targets=0},
+    [127] = {id=127,en="Smite",ja="スマイト",element=0,icon_id=40,range=0,targets=0},
 }, {"id", "en", "ja", "element", "icon_id", "range", "targets"}
 
 --[[
