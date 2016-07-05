@@ -3302,33 +3302,43 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Feather Storm" ja="羽根吹雪" />
-  <o id="3969" en="Double Kick" ja="飛燕双脚" />
-  <o id="3970" en="Parry" ja="受け流し" />
-  <o id="3971" en="Sweep" ja="草払い" />
-  <o id="3972" en="Howl" ja="雄叫び" />
-  <o id="3973" en="Dark Invocation" ja="闇の呪詛" />
-  <o id="3974" en="Kamaitachi" ja="鎌鼬" />
-  <o id="3975" en="Shirahadori" ja="白羽取り" />
-  <o id="3976" en="Vorticose Sands" ja="ヴォーティコスサンズ" />
-  <o id="3977" en="Aero IV" ja="エアロIV" />
-  <o id="3978" en="Predator Claws" ja="プレデタークロー" />
-  <o id="3979" en="Wind Blade" ja="ウインドブレード" />
-  <o id="3980" en="Aerial Blast" ja="エリアルブラスト" />
-  <o id="4032" en="Sandblast" ja="サンドブラスト" />
-  <o id="4033" en="Sandpit" ja="サンドピット" />
-  <o id="4034" en="Corrosive Spray" ja="コロシブスプレー" />
-  <o id="4035" en="Mandibular Bite" ja="マンディビュラバイト" />
-  <o id="4036" en="Gravity Pull" ja="グラビティプル" />
-  <o id="4037" en="Quake Blast" ja="クエイクブラスト" />
-  <o id="4042" en="Sandblast" ja="サンドブラスト" />
-  <o id="4043" en="Sandpit" ja="サンドピット" />
-  <o id="4044" en="Corrosive Spray" ja="コロシブスプレー" />
-  <o id="4045" en="Mandibular Bite" ja="マンディビュラバイト" />
-  <o id="4046" en="Gravity Pull" ja="グラビティホーン" />
-  <o id="4047" en="Quake Blast" ja="クエイクブラスト" />
-  <o id="4048" en="Somersault" ja="サマーソルト" />
-  <o id="4049" en="Cursed Sphere" ja="カースドスフィア" />
-  <o id="4050" en="Venom" ja="毒液" />
-  <o id="4051" en="Swarmsong" ja="スウォームソング" />
+  <o id="3968" en="Goblin Rush" ja="ゴブリンラッシュ" />
+  <o id="3969" en="Bomb Toss" ja="爆弾投げ" />
+  <o id="3970" en="Frypan" ja="フライパン" />
+  <o id="3971" en="Smokebomb" ja="スモークスクリーン" />
+  <o id="3972" en="Crispy Candle" ja="クリスピーシャワー" />
+  <o id="3973" en="Paralysis Shower" ja="パラライズシャワー" />
+  <o id="3974" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3975" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3976" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3977" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3978" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3979" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3980" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3981" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3982" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3983" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3984" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3985" en="Hear No Evil" ja="ワルワル爆弾" />
+  <o id="3986" en="United We Fall" ja="バイバイ爆弾" />
+  <o id="3987" en="Divided We Fall" ja="ゴブゴブ爆弾" />
+  <o id="4032" en="Blind Vortex" ja="ブラインヴォルテクス" />
+  <o id="4033" en="Rending Screech" ja="レンディングスクリーチ" />
+  <o id="4034" en="Dread Dive" ja="ドレッドダイヴ" />
+  <o id="4035" en="Impact Barrier" ja="インパクトバリア" />
+  <o id="4036" en="Stormwind" ja="ストームウィンド" />
+  <o id="4037" en="Frantic Dive" ja="フランティックダイヴ" />
+  <o id="4048" en="Hammer Beak" ja="ハンマービーク" />
+  <o id="4049" en="Poison Pick" ja="ポイズンピック" />
+  <o id="4050" en="Sound Vacuum" ja="サウンドバキューム" />
+  <o id="4051" en="Tail Rod" ja="テールロッド" />
+  <o id="4053" en="Baleful Gaze" ja="邪視" />
+  <o id="4056" en="Pecking Flurry" ja="ペッキングフラリー" />
+  <o id="4057" en="Snatch Morsel" ja="スナッチモースル" />
+  <o id="4058" en="Feather Tickle" ja="フェザーティックル" />
+  <o id="4064" en="Yawn" ja="ヤーン" />
+  <o id="4065" en="Wing Slap" ja="ウィングスラップ" />
+  <o id="4066" en="Beak Lunge" ja="ビークランジ" />
+  <o id="4067" en="Frigid Shuffle" ja="クールダンス" />
+  <o id="4068" en="Wing Whirl" ja="貝独楽" />
 </monster_abilities>

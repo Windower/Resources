@@ -1004,6 +1004,7 @@ return {
     [1008] = {id=1008,en="Erinys Engulfer",ja="エリニス　エンガルファー"},
     [1009] = {id=1009,en="Herald of a New Age",ja="ヘラルド　オブ　ア　ニュー　エイジ"},
     [1010] = {id=1010,en="Preventer of the Second Coming",ja="再臨を食い止めし者"},
+    [1011] = {id=1011,en="Lux Ex Tenebris",ja="ルックス・エクス・テネブリス"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
@@ -1013,6 +1014,8 @@ return {
     [1050] = {id=1050,en="Seer of Songs",ja="星唄に乗せて歩み続ける者"},
     [1051] = {id=1051,en="The Eternal Wind",ja="悠久の風"},
     [1116] = {id=1116,en="Raptor Wrangler",ja="爆速ラプトルライダー"},
+    [1117] = {id=1117,en="Gardener for the Ages",ja="疾走ガーデンライダー"},
+    [1118] = {id=1118,en="Lagoon Explorer",ja="伝説ラグーンライダー"},
 }, {"id", "en", "ja"}
 
 --[[

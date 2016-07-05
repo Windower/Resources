@@ -558,6 +558,8 @@ return {
     [3525] = {id=3525,en="/mutese",ja="/mutese"},
     [3526] = {id=3526,en="/emotefaith",ja="/emotefaith"},
     [3527] = {id=3527,en="/emotetrust",ja="/emotetrust"},
+    [3528] = {id=3528,en="/wardrobe3",ja="/wardrobe3"},
+    [3529] = {id=3529,en="/wardrobe4",ja="/wardrobe4"},
     [3584] = {id=3584,en="Locations",ja="イチ"},
     [3585] = {id=3585,en="This way",ja="こっち"},
     [3586] = {id=3586,en="That way",ja="そっち"},
