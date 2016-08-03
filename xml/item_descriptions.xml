@@ -178,6 +178,7 @@
   <o id="284" en="Furnishing:&#xA;A statuette of a goobbue with its maw agape, about to swallow a mandragora. It is so masterfully crafted that you can almost feel the rows of razor-blade-like teeth severing your flesh." ja="グゥーブーの精巧な彫像。&#xA;調度品の一種。" />
   <o id="286" en="Furnishing:&#xA;A statuette of the infamous Cat Burglar Nanaa Mihgo that replicates her so vividly you instinctually reach for your coin purse." ja="オヤブンの精巧な彫像。&#xA;調度品の一種。 " />
   <o id="287" en="Furnishing:&#xA;A lovingly crafted statuette of Nanaa Mihgo emphatically raising a violin in triumph and gripping her bow suspiciously, as a cutpurse would a dagger." ja="オヤブンの精巧な彫像。&#xA;調度品の一種。 " />
+  <o id="295" en="Furnishing:&#xA;A warm and inviting bonfire." ja="とても暖かい焚き火。&#xA;調度品の一種。" />
   <o id="303" en="Furnishing:&#xA;A solid gold cup presented&#xA;to you by the CRA for placing&#xA;first in the Crystal Stakes." ja="クリスタルステークス優勝者に贈られる記念杯。&#xA;VCS贈呈。調度品の一種。" />
   <o id="304" en="Furnishing:&#xA;A solid mythril cup presented&#xA;to you by the CRA for placing&#xA;second in the Crystal Stakes." ja="クリスタルステークス準優勝者に贈られる記念杯。&#xA;VCS贈呈。調度品の一種。" />
   <o id="305" en="Furnishing:&#xA;A solid bronze cup presented&#xA;to you by the CRA for placing&#xA;third in the Crystal Stakes." ja="クリスタルステークス第三位に贈られる記念杯。&#xA;VCS贈呈。調度品の一種。" />
@@ -3529,6 +3530,8 @@
   <o id="3715" en="Furnishing: A pot of precious flowers." ja="ピンククレマテスが植えられた花壇。&#xA;調度品の一種。" />
   <o id="3717" en="A majestic tree found growing in numerous climates." ja="温暖な地域に生息する広葉樹。&#xA;調度品の一種。" />
   <o id="3729" en="Furnishing: A chest whose less-than-pristine appearance conceals how tough and sturdy it truly is." ja="丈夫な木の箱。&#xA;調度品の一種。" />
+  <o id="3730" en="Furnishing:&#xA;A sturdily made treasure coffer." ja="丈夫な宝箱。&#xA;調度品の一種。" />
+  <o id="3731" en="Furnishing:&#xA;A sturdy chest made of a bluish wood." ja="丈夫な青い木の箱。&#xA;調度品の一種。" />
   <o id="3840" en="This pulsating cell houses the energy required to charge a mextli harness." ja="『ミキストリハーネス』から取りだされたパルスの力。&#xA;" />
   <o id="3841" en="This pulsating cell houses the energy required to charge an anhur robe." ja="『アンフルローブ』から取りだされたパルスの力。&#xA;" />
   <o id="3842" en="This pulsating cell houses the energy required to charge a suit of fazheluo radiant mail." ja="『伐折羅明光鎧』から取りだされたパルスの力。&#xA;" />
@@ -3932,35 +3935,35 @@
   <o id="4264" en="A fruit-flavored candy. It is shaped&#xA;like a light bead." ja="フルーツの香りをつけたキャンデー。&#xA;光の宝珠を模している。" />
   <o id="4265" en="A fruit-flavored candy. It is shaped&#xA;like a dark bead." ja="フルーツの香りをつけたキャンデー。&#xA;闇の宝珠を模している。" />
   <o id="4266" en="The toppings on this delicious salmon&#xA;sub are piled a malm high.&#xA;DEX+2 VIT+1 AGI+1 INT+2 MND-2&#xA;Ranged Accuracy+3" ja="美味しくできたサーモンサンド。&#xA;DEX+2 VIT+1 AGI+1 INT+2 MND-2 飛命+3" />
-  <o id="4267" en="This blissful nebimonite bake has been&#xA;buttered and basted to perfection." ja="美味しく焼けたネビムナイト。&#xA;" />
-  <o id="4268" en="The pleasant aroma of the seven seas&#xA;graces this bream risotto." ja="潮の香り漂うブリームのリゾット。&#xA;" />
-  <o id="4269" en="This marron glace has the luster of&#xA;a rare gem." ja="美しい光沢のマロングラッセ。&#xA;" />
+  <o id="4267" en="This blissful nebimonite bake has been&#xA;buttered and basted to perfection.&#xA;DEX+1 VIT+2 DEF+25% (Max. 75)" ja="美味しく焼けたネビムナイト。&#xA;DEX+1 VIT+2 防+25% (最大75)" />
+  <o id="4268" en="The pleasant aroma of the seven seas&#xA;graces this bream risotto.&#xA;HP+45 DEX+6 AGI+3 MND-4&#xA;Ranged Accuracy+6% (Max.20)&#xA;HP recovered while healing +1" ja="潮の香り漂うブリームのリゾット。&#xA;HP+45 DEX+6 AGI+3 MND-4&#xA;飛命+6% (最大20) ヒーリングHP+1" />
+  <o id="4269" en="This marron glace has the luster of&#xA;a rare gem.&#xA;MP+13% (Max.90)&#xA;MP recovered while healing +1" ja="美しい光沢のマロングラッセ。&#xA;MP+13% (最大90) ヒーリングMP+1" />
   <o id="4270" en="This three-layered rice cake has been&#xA;molded into a diamond shape. The&#xA;coloring used in the layers has&#xA;medicinal properties.&#xA;MP+17 VIT+2 INT+3 MND+1&#xA;Evasion+5&#xA;&quot;Resist Silence&quot;+4&#xA;HP and MP recovered while healing +2" ja="三枚重ねにした菱形のライスの固まり。&#xA;各段の配色は各々異なる薬効を表すと云う。&#xA;MP+17 VIT+2 INT+3 MND+1 回避+5&#xA;レジストサイレス+4 ヒーリングHP+2&#xA;ヒーリングMP+2 " />
-  <o id="4271" en="This steamed rice has been wrapped&#xA;in a bamboo leaf. Rice dumplings are&#xA;said to have the power to ward off&#xA;evil spirits." ja="竹の葉に包まれたライスの固まり。&#xA;食した者の邪を払う魔除けの効能をもつと云う。" />
+  <o id="4271" en="This steamed rice has been wrapped&#xA;in a bamboo leaf. Rice dumplings are&#xA;said to have the power to ward off&#xA;evil spirits.&#xA;HP+17 STR+3 VIT+2 AGI+1 Accuracy+5&#xA;Attack+20% (Max.45)&#xA;Ranged Attack+30% (Max.45)&#xA;&quot;Resist Paralyze&quot;+4&#xA;HP recovered while healing +2&#xA;MP recovered while hea" ja="竹の葉に包まれたライスの固まり。&#xA;食した者の邪を払う魔除けの効能をもつと云う。&#xA;HP+17 STR+3 VIT+2 AGI+1 命中+5&#xA;攻+20% (最大45) 飛攻+30% (最大45)&#xA;レジストパライズ+4 ヒーリングHP+2&#xA;ヒーリングMP+2" />
   <o id="4272" en="This slab of dragon meat remains&#xA;fresh and juicy." ja="鮮度が落ちない、常にジューシーなドラゴンの肉。&#xA;" />
   <o id="4273" en="While extremely sour, this legendary&#xA;fruit is high in nutrition." ja="酸味が強く栄養価が高い、伝説の果実。&#xA;" />
   <o id="4274" en="The flesh of this legendary fruit is&#xA;soft and sweet." ja="果肉が軟らかく糖度が高い、伝説の果実。&#xA;" />
   <o id="4275" en="The eggs of the legendary emperor fish&#xA;are prized for their flavor." ja="幻の淡水魚「煌魚」の卵巣。&#xA;珍味で知られる。" />
-  <o id="4276" en="The salted roe of the emperor fish are&#xA;also known as &quot;black diamonds.&quot;" ja="煌魚の卵の塩漬け。&#xA;「黒い宝石」と呼ばれ、珍重される。" />
-  <o id="4277" en="Only the finest ingredients are used&#xA;in this rice ball." ja="珍味の入った高級おにぎり。&#xA;" />
-  <o id="4278" en="This tonosama rice ball has been&#xA;made to perfection." ja="魂をこめて握られた殿様おにぎり。&#xA;" />
-  <o id="4279" en="Seafood graces this salad loved&#xA;by pirates everywhere." ja="海鮮をふんだんに使った海賊風サラダ。&#xA;かつてのタブナジア侯国の名物。" />
-  <o id="4280" en="Now with 32% more garlic! Do not eat&#xA;these potent crackers before a date." ja="濃厚な匂いを発する、にんにくせんべい。&#xA;" />
+  <o id="4276" en="The salted roe of the emperor fish are&#xA;also known as &quot;black diamonds.&quot;&#xA;HP+10 MP+10 DEX+4 MND-1 CHR+4" ja="煌魚の卵の塩漬け。&#xA;「黒い宝石」と呼ばれ、珍重される。&#xA;HP+10 MP+10 DEX+4 MND-1 CHR+4" />
+  <o id="4277" en="Only the finest ingredients are used&#xA;in this rice ball.&#xA;HP+15 DEX+3 VIT+3 CHR+3" ja="珍味の入った高級おにぎり。&#xA;HP+15 DEX+3 VIT+3 CHR+3" />
+  <o id="4278" en="This tonosama rice ball has been&#xA;made to perfection.&#xA;HP+20 DEX+4 VIT+4 CHR+4" ja="魂をこめて握られた殿様おにぎり。&#xA;HP+20 DEX+4 VIT+4 CHR+4" />
+  <o id="4279" en="Seafood graces this salad loved&#xA;by pirates everywhere.&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 DEF+25% (Max.150)" ja="海鮮をふんだんに使った海賊風サラダ。&#xA;かつてのタブナジア侯国の名物。&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 防+25% (最大150)" />
+  <o id="4280" en="Now with 32% more garlic! Do not eat&#xA;these potent crackers before a date.&#xA;&quot;Undead Killer&quot;+12 &quot;Resist Blind&quot;+12&#xA;HP recovered while healing +8" ja="濃厚な匂いを発する、にんにくせんべい。&#xA;アンデッドキラー+12 レジストブライン+12&#xA;ヒーリングHP+8" />
   <o id="4281" en="Before eating one of these spicy&#xA;crackers, be sure to find a bottle&#xA;of distilled water to put out the&#xA;fire in your mouth.&#xA;&quot;Beast Killer&quot;+12&#xA;&quot;Resist Sleep&quot;+12&#xA;HP recovered while healing +9" ja="とびきり辛い、からしせんべい。&#xA;ビーストキラー+12 レジストスリープ+12&#xA;ヒーリングHP+9 " />
-  <o id="4282" en="People praise the pleasant properties&#xA;of pipin' hot popotoes." ja="やわらかく焼けたポポトイモ。&#xA;" />
-  <o id="4283" en="The smooth, rich, and creamy flavor of&#xA;this beverage puts regular chocomilk&#xA;to shame." ja="香り立つチョコドリンク。&#xA;" />
-  <o id="4284" en="The slow-cooked mutton in this&#xA;navarin will simply melt in your mouth." ja="やわらかく煮込んだナヴァラン。&#xA;" />
+  <o id="4282" en="People praise the pleasant properties&#xA;of pipin' hot popotoes.&#xA;HP+25 VIT+3&#xA;HP recovered while healing +1" ja="やわらかく焼けたポポトイモ。&#xA;HP+25 VIT+3 ヒーリングHP+1" />
+  <o id="4283" en="The smooth, rich, and creamy flavor of&#xA;this beverage puts regular chocomilk&#xA;to shame.&#xA;MP recovered while healing +5" ja="香り立つチョコドリンク。&#xA;ヒーリングMP+5" />
+  <o id="4284" en="The slow-cooked mutton in this&#xA;navarin will simply melt in your mouth.&#xA;HP+3% (Max.130) STR+3&#xA;VIT+1 AGI+1 INT-1&#xA;Attack+27% (Max.35)&#xA;Ranged Attack+27% (Max.35)&#xA;Evasion+5" ja="やわらかく煮込んだナヴァラン。&#xA;HP+3% (最大130) STR+3 VIT+1 AGI+1&#xA;INT-1 攻+27% (最大35) 飛攻+27% (最大35)&#xA;回避+5" />
   <o id="4285" en="If you love the ocean, then you'll love&#xA;the mouthwatering flavor of this&#xA;magnificent shark fin soup.&#xA;HP+5% (Max. 150) MP+5 DEX+4&#xA;Attack+14% (Max. 90)&#xA;Ranged Attack+14% (Max. 90)&#xA;HP recovered while healing +9" ja="美味しくできたフカヒレスープ。&#xA;HP+5% (最大150) MP+5 DEX+4&#xA;攻+14% (最大90) 飛攻+14% (最大90)&#xA;ヒーリングHP+9" />
-  <o id="4286" en="This savory blend of chamomile tea is&#xA;rumored to have soothing properties." ja="美味しく淹れたカモミールティー。&#xA;" />
-  <o id="4287" en="Even Opo-opos cannot resist the&#xA;delightful aroma of this titillating&#xA;pamama tart." ja="よい香りにオポオポが寄ってくるパママのタルト。&#xA;" />
+  <o id="4286" en="This savory blend of chamomile tea is&#xA;rumored to have soothing properties.&#xA;MP+10 VIT-1 CHR+3&#xA;&quot;Resist Sleep&quot;-40&#xA;MP recovered while healing +2" ja="美味しく淹れたカモミールティー。&#xA;MP+10 VIT-1 CHR+3 レジストスリープ-40&#xA;ヒーリングMP+2" />
+  <o id="4287" en="Even Opo-opos cannot resist the&#xA;delightful aroma of this titillating&#xA;pamama tart.&#xA;HP+12 MP+12 INT+4&#xA;MP recovered while healing +3" ja="よい香りにオポオポが寄ってくるパママのタルト。&#xA;HP+12 MP+12 INT+4 ヒーリングMP+3" />
   <o id="4288" en="A saltwater fish that lives in the shore&#xA;reefs around Elshimo." ja="エルシモ島の岩礁に生息する海水魚。&#xA;" />
   <o id="4289" en="A freshwater fish found on Elshimo.&#xA;" ja="エルシモ島に生息する淡水魚。&#xA;" />
   <o id="4290" en="An amphibian living in&#xA;the jungles of Elshimo." ja="エルシモ島の密林に生息する両生類。&#xA;" />
   <o id="4291" en="A freshwater fish found deep below&#xA;the sands of the Altepa Desert." ja="アルテパ砂漠の地底に生息する淡水魚。&#xA;" />
-  <o id="4292" en="The fluffy center of this white bread&#xA;is whiter than snow." ja="美味しく焼けた白パン。&#xA;" />
-  <o id="4293" en="The beaugreens in this sautee have&#xA;been cooked in the manner followed by&#xA;the monks of San d'Oria." ja="ボスディン菜を軟らかく炒めた修道院風ソテー。&#xA;質素な暮らしを営む修道士にとって最高の御馳走。" />
-  <o id="4294" en="The herbs used in this healthy dish are&#xA;said to have healing properties." ja="香草の薬効を活かして焼いたキュス。&#xA;" />
-  <o id="4295" en="Tender slices of coeurl meat grace this&#xA;savory dish fit for a king." ja="クァールの肉を軟らかく炒めたソテー。&#xA;王家主催パーティで饗されるほど素晴らしい出来。" />
+  <o id="4292" en="The fluffy center of this white bread&#xA;is whiter than snow.&#xA;HP+18 VIT+4" ja="美味しく焼けた白パン。&#xA;HP+18 VIT+4" />
+  <o id="4293" en="The beaugreens in this sautee have&#xA;been cooked in the manner followed by&#xA;the monks of San d'Oria.&#xA;AGI+1 Ranged Accuracy+7% (Max.20)" ja="ボスディン菜を軟らかく炒めた修道院風ソテー。&#xA;質素な暮らしを営む修道士にとって最高の御馳走。&#xA;AGI+1 飛命+7% (最大20)" />
+  <o id="4294" en="The herbs used in this healthy dish are&#xA;said to have healing properties.&#xA;DEX+1 MND-1 Ranged Accuracy+7% (Max.15)" ja="香草の薬効を活かして焼いたキュス。&#xA;DEX+1 MND-1 飛命+7% (最大15)" />
+  <o id="4295" en="Tender slices of coeurl meat grace this&#xA;savory dish fit for a king.&#xA;STR+5 AGI+1 INT-2&#xA;Attack+22% (Max.80)&#xA;Ranged Attack+22% (Max.80)&#xA;&quot;Resist Stun&quot;+4&#xA;HP recovered while healing +1" ja="クァールの肉を軟らかく炒めたソテー。&#xA;王家主催パーティで饗されるほど素晴らしい出来。&#xA;STR+5 AGI+1 INT-2 攻+22% (最大80)&#xA;飛攻+22% (最大80) レジストスタン+4&#xA;ヒーリングHP+1" />
   <o id="4296" en="A delicious curry with crayfish.&#xA;VIT+1 AGI+2&#xA;Ranged Accuracy+5% (Max. 25)&#xA;DEF+9% (Max. 160)&#xA;&quot;Resist Sleep&quot;+3&#xA;HP recovered while healing +2&#xA;MP recovered while healing +1" ja="ザリガニを煮込んだ緑のカレー。&#xA;VIT+1 AGI+2 飛命+5% (最大25)&#xA;防+9% (最大160) レジストスリープ+3&#xA;ヒーリングHP+2 ヒーリングMP+1" />
   <o id="4297" en="A delicious curry with tuna.&#xA;DEX+2 VIT+4 INT+1&#xA;Accuracy+5 Ranged Accuracy+5&#xA;Evasion+5&#xA;DEF+15% (Max. 180)&#xA;&quot;Resist Sleep&quot;+3&#xA;HP recovered while healing +2&#xA;MP recovered while healing +1" ja="トゥーナを煮込んだ黒いカレー。&#xA;DEX+2 VIT+4 INT+1 命中+5 飛命+5 回避+5&#xA;防+15% (最大180) レジストスリープ+3&#xA;ヒーリングHP+2 ヒーリングMP+1 " />
   <o id="4298" en="A delicious curry with dragon meat.&#xA;HP+25 STR+7 AGI+1 INT-2&#xA;Attack+23% (Max. 150)&#xA;Ranged Attack+23% (Max. 150)&#xA;&quot;Demon Killer&quot;+4&#xA;&quot;Resist Sleep&quot;+3&#xA;HP recovered while healing +2&#xA;MP recovered while healing +1" ja="龍の肉を煮込んだ赤いカレー。&#xA;HP+25 STR+7 AGI+1 INT-2&#xA;攻+23% (最大150) 飛攻+23% (最大150)&#xA;デーモンキラー+4 レジストスリープ+3&#xA;ヒーリングHP+2 ヒーリングMP+1 " />
@@ -3986,36 +3989,36 @@
   <o id="4318" en="This round, spiked creature can&#xA;be found attached to the rocks&#xA;in Bibiki Bay. Its eggs are considered&#xA;a delicacy." ja="ビビキー湾の岩礁に生息する、球形の棘皮動物。&#xA;珍味で知られる。" />
   <o id="4319" en="This legendary colossal amphibian&#xA;has a triangular head that closely&#xA;resembles a tricorn hat." ja="頭部の形状が特徴的な、伝説の巨大両生類。&#xA;" />
   <o id="4320" en="An exceptionally delicious apple pie.&#xA;MP+30 INT+4&#xA;MP recovered while healing +2" ja="美味しく焼けたアップルパイ。&#xA;MP+30 INT+4 ヒーリングMP+2 " />
-  <o id="4321" en="This special tossed salad is an exact&#xA;replica of the one served at the Timbre&#xA;Timbers Tavern in Windurst." ja="スペシャルな盛りつけのウィンダス風サラダ。&#xA;音楽の森レストラン特製のサラダを模したもの。" />
+  <o id="4321" en="This special tossed salad is an exact&#xA;replica of the one served at the Timbre&#xA;Timbers Tavern in Windurst.&#xA;MP+20 VIT-1 AGI+5&#xA;Ranged Accuracy+8% (Max.15)" ja="スペシャルな盛りつけのウィンダス風サラダ。&#xA;音楽の森レストラン特製のサラダを模したもの。&#xA;MP+20 VIT-1 AGI+5 飛命+8% (最大15)" />
   <o id="4322" en="An exceptionally delicious dhalmel pie.&#xA;HP+25 STR+4 VIT+1 AGI+2 INT-2 MND+1&#xA;Attack+25% (Max. 50)&#xA;Ranged Attack+25% (Max. 50)" ja="美味しく焼けたダルメルパイ。&#xA;HP+25 STR+4 VIT+1 AGI+2 INT-2 MND+1&#xA;攻+25% (最大50) 飛攻+25% (最大50)" />
   <o id="4323" en="The flavor of this all vegetable&#xA;soup is beyond compare.&#xA;VIT-1 AGI+5&#xA;Ranged Accuracy+6&#xA;HP recovered while healing +3" ja="美味しくできた野菜のスープ。&#xA;VIT-1 AGI+5 飛命+6 ヒーリングHP+3 " />
-  <o id="4324" en="This Goblin chocolate is especially&#xA;bitter." ja="苦味の増したゴブリンチョコ。&#xA;" />
+  <o id="4324" en="This Goblin chocolate is especially&#xA;bitter.&#xA;&quot;Lizard Killer&quot;+12&#xA;&quot;Resist Petrify&quot;+12&#xA;HP recovered while healing +7" ja="苦味の増したゴブリンチョコ。&#xA;リザードキラー+12 レジストペトリ+12&#xA;ヒーリングHP+7" />
   <o id="4325" en="This strangely baked Goblin pie looks&#xA;burnt in some places.&#xA;HP+15 MP+15 AGI+4 CHR-7&#xA;DEF+12% (Max. 60)&#xA;HP recovered while healing +2" ja="不気味に焦げたゴブリンパイ。&#xA;HP+15 MP+15 AGI+4 CHR-7&#xA;防+12% (最大60) ヒーリングHP+2 " />
-  <o id="4326" en="Not your ordinary blackened frog." ja="香ばしいカエルの黒焼き。&#xA;" />
+  <o id="4326" en="Not your ordinary blackened frog.&#xA;DEX+3 AGI+2 MND-2&#xA;Attack+14% (Max.80)&#xA;Ranged Attack+14% (Max.80)&#xA;Evasion+5" ja="香ばしいカエルの黒焼き。&#xA;DEX+3 AGI+2 MND-2 攻+14% (最大80)&#xA;飛攻+14% (最大80) 回避+5" />
   <o id="4327" en="A delicious variety of pea soup.&#xA;VIT-1 AGI+2&#xA;Ranged Accuracy+6&#xA;HP recovered while healing +3" ja="美味しくできた豆のスープ。&#xA;VIT-1 AGI+2 飛命+6 ヒーリングHP+3 " />
-  <o id="4328" en="This strangely baked Goblin bread&#xA;looks burnt in some places." ja="不気味に焦げたゴブリンパン。&#xA;" />
-  <o id="4329" en="Not your ordinary blackened newt." ja="香ばしいイモリの黒焼き。&#xA;" />
-  <o id="4330" en="This mushroom risotto has been&#xA;bewitched." ja="マナが流しこまれたキノコのリゾット。&#xA;" />
-  <o id="4331" en="This fluffy San d'Orian omelette has&#xA;been cooked to perfection. Even the&#xA;king himself would be pleased." ja="ふんわりと焼けたサンドリア風オムレツ。&#xA;王家主催パーティで饗されるほど素晴らしい出来。" />
-  <o id="4332" en="One of the most delicious orange&#xA;kuchens you have ever tasted." ja="美味しく焼けたオレンジクーヘン。&#xA;" />
+  <o id="4328" en="This strangely baked Goblin bread&#xA;looks burnt in some places.&#xA;HP+10 VIT+3 CHR-7&#xA;HP recovered while healing +2" ja="不気味に焦げたゴブリンパン。&#xA;HP+10 VIT+3 CHR-7 ヒーリングHP+2" />
+  <o id="4329" en="Not your ordinary blackened newt.&#xA;DEX+4 MND-3 Attack+18% (Max.65)&#xA;&quot;Resist Virus&quot;+4 &quot;Resist Curse&quot;+4" ja="香ばしいイモリの黒焼き。&#xA;DEX+4 MND-3 攻+18% (最大65)&#xA;レジストウィルス+4 レジストカーズ+4" />
+  <o id="4330" en="This mushroom risotto has been&#xA;bewitched.&#xA;MP+35 STR-1 VIT+3 MND+3 Enmity-4&#xA;MP recovered while healing +2" ja="マナが流しこまれたキノコのリゾット。&#xA;MP+35 STR-1 VIT+3 MND+3 敵対心-4&#xA;ヒーリングMP+2" />
+  <o id="4331" en="This fluffy San d'Orian omelette has&#xA;been cooked to perfection. Even the&#xA;king himself would be pleased.&#xA;STR+5 DEX+2 INT-3 MND+4&#xA;Attack+22% (Max.70)&#xA;Ranged Attack+22% (Max.70)" ja="ふんわりと焼けたサンドリア風オムレツ。&#xA;王家主催パーティで饗されるほど素晴らしい出来。&#xA;STR+5 DEX+2 INT-3 MND+4&#xA;攻+22% (最大70) 飛攻+22% (最大70)" />
+  <o id="4332" en="One of the most delicious orange&#xA;kuchens you have ever tasted.&#xA;MP+13% (Max.80)&#xA;MP recovered while healing +1" ja="美味しく焼けたオレンジクーヘン。&#xA;MP+13% (最大80) ヒーリングMP+1" />
   <o id="4333" en="This mushroom soup has been&#xA;bewitched.&#xA;MP+25 STR-1 MND+2&#xA;Enmity-2&#xA;MP recovered while healing +1" ja="マナが流しこまれたキノコのスープ。&#xA;MP+25 STR-1 MND+2 敵対心-2&#xA;ヒーリングMP+1" />
-  <o id="4334" en="This roasted corn has been grilled&#xA;to perfection." ja="美味しく焼けたローストコーン。&#xA;" />
-  <o id="4335" en="Succulent juices flow from this tasty&#xA;roast mutton." ja="肉汁の溢れるマトンのロースト。&#xA;" />
-  <o id="4336" en="This baked apple is especially sweet." ja="甘く焼けた焼きリンゴ。&#xA;" />
+  <o id="4334" en="This roasted corn has been grilled&#xA;to perfection.&#xA;HP+10 VIT+4&#xA;HP recovered while healing +1" ja="美味しく焼けたローストコーン。&#xA;HP+10 VIT+4 ヒーリングHP+1" />
+  <o id="4335" en="Succulent juices flow from this tasty&#xA;roast mutton.&#xA;STR+3 INT-1&#xA;Attack+27% (Max.35)" ja="肉汁の溢れるマトンのロースト。&#xA;STR+3 INT-1 攻+27% (最大35)" />
+  <o id="4336" en="This baked apple is especially sweet.&#xA;MP+25 INT+4&#xA;MP recovered while healing +2" ja="甘く焼けた焼きリンゴ。&#xA;MP+25 INT+4 ヒーリングMP+2" />
   <o id="4337" en="This turtle soup puts most others&#xA;to shame.&#xA;HP+12% (Max. 200)&#xA;DEX+4 VIT+6 MND-3&#xA;HP recovered while healing +10" ja="美味しくできたスッポンスープ。&#xA;HP+12% (最大200) DEX+4 VIT+6 MND-3&#xA;ヒーリングHP+10" />
-  <o id="4338" en="One step above your average&#xA;boiled crayfish." ja="香ばしいザリガニの塩茹で。&#xA;" />
+  <o id="4338" en="One step above your average&#xA;boiled crayfish.&#xA;DEF+30% (Max.30)" ja="香ばしいザリガニの塩茹で。&#xA;防+30% (最大30)" />
   <o id="4339" en="One of the most delicious rolanberry&#xA;pies you have ever tasted.&#xA;MP+60 INT+3&#xA;MP recovered while healing +1" ja="美味しく焼けたロランベリーパイ。&#xA;MP+60 INT+3 ヒーリングMP+1 " />
   <o id="4340" en="This eyeball soup is so fresh, the&#xA;eyeballs are still blinking.&#xA;HP+6% (Max. 75) CHR-15&#xA;Accuracy+15 Ranged Accuracy+15&#xA;HP recovered while healing +5" ja="中で活発に眼球が泳ぐ、活きのよい目玉のスープ。&#xA;HP+6% (最大75) CHR-15 命中+15 飛命+15&#xA;ヒーリングHP+5" />
   <o id="4341" en="The flavor of this tomato soup&#xA;is sublime.&#xA;VIT-1 AGI+3&#xA;Ranged Accuracy+9% (Max. 20)&#xA;HP recovered while healing +5" ja="美味しくできたトマトスープ。&#xA;VIT-1 AGI+3 飛命+9% (最大20)&#xA;ヒーリングHP+5" />
   <o id="4342" en="One step above your average&#xA;boiled crab.&#xA;VIT+3&#xA;DEF+27% (Max. 65)" ja="美味しくできたゆでがに。&#xA;VIT+3 防+27% (最大65) " />
   <o id="4343" en="These roast mushrooms have been&#xA;bewitched.&#xA;MP+15 MND+4&#xA;Enmity-1&#xA;MP recovered while healing +3" ja="マナが振りかけられたキノコの塩焼き。&#xA;MP+15 MND+4 敵対心-1 ヒーリングMP+3 " />
-  <o id="4344" en="This bowl of mushroom stew has been&#xA;bewitched." ja="マナが流しこまれたキノコシチュー。&#xA;" />
-  <o id="4345" en="This flounder meuniere will make your&#xA;mouth water." ja="美味しく焼けたヒラメのムニエル。&#xA;" />
-  <o id="4346" en="This bass meuniere rivals those made&#xA;by Vana'diel's finest chefs." ja="美味しく焼けたバスのムニエル。&#xA;" />
-  <o id="4347" en="This salmon meuniere is so delicious&#xA;that it will bring you to tears." ja="美味しく焼けたサーモンのムニエル。&#xA;" />
-  <o id="4348" en="This spicy dish is one step above your&#xA;normal mutton tortilla." ja="丁寧に作られたマトントルティーヤ。&#xA;" />
-  <o id="4349" en="This specially cooked rarab meatball is&#xA;overflowing with juices." ja="ほっぺたが落ちそうな、美味しいミートボール。&#xA;" />
-  <o id="4350" en="This extra-thick cut of dragon&#xA;meat will give you so much&#xA;energy that you will not sleep&#xA;for three days." ja="特大厚切りで焼いた龍の肉。&#xA;食べたら元気がありあまり3日は眠れないと云う。" />
+  <o id="4344" en="This bowl of mushroom stew has been&#xA;bewitched.&#xA;MP+45 STR-1 MND+4 Enmity-4&#xA;MP recovered while healing +4" ja="マナが流しこまれたキノコシチュー。&#xA;MP+45 STR-1 MND+4 敵対心-4&#xA;ヒーリングMP+4" />
+  <o id="4345" en="This flounder meuniere will make your&#xA;mouth water.&#xA;DEX+6 VIT+1 MND-1&#xA;Ranged Accuracy+15&#xA;Ranged Attack+14% (Max.30)&#xA;Enmity-4" ja="美味しく焼けたヒラメのムニエル。&#xA;DEX+6 VIT+1 MND-1 飛命+15&#xA;飛攻+14% (最大30) 敵対心-4" />
+  <o id="4346" en="This bass meuniere rivals those made&#xA;by Vana'diel's finest chefs.&#xA;HP+3% (Max.130) DEX+3 AGI+3 MND-3&#xA;Ranged Accuracy+6% (Max.20)" ja="美味しく焼けたバスのムニエル。&#xA;HP+3% (最大130) DEX+3 AGI+3 MND-3&#xA;飛命+6% (最大20)" />
+  <o id="4347" en="This salmon meuniere is so delicious&#xA;that it will bring you to tears.&#xA;DEX+2 MND-2&#xA;Ranged Accuracy+7% (Max.15)" ja="美味しく焼けたサーモンのムニエル。&#xA;DEX+2 MND-2 飛命+7% (最大15)" />
+  <o id="4348" en="This spicy dish is one step above your&#xA;normal mutton tortilla.&#xA;MP+10 STR+3 VIT+1 INT-1&#xA;Attack+27% (Max.35)&#xA;Ranged Attack+27% (Max.35)" ja="丁寧に作られたマトントルティーヤ。&#xA;MP+10 STR+3 VIT+1 INT-1&#xA;攻+27% (最大35) 飛攻+27% (最大35)" />
+  <o id="4349" en="This specially cooked rarab meatball is&#xA;overflowing with juices.&#xA;HP+10 STR+2 VIT+2 INT-1&#xA;Attack+30% (Max.30)&#xA;Ranged Attack+30% (Max.30)" ja="ほっぺたが落ちそうな、美味しいミートボール。&#xA;HP+10 STR+2 VIT+2 INT-1&#xA;攻+30% (最大30) 飛攻+30% (最大30)" />
+  <o id="4350" en="This extra-thick cut of dragon&#xA;meat will give you so much&#xA;energy that you will not sleep&#xA;for three days.&#xA;HP+25 STR+7 INT-3&#xA;Attack+20% (Max.150)&#xA;Ranged Attack+20% (Max.150)&#xA;&quot;Demon Killer&quot;+5&#xA;HP recovered while healing +2&#xA;MP recovered while healing +2" ja="特大厚切りで焼いた龍の肉。&#xA;食べたら元気がありあまり3日は眠れないと云う。&#xA;HP+25 STR+7 INT-3 攻+20% (最大150)&#xA;飛攻+20% (最大150) デーモンキラー+5&#xA;ヒーリングHP+2 ヒーリングMP+2" />
   <o id="4351" en="A sealed length of bamboo, filled with&#xA;water from a famed spring in Giddeus." ja="竹筒につめられたギデアスの湧水。&#xA;名水として知られる。" />
   <o id="4352" en="A juicy pear favored by the Elvaan.&#xA;" ja="エルヴァーンが好む水気の多い果物。&#xA;" />
   <o id="4353" en="A Zafmlug bass wrapped in&#xA;a light pie crust." ja="ザフムルグバスのパイ皮包み。&#xA;" />
@@ -4268,7 +4271,7 @@
   <o id="4600" en="The extravagant designs on this egg&#xA;are said to bring good fortune." ja="幸運が舞い込むと伝えられる派手な模様の卵。&#xA;" />
   <o id="4601" en="The whitefish in this stew is&#xA;as white as snow." ja="真っ白な身の魚を煮込んだシチュー。&#xA;" />
   <o id="4602" en="This egg seems to be warm with life.&#xA;" ja="中に生命を擁しているらしい温かい卵。&#xA;" />
-  <o id="4603" en="This tea is made with chamomile&#xA;and honey." ja="カモミールと蜂蜜を入れたハーブティー。&#xA;" />
+  <o id="4603" en="This tea is made with chamomile&#xA;and honey.&#xA;MP+8 VIT-2 CHR+2 &quot;Resist Sleep&quot;-30&#xA;MP recovered while healing +1" ja="カモミールと蜂蜜を入れたハーブティー。&#xA;MP+8 VIT-2 CHR+2 レジストスリープ-30&#xA;ヒーリングMP+1 " />
   <o id="4604" en="This rice ball has been made&#xA;to perfection.&#xA;HP+12 VIT+3&#xA;HP recovered while healing +2" ja="魂をこめて握られたおにぎり。&#xA;HP+12 VIT+3 ヒーリングHP+2 " />
   <o id="4605" en="This salmon rice ball has been made&#xA;to perfection." ja="魂をこめて握られた鮭おにぎり。&#xA;" />
   <o id="4606" en="WHM Lv.3 / RDM Lv.1 &#xA;Teaches the white magic Dia.&#xA;Lowers an enemy's defense and gradually deals light elemental damage." ja="使用制限:白Lv3 赤Lv1 &#xA;白魔法『ディア』が記されたスクロール。&#xA;効果:敵の防御力をダウンさせ同時にHPも徐々に&#xA;減少させる光属性ダメージ。" />
@@ -4717,12 +4720,12 @@
   <o id="5139" en="This beautifully colored fish possesses&#xA;a strong fighting instinct.&#xA;People often raise bettas to watch&#xA;them fight or simply for viewing." ja="艶やかな美しさと強い闘争本能を備えた淡水魚。&#xA;観賞魚として、あるいは闘魚として飼育される。" />
   <o id="5140" en="This legendary giant saltwater fish is&#xA;also referred to as a &quot;Gigas's Shield.&quot;" ja="「巨人の盾」と呼ばれる、伝説の巨大海水魚。&#xA;" />
   <o id="5141" en="This enormous saltwater fish is named&#xA;after a legendary admiral." ja="伝説の提督の名を冠する、巨大海水魚。&#xA;" />
-  <o id="5142" en="A juicy slab of medium rare&#xA;bison meat." ja="厚切りで焼いた野牛の肉。&#xA;" />
-  <o id="5143" en="A typical stir-fry often served at&#xA;festivals. The seasoning has been&#xA;adjusted to meet the tastes of all&#xA;non-Goblins." ja="ゴブリンがよく屋台等で売る、肉と野菜の炒め物。&#xA;人間の口にも合うように調味されている。" />
+  <o id="5142" en="A juicy slab of medium rare&#xA;bison meat.&#xA;STR+6 AGI+1 INT-3&#xA;Attack+18% (Max.90)&#xA;Ranged Attack+18% (Max.90)&#xA;&quot;Lizard Killer&quot;+5" ja="厚切りで焼いた野牛の肉。&#xA;STR+6 AGI+1 INT-3 攻+18% (最大90)&#xA;飛攻+18% (最大90) リザードキラー+5" />
+  <o id="5143" en="A typical stir-fry often served at&#xA;festivals. The seasoning has been&#xA;adjusted to meet the tastes of all&#xA;non-Goblins.&#xA;VIT+2 AGI+5 CHR-5" ja="ゴブリンがよく屋台等で売る、肉と野菜の炒め物。&#xA;人間の口にも合うように調味されている。&#xA;VIT+2 AGI+5 CHR-5" />
   <o id="5144" en="The detoxified gelatinous remains of a&#xA;clot, whipped up into a tasty dessert.&#xA;MP+12% (Max. 85) INT-6&#xA;MP recovered while healing +2" ja="クロットを型に容れ、ゼラチンで固めた菓子。&#xA;MP+12% (最大85) INT+6 ヒーリングMP+2 " />
-  <o id="5145" en="Whitefish and popotoes fried to a&#xA;golden brown and served with creamy&#xA;Tarutaru sauce.&#xA;A traditional Tavnazian dish." ja="白身の魚と刻んだポポトイモの揚げ物セット。&#xA;タブナジアの家庭料理。" />
+  <o id="5145" en="Whitefish and popotoes fried to a&#xA;golden brown and served with creamy&#xA;Tarutaru sauce.&#xA;A traditional Tavnazian dish.&#xA;DEX+3 VIT+3 MND-3&#xA;Ranged Accuracy+7% (Max.10)&#xA;DEF+5" ja="白身の魚と刻んだポポトイモの揚げ物セット。&#xA;タブナジアの家庭料理。&#xA;DEX+3 VIT+3 MND-3 飛命+7% (最大10) 防+5" />
   <o id="5146" en="Shredded meat wrapped and baked in&#xA;a bean-laden crust, garnished with&#xA;baby carrots.&#xA;HP+55 STR+6 VIT+2 INT-3 MND+3&#xA;Accuracy+5&#xA;Attack+18% (Max. 90)&#xA;Ranged Attack+18% (Max. 90)&#xA;HP and MP recovered while healing +2" ja="刻んだ肉を、豆入りパイ生地で包み焼きした料理。&#xA;伝説の怪物「ヘッジホッグパイ」を模し、&#xA;表面はカロットの針で飾られている。&#xA;HP+55 STR+6 VIT+2 INT-3 MND+3 命中+5&#xA;攻+18% (最大90) 飛攻+18% (最大90)&#xA;ヒーリングHP+2 ヒーリングMP+2" />
-  <o id="5147" en="Sweet milk frozen with the essence of&#xA;a snoll." ja="スノールの冷気で、ミルクを凍らせた氷菓子。&#xA;" />
+  <o id="5147" en="Sweet milk frozen with the essence of&#xA;a snoll.&#xA;MP+16% (Max.75)&#xA;MP recovered while healing +1" ja="スノールの冷気で、ミルクを凍らせた氷菓子。&#xA;MP+16% (最大75) ヒーリングMP+1" />
   <o id="5148" en="Sliced, raw squid served on a small&#xA;portion of sweet vinegar rice--a&#xA;popular dish in Far Eastern nations.&#xA;HP+30 DEX+6 AGI+5 MND-1&#xA;Accuracy+15% (Max. 72)&#xA;Ranged Accuracy+15% (Max. 72)&#xA;&quot;Resist Sleep&quot;+1" ja="炊いて握り固めたライスの上に、&#xA;スキッドの生の切り身を乗せた東方伝来の料理。&#xA;HP+30 DEX+6 AGI+5 MND-1 命中+15% (最大72)&#xA;飛命+15% (最大72) レジストスリープ+1 " />
   <o id="5149" en="Sliced, raw sole served on a small&#xA;portion of sweet vinegar rice--a&#xA;popular dish in Far Eastern nations.&#xA;HP+20 STR+5 DEX+6&#xA;Accuracy+15% (Max. 72)&#xA;Ranged Accuracy+15% (Max. 72)&#xA;&quot;Resist Sleep&quot;+1" ja="炊いて握り固めたライスの上に、&#xA;ソールの生の切り身を乗せた東方伝来の料理。&#xA;HP+20 STR+5 DEX+6 命中+15% (最大72)&#xA;飛命+15% (最大72) レジストスリープ+1 " />
   <o id="5150" en="Sliced, raw tuna served on a small&#xA;portion of sweet vinegar rice--a&#xA;popular dish in Far Eastern nations.&#xA;HP+20 DEX+3 CHR+5&#xA;Accuracy+15% (Max. 72)&#xA;Ranged Accuracy+15% (Max. 72)&#xA;&quot;Resist Sleep&quot;+1" ja="炊いて握り固めたライスの上に、&#xA;トゥーナの生の切り身を乗せた東方伝来の料理。&#xA;HP+20 DEX+3 CHR+5 命中+15% (最大72)&#xA;飛命+15% (最大72) レジストスリープ+1 " />
@@ -4730,38 +4733,38 @@
   <o id="5152" en="A succulent slab of fresh buffalo meat.&#xA;" ja="臭味がなく、とても美味なバッファローの肉。&#xA;" />
   <o id="5153" en="Sliced, raw fatty tuna served on a&#xA;small portion of sweet vinegar rice.&#xA;Fatty tuna is twice as expensive&#xA;as regular tuna.&#xA;HP+20 DEX+3 CHR+5&#xA;Accuracy+16% (Max. 76)&#xA;Ranged Accuracy+16% (Max. 76)&#xA;&quot;Resist Sleep&quot;+2" ja="炊いて握り固めたライスの上に、&#xA;脂肪に富むトゥーナの腹の切り身を乗せた料理。&#xA;HP+20 DEX+3 CHR+5 命中+16% (最大76)&#xA;飛命+16% (最大76) レジストスリープ+2 " />
   <o id="5154" en="The liver from Tavnazian sheep is&#xA;considered a delicacy in many parts&#xA;of Vana'diel." ja="珍味で知られるタブナジア羊の肝臓。&#xA;" />
-  <o id="5155" en="This delicious gelato has been known&#xA;to give Tarutaru brain-freeze." ja="美味しく冷えたスノールジェラート。&#xA;" />
+  <o id="5155" en="This delicious gelato has been known&#xA;to give Tarutaru brain-freeze.&#xA;HP+10 MP+16% (Max.80)&#xA;MP recovered while healing +2" ja="美味しく冷えたスノールジェラート。&#xA;HP+10 MP+16% (最大80) ヒーリングMP+2" />
   <o id="5156" en="Serve this mouthwatering hedgehog pie&#xA;at any family gathering and it will be&#xA;gone faster than you can say &quot;sonic.&quot;&#xA;HP+55 STR+6 VIT+2 INT-3 MND+3&#xA;Accuracy+5&#xA;Attack+18% (Max. 95)&#xA;Ranged Attack+18% (Max. 95)" ja="美味しく焼けたヘッジホッグパイ。&#xA;HP+55 STR+6 VIT+2 INT-3 MND+3 命中+5&#xA;攻+18% (最大95) 飛攻+18% (最大95)" />
-  <o id="5157" en="Marbled with succulent fat, this&#xA;heavenly bison steak will melt in&#xA;your mouth." ja="美味しく焼けた野牛の厚切り肉。&#xA;ジューシーで、食すると肉汁が溢れ出す。" />
+  <o id="5157" en="Marbled with succulent fat, this&#xA;heavenly bison steak will melt in&#xA;your mouth.&#xA;STR+6 AGI+1 INT-3&#xA;Attack+18% (Max.95)&#xA;Ranged Attack+18% (Max.95)&#xA;&quot;Lizard Killer&quot;+5" ja="美味しく焼けた野牛の厚切り肉。&#xA;ジューシーで、食すると肉汁が溢れ出す。&#xA;STR+6 AGI+1 INT-3 攻+18% (最大95)&#xA;飛攻+18% (最大95) リザードキラー+5" />
   <o id="5158" en="This is about as tasty as you can&#xA;make the detoxified gelatinous remains&#xA;of a clot.&#xA;MP+12% (Max. 90)&#xA;INT+6&#xA;MP recovered while healing +2" ja="美味しく固めたクリムゾンゼリー。&#xA;口中でクロットが動き、舌全体で旨味を味わえる。&#xA;MP+12% (最大90) INT+6 ヒーリングMP+2 " />
-  <o id="5159" en="Named after the &quot;Tragedy of&#xA;Misareaux&quot; where five died of&#xA;bliss after eating a terribly&#xA;scrumptious basket of fish and chips." ja="美味しくあげたフィッシュ＆チップス。&#xA;かつては、美味で知られたミザレオ海岸の魚を&#xA;使ったもののみが、そう呼ばれていた。" />
+  <o id="5159" en="Named after the &quot;Tragedy of&#xA;Misareaux&quot; where five died of&#xA;bliss after eating a terribly&#xA;scrumptious basket of fish and chips.&#xA;DEX+3 VIT+3 MND-3&#xA;Ranged Accuracy+7% (Max.15)&#xA;DEF+5" ja="美味しくあげたフィッシュ＆チップス。&#xA;かつては、美味で知られたミザレオ海岸の魚を&#xA;使ったもののみが、そう呼ばれていた。&#xA;DEX+3 VIT+3 MND-3 飛命+7% (最大15) 防+5" />
   <o id="5160" en="If the urchin eggs on this sushi were&#xA;any fresher, they'd hatch.&#xA;HP+40 STR+1 VIT+6&#xA;Accuracy+16% (Max. 76)&#xA;Ranged Accuracy+16% (Max. 76)" ja="美味しく握れたアーチングンカン。&#xA;HP+40 STR+1 VIT+5 命中+16% (最大76)&#xA;飛命+16% (最大76) " />
-  <o id="5161" en="This variety of Goblin stir-fry is named&#xA;after its inventor, Leadavox." ja="美味しく炒めたゴブリン風野菜炒め。&#xA;呼称は、考案者のゴブリンに敬意を表したもの。" />
+  <o id="5161" en="This variety of Goblin stir-fry is named&#xA;after its inventor, Leadavox.&#xA;VIT+2 AGI+5" ja="美味しく炒めたゴブリン風野菜炒め。&#xA;呼称は、考案者のゴブリンに敬意を表したもの。&#xA;VIT+2 AGI+5" />
   <o id="5162" en="This divine squid sushi would bring&#xA;tears to any mother's eyes.&#xA;HP+30 DEX+6 AGI+5&#xA;Accuracy+16% (Max. 76)&#xA;Ranged Accuracy+16% (Max. 76)&#xA;&quot;Resist Sleep&quot;+2" ja="美味しく握れたスキッドスシ。&#xA;HP+30 DEX+6 AGI+5 命中+16% (最大76)&#xA;飛命+16% (最大76) レジストスリープ+2 " />
   <o id="5163" en="Only a master chef could have&#xA;produced such a fine display of&#xA;Eastern cuisine.&#xA;HP+20 STR+5 DEX+6&#xA;Accuracy+16% (Max. 76)&#xA;Ranged Accuracy+16% (Max. 76)&#xA;&quot;Resist Sleep&quot;+2" ja="美味しく握れたソールスシ。&#xA;HP+20 STR+5 DEX+6 命中+16% (最大76)&#xA;飛命+16% (最大76) レジストスリープ+2 " />
   <o id="5164" en="Eat too much of this Eastern spice and&#xA;your sinuses will be clear for months." ja="つんと鼻腔を刺激される東方伝来のスパイス。&#xA;" />
   <o id="5165" en="This carbonated water bubbles up from&#xA;springs located in Movalpolos. The gas&#xA;found in it has the ability to alter&#xA;voices." ja="ムバルポロスの天然水で有名な炭酸水。&#xA;ガス成分の影響か、飲むと声がちょっと高くなる。" />
   <o id="5166" en="A tasty hot sandwich made with&#xA;succulent coeurl sautee and soft&#xA;white bread.&#xA;MP+10 STR+5 AGI+1 INT-2&#xA;Attack+20% (Max. 75)&#xA;Ranged Attack+20% (Max. 75)&#xA;&quot;Resist Stun&quot;+4&#xA;HP recovered while healing +1" ja="クァールのソテーを挟んだ白パン。&#xA;MP+10 STR+5 AGI+1 INT-2&#xA;攻+20% (最大75) 飛攻+20% (最大75)&#xA;レジストスリープ+1 レジストスタン+4&#xA;ヒーリングHP+1" />
   <o id="5167" en="Coeurl on bread doesn't get any better&#xA;than this.&#xA;MP+15 STR+5 AGI+1 INT-2&#xA;Attack+22% (Max. 80)&#xA;Ranged Attack+22% (Max. 80)&#xA;&quot;Resist Sleep&quot;+1&#xA;&quot;Resist Stun&quot;+4&#xA;HP recovered while healing +1" ja="美味しくできたクァールサンド。&#xA;MP+15 STR+5 AGI+1 INT-2&#xA;攻+22% (最大80) 飛攻+22% (最大80)&#xA;レジストスリープ+1 レジストスタン+4&#xA;ヒーリングHP+1 " />
-  <o id="5168" en="A nutritious quiche made with fresh&#xA;batagreens." ja="バタリア菜を使ったキッシュ。&#xA;" />
-  <o id="5169" en="The flaky crust of this heavenly quiche&#xA;will make a grown Galka cry." ja="美味しく焼けたバタリアキッシュ。&#xA;" />
-  <o id="5170" en="A nutritious quiche made with fresh&#xA;beaugreens." ja="ボスディン菜を使ったキッシュ。&#xA;" />
-  <o id="5171" en="Only the finest of chefs can bake a&#xA;quiche of this quality." ja="美味しく焼けたグリーンキッシュ。&#xA;" />
-  <o id="5172" en="A simple snack consisting of Windurst&#xA;salad wrapped in a warm tortilla." ja="ウィンダス風サラダを挟んだトルティーヤ。&#xA;" />
-  <o id="5173" en="Possibly the most mouthwatering&#xA;Windurst taco you will ever sink&#xA;your teeth into." ja="美味しくできたウィンダス風タコス。&#xA;音楽の森レストランの裏メニューを模したもの。" />
+  <o id="5168" en="A nutritious quiche made with fresh&#xA;batagreens.&#xA;MP+8 VIT-2 AGI+1&#xA;Ranged Accuracy+7% (Max.15)" ja="バタリア菜を使ったキッシュ。&#xA;MP+8 VIT-2 AGI+1 飛命+7% (最大15)" />
+  <o id="5169" en="The flaky crust of this heavenly quiche&#xA;will make a grown Galka cry.&#xA;MP+10 VIT-1 AGI+1&#xA;Ranged Accuracy+7% (Max.20)" ja="美味しく焼けたバタリアキッシュ。&#xA;MP+10 VIT-1 AGI+1 飛命+7% (最大20)" />
+  <o id="5170" en="A nutritious quiche made with fresh&#xA;beaugreens.&#xA;MP+10 VIT-1 AGI+1&#xA;Ranged Accuracy+7% (Max.15)" ja="ボスディン菜を使ったキッシュ。&#xA;MP+10 VIT-1 AGI+1 飛命+7% (最大15)" />
+  <o id="5171" en="Only the finest of chefs can bake a&#xA;quiche of this quality.&#xA;MP+15 AGI+1&#xA;Ranged Accuracy+7% (Max.20)" ja="美味しく焼けたグリーンキッシュ。&#xA;MP+15 AGI+1 飛命+7% (最大20)" />
+  <o id="5172" en="A simple snack consisting of Windurst&#xA;salad wrapped in a warm tortilla.&#xA;MP+20 VIT-1 AGI+5&#xA;Ranged Accuracy+8% (Max.10)&#xA;Ranged Attack+1&#xA;MP recovered while healing +1" ja="ウィンダス風サラダを挟んだトルティーヤ。&#xA;MP+20 VIT-1 AGI+5 飛命+8% (最大10)&#xA;飛攻+1 ヒーリングMP+1" />
+  <o id="5173" en="Possibly the most mouthwatering&#xA;Windurst taco you will ever sink&#xA;your teeth into.&#xA;MP+20 VIT-1 AGI+5&#xA;Ranged Accuracy+8% (Max.15)&#xA;Ranged Attack+1&#xA;MP recovered while healing +1" ja="美味しくできたウィンダス風タコス。&#xA;音楽の森レストランの裏メニューを模したもの。&#xA;MP+20 VIT-1 AGI+5 飛命+8% (最大15)&#xA;飛攻+1 ヒーリングMP+1" />
   <o id="5174" en="A simple snack consisting of Tavnazian&#xA;salad wrapped in a warm tortilla.&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 DEF+25% (Max. 150)&#xA;HP and MP recovered&#xA;while healing +1" ja="タブナジア風サラダを挟んだトルティーヤ。&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 防+25% (最大150) ヒーリングHP+1&#xA;ヒーリングMP+1" />
   <o id="5175" en="The former Tavnazia marquis was&#xA;known to eat as many as seven of&#xA;these titillating Tavnazian tacos a day.&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 DEF+25% (Max. 160)&#xA;HP and MP recovered while healing +1" ja="美味しくできたタブナジア風タコス。&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 防+25% (最大160) ヒーリングHP+1&#xA;ヒーリングMP+1 " />
   <o id="5176" en="Sliced, raw bream served on a small&#xA;portion of sweet vinegar rice--a&#xA;popular dish in Far Eastern nations.&#xA;DEX+6 VIT+5&#xA;Accuracy+16% (Max. 76)&#xA;Ranged Accuracy+16% (Max. 76)&#xA;&quot;Resist Sleep&quot;+1" ja="炊いて握り固めたライスの上に、&#xA;ブリームの生の切り身を乗せた東方伝来の料理。&#xA;DEX+6 VIT+5 命中+16% (最大76)&#xA;飛命+16% (最大76) レジストスリープ+1 " />
   <o id="5177" en="The kind of sushi that &quot;breams&quot; are&#xA;made of.&#xA;DEX+6 VIT+5&#xA;Accuracy+17% (Max. 80)&#xA;Ranged Accuracy+17% (Max. 80)&#xA;&quot;Resist Sleep&quot;+2" ja="美味しく握れたブリームスシ。&#xA;DEX+6 VIT+5 命中+17% (最大80)&#xA;飛命+17% (最大80) レジストスリープ+2 " />
   <o id="5178" en="Sliced, noble lady served on a small&#xA;portion of sweet vinegar rice--a&#xA;popular dish in Far Eastern nations.&#xA;DEX+5&#xA;Accuracy+15% (Max. 72)&#xA;Ranged Accuracy+15% (Max. 72)&#xA;Enmity+4&#xA;&quot;Resist Sleep&quot;+1&#xA;" ja="炊いて握り固めたライスの上に、ノーブルレディ&#xA;の生の切り身を乗せた東方伝来の料理。&#xA;DEX+5 命中+15% (最大72) 飛命+15% (最大72)&#xA;敵対心+4 レジストスリープ+1" />
   <o id="5179" en="This dorado sushi will entice the&#xA;palate of any sushi connoisseur.&#xA;DEX+5&#xA;Accuracy+16% (Max. 76)&#xA;Ranged Accuracy+16% (Max. 76)&#xA;Enmity+5&#xA;&quot;Resist Sleep&quot;+2" ja="美味しく握れたドラドスシ。&#xA;DEX+5 命中+16% (最大76)&#xA;飛命+16% (最大76) 敵対心+5&#xA;レジストスリープ+2" />
-  <o id="5180" en="This savory brain stew will make&#xA;you wonder how you would settle&#xA;for anything less." ja="複雑な味が引き出されたブレインシチュー。&#xA;" />
-  <o id="5181" en="About as tasty as you can make flour&#xA;and water." ja="美味しく焼けたトルティーヤ。&#xA;" />
-  <o id="5182" en="This ridiculously salted bretzel&#xA;is frowned upon by physicians&#xA;everywhere." ja="美味しく焼けたブレーツェル。&#xA;" />
-  <o id="5183" en="The scurviest pirates of the north seas&#xA;have given this pickled herring their&#xA;seal of approval." ja="美味しく漬けたニシンの塩漬け。&#xA;" />
-  <o id="5184" en="Vegetarians all over Vana'diel&#xA;adore this specially prepared&#xA;batagreen sautee." ja="バタリア菜を軟らかく炒めた菜食主義者用ソテー。&#xA;" />
-  <o id="5185" en="Tavnazian salad with a twist!&#xA;" ja="美しい盛りつけのタブナジア風サラダ。&#xA;" />
-  <o id="5186" en="This carp sushi's accurate degree&#xA;of fermentation would make any&#xA;zymologist proud." ja="風味豊かに発酵させたフナずし。&#xA;" />
+  <o id="5180" en="This savory brain stew will make&#xA;you wonder how you would settle&#xA;for anything less.&#xA;DEX+6 INT+6 MND+6&#xA;HP recovered while healing +3&#xA;MP recovered while healing +3" ja="複雑な味が引き出されたブレインシチュー。&#xA;DEX+6 INT+6 MND+6 ヒーリングHP+3&#xA;ヒーリングMP+3" />
+  <o id="5181" en="About as tasty as you can make flour&#xA;and water.&#xA;HP+8 VIT+4" ja="美味しく焼けたトルティーヤ。&#xA;HP+8 VIT+4" />
+  <o id="5182" en="This ridiculously salted bretzel&#xA;is frowned upon by physicians&#xA;everywhere.&#xA;MP+8% (Max.60) VIT+2" ja="美味しく焼けたブレーツェル。&#xA;MP+8% (最大60) VIT+2" />
+  <o id="5183" en="The scurviest pirates of the north seas&#xA;have given this pickled herring their&#xA;seal of approval.&#xA;DEX+4 MND-3&#xA;Attack+12% (Max.75)&#xA;Ranged Attack+12% (Max.75)" ja="美味しく漬けたニシンの塩漬け。&#xA;DEX+4 MND-3 攻+12% (最大75)&#xA;飛攻+12% (最大75)" />
+  <o id="5184" en="Vegetarians all over Vana'diel&#xA;adore this specially prepared&#xA;batagreen sautee.&#xA;VIT-1 AGI+1&#xA;Ranged Accuracy+7% (Max.20)" ja="バタリア菜を軟らかく炒めた菜食主義者用ソテー。&#xA;VIT-1 AGI+1 飛命+7% (最大20)" />
+  <o id="5185" en="Tavnazian salad with a twist!&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 DEF+25% (Max.160)" ja="美しい盛りつけのタブナジア風サラダ。&#xA;HP+20 MP+20 DEX+4 VIT+6 AGI+4&#xA;CHR+4 防+25% (最大160)" />
+  <o id="5186" en="This carp sushi's accurate degree&#xA;of fermentation would make any&#xA;zymologist proud.&#xA;DEX+2 Accuracy+11% (Max.56)&#xA;HP recovered while healing +2" ja="風味豊かに発酵させたフナずし。&#xA;DEX+2 命中+11% (最大56) ヒーリングHP+2" />
   <o id="5187" en="A hard shell protects the juicy meat&#xA;found inside this tropical delicacy." ja="硬い殻に覆われているが、中はジューシーな実。&#xA;" />
   <o id="5188" en="A simple pasta dish made with olive oil&#xA;and peppers.&#xA;HP+30% (Max. 70) VIT+2&#xA;&quot;Store TP&quot;+6&#xA;&quot;Resist Virus&quot;+10" ja="辛子をオリーブオイルであえたシンプルなパスタ。&#xA;HP+30% (最大70) VIT+2&#xA;ストアTP+6 レジストウィルス+10" />
   <o id="5189" en="Red mages across Vana'diel adore this sumptuous blend of pomodoro sauce and vongola clams served over spaghetti al dente.&#xA;HP+20% (Max. 90)&#xA;VIT+2 MND-1&#xA;DEF+25% (Max. 30)&#xA;&quot;Store TP&quot;+6" ja="ポモドーロソースであえたボンゴラのパスタ。&#xA;HP+20% (最大90) VIT+2 MND-1&#xA;防+25% (最大30) ストアTP+6 " />
@@ -4769,7 +4772,7 @@
   <o id="5191" en="Fishermen the world over salivate over this delectable blend of pomodoro sauce and seafood served over spaghetti al dente.&#xA;HP+15% (Max. 150)&#xA;VIT+3 MND-1&#xA;DEF+22% (Max. 65)&#xA;&quot;Store TP&quot;+6" ja="魚介をポモドーロソースであえた漁師風パスタ。&#xA;HP+15% (最大150) VIT+3 MND-1&#xA;防+22% (最大65) ストアTP+6 " />
   <o id="5192" en="Popular among lumberjacks, this flavorful meal is composed of a blend of pomodoro sauce and mushrooms served over spaghetti al dente.&#xA;HP+18% (Max. 120)&#xA;MP+35 STR-5 DEX-2 VIT+2 MND+4&#xA;&quot;Store TP&quot;+6&#xA;MP recovered while healing +1" ja="キノコをポモドーロソースであえた樵風パスタ。&#xA;HP+18% (最大120) MP+35 STR-5 DEX-2 VIT+2 MND+4 ストアTP+6 ヒーリングMP+1 " />
   <o id="5193" en="The dark color of this squid ink&#xA;pasta is especially popular among&#xA;black mages.&#xA;HP+17% (Max. 130)&#xA;DEX+3 VIT+2 AGI-1 MND-2 CHR+1&#xA;&quot;Double Attack&quot;+1%&#xA;&quot;Store TP&quot;+6" ja="頭足類の墨であえた黒色のパスタ。&#xA;HP+17% (最大130) DEX+3 VIT+2 AGI-1 MND-2 CHR-1 ダブルアタック+1% ストアTP+6" />
-  <o id="5194" en="A simple sauce made from crushed&#xA;Mithran tomatoes." ja="潰したトマトのソース。&#xA;" />
+  <o id="5194" en="A simple sauce made from crushed&#xA;Mithran tomatoes.&#xA;INT+1 MND+2&#xA;HP recovered while healing +1" ja="潰したトマトのソース。&#xA;INT+1 MND+2 ヒーリングHP+1" />
   <o id="5195" en="This refreshing herb is used to accent&#xA;many types of cuisine." ja="爽快な香りを発する葉のスパイス。&#xA;" />
   <o id="5196" en="Dried buffalo meat.&#xA;STR+4 MND-2&#xA;Attack+18% (Max. 65)" ja="バッファローの乾燥肉。&#xA;STR+4 MND-2 攻+18% (最大65) " />
   <o id="5197" en="This spaghetti peperoncino is so hot,&#xA;you will need at least Water IV to&#xA;cool off the fire in your mouth.&#xA;HP+30% (Max. 75) VIT+2&#xA;&quot;Store TP&quot;+6&#xA;&quot;Resist Virus&quot;+12" ja="美味しくできたペペロンチーノ。&#xA;HP+30% (最大75) VIT+2&#xA;ストアTP+6 レジストウィルス+12" />
@@ -4793,7 +4796,7 @@
   <o id="5215" en="A Far Eastern dish made by shaping&#xA;steamed rice into a ball and topping&#xA;it off with raw squid tentacles.&#xA;HP+20 DEX+3 AGI+3 MND-1&#xA;Accuracy+20% (Max. 18)&#xA;Ranged Accuracy+20% (Max. 18)&#xA;&quot;Double Attack&quot;+1%" ja="炊いて握り固めたライスの上に、&#xA;カラマリの生の足を乗せた東方伝来の料理。&#xA;HP+20 DEX+3 AGI+3 MND-1 命中+20% (最大18) 飛命+20% (最大18) ダブルアタック+1% " />
   <o id="5216" en="Raw squid tentacles don't&#xA;get any better than this!&#xA;HP+20 DEX+3 AGI+3&#xA;Accuracy+20% (Max. 20)&#xA;&quot;Double Attack&quot;+1%" ja="美味しく握れたゲソズシ。&#xA;HP+20 DEX+3 AGI+3 命中+20% (最大20) 飛命+20% (最大20) ダブルアタック+1% " />
   <o id="5217" en="These eggs of the&#xA;freshwater Cheval salmon&#xA;are said to be a rare delicacy." ja="淡水魚「シュヴァルサーモン」の卵巣。&#xA;珍味で知られる。" />
-  <o id="5218" en="Salmon eggs pickled in salt,&#xA;this delicacy is sometimes&#xA;referred to as &quot;red gold.&quot;" ja="サーモンの卵の塩漬け。&#xA;「赤い貴石」と呼ばれている。" />
+  <o id="5218" en="Salmon eggs pickled in salt,&#xA;this delicacy is sometimes&#xA;referred to as &quot;red gold.&quot;&#xA;HP+8 MP+8 DEX+2 MND-1" ja="サーモンの卵の塩漬け。&#xA;「赤い貴石」と呼ばれている。&#xA;HP+8 MP+8 DEX+2 MND-1" />
   <o id="5219" en="A Far Eastern dish made by shaping&#xA;steamed rice into a ball, placing&#xA;salmon roe on top, and wrapping the&#xA;sides in tall seaweed. The finished&#xA;product is said to resemble a warship.&#xA;HP+30 MP+10 DEX+3 MND-2&#xA;Accuracy+18% (Max. 28)&#xA;Ranged Accuracy+18% (Max. 28)" ja="炊いて握り固めたライスを、海苔で囲んで船とし、&#xA;中にサーモンの卵を乗せた東方伝来の料理。&#xA;HP+30 MP+10 DEX+3 MND-2&#xA;命中+18% (最大28) 飛命+18% (最大28) " />
   <o id="5220" en="This plate of ikra gunkan looks&#xA;so delicious, even the kids will eat it.&#xA;HP+30 MP+12 DEX+3 MND-1&#xA;Accuracy+18% (Max. 30)&#xA;Ranged Accuracy+18% (Max. 30)" ja="美味しく握れたイクラグンカン。&#xA;HP+30 MP+12 DEX+3 MND-1&#xA;命中+18% (最大30) 飛命+18% (最大30) " />
   <o id="5221" en="Your adventuring fellow made&#xA;this herbal tea especially for you.&#xA;It gives off a faint, soothing&#xA;fragrance." ja="フェローが淹れてくれたハーブティー。&#xA;ほのかな香りが心を癒してくれる。" />
@@ -4805,10 +4808,10 @@
   <o id="5227" en="Your adventuring fellow made&#xA;this salad especially for you.&#xA;The ingredients have been&#xA;sliced up carefully." ja="フェローが和えてくれたサラダ。&#xA;材料ひとつひとつが丁寧に切られている。" />
   <o id="5228" en="Your adventuring fellow baked&#xA;this bread especially for you.&#xA;It is shaped into a perfect rectangle." ja="フェローが焼いてくれたパン。&#xA;几帳面に形が整えられている。" />
   <o id="5229" en="Your adventuring fellow made&#xA;this risotto especially for you.&#xA;It contains ingredients of the&#xA;highest quality in generous amounts." ja="フェローが作ってくれたリゾット。&#xA;高級食材がおしみなく用いられている。" />
-  <o id="5230" en="This heart-shaped chocolate&#xA;has been wrapped with ribbon&#xA;and parchment." ja="リボンと羊皮紙でラッピングされたハートチョコ。&#xA;" />
-  <o id="5231" en="An elegantly wrapped&#xA;heart-shaped chocolate." ja="丁寧にラッピングされたハートチョコ。&#xA;" />
+  <o id="5230" en="This heart-shaped chocolate&#xA;has been wrapped with ribbon&#xA;and parchment.&#xA;MP recovered while healing +4" ja="リボンと羊皮紙でラッピングされたハートチョコ。&#xA;ヒーリングMP+4" />
+  <o id="5231" en="An elegantly wrapped&#xA;heart-shaped chocolate.&#xA;MP+10&#xA;MP recovered while healing +4" ja="丁寧にラッピングされたハートチョコ。&#xA;MP+10 ヒーリングMP+4" />
   <o id="5232" en="A creamy drink made&#xA;from crushed beans." ja="砕いた豆から作られたミルクのような液状食品。&#xA;" />
-  <o id="5233" en="A soft food made in the&#xA;Far East by drying soy milk&#xA;atop squares of cotton cloth." ja="木綿布の上で豆乳を固めた東方伝来の柔かい食品。&#xA;" />
+  <o id="5233" en="A soft food made in the&#xA;Far East by drying soy milk&#xA;atop squares of cotton cloth.&#xA;HP+10% (Max.30) MP+10% (Max.30)" ja="木綿布の上で豆乳を固めた東方伝来の柔かい食品。&#xA;HP+10% (最大30) MP+10% (最大30)" />
   <o id="5234" en="A Near Eastern vegetable&#xA;with edible leaves." ja="近東原産の葉を食す野菜。&#xA;" />
   <o id="5235" en="A Far Eastern vegetable&#xA;with edible leaves." ja="東方原産の葉を食す野菜。&#xA;" />
   <o id="5236" en="This herb grows wild along&#xA;the coast of the Bastore Sea." ja="バストア海沿岸に自生する香草。&#xA;" />
@@ -5116,66 +5119,66 @@
   <o id="5539" en="A legendary serpent of prehistoric times." ja="伝説の巨大な古代竜の一種。&#xA;" />
   <o id="5540" en="A legendary serpent of prehistoric times." ja="伝説の巨大な古代竜の一種。&#xA;" />
   <o id="5541" en="The flavor of these grapes&#xA;is so exquisite that they were&#xA;once available only to royalty." ja="かつては王族しか口にできなかった最高級ぶどう。&#xA;" />
-  <o id="5542" en="A Bastokan cake made for&#xA;the Starlight Celebration.&#xA;Symbolizes the fire of civilization,&#xA;come to melt away the snow." ja="バストゥーク様式の星芒祭用ケーキ。&#xA;雪を溶かす文明の火を表している。" />
-  <o id="5543" en="Made by a master patissier,&#xA;this gleaming gateau aux fraises is&#xA;likely to show up in your best dreams." ja="パティシエの技が光る「ガトーオーフレース」。&#xA;とてもとても美味しい。" />
+  <o id="5542" en="A Bastokan cake made for&#xA;the Starlight Celebration.&#xA;Symbolizes the fire of civilization,&#xA;come to melt away the snow.&#xA;HP+8 MP+8% (Max.50) INT+1&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="バストゥーク様式の星芒祭用ケーキ。&#xA;雪を溶かす文明の火を表している。&#xA;HP+8 MP+8% (最大50) INT+1&#xA;ヒーリングHP+1 ヒーリングMP+1 " />
+  <o id="5543" en="Made by a master patissier,&#xA;this gleaming gateau aux fraises is&#xA;likely to show up in your best dreams.&#xA;HP+10 MP+8% (Max.60) INT+2&#xA;HP recovered while healing +2&#xA;MP recovered while healing +2" ja="パティシエの技が光る「ガトーオーフレース」。&#xA;とてもとても美味しい。&#xA;HP+10 MP+8% (最大60) INT+2&#xA;ヒーリングHP+2 ヒーリングMP+2 " />
   <o id="5544" en="A Far Eastern dish created with land&#xA;crab meat, along with vegetables and&#xA;a few other ingredients. Each piece&#xA;of food may be removed and eaten as&#xA;soon as it has finished cooking.&#xA;HP+10% (Max. 50) MP+10&#xA;Evasion+5 DEF+20% (Max. 50)&#xA;HP recovered while healing +5&#xA;MP recovered wh" ja="「陸ガニの肉」を中心に野菜等と共に煮ながら&#xA;みなで食べられる東方伝来の鍋料理。&#xA;HP+10% (最大50) MP+10 回避+5&#xA;防+20% (最大50) ヒーリングHP+5&#xA;ヒーリングMP+1" />
   <o id="5545" en="The cooking of this crab stewpot was&#xA;strictly supervised to ensure that&#xA;the ingredients were added in the&#xA;proper manner.&#xA;HP+10% (Max. 75) MP+15&#xA;VIT+1 AGI+1 MND+2&#xA;Evasion+6 DEF+20% (Max. 75)&#xA;HP recovered while healing +7&#xA;MP recovered while healing +2" ja="美味しくつつけるように&#xA;食材の投入や手順が厳しく監視された蟹鍋。&#xA;HP+10% (最大75) MP+15 VIT+1 AGI+1&#xA;MND+2 回避+6 防+20% (最大75)&#xA;ヒーリングHP+7 ヒーリングMP+2" />
   <o id="5546" en="The cooking of this crab stewpot was&#xA;directed so that the ingredients were&#xA;masterfully utilized. Guaranteed to&#xA;make your mouth water.&#xA;HP+10% (Max. 100) MP+20&#xA;VIT+2 AGI+2 MND+4&#xA;Evasion+7 DEF+20% (Max. 100)&#xA;HP recovered while healing +9&#xA;MP recovered while heali" ja="みなが美味しくつつけるように&#xA;見事に食材の投入や手順が采配された蟹鍋。&#xA;HP+10% (最大100) MP+20 VIT+2 AGI+2&#xA;MND+4 回避+7 防+20% (最大100)&#xA;ヒーリングHP+9 ヒーリングMP+3" />
   <o id="5547" en="A Far Eastern dish created with&#xA;buffalo meat, along with vegetables&#xA;and a few other ingredients. Each&#xA;piece of food may be removed and&#xA;eaten as soon as it has finished&#xA;cooking.&#xA;HP+10% (Max. 50) MP+10&#xA;Attack+18% (Max. 40) Evasion+5&#xA;HP recovered while healing +5&#xA;MP recovered w" ja="「野牛の肉」を中心に野菜等と共に煮ながら&#xA;みなで食べられる東方伝来の鍋料理。&#xA;HP+10% (最大50) MP+10 攻+18% (最大40)&#xA;回避+5 ヒーリングHP+5 ヒーリングMP+1 " />
   <o id="5548" en="The cooking of this beef stewpot was&#xA;strictly supervised to ensure that&#xA;the ingredients were added in the&#xA;proper manner.&#xA;HP+10% (Max. 75)&#xA;MP+15 STR+2 AGI+1 MND+1&#xA;Attack+18% (Max. 60)&#xA;Evasion+6&#xA;HP recovered while healing +7&#xA;MP recovered while healing +2" ja="美味しくつつけるように&#xA;食材の投入や手順が厳しく監視された牛鍋。&#xA;HP+10% (最大75) MP+15 STR+2 AGI+1 MND+1&#xA;攻+18% (最大60) 回避+6 ヒーリングHP+7&#xA;ヒーリングMP+2 " />
   <o id="5549" en="The cooking of this beef stewpot was&#xA;directed so that the ingredients were&#xA;masterfully utilized. Guaranteed to&#xA;make your mouth water.&#xA;HP+10% (Max. 100)&#xA;MP+20 STR+4 AGI+2 MND+2&#xA;Attack+18% (Max. 80)&#xA;Evasion+7&#xA;HP recovered while healing +9&#xA;MP recovered while hea" ja="みなが美味しくつつけるように&#xA;見事に食材の投入や手順が采配された牛鍋。&#xA;HP+10% (最大100) MP+20 STR+4 AGI+2 MND+2&#xA;攻+18% (最大80) 回避+7 ヒーリングHP+9&#xA;ヒーリングMP+3 " />
-  <o id="5550" en="A San d'Orian cake made for&#xA;the Starlight Celebration.&#xA;Symbolizes thankfulness to the forest&#xA;for firewood to keep homes warm." ja="サンドリア様式の星芒祭用ケーキ。&#xA;森の恵みである薪を表している。" />
-  <o id="5551" en="Made by a master patissier,&#xA;this gleaming buche au chocolat&#xA;is designed to melt on your tongue." ja="パティシエの技が光る「ブッシュオショコラ」。&#xA;とてもとても美味しい。" />
-  <o id="5552" en="A Windurstian dessert made for&#xA;the Starlight Celebration.&#xA;Symbolizes a legendary monster&#xA;feared by the Mithra." ja="ウィンダス様式の星芒祭用ケーキの一種。&#xA;ミスラの怖れる伝説の怪物を表している。" />
-  <o id="5553" en="Made by a master patissier,&#xA;this gleaming black pudding&#xA;simply begs for a taste." ja="パティシエの技が光る「ブラックプリン」。&#xA;とてもとても美味しい。" />
-  <o id="5554" en="Made by a master patissier,&#xA;this gleaming marron glace is sure&#xA;to delight anyone who takes a bite." ja="パティシエの技が光る「マロングラッセ」。&#xA;とてもとても美味しい。" />
+  <o id="5550" en="A San d'Orian cake made for&#xA;the Starlight Celebration.&#xA;Symbolizes thankfulness to the forest&#xA;for firewood to keep homes warm.&#xA;HP+8 MP+3% (Max.13) INT+2&#xA;HP recovered while healing +1&#xA;MP recovered while healing +4" ja="サンドリア様式の星芒祭用ケーキ。&#xA;森の恵みである薪を表している。&#xA;HP+8 MP+3% (最大13) INT+2&#xA;ヒーリングHP+1 ヒーリングMP+4" />
+  <o id="5551" en="Made by a master patissier,&#xA;this gleaming buche au chocolat&#xA;is designed to melt on your tongue.&#xA;HP+10 MP+3% (Max.15) INT+3&#xA;HP recovered while healing +2&#xA;MP recovered while healing +5" ja="パティシエの技が光る「ブッシュオショコラ」。&#xA;とてもとても美味しい。&#xA;HP+10 MP+3% (最大15) INT+3&#xA;ヒーリングHP+2 ヒーリングMP+5" />
+  <o id="5552" en="A Windurstian dessert made for&#xA;the Starlight Celebration.&#xA;Symbolizes a legendary monster&#xA;feared by the Mithra.&#xA;HP+8 MP+5% (Max.25) INT+4&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="ウィンダス様式の星芒祭用ケーキの一種。&#xA;ミスラの怖れる伝説の怪物を表している。&#xA;HP+8 MP+5% (最大25) INT+4&#xA;ヒーリングHP+1 ヒーリングMP+1" />
+  <o id="5553" en="Made by a master patissier,&#xA;this gleaming black pudding&#xA;simply begs for a taste.&#xA;HP+10 MP+5% (Max.30) INT+5&#xA;HP recovered while healing +2&#xA;MP recovered while healing +2" ja="パティシエの技が光る「ブラックプリン」。&#xA;とてもとても美味しい。&#xA;HP+10 MP+5% (最大30) INT+5&#xA;ヒーリングHP+2 ヒーリングMP+2" />
+  <o id="5554" en="Made by a master patissier,&#xA;this gleaming marron glace is sure&#xA;to delight anyone who takes a bite.&#xA;MP+13% (Max.95)&#xA;MP recovered while healing +2" ja="パティシエの技が光る「マロングラッセ」。&#xA;とてもとても美味しい。&#xA;MP+13% (最大95) ヒーリングMP+2" />
   <o id="5555" en="Made by a master patissier, the taste&#xA;of this gleaming icecap rolanberry&#xA;will make you dance with joy.&#xA;MP+19% (Max. 65) INT+2&#xA;+5&#xA;MP recovered while healing +1" ja="パティシエの技が光る「雪山のロランベリー」。&#xA;とてもとても美味しい。&#xA;MP+19% (最大65) INT+2 耐風+5 ヒーリングMP+1 " />
-  <o id="5556" en="Made by a master patissier,&#xA;one taste of this gleaming snoll gelato&#xA;will leave you craving more." ja="パティシエの技が光る「スノールジェラート」。&#xA;とてもとても美味しい。" />
-  <o id="5557" en="A San d'Orian cake heaped with&#xA;chestnuts to symbolize the white&#xA;mountains of the Uleguerand Range." ja="栗をふんだんに使ったサンドリア様式のケーキ。&#xA;ウルガラン山脈の「白い山」を表している。" />
-  <o id="5558" en="A serving of mont blanc baked&#xA;to perfection using the skills&#xA;of a patissier." ja="パティシエの技が光る「モンブラン」。&#xA;とてもとても美味しい。" />
-  <o id="5559" en="A Windurstian cake made by stacking&#xA;thin slices of pie crust to symbolize&#xA;the leaves of the Great Star Tree." ja="薄いパイ生地を重ねたウィンダス様式のケーキ。&#xA;星の大樹の「千枚の葉」を表している。" />
-  <o id="5560" en="A serving of mille feuille&#xA;baked to perfection using the&#xA;skills of a patissier." ja="パティシエの技が光る「ミルフィーユ」。&#xA;とてもとても美味しい。" />
+  <o id="5556" en="Made by a master patissier,&#xA;one taste of this gleaming snoll gelato&#xA;will leave you craving more.&#xA;HP+15 MP+16% (Max.85)&#xA;MP recovered while healing +2" ja="パティシエの技が光る「スノールジェラート」。&#xA;とてもとても美味しい。&#xA;HP+15 MP+16% (最大85) ヒーリングMP+2" />
+  <o id="5557" en="A San d'Orian cake heaped with&#xA;chestnuts to symbolize the white&#xA;mountains of the Uleguerand Range.&#xA;HP+8 MP+10 INT+1&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="栗をふんだんに使ったサンドリア様式のケーキ。&#xA;ウルガラン山脈の「白い山」を表している。&#xA;HP+8 MP+10 INT+1 ヒーリングHP+1&#xA;ヒーリングMP+1" />
+  <o id="5558" en="A serving of mont blanc baked&#xA;to perfection using the skills&#xA;of a patissier.&#xA;HP+10 MP+10 INT+2&#xA;HP recovered while healing +2&#xA;MP recovered while healing +2" ja="パティシエの技が光る「モンブラン」。&#xA;とてもとても美味しい。&#xA;HP+10 MP+10 INT+2 ヒーリングHP+2&#xA;ヒーリングMP+2" />
+  <o id="5559" en="A Windurstian cake made by stacking&#xA;thin slices of pie crust to symbolize&#xA;the leaves of the Great Star Tree.&#xA;HP+8 MP+15 INT+1&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="薄いパイ生地を重ねたウィンダス様式のケーキ。&#xA;星の大樹の「千枚の葉」を表している。&#xA;HP+8 MP+15 INT+1 ヒーリングHP+1&#xA;ヒーリングMP+1" />
+  <o id="5560" en="A serving of mille-feuille&#xA;baked to perfection using the&#xA;skills of a patissier.&#xA;HP+10 MP+15 INT+2&#xA;HP recovered while healing +2&#xA;MP recovered while healing +2" ja="パティシエの技が光る「ミルフィーユ」。&#xA;とてもとても美味しい。&#xA;HP+10 MP+15 INT+2 ヒーリングHP+2&#xA;ヒーリングMP+2" />
   <o id="5561" en="This apple pie is made by (not of)&#xA;moogles. Although slightly burnt,&#xA;a magical spell placed upon it by&#xA;the baker makes it seem more&#xA;delicious than it really is.&#xA;HP+20 MP+20 STR+1 DEX+1 VIT+1&#xA;AGI+1 INT+1 MND+1 CHR+1" ja="モーグリが焼いたアップルパイ。焼き加減は&#xA;今ひとつだが、美味の魔法がかけられている。&#xA;HP+20 MP+20 STR+1 DEX+1 VIT+1&#xA;AGI+1 INT+1 MND+1 CHR+1 " />
   <o id="5562" en="Pephredos make this sweet honey&#xA;from flower nectar." ja="ペプレド蜂が集めた花の蜜。&#xA;とても甘い。" />
   <o id="5563" en="The meat, skin, and insides of&#xA;an orobon.&#xA;Used as a main ingredient in a&#xA;Far Eastern stewpot dish." ja="オロボンの肉や皮や内臓。&#xA;東方では鍋の主役として食するらしい。" />
   <o id="5564" en="The meat of the hydra, known as the&#xA;finest delicacy in the Near East." ja="近東最高の珍味で知られるハイドラの肉。&#xA;" />
   <o id="5565" en="This Cerberus meat gives off heat even&#xA;though it has never been cooked." ja="生肉なのに、高熱を帯びているケルベロスの肉。&#xA;" />
   <o id="5566" en="The sweet, sticky fruit of a date palm&#xA;tree." ja="ナツメヤシの果実。&#xA;" />
-  <o id="5567" en="This date has become even sweeter&#xA;after dehydration." ja="乾燥させて甘味の増したデーツ。&#xA;" />
+  <o id="5567" en="This date has become even sweeter&#xA;after dehydration.&#xA;HP+10 MP+20 AGI-1 INT+3" ja="乾燥させて甘味の増したデーツ。&#xA;HP+10 MP+20 AGI-1 INT+3" />
   <o id="5568" en="This apkallu egg is a healthy addition&#xA;to every balanced meal." ja="滋養分を多く含むアプカルの卵。&#xA;" />
   <o id="5569" en="Puk eggs are a famous delicacy&#xA;in the Near East." ja="珍味で有名なプークの卵。&#xA;" />
-  <o id="5570" en="A black tea popular in Aht Urhgan." ja="アトルガン風の紅茶。&#xA;" />
+  <o id="5570" en="A black tea popular in Aht Urhgan.&#xA;VIT-2 CHR+2" ja="アトルガン風の紅茶。&#xA;VIT-2 CHR+2" />
   <o id="5571" en="Slightly tough meat from a variety&#xA;of ram.&#xA;A Near Eastern staple." ja="少し硬いカラクール大羊の肉。&#xA;近東の一般的な食肉。" />
-  <o id="5572" en="A Near Eastern cake topped with pine&#xA;nuts.&#xA;Its subtle sweetness makes it go well&#xA;with chai." ja="パインナッツがアクセントの近東様式のケーキ。&#xA;抑えた甘さがチャイとよく合う。" />
-  <o id="5573" en="An irmik helvasi baked to perfection&#xA;by a master patissier." ja="パティシエの技が光る「イルミクヘルバス」。&#xA;とてもとても美味しい。" />
-  <o id="5574" en="These dried dates are unbelievably&#xA;sweet." ja="とても甘いドライデーツ。&#xA;" />
+  <o id="5572" en="A Near Eastern cake topped with pine&#xA;nuts.&#xA;Its subtle sweetness makes it go well&#xA;with chai.&#xA;HP+10% (Max.75)&#xA;MP+3% (Max.13) INT+1" ja="パインナッツがアクセントの近東様式のケーキ。&#xA;抑えた甘さがチャイとよく合う。&#xA;HP+10% (最大75) MP+3% (最大13) INT+1" />
+  <o id="5573" en="An irmik helvasi baked to perfection&#xA;by a master patissier.&#xA;HP+10% (Max.100) MP+3% (Max.15) INT+2&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="パティシエの技が光る「イルミクヘルバス」。&#xA;とてもとても美味しい。&#xA;HP+10% (最大100) MP+3% (最大15) INT+2&#xA;ヒーリングHP+1 ヒーリングMP+1" />
+  <o id="5574" en="These dried dates are unbelievably&#xA;sweet.&#xA;HP+12 MP+22 AGI-1 INT+4" ja="とても甘いドライデーツ。&#xA;HP+12 MP+22 AGI-1 INT+4" />
   <o id="5575" en="Fermented sheep's milk." ja="乳酸発酵させた羊乳。&#xA;" />
   <o id="5576" en="A drink made from thinned yogurt." ja="ヨーグルトを薄めて作られた飲み物。&#xA;" />
-  <o id="5577" en="A pudding-style dessert made from&#xA;rice, milk, and eggs." ja="ミルクと卵を使ったプディング様の米菓子。&#xA;" />
-  <o id="5578" en="Only a master patissier could have&#xA;made this exceptionally delicious&#xA;serving of sutlac." ja="パティシエの技が光る「シュトラッチ」。&#xA;とてもとても美味しい。" />
+  <o id="5577" en="A pudding-style dessert made from&#xA;rice, milk, and eggs.&#xA;HP+8 MP+10 INT+1" ja="ミルクと卵を使ったプディング様の米菓子。&#xA;HP+8 MP+10 INT+1" />
+  <o id="5578" en="Only a master patissier could have&#xA;made this exceptionally delicious&#xA;serving of sutlac.&#xA;HP+10 MP+10 INT+2&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="パティシエの技が光る「シュトラッチ」。&#xA;とてもとても美味しい。&#xA;HP+10 MP+10 INT+2 ヒーリングHP+1&#xA;ヒーリングMP+1" />
   <o id="5579" en="A Near Eastern soup made from yogurt&#xA;and mint.&#xA;HP+20 DEX-1 VIT+2&#xA;HP recovered while healing +3&#xA;MP recovered while healing +1" ja="ヨーグルトとミントでできた近東風スープ。&#xA;HP+20 DEX-1 VIT+2 ヒーリングHP+3&#xA;ヒーリングMP+1" />
   <o id="5580" en="You have never tasted a more&#xA;delicious bowl of yayla corbasi.&#xA;HP+25 DEX-1 VIT+3&#xA;HP recovered while healing +5&#xA;MP recovered while healing +2" ja="美味しくできたヤイラチョルバス。&#xA;HP+25 DEX-1 VIT+3 ヒーリングHP+5&#xA;ヒーリングMP+2" />
   <o id="5581" en="Ziz meat is widely known for its&#xA;exquisite flavor." ja="美味で知られるジズの肉。&#xA;" />
-  <o id="5582" en="A salad formed from a blend of&#xA;eggplants and yogurt." ja="ナスとヨーグルトでできたペースト状のサラダ。&#xA;" />
-  <o id="5583" en="Eggplants mixed with yogurt couldn't&#xA;possibly taste any better than this." ja="美味しくできたパトルジャサラタ。&#xA;" />
-  <o id="5584" en="A stir-fry dish made from rice, meat,&#xA;and pine nuts." ja="肉とパインナッツと共に炒めた後、炊いた米料理。&#xA;" />
-  <o id="5585" en="Just looking at this delectable plate&#xA;of ic pilav makes your mouth water." ja="美味しく炊けたイチピラフ。&#xA;" />
-  <o id="5586" en="This Near Eastern omelette is packed&#xA;with nutritious value." ja="栄養満点の近東風のオムレツ。&#xA;" />
-  <o id="5587" en="This fluffy omelette is fit for the&#xA;Empress's table." ja="ふんわりと焼けたメネメン。&#xA;聖皇のディナーで饗されるほど素晴らしい出来。" />
-  <o id="5588" en="An eggplant stuffed with meat and&#xA;topped with tomatoes." ja="トマトを乗せたナスの肉詰め。&#xA;" />
-  <o id="5589" en="This serving of karni yarik is roasted&#xA;to perfection." ja="美味しく焼けたカルヌヤルク。&#xA;" />
-  <o id="5590" en="Uskumru meat sandwiched between&#xA;two slices of white bread." ja="ウスクムルを挟んだ白パン。&#xA;" />
-  <o id="5591" en="The most delicious balik sandvici&#xA;you've ever tasted." ja="美味しくできたバルックサンド。&#xA;" />
-  <o id="5592" en="Strong coffee brewed in Al Zahbi." ja="濃く煮出したアルザビ風の珈琲。&#xA;" />
-  <o id="5593" en="A rich aroma wafts from this&#xA;cup of Imperial coffee." ja="美味しく淹れたアルザビコーヒー。&#xA;" />
-  <o id="5594" en="A rich aroma wafts from this&#xA;cup of chai." ja="美味しく淹れたチャイ。&#xA;" />
+  <o id="5582" en="A salad formed from a blend of&#xA;eggplants and yogurt.&#xA;VIT-1 AGI+4 Evasion+6&#xA;HP recovered while healing +2" ja="ナスとヨーグルトでできたペースト状のサラダ。&#xA;VIT-1 AGI+4 回避+6 ヒーリングHP+2" />
+  <o id="5583" en="Eggplants mixed with yogurt couldn't&#xA;possibly taste any better than this.&#xA;VIT-2 AGI+5 Evasion+7&#xA;HP recovered while healing +3" ja="美味しくできたパトルジャサラタ。&#xA;VIT-2 AGI+5 回避+7 ヒーリングHP+3" />
+  <o id="5584" en="A stir-fry dish made from rice, meat,&#xA;and pine nuts.&#xA;HP+14% (Max.65) STR+4 VIT-1 INT-1&#xA;Attack+22% (Max.65)&#xA;Ranged Attack+22% (Max.65)&#xA;HP recovered while healing +1" ja="肉とパインナッツと共に炒めた後、炊いた米料理。&#xA;HP+14% (最大65) STR+4 VIT-1 INT-1&#xA;攻+22% (最大65) 飛攻+22% (最大65)&#xA;ヒーリングHP+1" />
+  <o id="5585" en="Just looking at this delectable plate&#xA;of ic pilav makes your mouth water.&#xA;HP+14% (Max.70) STR+5 VIT-2 INT-2&#xA;Attack+22% (Max.70)&#xA;Ranged Attack+22% (Max.70)&#xA;HP recovered while healing +1" ja="美味しく炊けたイチピラフ。&#xA;HP+14% (最大70) STR+5 VIT-2 INT-2&#xA;攻+22% (最大70) 飛攻+22% (最大70)&#xA;ヒーリングHP+1" />
+  <o id="5586" en="This Near Eastern omelette is packed&#xA;with nutritious value.&#xA;HP+30 MP+30 AGI+1 INT-1&#xA;HP recovered while healing +1&#xA;MP recovered while healing +1" ja="栄養満点の近東風のオムレツ。&#xA;HP+30 MP+30 AGI+1 INT-1&#xA;ヒーリングHP+1 ヒーリングMP+1" />
+  <o id="5587" en="This fluffy omelette is fit for the&#xA;empress's table.&#xA;HP+35 MP+35 AGI+2 INT-2&#xA;HP recovered while healing +2&#xA;MP recovered while healing +2" ja="ふんわりと焼けたメネメン。&#xA;聖皇のディナーで饗されるほど素晴らしい出来。&#xA;HP+35 MP+35 AGI+2 INT-2&#xA;ヒーリングHP+2 ヒーリングMP+2" />
+  <o id="5588" en="An eggplant stuffed with meat and&#xA;topped with tomatoes.&#xA;VIT-1 AGI+3&#xA;Attack+20% (Max.65)&#xA;Ranged Attack+20% (Max.65)&#xA;Evasion+6" ja="トマトを乗せたナスの肉詰め。&#xA;VIT-1 AGI+3 攻+20% (最大65)&#xA;飛攻+20% (最大65) 回避+6" />
+  <o id="5589" en="This serving of karni yarik is roasted&#xA;to perfection.&#xA;VIT-2 AGI+4&#xA;Attack+22% (Max.70)&#xA;Ranged Attack+22% (Max.70)&#xA;Evasion+7" ja="美味しく焼けたカルヌヤルク。&#xA;VIT-2 AGI+4 攻+22% (最大70)&#xA;飛攻+22% (最大70) 回避+7" />
+  <o id="5590" en="Uskumru meat sandwiched between&#xA;two slices of white bread.&#xA;DEX+3 AGI+1 INT+3 MND-2&#xA;Ranged Accuracy+5" ja="ウスクムルを挟んだ白パン。&#xA;DEX+3 AGI+1 INT+3 MND-2 飛命+5" />
+  <o id="5591" en="The most delicious balik sandvici&#xA;you've ever tasted.&#xA;DEX+3 AGI+1 INT+3 MND-2&#xA;Ranged Accuracy+6" ja="美味しくできたバルックサンド。&#xA;DEX+3 AGI+1 INT+3 MND-2 飛命+6" />
+  <o id="5592" en="Strong coffee brewed in Al Zahbi.&#xA;HP recovered while healing +3&#xA;MP recovered while healing +3" ja="濃く煮出したアルザビ風の珈琲。&#xA;ヒーリングHP+3 ヒーリングMP+3" />
+  <o id="5593" en="A rich aroma wafts from this&#xA;cup of Imperial coffee.&#xA;HP recovered while healing +5&#xA;MP recovered while healing +5" ja="美味しく淹れたアルザビコーヒー。&#xA;ヒーリングHP+5 ヒーリングMP+5" />
+  <o id="5594" en="A rich aroma wafts from this&#xA;cup of chai.&#xA;VIT-3 CHR+3" ja="美味しく淹れたチャイ。&#xA;VIT-3 CHR+3" />
   <o id="5595" en="Seafood stew made by a Qiqirn.&#xA;MP-100 VIT-10 AGI-10&#xA;INT-10 MND-10 CHR-10&#xA;Accuracy+15% (Max. 25)&#xA;Attack+18% (Max. 60)&#xA;Evasion-100 DEF-100" ja="キキルンが作った、海の幸を煮込んだシチュー。&#xA;MP-100 VIT-10 AGI-10 INT-10 MND-10&#xA;CHR-10 命中+15% (最大25)&#xA;攻+18% (最大60) 回避-100 防-100" />
   <o id="5596" en="Bread shaped into a ring and sprinkled&#xA;with simsim." ja="シムシムをまぶしたリング状のパン。&#xA;" />
   <o id="5597" en="This simit has been baked to&#xA;mouthwatering perfection." ja="美味しく焼けたスィミット。&#xA;" />
-  <o id="5598" en="Sheep meat and onions on a skewer.&#xA;Popular in the Near East." ja="羊肉や玉ねぎを刺した、近東風の串焼き。&#xA;" />
-  <o id="5599" en="A sis kebabi made with exceptionally&#xA;juicy meat." ja="香ばしく焼けたシシケバブ。&#xA;" />
-  <o id="5600" en="Fish meat and tomatoes on a skewer.&#xA;Popular in the Near East." ja="魚肉やトマトを刺した、近東風の串焼き。&#xA;" />
-  <o id="5601" en="Just looking at this balik sis&#xA;makes your mouth water." ja="香ばしく焼けたバルックシシ。&#xA;" />
+  <o id="5598" en="Sheep meat and onions on a skewer.&#xA;Popular in the Near East.&#xA;STR+6 VIT-2 INT-2&#xA;Attack+20% (Max.70)&#xA;Ranged Attack+20% (Max.70)" ja="羊肉や玉ねぎを刺した、近東風の串焼き。&#xA;STR+6 VIT-2 INT-2 攻+20% (最大70)&#xA;飛攻+20% (最大70)" />
+  <o id="5599" en="A sis kebabi made with exceptionally&#xA;juicy meat.&#xA;STR+6 VIT-1 INT-1&#xA;Attack+22% (Max.75)&#xA;Ranged Attack+22% (Max.75)" ja="香ばしく焼けたシシケバブ。&#xA;STR+6 VIT-1 INT-1 攻+22% (最大75)&#xA;飛攻+22% (最大75)" />
+  <o id="5600" en="Fish meat and tomatoes on a skewer.&#xA;Popular in the Near East.&#xA;DEX+4 MND-2&#xA;Ranged Accuracy+1&#xA;Attack+13% (Max.65)&#xA;Ranged Attack+13% (Max.65)" ja="魚肉やトマトを刺した、近東風の串焼き。&#xA;DEX+4 MND-2 飛命+1 攻+13% (最大65)&#xA;飛攻+13% (最大65)" />
+  <o id="5601" en="Just looking at this balik sis&#xA;makes your mouth water.&#xA;DEX+5 MND-2&#xA;Ranged Accuracy+2&#xA;Attack+15% (Max.70)&#xA;Ranged Attack+15% (Max.70)" ja="香ばしく焼けたバルックシシ。&#xA;DEX+5 MND-2 飛命+2 攻+15% (最大70)&#xA;飛攻+15% (最大70)" />
   <o id="5602" en="A dish made from grilled ground&#xA;hydra meat." ja="ハイドラの挽き肉を固めて焼いた料理。&#xA;" />
   <o id="5603" en="This hydra kofte has been baked&#xA;to absolute perfection." ja="香ばしく焼けたハイドラキョフテ。&#xA;" />
   <o id="5604" en="The large, hard-shelled fruit of an Elshimo pachira. Though giving off a sweet, nutty aroma, it is nevertheless poisonous and unsuitable for consumption." ja="パキラの大粒な種子。&#xA;微毒性があり、食用には適さない。&#xA;" />
@@ -6075,6 +6078,7 @@
   <o id="8619" en="Increases status ailment resistance" ja="状態異常レジスト率アップの効果。" />
   <o id="8620" en="Increases status ailment resistance" ja="状態異常レジスト率アップの効果。" />
   <o id="8621" en="Enhances magic defense" ja="魔法防御力アップの効果。" />
+  <o id="8622" en="Increases magic recast time in&#xA;exchange for increased magic attack" ja="魔法使用間隔が長くなる代わりに、&#xA;魔法攻撃力アップ。" />
   <o id="8641" en="Increases HP&#xA;Adds &quot;Regen&quot; effect to Light Maneuver" ja="HPアップの効果。&#xA;ライトマニューバ中:リジェネ。" />
   <o id="8642" en="Use &quot;Flash&quot;" ja="「フラッシュ」を使用する。" />
   <o id="8643" en="Prioritizes curing" ja="回復行動を優先する。" />
@@ -6087,6 +6091,8 @@
   <o id="8651" en="Enhances Occult Acumen" ja="マジックアキュメンの効果。" />
   <o id="8652" en="Enhances Occult Acumen" ja="マジックアキュメンの効果。" />
   <o id="8653" en="Increases HP&#xA;Adds &quot;Regen&quot; effect to Light Maneuver" ja="HPアップの効果。&#xA;ライトマニューバ中:リジェネ。" />
+  <o id="8654" en="Increases the performance of other&#xA;attachments" ja="他のアタッチメントの性能アップの効果。" />
+  <o id="8655" en="Prioritizes curing" ja="回復行動を優先する。" />
   <o id="8673" en="Increases MP&#xA;Adds &quot;Refresh&quot; effect&#xA;to Dark Maneuver" ja="MPアップの効果。&#xA;ダークマニューバ中:リフレシュ。" />
   <o id="8674" en="Consumes HP to gradually restore MP" ja="HPを消費してMPを徐々に回復する。" />
   <o id="8675" en="Conserve MP" ja="コンサーブMPの効果。" />
@@ -6557,7 +6563,7 @@
   <o id="9217" en="A tiny brass key found on a long-sunken ship. Can be used to obtain abjurations via the Gobbie Mystery Box." ja="沈没船で見つかったという不思議な箱のカギ。&#xA;免罪符ダイヤルを開錠できる。" />
   <o id="9220" en="A fine spool of thread woven by the legendary mage Abdhaljs." ja="魔道士アブダルスが開発した糸。&#xA;" />
   <o id="9221" en="A pinch of soft golden dust conjured into being by the legendary mage Abdhaljs." ja="魔道士アブダルスが開発した金粉。&#xA;" />
-  <o id="9222" en="A small pot of fluorescent die painstakingly mixed by the legendary mage Abdhaljs." ja="魔道士アブダルスが開発した染料。&#xA;" />
+  <o id="9222" en="A small pot of fluorescent dye painstakingly mixed by the legendary mage Abdhaljs." ja="魔道士アブダルスが開発した染料。&#xA;" />
   <o id="9223" en="Sticky brown tree sap used by the legendary mage Abdhaljs in one of his many incantations." ja="魔道士アブダルスが開発した油。&#xA;" />
   <o id="9225" en="A needle with fey energies invited by the legendary mage Abdhaljs. It can only be inserted into particular items that resonate with its unique magic." ja="魔道士アブダルスが開発した針。&#xA;特定のアイテムにしか刺さらない。&#xA;" />
   <o id="9226" en="A prize redemption coupon from the Mog Bonanza event. Issued by the Mog House Management Union (MHMU).&#xA;Tradeable for item level 117 Records of Eminence armor." ja="モグハウス管理組合発行の引換券。&#xA;様々な品と交換できる。&#xA;引換アイテム：エミネンス防具（ILv117）" />
@@ -6566,6 +6572,9 @@
   <o id="9229" en="Focuses on taking advantage of skillchains and grants a skillchain bonus." ja="火の属性を秘めたオートマトンのアタッチメント。&#xA;連携ボーナスの効果。&#xA;連携属性を重視する。" />
   <o id="9230" en="Focuses on taking advantage of skillchains and grants a skillchain bonus." ja="火の属性を秘めたオートマトンのアタッチメント。&#xA;連携ボーナスの効果。&#xA;連携属性を重視する。" />
   <o id="9232" en="This cactus, native to the Valkurm Dunes, is adorned with surprisingly colorful flowers." ja="バルクルム砂丘原産の&#xA;花をつけたサボテン。" />
+  <o id="9233" en="A water-based automaton attachment.&#xA;Increases magic recast time in&#xA;exchange for increased magic attack." ja="水の属性を秘めたオートマトンのアタッチメント。&#xA;魔法使用間隔が長くなる代わりに、&#xA;魔法攻撃力アップ。" />
+  <o id="9234" en="A light-based automaton attachment.&#xA;Increases the performance of other&#xA;attachments." ja="光の属性を秘めたオートマトンのアタッチメント。&#xA;他のアタッチメントの性能アップの効果。" />
+  <o id="9280" en="A light-based automaton attachment.&#xA;Prioritizes curing." ja="光の属性を秘めたオートマトンのアタッチメント。&#xA;回復行動を優先する。" />
   <o id="10049" en="An astral notebook inscribed with sheet music on how to make a call appealing to a raptor. Can be shown to Mapitoto in Upper Jeuno for recording so that you may ride a raptor mount." ja="ラプトルを呼び出す音が&#xA;刻まれたアストラルノート。&#xA;ジュノ上層のマピトトに渡すことで『呼子霊笛』から&#xA;使用可能になる。" />
   <o id="10050" en="An astral notebook inscribed with sheet music on how to make a call appealing to a tiger. Can be shown to Mapitoto in Upper Jeuno for recording so that you may ride a tiger mount." ja="剣虎を呼び出す音が&#xA;刻まれたアストラルノート。&#xA;ジュノ上層のマピトトに渡すことで『呼子霊笛』から&#xA;使用可能になる。" />
   <o id="10051" en="An astral notebook inscribed with sheet music on how to make a call appealing to a crab. Can be shown to Mapitoto in Upper Jeuno for recording so that you may ride a crab mount." ja="クラブを呼び出す音が&#xA;刻まれたアストラルノート。&#xA;ジュノ上層のマピトトに渡すことで『呼子霊笛』から&#xA;使用可能になる。" />
@@ -17022,7 +17031,7 @@
   <o id="21372" en="Handbell skill +18&#xA;Geomancy +5&#xA;Luopan: Damage taken -5%" ja="風水鈴スキル+18 風水魔法+5&#xA;羅盤:被ダメージ-5% " />
   <o id="21373" en="MP+15 Magic damage taken -2%" ja="MP+15 被魔法ダメージ-2%" />
   <o id="21374" en="Enmity+2 &quot;Triple Attack&quot;+1%" ja="敵対心+2 トリプルアタック+1%" />
-  <o id="21375" en="A smaller version of the alternator that outperforms the original model in regards to speed." ja="ハイストリンガーの改良型。&#xA;従来の物より小型化され操作も&#xA;簡略化されている。" />
+  <o id="21375" en="A smaller version of the alternator that outperforms the original model in regards to speed.&#xA;Automaton: Lv. 117" ja="ハイストリンガーの改良型。&#xA;従来の物より小型化され操作も&#xA;簡略化されている。&#xA;オートマトン:Lv117" />
   <o id="21376" en="Accuracy+10 DEF:+10" ja="命中+10 防+10" />
   <o id="21377" en="Avatar: Lv.117&#xA;&quot;Blood Pact&quot; recast time II -4" ja="召喚獣:Lv117 契約の履行使用間隔II-4" />
   <o id="21378" en="Critical hit rate +1%&#xA;Critical hit damage +5%" ja="クリティカルヒット+1%&#xA;クリティカルヒットダメージ+5%" />
@@ -17039,8 +17048,10 @@
   <o id="21389" en="Accuracy+15" ja="命中+15" />
   <o id="21390" en="DMG:66 Delay:240 HP+15 MP+15&#xA;Ranged Accuracy+20&#xA;Ranged Attack+20&#xA;Magic Accuracy+5&#xA;Throwing skill +242" ja="Ｄ66 隔240 HP+15 MP+15 飛命+20 飛攻+20&#xA;魔命+5 投てきスキル+242" />
   <o id="21391" en="DMG:101 Delay:192 HP+25&#xA;Attack+13&#xA;Throwing skill +242&#xA;&quot;Store TP&quot;+2" ja="Ｄ101 隔192 HP+25 攻+13&#xA;投てきスキル+242 ストアTP+2" />
-  <o id="21392" en="An upgraded version of the animator&#xA;with faster and more precise&#xA;capabilities than the original model." ja="ストリンガーの強化型。&#xA;従来のものより速く正確な指令を伝達できる。" />
+  <o id="21392" en="An upgraded version of the animator&#xA;with faster and more precise&#xA;capabilities than the original model.&#xA;Automaton: Lv. 119" ja="ストリンガーの強化型。&#xA;従来のものより速く正確な指令を伝達できる。&#xA;オートマトン:Lv119" />
   <o id="21393" en="Avatar: Lv. 119" ja="召喚獣:Lv119" />
+  <o id="21394" en="Avatar: Lv119&#xA;&quot;Blood Pact&quot; recast time II -6&#xA;&quot;Blood Pact&quot; damage +10&#xA;Accuracy+15 Ranged Accuracy+15&#xA;Magic Accuracy+15" ja="召喚獣:Lv119 契約の履行使用間隔II-6&#xA;契約の履行ダメージ+10 命中+15 飛命+15&#xA;魔命+15" />
+  <o id="21395" en="Avatar: Lv119&#xA;&quot;Blood Pact&quot; recast time II -7&#xA;&quot;Blood Pact&quot; damage +15&#xA;Accuracy+20 Ranged Accuracy+20&#xA;Magic Accuracy+20" ja="召喚獣:Lv119 契約の履行使用間隔II-7&#xA;契約の履行ダメージ+15 命中+20 飛命+20&#xA;魔命+20" />
   <o id="21398" en="Song effect duration +50%&#xA;Able to use Honor March" ja="歌の効果時間延長+50%&#xA;栄典の戴冠マーチ使用可能" />
   <o id="21399" en="CHR+7 Magic Accuracy+10 &quot;Carol&quot;+2" ja="CHR+7 魔命+10 カロル+2" />
   <o id="21400" en="Grants one additional song effect&#xA;All songs +1 &quot;Lullaby&quot;+2" ja="歌数+1 全歌+1 ララバイ+2" />
@@ -17087,10 +17098,14 @@
   <o id="21449" en="Calls Generous Arthur." ja="『博愛のアーサー』を呼び寄せます。 " />
   <o id="21450" en="Calls Redolent Candi." ja="『芳香のキャンディ』を呼び寄せます。" />
   <o id="21451" en="Calls Alluring Honey." ja="『魅惑のハニー』を呼び寄せます。 " />
-  <o id="21452" en="An animator crafted with ancient techniques that modern man cannot possibly hope to replicate." ja="失われた技術で作られたストリンガー。&#xA;現在の技術では再現できない。" />
-  <o id="21453" en="An animator crafted in secret by the A.M.A.N. It makes full use of technologies cultivated throughout Vana'diel." ja="冒険者互助会が密かに開発したストリンガー。&#xA;様々な国の技術が集められている。" />
-  <o id="21454" en="An improved version of the animator, refined and bolstered by the Inventors' Coalition in Adoulin." ja="インベンター・ワークスで作られたストリンガー。&#xA;従来のストリンガーとは異なる操作法に&#xA;なっている。" />
-  <o id="21455" en="An improved version of the animator with more precise capabilities than the original model." ja="ストリンガーの改良型。&#xA;従来の物より力強い指令を伝達できる。" />
+  <o id="21452" en="An animator crafted with ancient techniques that modern man cannot possibly hope to replicate.&#xA;Automaton: Lv.. 119" ja="失われた技術で作られたストリンガー。&#xA;現在の技術では再現できない。&#xA;オートマトン:Lv119" />
+  <o id="21453" en="An animator crafted in secret by the A.M.A.N. It makes full use of technologies cultivated throughout Vana'diel.&#xA;Automaton: Lv. 115" ja="冒険者互助会が密かに開発したストリンガー。&#xA;様々な国の技術が集められている。&#xA;オートマトン:Lv115" />
+  <o id="21454" en="An improved version of the animator, refined and bolstered by the Inventors' Coalition in Adoulin.&#xA;Automaton: Lv. 106" ja="インベンター・ワークスで作られたストリンガー。&#xA;従来のストリンガーとは異なる操作法に&#xA;なっている。&#xA;オートマトン:Lv106" />
+  <o id="21455" en="An improved version of the animator with more precise capabilities than the original model.&#xA;Automaton: Lv. 113" ja="ストリンガーの改良型。&#xA;従来の物より力強い指令を伝達できる。&#xA;オートマトン:Lv113" />
+  <o id="21456" en="An animator that links the mind of the puppetmaster to his automaton, enabling control without the use of physical devices.&#xA;Automaton: Lv119 STR+15 DEX+15&#xA;VIT+15 AGI+15 INT+15 MND+15 CHR+15" ja="従来とは異なる伝達法を用いたストリンガー。&#xA;ストリンガーを操作することなく&#xA;命令を伝達できる。&#xA;オートマトン:Lv119 STR+15 DEX+15 VIT+15&#xA;AGI+15 INT+15 MND+15 CHR+15" />
+  <o id="21457" en="An animator that links the mind of the puppetmaster to his automaton, enabling control without the use of physical devices.&#xA;Automaton: Lv119 STR+20 DEX+20&#xA;VIT+20 AGI+20 INT+20 MND+20 CHR+20" ja="従来とは異なる伝達法を用いたストリンガー。&#xA;ストリンガーを操作することなく&#xA;命令を伝達できる。&#xA;オートマトン:Lv119 STR+20 DEX+20 VIT+20&#xA;AGI+20 INT+20 MND+20 CHR+20" />
+  <o id="21458" en="A long distance animator that links the mind of the puppetmaster to his automaton, enabling control without the use of physical devices.&#xA;Automaton: Lv119 STR+15 DEX+15&#xA;VIT+15 AGI+15 INT+15 MND+15 CHR+15" ja="従来とは異なる伝達法を用いたストリンガー。&#xA;遠距離型のストリンガー。&#xA;ストリンガーを操作することなく、命令を伝達できる。&#xA;オートマトン:Lv119 STR+15 DEX+15 VIT+15&#xA;AGI+15 INT+15 MND+15 CHR+15" />
+  <o id="21459" en="A long distance animator that links the mind of the puppetmaster to his automaton, enabling control without the use of physical devices.&#xA;Automaton: Lv119 STR+20 DEX+20&#xA;VIT+20 AGI+20 INT+20 MND+20 CHR+20" ja="従来とは異なる伝達法を用いたストリンガー。&#xA;遠距離型のストリンガー。&#xA;ストリンガーを操作することなく、命令を伝達できる。&#xA;オートマトン:Lv119 STR+20 DEX+20 VIT+20&#xA;AGI+20 INT+20 MND+20 CHR+20" />
   <o id="21460" en="MP+5" ja="MP+5" />
   <o id="21461" en="MP+30 Handbell skill +15" ja="MP+30 風水鈴スキル+15" />
   <o id="21462" en="Geomancy +3" ja="風水魔法+3" />
@@ -17187,6 +17202,8 @@
   <o id="21961" en="DMG:232 Delay:437 STR+17 DEX+17&#xA;Accuracy+32 Attack+20&#xA;Great Katana skill +228&#xA;Parrying skill +228&#xA;Magic Accuracy skill +188&#xA;&quot;Store TP&quot;+5" ja="Ｄ232 隔437 STR+17 DEX+17 命中+32&#xA;攻+20 両手刀スキル+228&#xA;受け流しスキル+228 魔命スキル+188 ストアTP+5" />
   <o id="22015" en="DMG:148 Delay:288 INT+6 MND+6&#xA;Magic Accuracy+10 Magic Attack+16&#xA;Magic Damage+124 Magic Evasion+10&#xA;Club skill +242 Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;Avatar: Magic Accuracy+10" ja="Ｄ148 隔288 INT+6 MND+6 魔命+10&#xA;魔攻+16 魔法ダメージ+124 魔回避+10&#xA;片手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+215 召喚獣:魔命+10" />
   <o id="22016" en="DMG:149 Delay:280 INT+11 MND+11&#xA;Magic Accuracy+15 Magic Attack+16&#xA;Magic Damage+124 Magic Evasion+15&#xA;Club skill +242 Parrying skill +242&#xA;Magic Accuracy skill +215&#xA;Avatar: Magic Accuracy+15" ja="Ｄ149 隔280 INT+11 MND+11 魔命+15&#xA;魔攻+16 魔法ダメージ+124 魔回避+15&#xA;片手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+215 召喚獣:魔命+15" />
+  <o id="22017" en="DMG:1 Delay:216" ja="Ｄ1 隔216" />
+  <o id="22018" en="DMG:2 Delay:210&#xA;Additional effect: Soothing Breeze&#xA;Enchantment: Cool Breeze" ja="Ｄ2 隔210 追加効果:そよ風 エンチャント:涼風" />
   <o id="22054" en="DMG:202 Delay:366&#xA;INT+19 MND+19&#xA;Magic Accuracy+14&#xA;&quot;Magic Atk. Bonus&quot;+30&#xA;Magic Damage+217&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;&quot;Conserve MP&quot;+5 &quot;Fast Cast&quot;+4%&#xA;Avatar: Magic Accuracy+35&#xA;&quot;Magic Atk. Bonus&quot;+115" ja="Ｄ202 隔366 INT+19 MND+19 魔命+14&#xA;魔攻+30 魔法ダメージ+217 両手棍スキル+242&#xA;受け流しスキル+242 魔命スキル+228&#xA;コンサーブMP+5 ファストキャスト+4%&#xA;召喚獣:魔命+35 魔攻+115" />
   <o id="22055" en="DMG:230 Delay:366&#xA;INT+22 MND+22&#xA;Magic Accuracy+45&#xA;&quot;Magic Atk. Bonus&quot;+28&#xA;Magic Damage+217&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +228&#xA;&quot;Fast Cast&quot;+7%&#xA;Enhancing magic duration +10" ja="Ｄ230 隔366 INT+22 MND+22 魔命+45&#xA;魔攻+28 魔法ダメージ+217 両手棍スキル+242&#xA;受け流しスキル+242 魔命スキル+228&#xA;ファストキャスト+7% 強化魔法の効果時間+10" />
   <o id="22056" en="DMG:266 Delay:412 STR+20&#xA;Accuracy+43 Attack+43&#xA;Staff skill +242&#xA;Parrying skill +242&#xA;Magic Accuracy skill +188&#xA;&quot;Double Attack&quot;+3%&#xA;&quot;Triple Attack&quot;+2%" ja="Ｄ266 隔412 STR+20 命中+43 攻+43&#xA;両手棍スキル+242 受け流しスキル+242&#xA;魔命スキル+188 ダブルアタック+3%&#xA;トリプルアタック+2%" />
@@ -17240,8 +17257,8 @@
   <o id="22257" en="DMG:300 Delay:276&#xA;Throwing skill +242&#xA;Ranged Accuracy+100" ja="Ｄ300 隔276 投てきスキル+242 飛命+100" />
   <o id="22258" en="DMG:300 Delay:276&#xA;Throwing skill +242&#xA;Ranged Accuracy+100" ja="Ｄ300 隔276 投てきスキル+242 飛命+100" />
   <o id="22259" en="DMG:300 Delay:276&#xA;Throwing skill +242&#xA;Ranged Accuracy+100" ja="Ｄ300 隔276 投てきスキル+242 飛命+100" />
-  <o id="22260" en="A long-range animator crafted in&#xA;secret by the A.M.A.N. It makes&#xA;full use of technologies cultivated&#xA;throughout Vana'diel." ja="冒険者互助会が密かに開発した&#xA;遠距離型のストリンガー。&#xA;様々な国の技術が集められている。" />
-  <o id="22261" en="A long-range animator crafted with&#xA;ancient techniques that modern man&#xA;cannot possibly hope to replicate." ja="失われた技術で作られた&#xA;遠距離型のストリンガー。&#xA;現在の技術では再現できない。" />
+  <o id="22260" en="A long-range animator crafted in&#xA;secret by the A.M.A.N. It makes&#xA;full use of technologies cultivated&#xA;throughout Vana'diel.&#xA;Automaton: Lv. 115" ja="冒険者互助会が密かに開発した&#xA;遠距離型のストリンガー。&#xA;様々な国の技術が集められている。&#xA;オートマトン:Lv115" />
+  <o id="22261" en="A long-range animator crafted with&#xA;ancient techniques that modern man&#xA;cannot possibly hope to replicate.&#xA;Automaton: Lv. 119" ja="失われた技術で作られた&#xA;遠距離型のストリンガー。&#xA;現在の技術では再現できない。&#xA;オートマトン:Lv119" />
   <o id="22262" en="STR+2 Accuracy+10&#xA;Evasion+10 &quot;Counter&quot;+2" ja="STR+2 命中+10 回避+10 カウンター+2" />
   <o id="22263" en="MP+20 MND+3 Magic Accuracy+6" ja="MP+20 MND+3 魔命+6" />
   <o id="22264" en="STR+3 Accuracy+13&#xA;&quot;Resist Amnesia&quot;+10" ja="STR+3 命中+13 レジストアムネジア+10" />
@@ -17320,6 +17337,8 @@
   <o id="25664" en="DEF:110 HP+60 STR+30 DEX+26 VIT+24&#xA;AGI+21 INT+12 MND+10 CHR+17&#xA;Accuracy+38 Attack+26&#xA;Evasion+84 Magic Evasion+59&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+6% &quot;Martial Arts&quot;+10" ja="防110 HP+60 STR+30 DEX+26 VIT+24&#xA;AGI+21 INT+12 MND+10 CHR+17&#xA;命中+38 攻+26 回避+84 魔回避+59 魔防+3&#xA;ヘイスト+6% マーシャルアーツ+10" />
   <o id="25665" en="DEF:91 HP+45 MP+50 STR+10 DEX+10&#xA;VIT+10 INT+26 MND+25 CHR+24&#xA;Magic Accuracy+26 Evasion+33&#xA;Magic Evasion+96&#xA;&quot;Magic Def. Bonus&quot;+8 Haste+4%&#xA;&quot;Regen&quot; potency +8%&#xA;Magic damage taken -3%" ja="防91 HP+45 MP+50 STR+10 DEX+10&#xA;VIT+10 INT+26 MND+25 CHR+24&#xA;魔命+26 回避+33 魔回避+96 魔防+8 ヘイスト+4%&#xA;リジェネ回復量+8% 被魔法ダメージ-3%" />
   <o id="25666" en="DEF:61 HP+45 MP+50 STR+10 DEX+10&#xA;VIT+15 INT+31 MND+30 CHR+29&#xA;Magic Accuracy+38 Evasion+33&#xA;Magic Evasion+108&#xA;&quot;Magic Def. Bonus&quot;+8 Haste+4%&#xA;&quot;Regen&quot; potency +12%&#xA;Magic damage taken -4%" ja="防96 HP+45 MP+50 STR+10 DEX+10&#xA;VIT+15 INT+31 MND+30 CHR+29&#xA;魔命+38 回避+33 魔回避+108 魔防+8 ヘイスト+4%&#xA;リジェネ回復量+12% 被魔法ダメージ-4%" />
+  <o id="25667" en="DEF:80 STR+23 DEX+19 VIT+7&#xA;AGI+1 INT+28 MND+21 CHR+20&#xA;Accuracy+26 Attack+26&#xA;Magic Accuracy+26&#xA;Evasion+24 Magic Evasion+37&#xA;&quot;Magic Atk. Bonus&quot;+26&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+3% &quot;Skillchain Bonus&quot;+3" ja="防80 STR+23 DEX+19 VIT+7 AGI+1&#xA;INT+28 MND+21 CHR+20 命中+26 攻+26&#xA;魔命+26 魔攻+26 回避+24 魔回避+37 魔防+2&#xA;ヘイスト+3% 連携ボーナス+3 " />
+  <o id="25668" en="DEF:85 STR+28 DEX+24 VIT+7&#xA;AGI+1 INT+33 MND+21 CHR+20&#xA;Accuracy+38 Attack+38&#xA;Magic Accuracy+38&#xA;Evasion+24 Magic Evasion+37&#xA;&quot;Magic Atk. Bonus&quot;+38&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+3% &quot;Skillchain Bonus&quot;+5" ja="防85 STR+28 DEX+24 VIT+7 AGI+1&#xA;INT+33 MND+21 CHR+20 命中+38 攻+38&#xA;魔命+38 魔攻+38 回避+24 魔回避+37 魔防+2&#xA;ヘイスト+3% 連携ボーナス+5 " />
   <o id="25669" en="DEF:2&#xA;Enchantment: Costume" ja="防2 エンチャント:コスチューム" />
   <o id="25670" en="DEF:1" ja="防1" />
   <o id="25671" en="DEF:2&#xA;Enchantment: Rarab Incantations" ja="防2 エンチャント:ララブのお守り" />
@@ -17394,6 +17413,8 @@
   <o id="25750" en="DEF:136 HP+100 STR+37 DEX+33&#xA;VIT+31 AGI+25 INT+20 MND+17 CHR+25&#xA;Accuracy+40 Attack+28&#xA;Evasion+89 Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+4% &quot;Regen&quot;+10" ja="防136 HP+100 STR+37 DEX+33 VIT+31&#xA;AGI+25 INT+20 MND+17 CHR+25&#xA;命中+40 攻+28 回避+89 魔回避+69 魔防+6&#xA;ヘイスト+4% リジェネ+10" />
   <o id="25751" en="DEF:119 HP+85 MP+90 STR+16 DEX+19&#xA;VIT+16 AGI+15 INT+40 MND+35 CHR+34&#xA;Magic Accuracy+28 Evasion+38&#xA;Magic Evasion+102&#xA;&quot;Magic Def. Bonus&quot;+11 Haste+2%&#xA;&quot;Fast Cast&quot;+10%&#xA;Magic damage taken -6%" ja="防119 HP+85 MP+90 STR+16 DEX+19&#xA;VIT+16 AGI+15 INT+40 MND+35 CHR+34&#xA;魔命+28 回避+38 魔回避+102 魔防+11 ヘイスト+2%&#xA;ファストキャスト+10% 被魔法ダメージ-6% " />
   <o id="25752" en="DEF:124 HP+85 MP+90 STR+16 DEX+19&#xA;VIT+21 AGI+20 INT+45 MND+40 CHR+39&#xA;Magic Accuracy+40 Evasion+38&#xA;Magic Evasion+114&#xA;&quot;Magic Def. Bonus&quot;+11 Haste+2%&#xA;&quot;Fast Cast&quot;+13%&#xA;Magic damage taken -7%" ja="防124 HP+85 MP+90 STR+16 DEX+19&#xA;VIT+21 AGI+20 INT+45 MND+40 CHR+39&#xA;魔命+40 回避+38 魔回避+114 魔防+11 ヘイスト+2%&#xA;ファストキャスト+13% 被魔法ダメージ-7% " />
+  <o id="25753" en="DEF:109 STR+29 DEX+25 VIT+14&#xA;AGI+16 INT+42 MND+32 CHR+30&#xA;Accuracy+28 Attack+28&#xA;Magic Accuracy+28&#xA;Evasion+33 Magic Evasion+53&#xA;&quot;Magic Atk. Bonus&quot;+28&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+1% &quot;Refresh&quot;+2" ja="防109 STR+29 DEX+25 VIT+14 AGI+16&#xA;INT+42 MND+32 CHR+30 命中+28 攻+28&#xA;魔命+28 魔攻+28 回避+33 魔回避+53 魔防+5&#xA;ヘイスト+1% リフレシュ+2" />
+  <o id="25754" en="DEF:114 STR+34 DEX+30 VIT+14&#xA;AGI+16 INT+47 MND+32 CHR+30&#xA;Accuracy+40 Attack+40&#xA;Magic Accuracy+40&#xA;Evasion+33 Magic Evasion+53&#xA;&quot;Magic Atk. Bonus&quot;+40&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+1% &quot;Refresh&quot;+3" ja="防114 STR+34 DEX+30 VIT+14 AGI+16&#xA;INT+47 MND+32 CHR+30 命中+40 攻+40&#xA;魔命+40 魔攻+40 回避+33 魔回避+53 魔防+5&#xA;ヘイスト+1% リフレシュ+3" />
   <o id="25756" en="Cannot equip leggear&#xA;DEF:1" ja="両手両脚両足装備不可 防1" />
   <o id="25757" en="Cannot equip leggear&#xA;DEF:2&#xA;Enchantment:&#xA;&quot;Teleport&quot; (Riverne - Site #A01)" ja="両手両脚両足装備不可 防2&#xA;エンチャント:テレポ&#xA;（リヴェーヌ岩塊群サイトA01）" />
   <o id="25758" en="DEF:1" ja="防1" />
@@ -17408,6 +17429,9 @@
   <o id="25805" en="DEF:101 HP+40 STR+17 DEX+40 VIT+35&#xA;AGI+13 INT+7 MND+21 CHR+22&#xA;Accuracy+37 Attack+25&#xA;Evasion+70 Magic Evasion+43&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+4% &quot;Critical Parry&quot;+20" ja="防101 HP+40 STR+17 DEX+40 VIT+35&#xA;AGI+13 INT+7 MND+21 CHR+22&#xA;命中+37 攻+25 回避+70 魔回避+43 魔防+2&#xA;ヘイスト+4% タクティカルパリー+20" />
   <o id="25806" en="DEF:78 HP+35 MP+40 STR+3 DEX+23&#xA;VIT+20 AGI+1 INT+26 MND+39 CHR+24&#xA;Magic Accuracy+25 Evasion+19&#xA;Magic Evasion+59&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+4%&#xA;All magic skills +15&#xA;Magic damage taken -2%" ja="防78 HP+35 MP+40 STR+3 DEX+23&#xA;VIT+20 AGI+1 INT+26 MND+39 CHR+24&#xA;魔命+25 回避+19 魔回避+59 魔防+5 ヘイスト+4%&#xA;魔法スキル+15 被魔法ダメージ-2%" />
   <o id="25807" en="DEF:83 HP+35 MP+40 STR+3 DEX+23&#xA;VIT+25 AGI+6 INT+31 MND+44 CHR+29&#xA;Magic Accuracy+37 Evasion+19&#xA;Magic Evasion+71&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+4%&#xA;All magic skills +18&#xA;Magic damage taken -3%" ja="防83 HP+35 MP+40 STR+3 DEX+23&#xA;VIT+25 AGI+6 INT+31 MND+44 CHR+29&#xA;魔命+37 回避+19 魔回避+71 魔防+5 ヘイスト+4%&#xA;魔法スキル+18 被魔法ダメージ-3% " />
+  <o id="25808" en="DEF:69 STR+10 DEX+33 VIT+17&#xA;AGI+2 INT+28 MND+35 CHR+20&#xA;Accuracy+25 Attack+25&#xA;Magic Accuracy+25&#xA;Evasion+13 Magic Evasion+32&#xA;&quot;Magic Atk. Bonus&quot;+25&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Weapon skill damage +3%" ja="防69 STR+10 DEX+33 VIT+17 AGI+2&#xA;INT+28 MND+35 CHR+20 命中+25 攻+25&#xA;魔命+25 魔攻+25 回避+13 魔回避+32 魔防+1&#xA;ウェポンスキルのダメージ+3%" />
+  <o id="25809" en="DEF:74 STR+15 DEX+38 VIT+17&#xA;AGI+2 INT+33 MND+35 CHR+20&#xA;Accuracy+37 Attack+37&#xA;Magic Accuracy+37&#xA;Evasion+13 Magic Evasion+32&#xA;&quot;Magic Atk. Bonus&quot;+37&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Weapon skill damage +5%" ja="防74 STR+15 DEX+38 VIT+17 AGI+2&#xA;INT+33 MND+35 CHR+20 命中+37 攻+37&#xA;魔命+37 魔攻+37 回避+13 魔回避+32 魔防+1&#xA;ウェポンスキルのダメージ+5%" />
+  <o id="25817" en="DEF:1" ja="防1" />
   <o id="25840" en="DEF:132 HP+54 MP+41 STR+37 VIT+23&#xA;AGI+16 INT+26 MND+12 CHR+10&#xA;Accuracy+15&#xA;Evasion+22 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Haste+5% Enmity+4&#xA;&quot;Store TP&quot;+5 &quot;Double Attack&quot;+2%" ja="防132 HP+54 MP+41 STR+37 VIT+23&#xA;AGI+16 INT+26 MND+12 CHR+10 命中+15&#xA;回避+22 魔回避+86 魔防+4 ヘイスト+5% 敵対心+4&#xA;ストアTP+5 ダブルアタック+2%" />
   <o id="25841" en="DEF:127 HP+95 STR+39 VIT+26 AGI+16&#xA;INT+24 MND+14 CHR+11 Attack+15&#xA;Evasion+24 Magic Evasion+80&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+5% &quot;Double Attack&quot;+3%&#xA;Physical damage taken -2%" ja="防127 HP+95 STR+39 VIT+26 AGI+16&#xA;INT+24 MND+14 CHR+11 攻+15 回避+24&#xA;魔回避+80 魔防+3 ヘイスト+5% ダブルアタック+3%&#xA;被物理ダメージ-2%" />
   <o id="25842" en="DEF:114 HP+38 STR+33 VIT+16 AGI+32&#xA;INT+29 MND+15 CHR+10&#xA;Attack+15 Ranged Attack+15&#xA;Evasion+62 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+6% Enmity-4 &quot;Store TP&quot;+4&#xA;Physical damage taken -2%" ja="防114 HP+38 STR+33 VIT+16 AGI+32&#xA;INT+29 MND+15 CHR+10 攻+15 飛攻+15&#xA;回避+62 魔回避+75 魔防+5 ヘイスト+6% 敵対心-4&#xA;ストアTP+4 被物理ダメージ-2%" />
@@ -17428,6 +17452,8 @@
   <o id="25864" en="DEF:1" ja="防1" />
   <o id="25865" en="DEF:100 HP+55 MP+60 STR+19 VIT+6&#xA;AGI+12 INT+43 MND+30 CHR+24&#xA;Magic Accuracy+27 Evasion+24&#xA;Magic Evasion+129&#xA;&quot;Magic Def. Bonus&quot;+9 Haste+4%&#xA;Song effect duration +12&#xA;Magic damage taken -4%" ja="防100 HP+55 MP+60 STR+19 VIT+6&#xA;AGI+12 INT+43 MND+30 CHR+24 魔命+27&#xA;回避+24 魔回避+129 魔防+9 ヘイスト+4%&#xA;歌の効果時間+12 被魔法ダメージ-4%" />
   <o id="25866" en="DEF:105 HP+55 MP+60 STR+19 VIT+11&#xA;AGI+17 INT+48 MND+35 CHR+29&#xA;Magic Accuracy+39 Evasion+24&#xA;Magic Evasion+141&#xA;&quot;Magic Def. Bonus&quot;+9 Haste+4%&#xA;Song effect duration +15&#xA;Magic damage taken -5%" ja="防105 HP+55 MP+60 STR+19 VIT+11&#xA;AGI+17 INT+48 MND+35 CHR+29 魔命+39&#xA;回避+24 魔回避+141 魔防+9 ヘイスト+4%&#xA;歌の効果時間+15 被魔法ダメージ-5% " />
+  <o id="25867" en="DEF:91 STR+39 VIT+3 AGI+14&#xA;INT+44 MND+26 CHR+20&#xA;Accuracy+27 Attack+27&#xA;Magic Accuracy+27&#xA;Evasion+13 Magic Evasion+69&#xA;&quot;Magic Atk. Bonus&quot;+27&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Haste+2% &quot;Store TP&quot;+5" ja="防91 STR+39 VIT+3 AGI+14 INT+44&#xA;MND+26 CHR+20 命中+27 攻+27 魔命+27&#xA;魔攻+27 回避+13 魔回避+69 魔防+4 ヘイスト+2%&#xA;ストアTP+5 " />
+  <o id="25868" en="DEF:96 STR+44 VIT+3 AGI+14&#xA;INT+49 MND+26 CHR+20&#xA;Accuracy+39 Attack+39&#xA;Magic Accuracy+39&#xA;&quot;Magic Atk. Bonus&quot;+39&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Evasion+13 Magic Evasion+69&#xA;Haste+2% &quot;Store TP&quot;+7" ja="防96 STR+44 VIT+3 AGI+14 INT+49&#xA;MND+26 CHR+20 命中+39 攻+39 魔命+39&#xA;魔攻+39 回避+13 魔回避+69 魔防+4 ヘイスト+2%&#xA;ストアTP+7" />
   <o id="25920" en="DEF:84 HP+18 MP+29 STR+17 DEX+26&#xA;VIT+11 AGI+38 MND+16 CHR+32&#xA;Resist all elements +15 Accuracy+35&#xA;Evasion+77 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% Enmity+7&#xA;Physical damage taken -4%" ja="防84 HP+18 MP+29 STR+17 DEX+26&#xA;VIT+11 AGI+38 MND+16 CHR+32&#xA;全耐性+15 命中+35 回避+77 魔回避+107 魔防+5&#xA;ヘイスト+4% 敵対心+7 被物理ダメージ-4%" />
   <o id="25921" en="DEF:71 HP+65 MP+67 STR+12 DEX+16&#xA;VIT+12 AGI+33 INT+16 MND+17 CHR+33&#xA;Magic Accuracy+37&#xA;Evasion+60 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Enfeebling magic skill +17&#xA;Haste+3% &quot;Cure&quot; potency +7%" ja="防71 HP+65 MP+67 STR+12 DEX+16&#xA;VIT+12 AGI+33 INT+16 MND+17 CHR+33&#xA;魔命+37 回避+60 魔回避+107 魔防+6&#xA;弱体魔法スキル+17 ヘイスト+3% ケアル回復量+7%" />
   <o id="25922" en="DEF:69 HP+9 MP+20 STR+8 DEX+8&#xA;VIT+8 AGI+29 INT+19 MND+17 CHR+32&#xA;&quot;Magic Atk. Bonus&quot;+35&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Magic Damage+10&#xA;Evasion+60 Magic Evasion+118&#xA;Elemental magic skill +15&#xA;Haste+3% &quot;Fast Cast&quot;+5%" ja="防69 HP+9 MP+20 STR+8 DEX+8 VIT+8&#xA;AGI+29 INT+19 MND+17 CHR+32 魔攻+35&#xA;魔法ダメージ+10 回避+60 魔回避+118 魔防+6&#xA;精霊魔法スキル+15 ヘイスト+3%&#xA;ファストキャスト+5%" />
@@ -17441,6 +17467,8 @@
   <o id="25930" en="DEF:80 HP+30 STR+25 DEX+28 VIT+20&#xA;AGI+31 MND+3 CHR+25&#xA;Accuracy+36 Attack+24&#xA;Evasion+108 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+3% &quot;Dual Wield&quot;+7" ja="防80 HP+30 STR+25 DEX+28 VIT+20&#xA;AGI+31 MND+3 CHR+25 命中+36 攻+24&#xA;回避+108 魔回避+75 魔防+5 ヘイスト+3%&#xA;二刀流+7 " />
   <o id="25931" en="DEF:60 HP+25 MP+30 STR+6 DEX+6 VIT+6&#xA;AGI+25 INT+24 MND+25 CHR+38&#xA;Magic Accuracy+24 Evasion+60&#xA;Magic Evasion+129&#xA;&quot;Magic Def. Bonus&quot;+8 Haste+2%&#xA;Magic damage taken -1%&#xA;Avatar: &quot;Blood Pact&quot; damage +5" ja="防60 HP+25 MP+30 STR+6 DEX+6 VIT+6&#xA;AGI+25 INT+24 MND+25 CHR+38 魔命+24&#xA;回避+60 魔回避+129 魔防+8 ヘイスト+2%&#xA;被魔法ダメージ-1% 召喚獣:契約の履行ダメージ+5" />
   <o id="25932" en="DEF:60 HP+25 MP+30 STR+6 DEX+6 VIT+11&#xA;AGI+30 INT+29 MND+30 CHR+43&#xA;Magic Accuracy+36 Evasion+60&#xA;Magic Evasion+141&#xA;&quot;Magic Def. Bonus&quot;+8 Haste+2%&#xA;Magic damage taken -2%&#xA;Avatar: &quot;Blood Pact&quot; damage +7" ja="防65 HP+25 MP+30 STR+6 DEX+6 VIT+11&#xA;AGI+30 INT+29 MND+30 CHR+43 魔命+36&#xA;回避+60 魔回避+141 魔防+8 ヘイスト+2%&#xA;被魔法ダメージ-2% 召喚獣:契約の履行ダメージ+7" />
+  <o id="25933" en="DEF:52 STR+17 DEX+20 VIT+3&#xA;AGI+26 INT+25 MND+21 CHR+34&#xA;Accuracy+24 Attack+24&#xA;Magic Accuracy+24&#xA;&quot;Magic Atk. Bonus&quot;+24&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Evasion+41 Magic Evasion+69&#xA;Magic Burst damage +3" ja="防52 STR+17 DEX+20 VIT+3 AGI+26&#xA;INT+25 MND+21 CHR+34 命中+24 攻+24&#xA;魔命+24 魔攻+24 回避+41 魔回避+69 魔防+4&#xA;マジックバーストダメージ+3 " />
+  <o id="25934" en="DEF:57 STR+22 DEX+25 VIT+3&#xA;AGI+26 INT+30 MND+21 CHR+34&#xA;Accuracy+36 Attack+36&#xA;Magic Accuracy+36&#xA;Evasion+41 Magic Evasion+69&#xA;&quot;Magic Atk. Bonus&quot;+36&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Magic Burst damage +5" ja="防57 STR+22 DEX+25 VIT+3 AGI+26&#xA;INT+30 MND+21 CHR+34 命中+36 攻+36&#xA;魔命+36 魔攻+36 回避+41 魔回避+69 魔防+4&#xA;マジックバーストダメージ+5 " />
   <o id="26000" en="&quot;Blood Boon&quot;+3&#xA;Avatar: Accuracy+5 Magic Accuracy+5&#xA;Enmity+5" ja="ブラッドブーン+3&#xA;召喚獣:命中+5 魔命+5 敵対心+5" />
   <o id="26001" en="Damage taken -5%&#xA;Unity Ranking: DEF:+10～15" ja="被ダメージ-5%&#xA;ユニティランク:防+10～15" />
   <o id="26002" en="Damage taken -6%&#xA;Unity Ranking: DEF:+10～15" ja="被ダメージ-6%&#xA;ユニティランク:防+10～15" />
@@ -17486,8 +17514,8 @@
   <o id="26176" en="Enchantment: Teleport (Crag of Holla)&#xA;Destination is close to the dimensional portal in La Theine Plateau." ja="エンチャント:テレポ（ホラの岩）&#xA;ラテーヌ高原にある&#xA;Dimensional Portal周辺にワープできる。" />
   <o id="26177" en="Enchantment: Teleport (Crag of Dem)&#xA;Destination is close to the dimensional portal in Konschtat Highlands." ja="エンチャント:テレポ（デムの岩）&#xA;コンシュタット高地にある&#xA;Dimensional Portal周辺にワープできる。" />
   <o id="26178" en="Enchantment: Teleport (Crag of Mea)&#xA;Destination is close to the dimensional portal Tahrongi Canyon." ja="エンチャント:テレポ（メアの岩）&#xA;タロンギ大峡谷にある&#xA;Dimensional Portal周辺にワープできる。" />
-  <o id="26179" en="Accuracy+7&#xA;Pet: Accuracy+7&#xA;Ranged Accuracy+7&#xA;&quot;Store TP&quot;+5 &quot;&#xA;Avatar: &quot;Blood Pact&quot; damage +3" ja="命中+7&#xA;ペット:命中+7 飛命+7 ストアTP+5&#xA;召喚獣:契約の履行ダメージ+3" />
-  <o id="26180" en="Accuracy+10&#xA;Pet: Accuracy+10&#xA;Ranged Accuracy+10&#xA;&quot;Store TP&quot;+6 &quot;&#xA;Avatar: &quot;Blood Pact&quot; damage +4" ja="命中+10&#xA;ペット:命中+10 飛命+10 ストアTP+6&#xA;召喚獣:契約の履行ダメージ+4" />
+  <o id="26179" en="Accuracy+7&#xA;Pet: Accuracy+7&#xA;Ranged Accuracy+7&#xA;&quot;Store TP&quot;+5&#xA;Avatar: &quot;Blood Pact&quot; damage +3" ja="命中+7&#xA;ペット:命中+7 飛命+7 ストアTP+5&#xA;召喚獣:契約の履行ダメージ+3" />
+  <o id="26180" en="Accuracy+10&#xA;Pet: Accuracy+10&#xA;Ranged Accuracy+10&#xA;&quot;Store TP&quot;+6&#xA;Avatar: &quot;Blood Pact&quot; damage +4" ja="命中+10&#xA;ペット:命中+10 飛命+10 ストアTP+6&#xA;召喚獣:契約の履行ダメージ+4" />
   <o id="26181" en="Accuracy+7 &quot;Store TP&quot;+5&#xA;&quot;Subtle Blow&quot;+7 &quot;Regen&quot;+1" ja="命中+7 ストアTP+5 モクシャ+7&#xA;リジェネ+1" />
   <o id="26182" en="Accuracy+10 &quot;Store TP&quot;+6&#xA;&quot;Subtle Blow&quot;+10 &quot;Regen&quot;+2" ja="命中+10 ストアTP+6 モクシャ+10&#xA;リジェネ+2" />
   <o id="26183" en="MND+5 Magic Accuracy+8&#xA;All magic skills +5" ja="MND+5 魔命+8 魔法スキル+5" />
@@ -17545,6 +17573,7 @@
   <o id="26403" en="DEF:75 HP+150 MP+150 Accuracy+35&#xA;Attack+35 Shield skill +129&#xA;Enmity+15 Damage taken -8%&#xA;Annuls damage taken +5%" ja="防75 HP+150 MP+150 命中+35 攻+35&#xA;盾スキル+129 敵対心+15 被ダメージ-8%&#xA;被ダメージ無効+5%" />
   <o id="26406" en="DEF:1 Synthesis skill +3" ja="防1 合成スキル+3" />
   <o id="26520" en="DEF:1" ja="防1" />
+  <o id="26523" en="Enchantment: &quot;Teleport&quot;&#xA;(Adoulin Castle Gates)" ja="防2 エンチャント:テレポ（アドゥリン城門前）" />
   <o id="26624" en="DEF:82 HP+18 STR+19 DEX+12 VIT+19&#xA;AGI+12 INT+12 MND+12 CHR+12&#xA;Attack+18 Evasion+16&#xA;Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Parrying skill +15 Haste+7%&#xA;&quot;Warcry&quot; effect duration +25" ja="防82 HP+18 STR+19 DEX+12 VIT+19&#xA;AGI+12 INT+12 MND+12 CHR+12 攻+18&#xA;回避+16 魔回避+36 魔防+1 受け流しスキル+15&#xA;ヘイスト+7% ウォークライ効果時間+25" />
   <o id="26625" en="DEF:115 HP+38 STR+25 DEX+18 VIT+25&#xA;AGI+18 INT+18 MND+18 CHR+18&#xA;Attack+21 Evasion+36&#xA;Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Parrying skill +17 Haste+8%&#xA;&quot;Warcry&quot; effect duration +30" ja="防115 HP+38 STR+25 DEX+18 VIT+25&#xA;AGI+18 INT+18 MND+18 CHR+18 攻+21&#xA;回避+36 魔回避+53 魔防+2 受け流しスキル+17&#xA;ヘイスト+8% ウォークライ効果時間+30" />
   <o id="26626" en="DEF:60 HP+63 STR+14 DEX+14 VIT+16&#xA;AGI+10 INT+9 MND+9 CHR+9&#xA;Evasion+17 Magic Evasion+29&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+7%&#xA;Enmity-5 &quot;Subtle Blow&quot;+9" ja="防60 HP+63 STR+14 DEX+14 VIT+16&#xA;AGI+10 INT+9 MND+9 CHR+9 回避+17&#xA;魔回避+29 魔防+2 ヘイスト+7% 敵対心-5 モクシャ+9" />

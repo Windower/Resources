@@ -2306,14 +2306,14 @@
   <o id="2387" en="large strip of Velkk hide" ja="ヴェルク族の大きな皮" category="Temporary Key Items" />
   <o id="2388" en="&quot;Climbing&quot;" ja="クライムスキル" category="Permanent Key Items" />
   <o id="2389" en="box of Adoulinian tomatoes" ja="アドゥリントマト" category="Temporary Key Items" />
-  <o id="2390" en="kaleidoscopic clam" ja="七色ハマグリ" category="Temporary Key Items" />
-  <o id="2391" en="glass pendulum" ja="ガラスの振り子" category="Temporary Key Items" />
+  <o id="2390" en="kaleidoscopic clam" ja="七色ハマグリ" category="Mog Garden" />
+  <o id="2391" en="glass pendulum" ja="ガラスの振り子" category="Mog Garden" />
   <o id="2393" en="ivory wing talisman" ja="白翼の護符" category="Permanent Key Items" />
   <o id="2394" en="bronze mattock cordon" ja="青銅つるはし勲章" category="Permanent Key Items" />
   <o id="2395" en="bronze shovel cordon" ja="青銅スコップ勲章" category="Permanent Key Items" />
   <o id="2396" en="Tarutaru Sauce invoice" ja="MUM.ワークス宛の請求書" category="Temporary Key Items" />
   <o id="2397" en="Tarutaru Sauce receipt" ja="MUM.ワークス宛の領収書" category="Temporary Key Items" />
-  <o id="2398" en="GPS crystal" ja="GPSクリスタル" category="Permanent Key Items" />
+  <o id="2398" en="GPS crystal" ja="GPSクリスタル" category="Mog Garden" />
   <o id="2399" en="pair of Velkk gloves" ja="ヴェルクグローブ" category="Permanent Key Items" />
   <o id="2400" en="lost article" ja="マリアミ紛失品" category="Temporary Key Items" />
   <o id="2401" en="lost article" ja="ヨルシア紛失品" category="Temporary Key Items" />
@@ -2327,43 +2327,43 @@
   <o id="2409" en="proof of order: runic footgear" ja="魔導剣士装束【両足】の受注書" category="Temporary Key Items" />
   <o id="2410" en="Rosulatia's pome" ja="ロスレーシャの実" category="Permanent Key Items" />
   <o id="2411" en="Celennia Memorial Library card" ja="セレニアメンバーズカード" category="Permanent Key Items" />
-  <o id="2412" en="&quot;Sow★Your★Seed!&quot;" ja="『たね★うえ！』" category="Permanent Key Items" />
-  <o id="2413" en="&quot;My First Furrow&quot;" ja="『はじめての農業』" category="Permanent Key Items" />
-  <o id="2414" en="&quot;Fields And Fertilizing&quot;" ja="『イケる！農業』" category="Permanent Key Items" />
-  <o id="2415" en="&quot;Designer Farming&quot;" ja="『デザインパターン農業』" category="Permanent Key Items" />
-  <o id="2416" en="&quot;Homesteader's Compendium&quot;" ja="『Farming C』" category="Permanent Key Items" />
-  <o id="2417" en="&quot;MHMU Treatise on Agronomy&quot;" ja="『MHMU公式解説書：畑』" category="Permanent Key Items" />
-  <o id="2419" en="&quot;Give My Regards to Reodoan&quot;" ja="『ヨサクによろしく』" category="Permanent Key Items" />
-  <o id="2420" en="&quot;Adoulin's Topiary Treasures&quot;" ja="『アドゥリンの庭園』" category="Permanent Key Items" />
-  <o id="2421" en="&quot;Grandiloquent Groves&quot;" ja="『木立は儲かるのか？』" category="Permanent Key Items" />
-  <o id="2422" en="&quot;Arboreal Abracadabra&quot;" ja="『木立の魔法』" category="Permanent Key Items" />
-  <o id="2423" en="&quot;Verdant and Verdon'ts&quot;" ja="『いま木立が危ない』" category="Permanent Key Items" />
-  <o id="2424" en="&quot;MHMU Treatise on Forestry&quot;" ja="『MHMU公式解説書：木立』" category="Permanent Key Items" />
-  <o id="2426" en="&quot;Mythril Marathon Quarterly&quot;" ja="『季刊みすりるまらそん』" category="Permanent Key Items" />
-  <o id="2427" en="&quot;Take A Lode Off&quot;" ja="『たのしい採掘』" category="Permanent Key Items" />
-  <o id="2428" en="&quot;Varicose Mineral Veins&quot;" ja="『鉱石・宝石のひみつ』" category="Permanent Key Items" />
-  <o id="2429" en="&quot;Tales from the Tunnel&quot;" ja="『鉱石の図誌』" category="Permanent Key Items" />
-  <o id="2430" en="&quot;The Gusgen Mines Tragedy&quot;" ja="『図説グスゲン鉱山』" category="Permanent Key Items" />
-  <o id="2431" en="&quot;MHMU Treatise on Minerals&quot;" ja="『MHMU公式解説書：鉱脈』" category="Permanent Key Items" />
-  <o id="2433" en="&quot;A Farewell to Freshwater&quot;" ja="『意地と根性の真実』" category="Permanent Key Items" />
-  <o id="2434" en="&quot;Water, Water Everywhere!&quot;" ja="『る・ふぇ・こ・の？』" category="Permanent Key Items" />
-  <o id="2435" en="&quot;Dredging's No Drudgery&quot;" ja="『イケる！網の修復』" category="Permanent Key Items" />
-  <o id="2436" en="&quot;All the Ways to Skin a Carp&quot;" ja="『この魚網がすごい！』" category="Permanent Key Items" />
-  <o id="2437" en="&quot;Anatomy of an Angler&quot;" ja="『太公望：漁師の流儀』" category="Permanent Key Items" />
-  <o id="2438" en="&quot;MHMU Treatise on Fish I&quot;" ja="『MHMU公式解説書：淡水』" category="Permanent Key Items" />
-  <o id="2440" en="&quot;The Old Men of the Sea&quot;" ja="『採りごろ採られごろ』" category="Permanent Key Items" />
-  <o id="2441" en="&quot;Susuroon's Biiig Catch&quot;" ja="『ススルンの大漁やよー！』" category="Permanent Key Items" />
-  <o id="2442" en="&quot;Black Fish of the Family&quot;" ja="『ボク悪いさかなじゃないよ』" category="Permanent Key Items" />
-  <o id="2443" en="&quot;20,000 Yalms Under the Sea&quot;" ja="『海底二万マルム』" category="Permanent Key Items" />
-  <o id="2444" en="&quot;Encyclopedia Icthyonnica&quot;" ja="『詳解魚網辞典』" category="Permanent Key Items" />
-  <o id="2445" en="&quot;MHMU Treatise on Fish II&quot;" ja="『MHMU公式解説書：海水』" category="Permanent Key Items" />
+  <o id="2412" en="&quot;Sow★Your★Seed!&quot;" ja="『たね★うえ！』" category="Mog Garden" />
+  <o id="2413" en="&quot;My First Furrow&quot;" ja="『はじめての農業』" category="Mog Garden" />
+  <o id="2414" en="&quot;Fields And Fertilizing&quot;" ja="『イケる！農業』" category="Mog Garden" />
+  <o id="2415" en="&quot;Designer Farming&quot;" ja="『デザインパターン農業』" category="Mog Garden" />
+  <o id="2416" en="&quot;Homesteader's Compendium&quot;" ja="『Farming C』" category="Mog Garden" />
+  <o id="2417" en="&quot;MHMU Treatise on Agronomy&quot;" ja="『MHMU公式解説書：畑』" category="Mog Garden" />
+  <o id="2419" en="&quot;Give My Regards to Reodoan&quot;" ja="『ヨサクによろしく』" category="Mog Garden" />
+  <o id="2420" en="&quot;Adoulin's Topiary Treasures&quot;" ja="『アドゥリンの庭園』" category="Mog Garden" />
+  <o id="2421" en="&quot;Grandiloquent Groves&quot;" ja="『木立は儲かるのか？』" category="Mog Garden" />
+  <o id="2422" en="&quot;Arboreal Abracadabra&quot;" ja="『木立の魔法』" category="Mog Garden" />
+  <o id="2423" en="&quot;Verdant and Verdon'ts&quot;" ja="『いま木立が危ない』" category="Mog Garden" />
+  <o id="2424" en="&quot;MHMU Treatise on Forestry&quot;" ja="『MHMU公式解説書：木立』" category="Mog Garden" />
+  <o id="2426" en="&quot;Mythril Marathon Quarterly&quot;" ja="『季刊みすりるまらそん』" category="Mog Garden" />
+  <o id="2427" en="&quot;Take A Lode Off&quot;" ja="『たのしい採掘』" category="Mog Garden" />
+  <o id="2428" en="&quot;Varicose Mineral Veins&quot;" ja="『鉱石・宝石のひみつ』" category="Mog Garden" />
+  <o id="2429" en="&quot;Tales from the Tunnel&quot;" ja="『鉱石の図誌』" category="Mog Garden" />
+  <o id="2430" en="&quot;The Gusgen Mines Tragedy&quot;" ja="『図説グスゲン鉱山』" category="Mog Garden" />
+  <o id="2431" en="&quot;MHMU Treatise on Minerals&quot;" ja="『MHMU公式解説書：鉱脈』" category="Mog Garden" />
+  <o id="2433" en="&quot;A Farewell to Freshwater&quot;" ja="『意地と根性の真実』" category="Mog Garden" />
+  <o id="2434" en="&quot;Water, Water Everywhere!&quot;" ja="『る・ふぇ・こ・の？』" category="Mog Garden" />
+  <o id="2435" en="&quot;Dredging's No Drudgery&quot;" ja="『イケる！網の修復』" category="Mog Garden" />
+  <o id="2436" en="&quot;All the Ways to Skin a Carp&quot;" ja="『この魚網がすごい！』" category="Mog Garden" />
+  <o id="2437" en="&quot;Anatomy of an Angler&quot;" ja="『太公望：漁師の流儀』" category="Mog Garden" />
+  <o id="2438" en="&quot;MHMU Treatise on Fish I&quot;" ja="『MHMU公式解説書：淡水』" category="Mog Garden" />
+  <o id="2440" en="&quot;The Old Men of the Sea&quot;" ja="『採りごろ採られごろ』" category="Mog Garden" />
+  <o id="2441" en="&quot;Susuroon's Biiig Catch&quot;" ja="『ススルンの大漁やよー！』" category="Mog Garden" />
+  <o id="2442" en="&quot;Black Fish of the Family&quot;" ja="『ボク悪いさかなじゃないよ』" category="Mog Garden" />
+  <o id="2443" en="&quot;20,000 Yalms Under the Sea&quot;" ja="『海底二万マルム』" category="Mog Garden" />
+  <o id="2444" en="&quot;Encyclopedia Icthyonnica&quot;" ja="『詳解魚網辞典』" category="Mog Garden" />
+  <o id="2445" en="&quot;MHMU Treatise on Fish II&quot;" ja="『MHMU公式解説書：海水』" category="Mog Garden" />
   <o id="2447" en="Mar. FS resource container" ja="マリアミFS採集資材" category="Temporary Key Items" />
   <o id="2448" en="Yor. FS resource container" ja="ヨルシアFS採集資材" category="Temporary Key Items" />
   <o id="2449" en="note detailing seditious plans" ja="開拓反対派の計画の写し" category="Temporary Key Items" />
   <o id="2450" en="waterway facility crank" ja="水道施設用クランク" category="Temporary Key Items" />
   <o id="2451" en="vial of translurry" ja="トランスラリー" category="Temporary Key Items" />
-  <o id="2452" en="gil repository" ja="貯ギル箱" category="Permanent Key Items" />
-  <o id="2453" en="crab caller" ja="カニマネキ" category="Permanent Key Items" />
+  <o id="2452" en="gil repository" ja="貯ギル箱" category="Mog Garden" />
+  <o id="2453" en="crab caller" ja="カニマネキ" category="Mog Garden" />
   <o id="2454" en="piece of a stone wall" ja="石壁の欠片" category="Temporary Key Items" />
   <o id="2455" en="vial of untainted holy water" ja="清められた水" category="Temporary Key Items" />
   <o id="2456" en="eternal flame" ja="永遠の炎" category="Temporary Key Items" />
@@ -2537,83 +2537,83 @@
   <o id="2630" en="Arciela's skirt" ja="アシェラのスカート" category="Permanent Key Items" />
   <o id="2631" en="concordoll" ja="魔法人形「つなぐさん」" category="Permanent Key Items" />
   <o id="2632" en="crystallized psyche" ja="タルタロスの魂魄" category="Temporary Key Items" />
-  <o id="2633" en="&quot;Sakura and the Magic Spoon&quot;" ja="『サクラちゃんと不思議な匙』" category="Permanent Key Items" />
+  <o id="2633" en="&quot;Sakura and the Magic Spoon&quot;" ja="『サクラちゃんと不思議な匙』" category="Mog Garden" />
   <o id="2640" en="blank ash runic board" ja="無垢の字刻板" category="Temporary Key Items" />
   <o id="2641" en="prototype sigil pearl" ja="模造魂魄の宝珠" category="Temporary Key Items" />
-  <o id="2642" en="lamb memento" ja="子羊の思い出" category="Permanent Key Items" />
-  <o id="2643" en="sheep memento" ja="大羊の思い出" category="Permanent Key Items" />
-  <o id="2644" en="karakul memento" ja="カラクールの思い出" category="Permanent Key Items" />
-  <o id="2645" en="ram memento" ja="雄羊の思い出" category="Permanent Key Items" />
-  <o id="2646" en="sapling memento" ja="サップリングの思い出" category="Permanent Key Items" />
-  <o id="2647" en="green foliage treant memento" ja="緑葉トレントの思い出" category="Permanent Key Items" />
-  <o id="2648" en="red foliage treant memento" ja="紅葉トレントの思い出" category="Permanent Key Items" />
-  <o id="2649" en="baby rabbit memento" ja="子ウサギの思い出" category="Permanent Key Items" />
-  <o id="2650" en="rabbit memento" ja="ウサギの思い出" category="Permanent Key Items" />
-  <o id="2651" en="white rabbit memento" ja="白ウサギの思い出" category="Permanent Key Items" />
-  <o id="2652" en="baby lizard memento" ja="子トカゲの思い出" category="Permanent Key Items" />
-  <o id="2653" en="lizard memento" ja="トカゲの思い出" category="Permanent Key Items" />
-  <o id="2654" en="alabaster lizard memento" ja="灰トカゲの思い出" category="Permanent Key Items" />
-  <o id="2655" en="baby cockatrice memento" ja="子コカトリスの思い出" category="Permanent Key Items" />
-  <o id="2656" en="cockatrice memento" ja="コカトリスの思い出" category="Permanent Key Items" />
-  <o id="2657" en="ziz memento" ja="ジズの思い出" category="Permanent Key Items" />
-  <o id="2658" en="baby raptor memento" ja="子ラプトルの思い出" category="Permanent Key Items" />
-  <o id="2659" en="raptor memento" ja="ラプトルの思い出" category="Permanent Key Items" />
-  <o id="2660" en="red raptor memento" ja="赤ラプトルの思い出" category="Permanent Key Items" />
-  <o id="2661" en="baby eft memento" ja="子エフトの思い出" category="Permanent Key Items" />
-  <o id="2662" en="eft memento" ja="エフトの思い出" category="Permanent Key Items" />
-  <o id="2663" en="tarichuk memento" ja="タリチャックの思い出" category="Permanent Key Items" />
-  <o id="2664" en="dhalmel calf memento" ja="子ダルメルの思い出" category="Permanent Key Items" />
-  <o id="2665" en="dhalmel memento" ja="ダルメルの思い出" category="Permanent Key Items" />
-  <o id="2666" en="great dhalmel memento" ja="大ダルメルの思い出" category="Permanent Key Items" />
-  <o id="2667" en="sea monk larva memento" ja="幼生シーモンクの思い出" category="Permanent Key Items" />
-  <o id="2668" en="sea monk memento" ja="シーモンクの思い出" category="Permanent Key Items" />
-  <o id="2669" en="blue sea monk memento" ja="青シーモンクの思い出" category="Permanent Key Items" />
-  <o id="2670" en="uragnite youngling memento" ja="幼生ウラグナイトの思い出" category="Permanent Key Items" />
-  <o id="2671" en="uragnite memento" ja="ウラグナイトの思い出" category="Permanent Key Items" />
-  <o id="2672" en="limascabra memento" ja="リマスカブラの思い出" category="Permanent Key Items" />
-  <o id="2673" en="immature crab memento" ja="幼生クラブの思い出" category="Permanent Key Items" />
-  <o id="2674" en="crab memento" ja="クラブの思い出" category="Permanent Key Items" />
-  <o id="2675" en="porter crab memento" ja="ポータークラブの思い出" category="Permanent Key Items" />
-  <o id="2676" en="colibri chick memento" ja="幼鳥コリブリの思い出" category="Permanent Key Items" />
-  <o id="2677" en="colibri memento" ja="コリブリの思い出" category="Permanent Key Items" />
-  <o id="2678" en="toucalibri memento" ja="トゥカリブリの思い出" category="Permanent Key Items" />
-  <o id="2679" en="coeurl cub memento" ja="子クァールの思い出" category="Permanent Key Items" />
-  <o id="2680" en="coeurl memento" ja="クァールの思い出" category="Permanent Key Items" />
-  <o id="2681" en="lynx memento" ja="リンクスの思い出" category="Permanent Key Items" />
-  <o id="2682" en="buffalo calf memento" ja="子バッファローの思い出" category="Permanent Key Items" />
-  <o id="2683" en="buffalo memento" ja="バッファローの思い出" category="Permanent Key Items" />
-  <o id="2684" en="mini slime memento" ja="ミニスライムの思い出" category="Permanent Key Items" />
-  <o id="2685" en="slime memento" ja="スライムの思い出" category="Permanent Key Items" />
-  <o id="2686" en="clot memento" ja="クロットの思い出" category="Permanent Key Items" />
-  <o id="2687" en="hecteyes memento" ja="ヘクトアイズの思い出" category="Permanent Key Items" />
-  <o id="2688" en="tiny bugard memento" ja="子ブガードの思い出" category="Permanent Key Items" />
-  <o id="2689" en="bugard memento" ja="ブガードの思い出" category="Permanent Key Items" />
-  <o id="2690" en="abyssobugard memento" ja="アビソブガードの思い出" category="Permanent Key Items" />
-  <o id="2691" en="baby adamantoise memento" ja="子アダマンタスの思い出" category="Permanent Key Items" />
-  <o id="2692" en="adamantoise memento" ja="アダマンタスの思い出" category="Permanent Key Items" />
-  <o id="2693" en="great adamantoise memento" ja="大アダマンタスの思い出" category="Permanent Key Items" />
-  <o id="2694" en="white adamantoise memento" ja="白アダマンタスの思い出" category="Permanent Key Items" />
-  <o id="2695" en="ferromantoise memento" ja="フェロマンタスの思い出" category="Permanent Key Items" />
-  <o id="2696" en="great ferromantoise memento" ja="大フェロマンタスの思い出" category="Permanent Key Items" />
-  <o id="2697" en="cluster memento" ja="クラスターの思い出" category="Permanent Key Items" />
-  <o id="2698" en="bomb memento" ja="ボムの思い出" category="Permanent Key Items" />
-  <o id="2699" en="djinn memento" ja="ジンの思い出" category="Permanent Key Items" />
-  <o id="2700" en="snoll memento" ja="スノールの思い出" category="Permanent Key Items" />
-  <o id="2701" en="behemoth cub memento" ja="ベビーモスの思い出" category="Permanent Key Items" />
-  <o id="2702" en="behemoth memento" ja="ベヒーモスの思い出" category="Permanent Key Items" />
-  <o id="2703" en="king behemoth memento" ja="キングベヒーモスの思い出" category="Permanent Key Items" />
-  <o id="2704" en="elasmoth memento" ja="エラスモスの思い出" category="Permanent Key Items" />
-  <o id="2705" en="skormoth memento" ja="スコーモスの思い出" category="Permanent Key Items" />
-  <o id="2706" en="dragon hatchling memento" ja="ドラゴンパピーの思い出" category="Permanent Key Items" />
-  <o id="2707" en="wyvern memento" ja="ワイバーンの思い出" category="Permanent Key Items" />
-  <o id="2708" en="blue wyvern memento" ja="青ワイバーンの思い出" category="Permanent Key Items" />
-  <o id="2709" en="green wyvern memento" ja="緑ワイバーンの思い出" category="Permanent Key Items" />
-  <o id="2710" en="abyssal wyrm memento" ja="深淵のウィルムの思い出" category="Permanent Key Items" />
-  <o id="2711" en="lunar wyrm memento" ja="星月のウィルムの思い出" category="Permanent Key Items" />
-  <o id="2712" en="blazing wyrm memento" ja="灼熱のウィルムの思い出" category="Permanent Key Items" />
-  <o id="2713" en="pequetender memento" ja="チビテンダーの思い出" category="Permanent Key Items" />
-  <o id="2714" en="sabotender memento" ja="サボテンダーの思い出" category="Permanent Key Items" />
-  <o id="2715" en="jumbotender memento" ja="ジャボテンダーの思い出" category="Permanent Key Items" />
+  <o id="2642" en="lamb memento" ja="子羊の思い出" category="Mog Garden" />
+  <o id="2643" en="sheep memento" ja="大羊の思い出" category="Mog Garden" />
+  <o id="2644" en="karakul memento" ja="カラクールの思い出" category="Mog Garden" />
+  <o id="2645" en="ram memento" ja="雄羊の思い出" category="Mog Garden" />
+  <o id="2646" en="sapling memento" ja="サップリングの思い出" category="Mog Garden" />
+  <o id="2647" en="green foliage treant memento" ja="緑葉トレントの思い出" category="Mog Garden" />
+  <o id="2648" en="red foliage treant memento" ja="紅葉トレントの思い出" category="Mog Garden" />
+  <o id="2649" en="baby rabbit memento" ja="子ウサギの思い出" category="Mog Garden" />
+  <o id="2650" en="rabbit memento" ja="ウサギの思い出" category="Mog Garden" />
+  <o id="2651" en="white rabbit memento" ja="白ウサギの思い出" category="Mog Garden" />
+  <o id="2652" en="baby lizard memento" ja="子トカゲの思い出" category="Mog Garden" />
+  <o id="2653" en="lizard memento" ja="トカゲの思い出" category="Mog Garden" />
+  <o id="2654" en="alabaster lizard memento" ja="灰トカゲの思い出" category="Mog Garden" />
+  <o id="2655" en="baby cockatrice memento" ja="子コカトリスの思い出" category="Mog Garden" />
+  <o id="2656" en="cockatrice memento" ja="コカトリスの思い出" category="Mog Garden" />
+  <o id="2657" en="ziz memento" ja="ジズの思い出" category="Mog Garden" />
+  <o id="2658" en="baby raptor memento" ja="子ラプトルの思い出" category="Mog Garden" />
+  <o id="2659" en="raptor memento" ja="ラプトルの思い出" category="Mog Garden" />
+  <o id="2660" en="red raptor memento" ja="赤ラプトルの思い出" category="Mog Garden" />
+  <o id="2661" en="baby eft memento" ja="子エフトの思い出" category="Mog Garden" />
+  <o id="2662" en="eft memento" ja="エフトの思い出" category="Mog Garden" />
+  <o id="2663" en="tarichuk memento" ja="タリチャックの思い出" category="Mog Garden" />
+  <o id="2664" en="dhalmel calf memento" ja="子ダルメルの思い出" category="Mog Garden" />
+  <o id="2665" en="dhalmel memento" ja="ダルメルの思い出" category="Mog Garden" />
+  <o id="2666" en="great dhalmel memento" ja="大ダルメルの思い出" category="Mog Garden" />
+  <o id="2667" en="sea monk larva memento" ja="幼生シーモンクの思い出" category="Mog Garden" />
+  <o id="2668" en="sea monk memento" ja="シーモンクの思い出" category="Mog Garden" />
+  <o id="2669" en="blue sea monk memento" ja="青シーモンクの思い出" category="Mog Garden" />
+  <o id="2670" en="uragnite youngling memento" ja="幼生ウラグナイトの思い出" category="Mog Garden" />
+  <o id="2671" en="uragnite memento" ja="ウラグナイトの思い出" category="Mog Garden" />
+  <o id="2672" en="limascabra memento" ja="リマスカブラの思い出" category="Mog Garden" />
+  <o id="2673" en="immature crab memento" ja="幼生クラブの思い出" category="Mog Garden" />
+  <o id="2674" en="crab memento" ja="クラブの思い出" category="Mog Garden" />
+  <o id="2675" en="porter crab memento" ja="ポータークラブの思い出" category="Mog Garden" />
+  <o id="2676" en="colibri chick memento" ja="幼鳥コリブリの思い出" category="Mog Garden" />
+  <o id="2677" en="colibri memento" ja="コリブリの思い出" category="Mog Garden" />
+  <o id="2678" en="toucalibri memento" ja="トゥカリブリの思い出" category="Mog Garden" />
+  <o id="2679" en="coeurl cub memento" ja="子クァールの思い出" category="Mog Garden" />
+  <o id="2680" en="coeurl memento" ja="クァールの思い出" category="Mog Garden" />
+  <o id="2681" en="lynx memento" ja="リンクスの思い出" category="Mog Garden" />
+  <o id="2682" en="buffalo calf memento" ja="子バッファローの思い出" category="Mog Garden" />
+  <o id="2683" en="buffalo memento" ja="バッファローの思い出" category="Mog Garden" />
+  <o id="2684" en="mini slime memento" ja="ミニスライムの思い出" category="Mog Garden" />
+  <o id="2685" en="slime memento" ja="スライムの思い出" category="Mog Garden" />
+  <o id="2686" en="clot memento" ja="クロットの思い出" category="Mog Garden" />
+  <o id="2687" en="hecteyes memento" ja="ヘクトアイズの思い出" category="Mog Garden" />
+  <o id="2688" en="tiny bugard memento" ja="子ブガードの思い出" category="Mog Garden" />
+  <o id="2689" en="bugard memento" ja="ブガードの思い出" category="Mog Garden" />
+  <o id="2690" en="abyssobugard memento" ja="アビソブガードの思い出" category="Mog Garden" />
+  <o id="2691" en="baby adamantoise memento" ja="子アダマンタスの思い出" category="Mog Garden" />
+  <o id="2692" en="adamantoise memento" ja="アダマンタスの思い出" category="Mog Garden" />
+  <o id="2693" en="great adamantoise memento" ja="大アダマンタスの思い出" category="Mog Garden" />
+  <o id="2694" en="white adamantoise memento" ja="白アダマンタスの思い出" category="Mog Garden" />
+  <o id="2695" en="ferromantoise memento" ja="フェロマンタスの思い出" category="Mog Garden" />
+  <o id="2696" en="great ferromantoise memento" ja="大フェロマンタスの思い出" category="Mog Garden" />
+  <o id="2697" en="cluster memento" ja="クラスターの思い出" category="Mog Garden" />
+  <o id="2698" en="bomb memento" ja="ボムの思い出" category="Mog Garden" />
+  <o id="2699" en="djinn memento" ja="ジンの思い出" category="Mog Garden" />
+  <o id="2700" en="snoll memento" ja="スノールの思い出" category="Mog Garden" />
+  <o id="2701" en="behemoth cub memento" ja="ベビーモスの思い出" category="Mog Garden" />
+  <o id="2702" en="behemoth memento" ja="ベヒーモスの思い出" category="Mog Garden" />
+  <o id="2703" en="king behemoth memento" ja="キングベヒーモスの思い出" category="Mog Garden" />
+  <o id="2704" en="elasmoth memento" ja="エラスモスの思い出" category="Mog Garden" />
+  <o id="2705" en="skormoth memento" ja="スコーモスの思い出" category="Mog Garden" />
+  <o id="2706" en="dragon hatchling memento" ja="ドラゴンパピーの思い出" category="Mog Garden" />
+  <o id="2707" en="wyvern memento" ja="ワイバーンの思い出" category="Mog Garden" />
+  <o id="2708" en="blue wyvern memento" ja="青ワイバーンの思い出" category="Mog Garden" />
+  <o id="2709" en="green wyvern memento" ja="緑ワイバーンの思い出" category="Mog Garden" />
+  <o id="2710" en="abyssal wyrm memento" ja="深淵のウィルムの思い出" category="Mog Garden" />
+  <o id="2711" en="lunar wyrm memento" ja="星月のウィルムの思い出" category="Mog Garden" />
+  <o id="2712" en="blazing wyrm memento" ja="灼熱のウィルムの思い出" category="Mog Garden" />
+  <o id="2713" en="pequetender memento" ja="チビテンダーの思い出" category="Mog Garden" />
+  <o id="2714" en="sabotender memento" ja="サボテンダーの思い出" category="Mog Garden" />
+  <o id="2715" en="jumbotender memento" ja="ジャボテンダーの思い出" category="Mog Garden" />
   <o id="2716" en="Cheer: Lamb" ja="チャチャルンの応援：子羊" category="Temporary Key Items" />
   <o id="2717" en="Cheer: Sheep" ja="チャチャルンの応援：大羊" category="Temporary Key Items" />
   <o id="2718" en="Cheer: Karakul" ja="チャチャルンの応援：カラクール" category="Temporary Key Items" />
@@ -2691,7 +2691,7 @@
   <o id="2790" en="sheet of conflict tunes" ja="オーケストリオン譜：ボスバトル" category="Permanent Key Items" />
   <o id="2791" en="sheet of Promathia tunes" ja="オーケストリオン譜：プロマシアの呪縛" category="Permanent Key Items" />
   <o id="2792" en="sheet of Adoulinian tunes" ja="オーケストリオン譜：アドゥリンの魔境" category="Permanent Key Items" />
-  <o id="2793" en="&quot;Sakura and the Fountain&quot;" ja="『サクラちゃんと幻影の泉』" category="Permanent Key Items" />
+  <o id="2793" en="&quot;Sakura and the Fountain&quot;" ja="『サクラちゃんと幻影の泉』" category="Mog Garden" />
   <o id="2794" en="treatise on azimuth clothcraft" ja="アジムス製法" category="Temporary Key Items" />
   <o id="2795" en="Holla crystal of gales" ja="突風の結晶【ホラ】" category="Temporary Key Items" />
   <o id="2796" en="Dem crystal of dunes" ja="砂塵の結晶【デム】" category="Temporary Key Items" />
@@ -2735,16 +2735,17 @@
   <o id="2834" en="leaf bench" ja="リーフベンチ" category="Permanent Key Items" />
   <o id="2835" en="astral cube" ja="アストラルキューブ" category="Permanent Key Items" />
   <o id="2837" en="Reisenjima Sanctorium orb" ja="醴泉神社の勾玉" category="Temporary Key Items" />
-  <o id="2838" en="&quot;Sakura and the Magicked Net&quot;" ja="『サクラちゃんと呪縛の手綱』" category="Permanent Key Items" />
+  <o id="2838" en="&quot;Sakura and the Magicked Net&quot;" ja="『サクラちゃんと呪縛の手綱』" category="Mog Garden" />
   <o id="2839" en="reaper" ja="リーパー" category="Geas Fete" />
   <o id="2840" en="forgotten memory" ja="失われた記録" category="Temporary Key Items" />
   <o id="2841" en="＿" ja="＿" category="Temporary Key Items" />
   <o id="2842" en="weathered Haverton hat" ja="烏騎士制式帽子" category="Temporary Key Items" />
   <o id="2843" en="lightsworm" ja="露光蟲" category="Temporary Key Items" />
-  <o id="2844" en="&quot;Sakura's Excellent Adventure&quot;" ja="『サクラちゃんとクポフリートの秘宝』" category="Permanent Key Items" />
-  <o id="2845" en="&quot;Sakura and the Cactus Corps&quot;" ja="『サクラちゃんとサボテン兵団』" category="Permanent Key Items" />
-  <o id="2846" en="&quot;Sakura and the Holy Grail&quot;" ja="『サクラちゃんと魔境の聖杯』" category="Permanent Key Items" />
+  <o id="2844" en="&quot;Sakura's Excellent Adventure&quot;" ja="『サクラちゃんとクポフリートの秘宝』" category="Mog Garden" />
+  <o id="2845" en="&quot;Sakura and the Cactus Corps&quot;" ja="『サクラちゃんとサボテン兵団』" category="Mog Garden" />
+  <o id="2846" en="&quot;Sakura and the Holy Grail&quot;" ja="『サクラちゃんと魔境の聖杯』" category="Mog Garden" />
   <o id="2847" en="Siren's plume" ja="セイレーンの風切り羽根" category="Temporary Key Items" />
+  <o id="2850" en="Moglification: Resist Paralysis" ja="モーグリの応援：レジストパライズ" category="Temporary Key Items" />
   <o id="2852" en="Moglification: Resist Silence" ja="モーグリの応援：レジストサイレス" category="Temporary Key Items" />
   <o id="2853" en="Moglification: Resist Petrification" ja="モーグリの応援：レジストペトリ" category="Temporary Key Items" />
   <o id="2854" en="Moglification: Resist Virus" ja="モーグリの応援：レジストウィルス" category="Temporary Key Items" />
@@ -2859,7 +2860,7 @@
   <o id="2987" en="Feared One phantom gem" ja="ファントムクォーツ【畏我】" category="Temporary Key Items" />
   <o id="2988" en="Dawn phantom gem" ja="ファントムクォーツ【男神】" category="Temporary Key Items" />
   <o id="2989" en="dimensional compass" ja="時空の羅針盤" category="Permanent Key Items" />
-  <o id="2990" en="Chacharoon's sack of supplies" ja="チャチャルン宛ての荷物" category="Temporary Key Items" />
+  <o id="2990" en="Chacharoon's sack of supplies" ja="チャチャルン宛ての荷物" category="Mog Garden" />
   <o id="2991" en="Crom Dubh's helm" ja="クロムドゥーブの兜" category="Geas Fete" />
   <o id="2992" en="Golden Kist's key" ja="ゴールデンキストのカギ" category="Geas Fete" />
   <o id="2993" en="Mauve-wristed Gomberry's knife" ja="モーブリストゴンベリーのナイフ" category="Geas Fete" />
@@ -2937,7 +2938,8 @@
   <o id="3066" en="Mog Kupon W-E119" ja="クーポンW-E119" category="Temporary Key Items" />
   <o id="3067" en="Mog Kupon W-A119" ja="クーポンW-A119" category="Temporary Key Items" />
   <o id="3068" en="Mog Kupon AW-GeIV" ja="クーポンAW-GeIV" category="Temporary Key Items" />
-  <o id="3069" en="shimmering invitation" ja="またたく招待状" category="Permanent Key Items" />
+  <o id="3069" en="shimmering invitation" ja="またたく招待状" category="Mog Garden" />
+  <o id="3070" en="Grunt Heard 'Round the World" ja="あのとき聴こえた『グャ』" category="Permanent Key Items" />
   <o id="3072" en="♪Chocobo companion" ja="♪マイチョコボ" category="Mounts" />
   <o id="3073" en="♪Raptor companion" ja="♪ラプトル" category="Mounts" />
   <o id="3074" en="♪Tiger companion" ja="♪剣虎" category="Mounts" />
