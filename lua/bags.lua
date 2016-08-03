@@ -12,6 +12,8 @@ return {
     [8] = {id=8,en="Wardrobe",access="Everywhere",command="wardrobe"},
     [9] = {id=9,en="Safe 2",access="Mog House",command="bank2"},
     [10] = {id=10,en="Wardrobe 2",access="Everywhere",command="wardrobe2"},
+    [11] = {id=11,en="Wardrobe 3",access="Everywhere",command="wardrobe3"},
+    [12] = {id=12,en="Wardrobe 4",access="Everywhere",command="wardrobe4"},
 }, {"id", "en", "access", "command"}
 
 --[[
