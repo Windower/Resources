@@ -88,6 +88,9 @@
   <o id="1306" en="Detects low HP" ja="生命感知" />
   <o id="1307" en="Please follow." ja="ついてきてください。" />
   <o id="1308" en="Please use a weak weapon to attack." ja="弱い武器で攻撃してください。" />
+  <o id="1309" en="piercing" ja="突く" />
+  <o id="1310" en="slashing" ja="斬る" />
+  <o id="1311" en="blunt" ja="打つ" />
   <o id="1536" en="Controller" ja="コントローラ" />
   <o id="1546" en="Analog Stick" ja="アナログスティック" />
   <o id="1553" en="Trigger" ja="トリガー" />

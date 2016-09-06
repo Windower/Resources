@@ -9,6 +9,8 @@ return {
     [5] = {id=5,en="Bomb",ja="ボム",endesc="Calls forth a bomb.",icon_id=87,jadesc="ボムを呼び出す。",prefix="/mount"},
     [6] = {id=6,en="Ram",ja="大羊",endesc="Calls forth a ram.",icon_id=87,jadesc="大羊を呼び出す。",prefix="/mount"},
     [7] = {id=7,en="Morbol",ja="モルボル",endesc="Calls forth a morbol.",icon_id=87,jadesc="モルボルを呼び出す。",prefix="/mount"},
+    [8] = {id=8,en="Crawler",ja="クロウラー",endesc="Calls forth a crawler.",icon_id=87,jadesc="クロウラーを呼び出す。",prefix="/mount"},
+    [9] = {id=9,en="Fenrir",ja="フェンリル",endesc="Calls forth Fenrir.",icon_id=87,jadesc="フェンリルを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[

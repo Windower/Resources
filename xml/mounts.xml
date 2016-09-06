@@ -8,4 +8,6 @@
   <o id="5" en="Bomb" icon_id="87" ja="ボム" endesc="Calls forth a bomb." jadesc="ボムを呼び出す。" prefix="/mount" />
   <o id="6" en="Ram" icon_id="87" ja="大羊" endesc="Calls forth a ram." jadesc="大羊を呼び出す。" prefix="/mount" />
   <o id="7" en="Morbol" icon_id="87" ja="モルボル" endesc="Calls forth a morbol." jadesc="モルボルを呼び出す。" prefix="/mount" />
+  <o id="8" en="Crawler" icon_id="87" ja="クロウラー" endesc="Calls forth a crawler." jadesc="クロウラーを呼び出す。" prefix="/mount" />
+  <o id="9" en="Fenrir" icon_id="87" ja="フェンリル" endesc="Calls forth Fenrir." jadesc="フェンリルを呼び出す。" prefix="/mount" />
 </mounts>

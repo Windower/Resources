@@ -3192,6 +3192,7 @@
   <o id="3809" en="Gospel of the Lost" ja="万霊の福音" />
   <o id="3810" en="Void of Repentance" ja="懺悔の間" />
   <o id="3811" en="Perfect Defense" ja="絶対防御" />
+  <o id="3816" en="Chemical Bomb II" ja="ケミカルボムII" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3302,33 +3303,45 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Lightning Roar" ja="雷の咆哮" />
-  <o id="3969" en="Ice Roar" ja="氷の咆哮" />
-  <o id="3970" en="Impact Roar" ja="衝撃の咆哮" />
-  <o id="3971" en="Grand Slam" ja="グランドスラム" />
-  <o id="3972" en="Power Attack" ja="パワーアタック" />
-  <o id="3973" en="Eagle Eye Shot" ja="イーグルアイ" />
-  <o id="3974" en="Glacial Bellow" ja="グレイシャルベロー" />
-  <o id="3975" en="Daunting Hurl" ja="ドンティングハール" />
-  <o id="3976" en="Moribund Hack" ja="モリバンドハック" />
-  <o id="3977" en="Mercurial Strike" ja="マキュリアルストライク" />
-  <o id="3978" en="Muzzling Wallop" ja="マズリングワラップ" />
-  <o id="3981" en="Catapult" ja="カタパルト" />
-  <o id="4032" en="Dismemberment" ja="ディスメンバーメント" />
-  <o id="4033" en="Pummeling Overhand" ja="パマリングオーバーハンド" />
-  <o id="4034" en="Earthshatter" ja="アースシャッター" />
-  <o id="4035" en="Sinker Drill" ja="シンカードリル" />
-  <o id="4036" en="Detonating Grip" ja="デトネーティンググリップ" />
-  <o id="4037" en="Dismemberment" ja="ディスメンバーメント" />
-  <o id="4038" en="Careful Hook" ja="ケアフルフック" />
-  <o id="4039" en="Earthshatter" ja="アースシャッター" />
-  <o id="4040" en="Sinker Drill" ja="シンカードリル" />
-  <o id="4041" en="Detonating Grip" ja="デトネーティンググリップ" />
-  <o id="4042" en="Dismemberment" ja="ディスメンバーメント" />
-  <o id="4043" en="Furious Haymaker" ja="フューリアスヘイメーカー" />
-  <o id="4044" en="Earthshatter" ja="アースシャッター" />
-  <o id="4045" en="Sinker Drill" ja="シンカードリル" />
-  <o id="4046" en="Detonating Grip" ja="デトネーティンググリップ" />
-  <o id="4047" en="Berserk" ja="バーサク" />
-  <o id="4048" en="Warcry" ja="ウォークライ" />
+  <o id="3968" en="Miasma" ja="マイアズマ" />
+  <o id="3969" en="Rushing Slash" ja="ラッシングスラッシュ" />
+  <o id="3970" en="Tyrannic Blare" ja="タイラニックブレー" />
+  <o id="3971" en="Decussate" ja="デカセート" />
+  <o id="3972" en="Hemotoxin Wheel" ja="ヒモトクシンホイール" />
+  <o id="3973" en="Forceful Blow" ja="フォースフルブロー" />
+  <o id="3974" en="Somersault Kick" ja="サマーソルトキック" />
+  <o id="3975" en="Firespit" ja="ファイアースピット" />
+  <o id="3976" en="Groundburst" ja="グランドバースト" />
+  <o id="3977" en="Rushing Stab" ja="ラッシングスタッブ" />
+  <o id="3978" en="Leste Assault" ja="レステアサルト" />
+  <o id="3979" en="Rushing Drub" ja="ラッシングドラブ" />
+  <o id="3980" en="Forceful Blow" ja="フォースフルブロー" />
+  <o id="3981" en="Somersault Kick" ja="サマーソルトキック" />
+  <o id="3982" en="Firespit" ja="ファイアースピット" />
+  <o id="3983" en="Warm-Up" ja="ワームアップ" />
+  <o id="3984" en="Groundburst" ja="グランドバースト" />
+  <o id="3985" en="Leste Assault" ja="レステアサルト" />
+  <o id="3986" en="Ranged Attack" ja="遠隔攻撃" />
+  <o id="3987" en="Fire Angon" ja="ファイアアンゴン" />
+  <o id="3988" en="Batterhorn" ja="バッターホーン" />
+  <o id="3989" en="Clobber" ja="クロッバー" />
+  <o id="3990" en="Granite Skin" ja="グラニットスキン" />
+  <o id="3991" en="Blazing Angon" ja="ブレージングアンゴン" />
+  <o id="3992" en="Cyclonic Flames" ja="サイクロニックフレイム" />
+  <o id="3993" en="Sucker Punch" ja="サッカーパンチ" />
+  <o id="3994" en="Hydroball" ja="ハイドロボール" />
+  <o id="3995" en="Bubble Armor" ja="バブルアーマー" />
+  <o id="3996" en="Hydro Shot" ja="ハイドロショット" />
+  <o id="3997" en="Spinning Fin" ja="スピニングフィン" />
+  <o id="3998" en="Fetid Flood" ja="フェティッドフラッド" />
+  <o id="3999" en="Mijin Gakure Kai" ja="微塵がくれ・改" />
+  <o id="4000" en="Mijin Gakure" ja="微塵がくれ" />
+  <o id="4032" en="Pandemic Slash" ja="パンデミックスラッシュ" />
+  <o id="4033" en="Call of the Moon" ja="コールオブザムーン" />
+  <o id="4034" en="Call of the Moon" ja="コールオブザムーン" />
+  <o id="4035" en="Plenilune Embrace" ja="プリナルーンエンブレイス" />
+  <o id="4036" en="Plenilune Embrace" ja="プリナルーンエンブレイス" />
+  <o id="4037" en="Nox Blast" ja="ノックスブラスト" />
+  <o id="4038" en="Asuran Claws" ja="アシュラクロー" />
+  <o id="4039" en="Debilitating Advance" ja="デビリテートアドバンス" />
 </monster_abilities>
