@@ -3192,6 +3192,10 @@
   <o id="3809" en="Gospel of the Lost" ja="万霊の福音" />
   <o id="3810" en="Void of Repentance" ja="懺悔の間" />
   <o id="3811" en="Perfect Defense" ja="絶対防御" />
+  <o id="3812" en="Single Target" ja="単体攻撃技" />
+  <o id="3813" en="Healing" ja="回復技" />
+  <o id="3814" en="Ultra" ja="超強化技" />
+  <o id="3815" en="Area" ja="範囲攻撃技" />
   <o id="3816" en="Chemical Bomb II" ja="ケミカルボムII" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
@@ -3303,45 +3307,22 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Miasma" ja="マイアズマ" />
-  <o id="3969" en="Rushing Slash" ja="ラッシングスラッシュ" />
-  <o id="3970" en="Tyrannic Blare" ja="タイラニックブレー" />
-  <o id="3971" en="Decussate" ja="デカセート" />
-  <o id="3972" en="Hemotoxin Wheel" ja="ヒモトクシンホイール" />
-  <o id="3973" en="Forceful Blow" ja="フォースフルブロー" />
-  <o id="3974" en="Somersault Kick" ja="サマーソルトキック" />
-  <o id="3975" en="Firespit" ja="ファイアースピット" />
-  <o id="3976" en="Groundburst" ja="グランドバースト" />
-  <o id="3977" en="Rushing Stab" ja="ラッシングスタッブ" />
-  <o id="3978" en="Leste Assault" ja="レステアサルト" />
-  <o id="3979" en="Rushing Drub" ja="ラッシングドラブ" />
-  <o id="3980" en="Forceful Blow" ja="フォースフルブロー" />
-  <o id="3981" en="Somersault Kick" ja="サマーソルトキック" />
-  <o id="3982" en="Firespit" ja="ファイアースピット" />
-  <o id="3983" en="Warm-Up" ja="ワームアップ" />
-  <o id="3984" en="Groundburst" ja="グランドバースト" />
-  <o id="3985" en="Leste Assault" ja="レステアサルト" />
-  <o id="3986" en="Ranged Attack" ja="遠隔攻撃" />
-  <o id="3987" en="Fire Angon" ja="ファイアアンゴン" />
-  <o id="3988" en="Batterhorn" ja="バッターホーン" />
-  <o id="3989" en="Clobber" ja="クロッバー" />
-  <o id="3990" en="Granite Skin" ja="グラニットスキン" />
-  <o id="3991" en="Blazing Angon" ja="ブレージングアンゴン" />
-  <o id="3992" en="Cyclonic Flames" ja="サイクロニックフレイム" />
-  <o id="3993" en="Sucker Punch" ja="サッカーパンチ" />
-  <o id="3994" en="Hydroball" ja="ハイドロボール" />
-  <o id="3995" en="Bubble Armor" ja="バブルアーマー" />
-  <o id="3996" en="Hydro Shot" ja="ハイドロショット" />
-  <o id="3997" en="Spinning Fin" ja="スピニングフィン" />
-  <o id="3998" en="Fetid Flood" ja="フェティッドフラッド" />
-  <o id="3999" en="Mijin Gakure Kai" ja="微塵がくれ・改" />
-  <o id="4000" en="Mijin Gakure" ja="微塵がくれ" />
-  <o id="4032" en="Pandemic Slash" ja="パンデミックスラッシュ" />
-  <o id="4033" en="Call of the Moon" ja="コールオブザムーン" />
-  <o id="4034" en="Call of the Moon" ja="コールオブザムーン" />
-  <o id="4035" en="Plenilune Embrace" ja="プリナルーンエンブレイス" />
-  <o id="4036" en="Plenilune Embrace" ja="プリナルーンエンブレイス" />
-  <o id="4037" en="Nox Blast" ja="ノックスブラスト" />
-  <o id="4038" en="Asuran Claws" ja="アシュラクロー" />
-  <o id="4039" en="Debilitating Advance" ja="デビリテートアドバンス" />
+  <o id="3968" en="Frog Song" ja="カエルの奉唱" />
+  <o id="3969" en="Magic Hammer" ja="マジックハンマー" />
+  <o id="3970" en="Quenching Hammer" ja="クエンチングハンマー" />
+  <o id="3971" en="Water Bomb" ja="超水風船爆弾" />
+  <o id="3972" en="Frog Cheer" ja="カエルの鼓舞" />
+  <o id="3973" en="Providence" ja="天乞い" />
+  <o id="4032" en="Gnash" ja="ナッシュ" />
+  <o id="4033" en="Vile Belch" ja="おくび" />
+  <o id="4034" en="Hypnic Lamp" ja="ヒプニックランプ" />
+  <o id="4035" en="Seismic Tail" ja="セイズミックテール" />
+  <o id="4036" en="Seaspray" ja="潮泡" />
+  <o id="4037" en="Leeching Current" ja="渦潮" />
+  <o id="4038" en="Death Gnash" ja="デスナッシュ" />
+  <o id="4039" en="Abominable Belch" ja="長大息" />
+  <o id="4041" en="Bewitching Lantern" ja="ビウィッチングランターン" />
+  <o id="4042" en="Resuscitate" ja="リサシテート" />
+  <o id="4043" en="Bewitching Lantern" ja="ビウィッチングランターン" />
+  <o id="4044" en="Bewitching Lantern" ja="ビウィッチングランターン" />
 </monster_abilities>
