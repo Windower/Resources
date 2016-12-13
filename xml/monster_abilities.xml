@@ -3197,6 +3197,7 @@
   <o id="3814" en="Ultra" ja="超強化技" />
   <o id="3815" en="Area" ja="範囲攻撃技" />
   <o id="3816" en="Chemical Bomb II" ja="ケミカルボムII" />
+  <o id="3817" en="Death Sentence" ja="死の宣告" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3307,43 +3308,42 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Sledgehammer" ja="スレッジハンマー" />
-  <o id="3969" en="Head Snatch" ja="ヘッドスナッチ" />
-  <o id="3970" en="Haymaker" ja="ヘイメーカー" />
-  <o id="3971" en="Diamond Fists" ja="金剛破鎖拳" />
-  <o id="3972" en="Supersonic" ja="超力足" />
-  <o id="3973" en="Pleiades Ray" ja="プレアデスレイ" />
-  <o id="3974" en="Potent Lunge" ja="ポテントランジ" />
-  <o id="3975" en="Overthrow" ja="オーバースロー" />
-  <o id="3976" en="Diamondhide" ja="金剛身" />
-  <o id="3977" en="Enervation" ja="吶喊" />
-  <o id="3978" en="Quake Stomp" ja="クェークストンプ" />
-  <o id="3979" en="Potent Lunge" ja="ポテントランジ" />
-  <o id="3980" en="Overthrow" ja="オーバースロー" />
-  <o id="3981" en="Diamondhide" ja="金剛身" />
-  <o id="3982" en="Enervation" ja="吶喊" />
-  <o id="3983" en="Quake Stomp" ja="クェークストンプ" />
-  <o id="3984" en="Quicklime" ja="クイックライム" />
-  <o id="3985" en="Zarraqa" ja="ザッラーカ" />
-  <o id="3986" en="Petro Eyes" ja="ペトロアイズ" />
-  <o id="3987" en="Flame Breath" ja="フレイムブレス" />
-  <o id="3988" en="Body Slam" ja="ボディプレス" />
-  <o id="3989" en="Thornsong" ja="棘の歌" />
-  <o id="3990" en="Nullsong" ja="負の歌" />
-  <o id="3991" en="Eagle Eye" ja="イーグルアイ" />
-  <o id="3992" en="Head Seize" ja="ヘッドシーズ" />
-  <o id="4035" en="Night Stalker" ja="ナイトストーカー" />
-  <o id="4036" en="Atropine Spore" ja="アトロピンスポア" />
-  <o id="4037" en="Infernal Liberation" ja="インファーナルリベレーション" />
-  <o id="4038" en="Full Bloom" ja="フルブルーム" />
-  <o id="4039" en="Deracinator" ja="デラシネーター" />
-  <o id="4040" en="Umbral Pull" ja="アンブラルプル" />
-  <o id="4041" en="Leeching Vines" ja="リーチングヴァイン" />
-  <o id="4080" en="Ovis Cry" ja="オビスクライ" />
-  <o id="4081" en="Ovis Charge" ja="オビスチャージ" />
-  <o id="4088" en="Flowerpot" ja="フラワーポット" />
-  <o id="4089" en="Bill Toss" ja="ビルトス" />
-  <o id="4090" en="Washtub" ja="ウォッシュタブ" />
-  <o id="4091" en="Crystalline Flare" ja="クリスタリンフレア" />
-  <o id="4092" en="Flowerpot" ja="フラワーポット" />
+  <o id="3968" en="Mind Blast" ja="マインドブラスト" />
+  <o id="3969" en="Immortal Mind" ja="イモータルマインド" />
+  <o id="3970" en="Immortal Shield" ja="イモータルシールド" />
+  <o id="3971" en="Mind Purge" ja="マインドパージ" />
+  <o id="3972" en="Tribulation" ja="トリビュレーション" />
+  <o id="3973" en="Immortal Anathema" ja="イモータルアナテーマ" />
+  <o id="3974" en="Reprobation" ja="レプロベーション" />
+  <o id="3975" en="Tribulation" ja="トリビュレーション" />
+  <o id="3976" en="Abrasive Tantara" ja="アブレーシブタンタラ" />
+  <o id="3977" en="Deafening Tantara" ja="デフェニングタンタラ" />
+  <o id="3978" en="Bugle Call" ja="ビューグルコール" />
+  <o id="3979" en="Bugle Call" ja="ビューグルコール" />
+  <o id="3980" en="Grating Tantara" ja="グレーティングタンタラ" />
+  <o id="3981" en="Stifling Tantara" ja="スタイフリングタンタラ" />
+  <o id="3982" en="Dark Recital" ja="ダークリサイタル" />
+  <o id="4032" en="Memento Mori" ja="メメントモーリ" />
+  <o id="4033" en="Silence Seal" ja="サイレンスシール" />
+  <o id="4034" en="Envoutement" ja="エンバウトメント" />
+  <o id="4035" en="Torpid Presence" ja="トーピッドプレゼンス" />
+  <o id="4036" en="Horrifying Presence" ja="ホーリファイングプレゼンス" />
+  <o id="4037" en="Final Retribution" ja="Ｆ．レトリビューション" />
+  <o id="4040" en="Grave Reel" ja="グレーブリール" />
+  <o id="4041" en="Ectosmash" ja="エクトスマッシュ" />
+  <o id="4042" en="Sleep Touch" ja="スリープタッチ" />
+  <o id="4043" en="Terror Touch" ja="テラータッチ" />
+  <o id="4044" en="Cursed Sphere" ja="呪う" />
+  <o id="4045" en="Dark Sphere" ja="ダークスフィア" />
+  <o id="4046" en="Bane" ja="祟る" />
+  <o id="4096" en="Pain Sync" ja="痛覚同化" />
+  <o id="4097" en="View Sync" ja="風景同化" />
+  <o id="4098" en="Blessing Sync" ja="福音同化" />
+  <o id="4099" en="Target" ja="ターゲッティング" />
+  <o id="4100" en="Eleventh Dimension" ja="11ディメンジョン" />
+  <o id="4101" en="Suppressive Sphere" ja="サプレシブスフィア" />
+  <o id="4102" en="Zero Hour" ja="ゼロアワー" />
+  <o id="4103" en="Dancing Fullers" ja="ダンシングフラー" />
+  <o id="4104" en="Unfaltering Bravado" ja="アンファルタリングブラバード" />
+  <o id="4105" en="Ebullient Nullification" ja="エビュリエントナリフィケーション" />
 </monster_abilities>

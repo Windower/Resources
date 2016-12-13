@@ -2953,7 +2953,9 @@ return {
     [3081] = {id=3081,en="♪Fenrir whistle",ja="♪フェンリル",category="Mounts"},
     [3082] = {id=3082,en="♪Beetle companion",ja="♪甲虫",category="Mounts"},
     [3083] = {id=3083,en="♪Moogle companion",ja="♪モーグリ",category="Mounts"},
+    [3084] = {id=3084,en="♪Magic pot companion",ja="♪マジックポット",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
+    [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
