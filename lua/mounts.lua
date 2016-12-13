@@ -11,8 +11,9 @@ return {
     [7] = {id=7,en="Morbol",ja="モルボル",endesc="Calls forth a morbol.",icon_id=87,jadesc="モルボルを呼び出す。",prefix="/mount"},
     [8] = {id=8,en="Crawler",ja="クロウラー",endesc="Calls forth a crawler.",icon_id=87,jadesc="クロウラーを呼び出す。",prefix="/mount"},
     [9] = {id=9,en="Fenrir",ja="フェンリル",endesc="Calls forth Fenrir.",icon_id=87,jadesc="フェンリルを呼び出す。",prefix="/mount"},
-    [10] = {id=10,en="Beetle",ja="甲虫",endesc="Calls forth a bettle.",icon_id=87,jadesc="甲虫を呼び出す。",prefix="/mount"},
+    [10] = {id=10,en="Beetle",ja="甲虫",endesc="Calls forth a beetle.",icon_id=87,jadesc="甲虫を呼び出す。",prefix="/mount"},
     [11] = {id=11,en="Moogle",ja="モーグリ",endesc="Calls forth a moogle.",icon_id=87,jadesc="モーグリを呼び出す。",prefix="/mount"},
+    [12] = {id=12,en="Magic Pot",ja="マジックポット",endesc="Calls forth a magic pot.",icon_id=87,jadesc="マジックポットを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
