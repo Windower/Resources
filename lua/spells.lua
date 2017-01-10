@@ -318,7 +318,7 @@ return {
     [315] = {id=315,en="Enstone II",ja="エンストーンII",cast_time=3,duration=180,element=3,icon_id=183,icon_id_nq=3,levels={[5]=52},mp_cost=24,prefix="/magic",range=0,recast=30,recast_id=315,requirements=0,skill=34,targets=1,type="WhiteMagic"},
     [316] = {id=316,en="Enthunder II",ja="エンサンダーII",cast_time=3,duration=180,element=4,icon_id=184,icon_id_nq=4,levels={[5]=50},mp_cost=24,prefix="/magic",range=0,recast=30,recast_id=316,requirements=0,skill=34,targets=1,type="WhiteMagic"},
     [317] = {id=317,en="Enwater II",ja="エンウォータII",cast_time=3,duration=180,element=5,icon_id=185,icon_id_nq=5,levels={[5]=60},mp_cost=24,prefix="/magic",range=0,recast=30,recast_id=317,requirements=0,skill=34,targets=1,type="WhiteMagic"},
-    [318] = {id=318,en="Monomi: Ichi",ja="物見の術:壱",cast_time=1.5,duration=180,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=25},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=318,requirements=0,skill=39,targets=1,type="Ninjutsu"},
+    [318] = {id=318,en="Monomi: Ichi",ja="物見の術:壱",cast_time=1.5,duration=420,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=25},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=318,requirements=0,skill=39,targets=1,type="Ninjutsu"},
     [319] = {id=319,en="Aisha: Ichi",ja="哀車の術:壱",cast_time=4,element=5,icon_id=-1,icon_id_nq=29,levels={[13]=78},mp_cost=0,prefix="/ninjutsu",range=11,recast=30,recast_id=319,requirements=0,skill=39,targets=32,type="Ninjutsu"},
     [320] = {id=320,en="Katon: Ichi",ja="火遁の術:壱",cast_time=4,element=0,icon_id=-1,icon_id_nq=24,levels={[13]=15},mp_cost=0,prefix="/ninjutsu",range=11,recast=30,recast_id=320,requirements=0,skill=39,targets=32,type="Ninjutsu"},
     [321] = {id=321,en="Katon: Ni",ja="火遁の術:弐",cast_time=1.5,element=0,icon_id=-1,icon_id_nq=24,levels={[13]=40},mp_cost=0,prefix="/ninjutsu",range=11,recast=45,recast_id=321,requirements=0,skill=39,targets=32,type="Ninjutsu"},
@@ -353,8 +353,8 @@ return {
     [350] = {id=350,en="Dokumori: Ichi",ja="毒盛の術:壱",cast_time=4,element=5,icon_id=-1,icon_id_nq=29,levels={[13]=27},mp_cost=0,prefix="/ninjutsu",range=11,recast=30,recast_id=350,requirements=0,skill=39,targets=32,type="Ninjutsu"},
     [351] = {id=351,en="Dokumori: Ni",ja="毒盛の術:弐",cast_time=1.5,element=5,icon_id=-1,icon_id_nq=29,levels={[13]=52},mp_cost=0,prefix="/ninjutsu",range=11,recast=45,recast_id=351,requirements=0,skill=39,targets=32,type="Ninjutsu"},
     [352] = {id=352,en="Dokumori: San",ja="毒盛の術:参",cast_time=12,element=5,icon_id=-1,icon_id_nq=29,levels={},mp_cost=0,prefix="/ninjutsu",range=11,recast=60,recast_id=352,requirements=0,skill=39,targets=32,type="Ninjutsu"},
-    [353] = {id=353,en="Tonko: Ichi",ja="遁甲の術:壱",cast_time=1.5,duration=180,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=9},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=353,requirements=0,skill=39,targets=1,type="Ninjutsu"},
-    [354] = {id=354,en="Tonko: Ni",ja="遁甲の術:弐",cast_time=1.5,duration=300,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=34},mp_cost=0,prefix="/ninjutsu",range=0,recast=45,recast_id=354,requirements=0,skill=39,targets=1,type="Ninjutsu"},
+    [353] = {id=353,en="Tonko: Ichi",ja="遁甲の術:壱",cast_time=1.5,duration=420,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=9},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=353,requirements=0,skill=39,targets=1,type="Ninjutsu"},
+    [354] = {id=354,en="Tonko: Ni",ja="遁甲の術:弐",cast_time=1.5,duration=600,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=34},mp_cost=0,prefix="/ninjutsu",range=0,recast=45,recast_id=354,requirements=0,skill=39,targets=1,type="Ninjutsu"},
     [355] = {id=355,en="Tonko: San",ja="遁甲の術:参",cast_time=12,element=2,icon_id=-1,icon_id_nq=26,levels={[13]=59},mp_cost=0,prefix="/ninjutsu",range=0,recast=60,recast_id=355,requirements=0,skill=39,targets=1,type="Ninjutsu"},
     [356] = {id=356,en="Paralyga",ja="パライガ",cast_time=4,element=1,icon_id=-1,icon_id_nq=24,levels={[3]=61,[5]=61},mp_cost=12,prefix="/magic",range=12,recast=20,recast_id=356,requirements=0,skill=35,targets=32,type="WhiteMagic"},
     [357] = {id=357,en="Slowga",ja="スロウガ",cast_time=2.5,element=3,icon_id=-1,icon_id_nq=24,levels={[3]=61,[5]=61},mp_cost=30,prefix="/magic",range=12,recast=30,recast_id=357,requirements=0,skill=35,targets=32,type="WhiteMagic"},
@@ -506,10 +506,10 @@ return {
     [503] = {id=503,en="Impact",ja="インパクト",cast_time=12,element=7,icon_id=327,icon_id_nq=15,levels={[3]=90,[4]=90,[5]=90,[8]=90,[15]=90,[20]=90,[21]=90},mp_cost=666,prefix="/magic",range=12,recast=56,recast_id=503,requirements=0,skill=36,targets=32,type="BlackMagic"},
     [504] = {id=504,en="Regen V",ja="リジェネV",cast_time=2.5,duration=60,element=6,icon_id=203,icon_id_nq=6,levels={[20]=99},mp_cost=100,prefix="/magic",range=12,recast=28,recast_id=504,requirements=1,skill=34,targets=5,type="WhiteMagic"},
     [505] = {id=505,en="Gekka: Ichi",ja="月下の術:壱",cast_time=3,duration=300,element=7,icon_id=-1,icon_id_nq=31,levels={[13]=88},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=505,requirements=0,skill=39,targets=1,type="Ninjutsu"},
-    [506] = {id=506,en="Yain: Ichi",ja="夜陰の術:壱",cast_time=3,duration=180,element=6,icon_id=-1,icon_id_nq=30,levels={[13]=91},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=506,requirements=0,skill=39,targets=1,type="Ninjutsu"},
-    [507] = {id=507,en="Myoshu: Ichi",ja="妙手の術:壱",cast_time=3,duration=180,element=6,icon_id=-1,icon_id_nq=30,levels={[13]=85},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=507,requirements=0,skill=39,targets=1,type="Ninjutsu"},
+    [506] = {id=506,en="Yain: Ichi",ja="夜陰の術:壱",cast_time=3,duration=300,element=6,icon_id=-1,icon_id_nq=30,levels={[13]=91},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=506,requirements=0,skill=39,targets=1,type="Ninjutsu"},
+    [507] = {id=507,en="Myoshu: Ichi",ja="妙手の術:壱",cast_time=3,duration=300,element=6,icon_id=-1,icon_id_nq=30,levels={[13]=85},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=507,requirements=0,skill=39,targets=1,type="Ninjutsu"},
     [508] = {id=508,en="Yurin: Ichi",ja="幽林の術:壱",cast_time=4,element=7,icon_id=-1,icon_id_nq=31,levels={[13]=83},mp_cost=0,prefix="/ninjutsu",range=11,recast=30,recast_id=508,requirements=0,skill=39,targets=32,type="Ninjutsu"},
-    [509] = {id=509,en="Kakka: Ichi",ja="活火の術:壱",cast_time=3,duration=180,element=6,icon_id=-1,icon_id_nq=30,levels={[13]=93},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=509,requirements=0,skill=39,targets=1,type="Ninjutsu"},
+    [509] = {id=509,en="Kakka: Ichi",ja="活火の術:壱",cast_time=3,duration=300,element=6,icon_id=-1,icon_id_nq=30,levels={[13]=93},mp_cost=0,prefix="/ninjutsu",range=0,recast=30,recast_id=509,requirements=0,skill=39,targets=1,type="Ninjutsu"},
     [510] = {id=510,en="Migawari: Ichi",ja="身替の術:壱",cast_time=1.5,duration=60,element=3,icon_id=-1,icon_id_nq=27,levels={[13]=88},mp_cost=0,prefix="/ninjutsu",range=0,recast=56,recast_id=510,requirements=0,skill=39,targets=1,type="Ninjutsu"},
     [511] = {id=511,en="Haste II",ja="ヘイストII",cast_time=3,duration=180,element=2,icon_id=209,icon_id_nq=2,levels={[5]=96},mp_cost=80,prefix="/magic",range=12,recast=20,recast_id=511,requirements=0,skill=34,targets=29,type="WhiteMagic"},
     [513] = {id=513,en="Venom Shell",ja="ベノムシェル",cast_time=3,element=5,icon_id=-1,icon_id_nq=61,levels={[16]=42},mp_cost=86,prefix="/magic",range=4,recast=45,recast_id=513,requirements=0,skill=43,targets=32,type="BlueMagic"},
@@ -957,7 +957,7 @@ return {
 }, {"id", "en", "ja", "cast_time", "element", "icon_id", "icon_id_nq", "levels", "mp_cost", "prefix", "range", "recast", "recast_id", "requirements", "skill", "targets", "type", "duration"}
 
 --[[
-Copyright © 2013-2016, Windower
+Copyright © 2013-2017, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
