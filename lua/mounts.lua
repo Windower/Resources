@@ -14,10 +14,11 @@ return {
     [10] = {id=10,en="Beetle",ja="甲虫",endesc="Calls forth a beetle.",icon_id=87,jadesc="甲虫を呼び出す。",prefix="/mount"},
     [11] = {id=11,en="Moogle",ja="モーグリ",endesc="Calls forth a moogle.",icon_id=87,jadesc="モーグリを呼び出す。",prefix="/mount"},
     [12] = {id=12,en="Magic Pot",ja="マジックポット",endesc="Calls forth a magic pot.",icon_id=87,jadesc="マジックポットを呼び出す。",prefix="/mount"},
+    [13] = {id=13,en="Tulfaire",ja="トゥルフェイア",endesc="Calls forth a tulfaire.",icon_id=87,jadesc="トゥルフェイアを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
-Copyright © 2013-2016, Windower
+Copyright © 2013-2017, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
