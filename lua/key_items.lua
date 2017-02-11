@@ -2957,6 +2957,7 @@ return {
     [3085] = {id=3085,en="♪Tulfaire companion",ja="♪トゥルフェイア",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
+    [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
     [3139] = {id=3139,en="Mog Kupon A-OmII",ja="クーポンA-OmII",category="Temporary Key Items"},
     [3140] = {id=3140,en="Mog Kupon I-AF119",ja="クーポンI-AF119",category="Temporary Key Items"},
     [3141] = {id=3141,en="Mog Kupon AW-Om",ja="クーポンAW-Om",category="Temporary Key Items"},
