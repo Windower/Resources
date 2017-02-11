@@ -5997,6 +5997,14 @@
   <o id="6498" en="The succulent flesh of one of these small, colorful fruits is said to bring seven years of good luck upon those who taste it." ja="幸運を呼ぶ果実。&#xA;" />
   <o id="6499" en="Plans issued by the M.H.M.U. detailing how to add your very own patio to your Mog House." ja="モグハウスの中庭の設計図。&#xA;モグハウス管理組合監修。&#xA;" />
   <o id="6500" en="A seal with mystical properties said to increase the number of rewards obtainable from a successful Ambuscade." ja="アンバスケード大典に押すことができる焼印。&#xA;アンバスケードで得られる報酬が多くなる。&#xA;" />
+  <o id="6506" en="A crystal infused with fire energy.&#xA;" ja="炎のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6507" en="A crystal infused with ice energy.&#xA;" ja="氷のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6508" en="A crystal infused with wind energy.&#xA;" ja="風のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6509" en="A crystal infused with earth energy.&#xA;" ja="土のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6510" en="A crystal infused with lightning energy.&#xA;" ja="雷のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6511" en="A crystal infused with water energy.&#xA;" ja="水のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6512" en="A crystal infused with light energy.&#xA;" ja="光のエネルギーが封じ込められたクリスタル。&#xA;" />
+  <o id="6513" en="A crystal infused with dark energy.&#xA;" ja="闇のエネルギーが封じ込められたクリスタル。&#xA;" />
   <o id="6514" en="This cage is filled with dragonflies&#xA;that have an exceptionally strong&#xA;homing instinct.&#xA;They will fly straight home when&#xA;released." ja="帰巣性の強い蜻蛉を入れた虫篭。&#xA;放つと、迷うことなく元いた所に向け飛んでいく。" />
   <o id="8193" en="2 2 2 0 &#xA;2 2 2 0" ja="2 2 2 0 &#xA;2 2 2 0" />
   <o id="8194" en="3 2 2 2 &#xA;0 3 0 0" ja="3 2 2 2 &#xA;0 3 0 0" />
@@ -6224,6 +6232,8 @@
   <o id="8814" en="A kit used in synthesizing sleep arrows.&#xA;Required Crystal: Earth&#xA;Required Skill: Woodworking (50)" ja="『スリプルアロー』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：木工スキル50" />
   <o id="8815" en="A kit used in synthesizing fastwater fishing rods.&#xA;Required Crystal: Wind&#xA;Required Skill: Woodworking (55)" ja="『渓流竿』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：木工スキル55" />
   <o id="8816" en="A kit used in synthesizing pots of white viola.&#xA;Required Crystal: Water&#xA;Required Skill: Woodworking (60)" ja="『白色の石鉢』を製作するための合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：木工スキル60" />
+  <o id="8817" en="A kit used in synthesizing Tarutaru fishing rods.&#xA;Required Crystal: Wind&#xA;Required Skill: Woodworking (65)" ja="『タルタル式釣竿』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：木工スキル65" />
+  <o id="8818" en="A kit used in synthesizing ebony harps.&#xA;Required Crystal: Earth&#xA;Required Skill: Woodworking (71)" ja="『エボニーハープ』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：木工スキル71" />
   <o id="8819" en="A kit used in synthesizing bronze knives.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (5)" ja="『ブロンズナイフ』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル5" />
   <o id="8820" en="A kit used in synthesizing bronze maces.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (10)" ja="『ブロンズメイス』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル10" />
   <o id="8821" en="A kit used in synthesizing tin ingots.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (15)" ja="『ティンインゴット』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル15" />
@@ -6236,6 +6246,8 @@
   <o id="8828" en="A kit used in synthesizing kite shields.&#xA;Required Crystal: Earth&#xA;Required Skill: Smithing (50)" ja="『カイトシールド』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：鍛冶スキル50" />
   <o id="8829" en="A kit used in synthesizing sallets.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (55)" ja="『サリット』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル55" />
   <o id="8830" en="A kit used in synthesizing darksteel maces.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (60)" ja="『ダークメイス』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル60" />
+  <o id="8831" en="A kit used in synthesizing darksteel kukuris.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (65)" ja="『ダークククリ』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル65" />
+  <o id="8832" en="A kit used in synthesizing hien.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (70)" ja="『飛燕』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル70" />
   <o id="8833" en="A kit used in synthesizing copper rings.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (5)" ja="『カッパーリング』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル5" />
   <o id="8834" en="A kit used in synthesizing brass ingots.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (10)" ja="『ブラスインゴット』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル10" />
   <o id="8835" en="A kit used in synthesizing brass zaghnals.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (15)" ja="『ブラスザグナル』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル15" />
@@ -6248,6 +6260,8 @@
   <o id="8842" en="A kit used in synthesizing aluminum sheets.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (50)" ja="『アルミ板』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル50" />
   <o id="8843" en="A kit used in synthesizing heater shields.&#xA;Required Crystal: Earth&#xA;Required Skill: Goldsmithing (55)" ja="『ヒーターシールド』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：彫金スキル55" />
   <o id="8844" en="A kit used in synthesizing mythril cuisses.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (60)" ja="『ミスリルクウィス』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル60" />
+  <o id="8845" en="A kit used in synthesizing moon earrings.&#xA;Required Crystal: Earth&#xA;Required Skill: Goldsmithing (65)" ja="『ムーンイヤリング』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：彫金スキル65" />
+  <o id="8846" en="A kit used in synthesizing gold bangles.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (70)" ja="『ゴールドバングル』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル70" />
   <o id="8847" en="A kit used in synthesizing headgears.&#xA;Required Crystal: Wind&#xA;Required Skill: Clothcraft (5)" ja="『ヘッドギア』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：裁縫スキル5" />
   <o id="8848" en="A kit used in synthesizing doublets.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (10)" ja="『ダブレット』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル10" />
   <o id="8849" en="A kit used in synthesizing spools of red grass thread.&#xA;Required Crystal: Lightning&#xA;Required Skill: Clothcraft (15)" ja="『赤草糸』を製作するための合成キット。&#xA;使用するクリスタル：雷のクリスタル&#xA;必要スキル：裁縫スキル15" />
@@ -6260,6 +6274,8 @@
   <o id="8856" en="A kit used in synthesizing squares of velvet cloth.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (50)" ja="『ビロード』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル50" />
   <o id="8857" en="A kit used in synthesizing mohbwa scarves.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (55)" ja="『モブワスカーフ』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル55" />
   <o id="8858" en="A kit used in synthesizing pairs of black mitts.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (60)" ja="『ブラックミトン』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル60" />
+  <o id="8859" en="A kit used in synthesizing white capes.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (64)" ja="『ホワイトケープ』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル64" />
+  <o id="8860" en="A kit used in synthesizing gold obi.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (70)" ja="『金の帯』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル70" />
   <o id="8861" en="A kit used in synthesizing leather bandanas.&#xA;Required Crystal: Wind&#xA;Required Skill: Leathercraft (5)" ja="『レザーバンダナ』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：革細工スキル5" />
   <o id="8862" en="A kit used in synthesizing leather vests.&#xA;Required Crystal: Earth&#xA;Required Skill: Leathercraft (10)" ja="『レザーベスト』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル10" />
   <o id="8863" en="A kit used in synthesizing lizard helms.&#xA;Required Crystal: Earth&#xA;Required Skill: Leathercraft (15)" ja="『リザードヘルム』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル15" />
@@ -6272,6 +6288,8 @@
   <o id="8870" en="A kit used in synthesizing leather shields.&#xA;Required Crystal: Earth&#xA;Required Skill: Leathercraft (50)" ja="『革の盾』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル50" />
   <o id="8871" en="A kit used in synthesizing raptor gloves.&#xA;Required Crystal: Earth&#xA;Required Skill: Leathercraft (55)" ja="『ラプトルグローブ』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル55" />
   <o id="8872" en="A kit used in synthesizing hard leather rings.&#xA;Required Crystal: Wind&#xA;Required Skill: Leathercraft (60)" ja="『ハードレザーリング』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：革細工スキル60" />
+  <o id="8873" en="A kit used in synthesizing pairs of battle boots.&#xA;Required Crystal: Earth&#xA;Required Skill: bonecraft (66)" ja="『バトルブーツ』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル66" />
+  <o id="8874" en="A kit used in synthesizing behemoth mantles.&#xA;Required Crystal: Ice&#xA;Required Skill: bonecraft (70)" ja="『ベヒモスマント』を製作するための合成キット。&#xA;使用するクリスタル：氷のクリスタル&#xA;必要スキル：革細工スキル70" />
   <o id="8875" en="A kit used in synthesizing ponzes of shell powder.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (5)" ja="『胡粉』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル5" />
   <o id="8876" en="A kit used in synthesizing handfuls of bone arrowheads.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (10)" ja="『骨の矢尻』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル10" />
   <o id="8877" en="A kit used in synthesizing fang necklaces.&#xA;Required Crystal: Earth&#xA;Required Skill: Bonecraft (15)" ja="『ファングネックレス』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：骨細工スキル15" />
@@ -6284,6 +6302,8 @@
   <o id="8884" en="A kit used in synthesizing bone rods.&#xA;Required Crystal: Fire&#xA;Required Skill: Bonecraft (50)" ja="『ボーンロッド』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：骨細工スキル50" />
   <o id="8885" en="A kit used in synthesizing tortoise earrings.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (55)" ja="『タートルピアス』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル55" />
   <o id="8886" en="A kit used in synthesizing scorpion rings.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (60)" ja="『スコピオリング』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル60" />
+  <o id="8887" en="A kit used in synthesizing ladybug rings.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (65)" ja="『レディリング』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル65" />
+  <o id="8888" en="A kit used in synthesizing demon's rings.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (70)" ja="『デーモンリング』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル70" />
   <o id="8889" en="A kit used in synthesizing jars of black ink.&#xA;Required Crystal: Dark&#xA;Required Skill: Alchemy (5)" ja="『黒インク』を製作するための合成キット。&#xA;使用するクリスタル：闇のクリスタル&#xA;必要スキル：錬金術スキル5" />
   <o id="8890" en="A kit used in synthesizing flasks of deodorizer.&#xA;Required Crystal: Wind&#xA;Required Skill: Alchemy (10)" ja="『デオドライザー』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：錬金術スキル10" />
   <o id="8891" en="A kit used in synthesizing crackers.&#xA;Required Crystal: Earth&#xA;Required Skill: Alchemy (15)" ja="『クラッカー』を製作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：錬金術スキル15" />
@@ -6296,6 +6316,8 @@
   <o id="8898" en="A kit used in synthesizing ethers.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (50)" ja="『エーテル』を製作するための合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル50" />
   <o id="8899" en="A kit used in synthesizing yoto.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (55)" ja="『溶刀』を製作するための合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル55" />
   <o id="8900" en="A kit used in synthesizing hi-potions.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (60)" ja="『ハイポーション』を製作するための合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル60" />
+  <o id="8901" en="A kit used in synthesizing melt baselards.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (65)" ja="『メルトバゼラード』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル65" />
+  <o id="8902" en="A kit used in synthesizing sabers.&#xA;Required Crystal: Fire&#xA;Required Skill: Alchemy (70)" ja="『サーベル』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：錬金術スキル70" />
   <o id="8903" en="A kit used in synthesizing bowls of pebble soup.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (5)" ja="『石のスープ』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル5" />
   <o id="8904" en="A kit used in synthesizing bottles of orange juice.&#xA;Required Crystal: Water&#xA;Required Skill: Cooking (10)" ja="『オレンジジュース』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：調理スキル10" />
   <o id="8905" en="A kit used in synthesizing slices of bluetail.&#xA;Required Crystal: Wind&#xA;Required Skill: Cooking (15)" ja="『ブリ切り身』を製作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：調理スキル15" />
@@ -6308,6 +6330,8 @@
   <o id="8912" en="A kit used in synthesizing apple pies.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (50)" ja="『アップルパイ』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル50" />
   <o id="8913" en="A kit used in synthesizing servings of beaugreen saute.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (55)" ja="『ボスディン菜のソテー』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル55" />
   <o id="8914" en="A kit used in synthesizing green quiches.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (60)" ja="『グリーンキッシュ』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル60" />
+  <o id="8915" en="A kit used in synthesizing ratatouille.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (65)" ja="『ラタトゥイユ』を製作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル65" />
+  <o id="8916" en="A kit used in synthesizing pots of San d'Orian tea.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (70)" ja="『サンドリアティー』を製作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル70" />
   <o id="8917" en="This beautiful, white flower was plucked from a cactus." ja="白色のゲッカビジンの花。&#xA;" />
   <o id="8918" en="The finely burnt remains of some unknown object." ja="きめ細かい燃えカス。&#xA;" />
   <o id="8919" en="A vermillion crystal imbued with the rage of flame." ja="炎の力を秘めた赤色の石。&#xA;" />
@@ -6659,6 +6683,142 @@
   <o id="9305" en="A scale forged in a manner taught in a land far to the east. It is marked with the symbol for jumping." ja="東方の製法による小札。&#xA;跳をあらわす印が押されている。" />
   <o id="9306" en="A scale forged in a manner taught in a land far to the east. It is marked with the symbol for running." ja="東方の製法による小札。&#xA;走をあらわす印が押されている。" />
   <o id="9307" en="A scale forged in a manner taught in a land far to the east. It is marked with the symbol for walking." ja="東方の製法による小札。&#xA;歩をあらわす印が押されている。" />
+  <o id="9308" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9309" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9310" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9321" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9322" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9323" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9334" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9335" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9336" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9347" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9348" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9349" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9360" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9361" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9362" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9373" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9374" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9375" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9386" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9387" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9388" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9399" en="A crystal imbued with a craftsman's soul.&#xA;" ja="職人の魂がこもった結晶。&#xA;" />
+  <o id="9400" en="A screw made from mythril.&#xA;" ja="ミスリル製のビス。&#xA;" />
+  <o id="9401" en="Processed camphor tree lumber.&#xA;" ja="クスノキの材木。&#xA;" />
+  <o id="9412" en="A set needed to synthesize&#xA;Woodworking Kit 25.&#xA;" ja="『木工キット25』を製作するための合成セット。&#xA;" />
+  <o id="9413" en="A set needed to synthesize&#xA;Woodworking Kit 45.&#xA;" ja="『木工キット45』を製作するための合成セット。&#xA;" />
+  <o id="9414" en="A set needed to synthesize&#xA;Woodworking Kit 65.&#xA;" ja="『木工キット65』を製作するための合成セット。&#xA;" />
+  <o id="9415" en="A set needed to synthesize&#xA;Woodworking Kit 71.&#xA;" ja="『木工キット71』を製作するための合成セット。&#xA;" />
+  <o id="9416" en="A set needed to synthesize&#xA;Woodworking Kit 74.&#xA;" ja="『木工キット74』を製作するための合成セット。&#xA;" />
+  <o id="9417" en="A set needed to synthesize&#xA;Woodworking Kit 81.&#xA;" ja="『木工キット81』を製作するための合成セット。&#xA;" />
+  <o id="9418" en="A set needed to synthesize&#xA;Woodworking Kit 84.&#xA;" ja="『木工キット84』を製作するための合成セット。&#xA;" />
+  <o id="9419" en="A set needed to synthesize&#xA;Woodworking Kit 90.&#xA;" ja="『木工キット90』を製作するための合成セット。&#xA;" />
+  <o id="9420" en="A set needed to synthesize&#xA;Woodworking Kit 94.&#xA;" ja="『木工キット94』を製作するための合成セット。&#xA;" />
+  <o id="9421" en="A set needed to synthesize&#xA;Smithing Kit 25.&#xA;" ja="『鍛冶キット25』を製作するための合成セット。&#xA;" />
+  <o id="9422" en="A set needed to synthesize&#xA;Smithing Kit 45.&#xA;" ja="『鍛冶キット45』を製作するための合成セット。&#xA;" />
+  <o id="9423" en="A set needed to synthesize&#xA;Smithing Kit 65.&#xA;" ja="『鍛冶キット65』を製作するための合成セット。&#xA;" />
+  <o id="9424" en="A set needed to synthesize&#xA;Smithing Kit 70.&#xA;" ja="『鍛冶キット70』を製作するための合成セット。&#xA;" />
+  <o id="9425" en="A set needed to synthesize&#xA;Smithing Kit 76.&#xA;" ja="『鍛冶キット76』を製作するための合成セット。&#xA;" />
+  <o id="9426" en="A set needed to synthesize&#xA;Smithing Kit 80.&#xA;" ja="『鍛冶キット80』を製作するための合成セット。&#xA;" />
+  <o id="9427" en="A set needed to synthesize&#xA;Smithing Kit 84.&#xA;" ja="『鍛冶キット84』を製作するための合成セット。&#xA;" />
+  <o id="9428" en="A set needed to synthesize&#xA;Smithing Kit 91.&#xA;" ja="『鍛冶キット91』を製作するための合成セット。&#xA;" />
+  <o id="9429" en="A set needed to synthesize&#xA;Smithing Kit 94.&#xA;" ja="『鍛冶キット94』を製作するための合成セット。&#xA;" />
+  <o id="9430" en="A set needed to synthesize&#xA;Goldsmithing Kit 25.&#xA;" ja="『彫金キット25』を製作するための合成セット。&#xA;" />
+  <o id="9431" en="A set needed to synthesize&#xA;Goldsmithing Kit 45.&#xA;" ja="『彫金キット45』を製作するための合成セット。&#xA;" />
+  <o id="9432" en="A set needed to synthesize&#xA;Goldsmithing Kit 65.&#xA;" ja="『彫金キット60』を製作するための合成セット。&#xA;" />
+  <o id="9433" en="A set needed to synthesize&#xA;Goldsmithing Kit 70.&#xA;" ja="『彫金キット70』を製作するための合成セット。&#xA;" />
+  <o id="9434" en="A set needed to synthesize&#xA;Goldsmithing Kit 75.&#xA;" ja="『彫金キット75』を製作するための合成セット。&#xA;" />
+  <o id="9435" en="A set needed to synthesize&#xA;Goldsmithing Kit 80.&#xA;" ja="『彫金キット80』を製作するための合成セット。&#xA;" />
+  <o id="9436" en="A set needed to synthesize&#xA;Goldsmithing Kit 85.&#xA;" ja="『彫金キット85』を製作するための合成セット。&#xA;" />
+  <o id="9437" en="A set needed to synthesize&#xA;Goldsmithing Kit 90.&#xA;" ja="『彫金キット90』を製作するための合成セット。&#xA;" />
+  <o id="9438" en="A set needed to synthesize&#xA;Goldsmithing Kit 94.&#xA;" ja="『彫金キット94』を製作するための合成セット。&#xA;" />
+  <o id="9439" en="A set needed to synthesize&#xA;Clothcraft Kit 25.&#xA;" ja="『裁縫キット25』を製作するための合成セット。&#xA;" />
+  <o id="9440" en="A set needed to synthesize&#xA;Clothcraft Kit 45.&#xA;" ja="『裁縫キット45』を製作するための合成セット。&#xA;" />
+  <o id="9441" en="A set needed to synthesize&#xA;Clothcraft Kit 64.&#xA;" ja="『裁縫キット64』を製作するための合成セット。&#xA;" />
+  <o id="9442" en="A set needed to synthesize&#xA;Clothcraft Kit 70.&#xA;" ja="『裁縫キット70』を製作するための合成セット。&#xA;" />
+  <o id="9443" en="A set needed to synthesize&#xA;Clothcraft Kit 75.&#xA;" ja="『裁縫キット75』を製作するための合成セット。&#xA;" />
+  <o id="9444" en="A set needed to synthesize&#xA;Clothcraft Kit 80.&#xA;" ja="『裁縫キット80』を製作するための合成セット。&#xA;" />
+  <o id="9445" en="A set needed to synthesize&#xA;Clothcraft Kit 85.&#xA;" ja="『裁縫キット85』を製作するための合成セット。&#xA;" />
+  <o id="9446" en="A set needed to synthesize&#xA;Clothcraft Kit 90.&#xA;" ja="『裁縫キット90』を製作するための合成セット。&#xA;" />
+  <o id="9447" en="A set needed to synthesize&#xA;Clothcraft Kit 95.&#xA;" ja="『裁縫キット95』を製作するための合成セット。&#xA;" />
+  <o id="9448" en="A set needed to synthesize&#xA;Leathercraft Kit 25.&#xA;" ja="『革細工キット25』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9449" en="A set needed to synthesize&#xA;Leathercraft Kit 45.&#xA;" ja="『革細工キット45』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9450" en="A set needed to synthesize&#xA;Leathercraft Kit 66.&#xA;" ja="『革細工キット66』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9451" en="A set needed to synthesize&#xA;Leathercraft Kit 70.&#xA;" ja="『革細工キット70』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9452" en="A set needed to synthesize&#xA;Leathercraft Kit 75.&#xA;" ja="『革細工キット75』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9453" en="A set needed to synthesize&#xA;Leathercraft Kit 79.&#xA;" ja="『革細工キット79』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9454" en="A set needed to synthesize&#xA;Leathercraft Kit 85.&#xA;" ja="『革細工キット85』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9455" en="A set needed to synthesize&#xA;Leathercraft Kit 90.&#xA;" ja="『革細工キット90』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9456" en="A set needed to synthesize&#xA;Leathercraft Kit 95.&#xA;" ja="『革細工キット95』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9457" en="A set needed to synthesize&#xA;Bonecraft Kit 25.&#xA;" ja="『骨細工キット25』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9458" en="A set needed to synthesize&#xA;Bonecraft Kit 45.&#xA;" ja="『骨細工キット45』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9459" en="A set needed to synthesize&#xA;Bonecraft Kit 65.&#xA;" ja="『骨細工キット65』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9460" en="A set needed to synthesize&#xA;Bonecraft Kit 70.&#xA;" ja="『骨細工キット70』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9461" en="A set needed to synthesize&#xA;Bonecraft Kit 75.&#xA;" ja="『骨細工キット75』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9462" en="A set needed to synthesize&#xA;Bonecraft Kit 80.&#xA;" ja="『骨細工キット80』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9463" en="A set needed to synthesize&#xA;Bonecraft Kit 85.&#xA;" ja="『骨細工キット85』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9464" en="A set needed to synthesize&#xA;Bonecraft Kit 90.&#xA;" ja="『骨細工キット90』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9465" en="A set needed to synthesize&#xA;Bonecraft Kit 95.&#xA;" ja="『骨細工キット95』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9466" en="A set needed to synthesize&#xA;Alchemy Kit 25.&#xA;" ja="『錬金術キット25』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9467" en="A set needed to synthesize&#xA;Alchemy Kit 45.&#xA;" ja="『錬金術キット45』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9468" en="A set needed to synthesize&#xA;Alchemy Kit 65.&#xA;" ja="『錬金術キット65』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9469" en="A set needed to synthesize&#xA;Alchemy Kit 70.&#xA;" ja="『錬金術キット70』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9470" en="A set needed to synthesize&#xA;Alchemy Kit 75.&#xA;" ja="『錬金術キット75』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9471" en="A set needed to synthesize&#xA;Alchemy Kit 80.&#xA;" ja="『錬金術キット80』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9472" en="A set needed to synthesize&#xA;Alchemy Kit 85.&#xA;" ja="『錬金術キット85』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9473" en="A set needed to synthesize&#xA;Alchemy Kit 90.&#xA;" ja="『錬金術キット90』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9474" en="A set needed to synthesize&#xA;Alchemy Kit 95.&#xA;" ja="『錬金術キット95』を製作するための&#xA;合成セット。&#xA;" />
+  <o id="9475" en="A set needed to synthesize&#xA;Cooking Kit 25.&#xA;" ja="『調理キット25』を製作するための合成セット。&#xA;" />
+  <o id="9476" en="A set needed to synthesize&#xA;Cooking Kit 45.&#xA;" ja="『調理キット45』を製作するための合成セット。&#xA;" />
+  <o id="9477" en="A set needed to synthesize&#xA;Cooking Kit 65.&#xA;" ja="『調理キット65』を製作するための合成セット。&#xA;" />
+  <o id="9478" en="A set needed to synthesize&#xA;Cooking Kit 70.&#xA;" ja="『調理キット70』を製作するための合成セット。&#xA;" />
+  <o id="9479" en="A set needed to synthesize&#xA;Cooking Kit 75.&#xA;" ja="『調理キット75』を製作するための合成セット。&#xA;" />
+  <o id="9480" en="A set needed to synthesize&#xA;Cooking Kit 80.&#xA;" ja="『調理キット80』を製作するための合成セット。&#xA;" />
+  <o id="9481" en="A set needed to synthesize&#xA;Cooking Kit 85.&#xA;" ja="『調理キット85』を製作するための合成セット。&#xA;" />
+  <o id="9482" en="A set needed to synthesize&#xA;Cooking Kit 90.&#xA;" ja="『調理キット90』を製作するための合成セット。&#xA;" />
+  <o id="9483" en="A set needed to synthesize&#xA;Cooking Kit 95.&#xA;" ja="『調理キット95』を製作するための合成セット。&#xA;" />
+  <o id="9484" en="A kit used in synthesizing Hume fishing rods.&#xA;Required Crystal: Wind&#xA;Required Skill: Woodworking (74)" ja="『ヒューム式釣竿』を制作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：木工スキル74" />
+  <o id="9485" en="A kit used in synthesizing cabinets.&#xA;Required Crystal: Earth&#xA;Required Skill: Woodworking (81)" ja="『キャビネット』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：木工スキル81" />
+  <o id="9486" en="A kit used in synthesizing numinous shields.&#xA;Required Crystal: Earth&#xA;Required Skill: Woodworking (84)" ja="『ヌミナスシールド』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：木工スキル84" />
+  <o id="9487" en="A kit used in synthesizing mythic harps.&#xA;Required Crystal: Earth&#xA;Required Skill: Woodworking (90)" ja="『神代の竪琴』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：木工スキル90" />
+  <o id="9488" en="A kit used in synthesizing sasah wands.&#xA;Required Crystal: Wind&#xA;Required Skill: Woodworking (94)" ja="『サッサーワンド』を制作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：木工スキル94" />
+  <o id="9489" en="A kit used in synthesizing keppu.&#xA;Required Crystal: Earth&#xA;Required Skill: Smithing (76)" ja="『血風』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：鍛冶スキル76" />
+  <o id="9490" en="A kit used in synthesizing katzbalgers.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (80)" ja="『カッツバルゲル』を制作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル80" />
+  <o id="9491" en="A kit used in synthesizing thick mufflers.&#xA;Required Crystal: Earth&#xA;Required Skill: Smithing (84)" ja="『シックマフラ』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：鍛冶スキル84" />
+  <o id="9492" en="A kit used in synthesizing gullies.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (91)" ja="『ガリィ』を制作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル91" />
+  <o id="9493" en="A kit used in synthesizing anelaces.&#xA;Required Crystal: Fire&#xA;Required Skill: Smithing (94)" ja="『アネラス』を制作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：鍛冶スキル94" />
+  <o id="9494" en="A kit used in synthesizing ashura.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (75)" ja="『阿修羅』を制作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル75" />
+  <o id="9495" en="A kit used in synthesizing gold bucklers.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (80)" ja="『ゴールドバックラー』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル80" />
+  <o id="9496" en="A kit used in synthesizing platinum bangles.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (85)" ja="『プラチナバングル』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル85" />
+  <o id="9497" en="A kit used in synthesizing jeweled collars.&#xA;Required Crystal: Earth&#xA;Required Skill: Goldsmithing (90)" ja="『ジュエルドカラー』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：彫金スキル90" />
+  <o id="9498" en="A kit used in synthesizing Phrygian rings.&#xA;Required Crystal: Fire&#xA;Required Skill: Goldsmithing (94)" ja="『フリギアリング』を制作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：彫金スキル94" />
+  <o id="9499" en="A kit used in synthesizing tabin bracers.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (75)" ja="『タビンブレーサー』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル75" />
+  <o id="9500" en="A kit used in synthesizing brocade obi.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (80)" ja="『錦の帯』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル80" />
+  <o id="9501" en="A kit used in synthesizing rainbow headbands.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (85)" ja="『虹のヘッドバンド』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル85" />
+  <o id="9502" en="A kit used in synthesizing rainbow obi.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (90)" ja="『虹の帯』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル90" />
+  <o id="9503" en="A kit used in synthesizing Tarutaru sashes.&#xA;Required Crystal: Earth&#xA;Required Skill: Clothcraft (95)" ja="『タルタルサッシュ』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：裁縫スキル95" />
+  <o id="9504" en="A kit used in synthesizing tiger mantles.&#xA;Required Crystal: Ice&#xA;Required Skill: bonecraft (75)" ja="『タイガーマント』を制作するための合成キット。&#xA;使用するクリスタル：氷のクリスタル&#xA;必要スキル：革細工スキル75" />
+  <o id="9505" en="A kit used in synthesizing marid mantles.&#xA;Required Crystal: Ice&#xA;Required Skill: bonecraft (79)" ja="『マーリドマント』を制作するための合成キット。&#xA;使用するクリスタル：氷のクリスタル&#xA;必要スキル：革細工スキル79" />
+  <o id="9506" en="A kit used in synthesizing coeurl mantles.&#xA;Required Crystal: Ice&#xA;Required Skill: bonecraft (85)" ja="『クァールマント』を制作するための合成キット。&#xA;使用するクリスタル：氷のクリスタル&#xA;必要スキル：革細工スキル85" />
+  <o id="9507" en="A kit used in synthesizing koenigs belts.&#xA;Required Crystal: Earth&#xA;Required Skill: bonecraft (90)" ja="『ケーニヒスベルト』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル90" />
+  <o id="9508" en="A kit used in synthesizing peiste mantles.&#xA;Required Crystal: Earth&#xA;Required Skill: bonecraft (95)" ja="『ペイストマント』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：革細工スキル95" />
+  <o id="9509" en="A kit used in synthesizing ladybug earrings.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (75)" ja="『レディピアス』を制作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル75" />
+  <o id="9510" en="A kit used in synthesizing coral rings.&#xA;Required Crystal: Wind&#xA;Required Skill: Bonecraft (80)" ja="『コーラルリング』を制作するための合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：骨細工スキル80" />
+  <o id="9511" en="A kit used in synthesizing hellish bugles.&#xA;Required Crystal: Earth&#xA;Required Skill: Bonecraft (85)" ja="『ヘルズビューグル』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：骨細工スキル85" />
+  <o id="9512" en="A kit used in synthesizing dragon claws.&#xA;Required Crystal: Earth&#xA;Required Skill: Bonecraft (90)" ja="『ドラゴンクロー』を制作するための合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：骨細工スキル90" />
+  <o id="9513" en="A kit used in synthesizing carapace breastplates.&#xA;Required Crystal: Earth&#xA;Required Skill: Bonecraft (95)" ja="『カラパスブレスト』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：土のクリスタル&#xA;必要スキル：骨細工スキル95" />
+  <o id="9514" en="A kit used in synthesizing venom kukris.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (75)" ja="『ベノムククリ』を制作するための合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル75" />
+  <o id="9515" en="A kit used in synthesizing stun knives.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (80)" ja="『スタンナイフ』を制作するための合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル80" />
+  <o id="9516" en="A kit used in synthesizing bloody rapiers.&#xA;Required Crystal: Dark&#xA;Required Skill: Alchemy (85)" ja="『ブラッディレイピア』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：闇のクリスタル&#xA;必要スキル：錬金術スキル85" />
+  <o id="9517" en="A kit used in synthesizing bloody lances.&#xA;Required Crystal: Dark&#xA;Required Skill: Alchemy (90)" ja="『ブラッディランス』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：闇のクリスタル&#xA;必要スキル：錬金術スキル90" />
+  <o id="9518" en="A kit used in synthesizing max-potions.&#xA;Required Crystal: Water&#xA;Required Skill: Alchemy (95)" ja="『マキシポーション』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：錬金術スキル95" />
+  <o id="9519" en="A kit used in synthesizing celerity salads.&#xA;Required Crystal: Wind&#xA;Required Skill: Cooking (75)" ja="『セレリティーサラダ』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：風のクリスタル&#xA;必要スキル：調理スキル75" />
+  <o id="9520" en="A kit used in synthesizing shallops tropicale.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (80)" ja="『シャル貝パイン蒸し』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル80" />
+  <o id="9521" en="A kit used in synthesizing yellow curry.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (85)" ja="『イエローカレー』を制作するための合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル85" />
+  <o id="9522" en="A kit used in synthesizing vampire juice.&#xA;Required Crystal: Water&#xA;Required Skill: Cooking (90)" ja="『バンパイアジュース』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：水のクリスタル&#xA;必要スキル：調理スキル90" />
+  <o id="9523" en="A kit used in synthesizing dragon steaks.&#xA;Required Crystal: Fire&#xA;Required Skill: Cooking (95)" ja="『ドラゴンステーキ』を制作するための&#xA;合成キット。&#xA;使用するクリスタル：炎のクリスタル&#xA;必要スキル：調理スキル95" />
   <o id="10049" en="An astral notebook inscribed with sheet music on how to make a call appealing to a raptor. Can be shown to Mapitoto in Upper Jeuno for recording so that you may ride a raptor mount." ja="ラプトルを呼び出す音が&#xA;刻まれたアストラルノート。&#xA;ジュノ上層のマピトトに渡すことで『呼子霊笛』から&#xA;使用可能になる。" />
   <o id="10050" en="An astral notebook inscribed with sheet music on how to make a call appealing to a tiger. Can be shown to Mapitoto in Upper Jeuno for recording so that you may ride a tiger mount." ja="剣虎を呼び出す音が&#xA;刻まれたアストラルノート。&#xA;ジュノ上層のマピトトに渡すことで『呼子霊笛』から&#xA;使用可能になる。" />
   <o id="10051" en="An astral notebook inscribed with sheet music on how to make a call appealing to a crab. Can be shown to Mapitoto in Upper Jeuno for recording so that you may ride a crab mount." ja="クラブを呼び出す音が&#xA;刻まれたアストラルノート。&#xA;ジュノ上層のマピトトに渡すことで『呼子霊笛』から&#xA;使用可能になる。" />
@@ -17436,7 +17596,7 @@
   <o id="23179" en="DEF:99 HP+37 STR+16 DEX+40&#xA;VIT+37 AGI+20 INT+17 MND+35&#xA;CHR+22 Accuracy+38&#xA;Evasion+44 Magic Evasion+57&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+5% &quot;Dual Wield&quot;+3&#xA;&quot;Trick Attack&quot;+18&#xA;Critical hit damage +3%" ja="防99 HP+37 STR+16 DEX+40 VIT+37&#xA;AGI+20 INT+17 MND+35 CHR+22&#xA;命中+38 回避+44 魔回避+57 魔防+2 ヘイスト+5%&#xA;二刀流+3 だまし討ち+18&#xA;クリティカルヒットダメージ+3%" />
   <o id="23180" en="DEF:117 HP+103 STR+15&#xA;DEX+34 VIT+38 INT+13&#xA;MND+30 CHR+24 Accuracy+38&#xA;Evasion+32 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Haste+4% Enmity+5&#xA;&quot;Shield Mastery&quot;+1&#xA;Magic damage taken -6%" ja="防117 HP+103 STR+15 DEX+34 VIT+38&#xA;INT+13 MND+30 CHR+24&#xA;命中+38 回避+32 魔回避+36 魔防+1&#xA;ヘイスト+4% 敵対心+5 シールドマスタリー+1&#xA;被魔法ダメージ-6%" />
   <o id="23181" en="DEF:114 HP+66 MP+22 STR+20&#xA;DEX+39 VIT+38 INT+13 MND+30&#xA;CHR+24 Accuracy+44 Attack+23&#xA;Evasion+32 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Haste+4% &quot;Skillchain Bonus&quot;+5&#xA;&quot;Weapon Bash&quot;+14&#xA;Augments &quot;Weapon Bash&quot;" ja="防114 HP+66 MP+22 STR+20 DEX+39&#xA;VIT+38 INT+13 MND+30 CHR+24&#xA;命中+44 攻+23 回避+32 魔回避+36 魔防+1&#xA;ヘイスト+4% 連携ボーナス+5&#xA;ウェポンバッシュ+14&#xA;ウェポンバッシュ性能アップ" />
-  <o id="23182" en="DEF:100 HP+37 STR+16 DEX+40&#xA;VIT+37 AGI+10 INT+17 MND+35&#xA;CHR+25 Accuracy+38&#xA;Evasion+34 Magic Evasion+47&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Parrying skill +17 Haste+5%&#xA;Weapon skill damage +5%&#xA;Pet: Haste+4%" ja="防100 HP+37 STR+16 DEX+40 VIT+37&#xA;AGI+10 INT+17 MND+35 CHR+25&#xA;命中+38 回避+34 魔法避+47 魔防+2&#xA;受け流しスキル+17 ヘイスト+5%&#xA;ウェポンスキルのダメージ+5%&#xA;ペット:ヘイスト+4%" />
+  <o id="23182" en="DEF:100 HP+37 STR+16 DEX+40&#xA;VIT+37 AGI+10 INT+17 MND+35&#xA;CHR+25 Accuracy+38&#xA;Evasion+34 Magic Evasion+47&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Parrying skill +17 Haste+5%&#xA;Weapon skill damage +5%&#xA;Pet: Haste+4%" ja="防100 HP+37 STR+16 DEX+40 VIT+37&#xA;AGI+10 INT+17 MND+35 CHR+25&#xA;命中+38 回避+34 魔回避+47 魔防+2&#xA;受け流しスキル+17 ヘイスト+5%&#xA;ウェポンスキルのダメージ+5%&#xA;ペット:ヘイスト+4%" />
   <o id="23183" en="DEF:93 HP+33 MP+14 STR+11&#xA;DEX+33 VIT+30 AGI+10&#xA;INT+24 MND+37 CHR+34&#xA;Magic Accuracy+38&#xA;Evasion+34 Magic Evasion+47&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Singing skill +15&#xA;Haste+3% Enmity-7&#xA;&quot;Lullaby&quot;+1" ja="防93 HP+33 MP+14 STR+11 DEX+33&#xA;VIT+30 AGI+10 INT+24 MND+37 CHR+34&#xA;魔命+38 回避+34 魔回避+47 魔防+3&#xA;歌唱スキル+15 ヘイスト+3% 敵対心-7 ララバイ+1" />
   <o id="23184" en="DEF:97 HP+37 STR+16 DEX+40&#xA;VIT+34 AGI+22 INT+17 MND+35&#xA;CHR+22 Ranged Accuracy+38&#xA;Evasion+34 Magic Evasion+47&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+5% Enmity-5&#xA;&quot;Barrage&quot;+2&#xA;&quot;Barrage&quot; accuracy+22&#xA;&quot;Shadowbind&quot;+14" ja="防97 HP+37 STR+16 DEX+40 VIT+34&#xA;AGI+22 INT+17 MND+35 CHR+22&#xA;飛命+38 回避+34 魔回避+47 魔防+2 ヘイスト+5%&#xA;敵対心-5 乱れ撃ち+2 乱れ撃ち命中+22&#xA;影縫い効果時間+14" />
   <o id="23185" en="DEF:113 HP+40 STR+19 DEX+35&#xA;VIT+35 AGI+12 INT+15 MND+32&#xA;CHR+25 Accuracy+38&#xA;Evasion+32 Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Haste+4% &quot;Store TP&quot;+6&#xA;&quot;Hasso&quot;+3&#xA;Enhances effects of rice balls" ja="防113 HP+40 STR+19 DEX+35 VIT+35&#xA;AGI+12 INT+15 MND+32 CHR+25&#xA;命中+38 回避+32 魔回避+36 魔防+1 ヘイスト+4%&#xA;ストアTP+6 八双+3 おにぎりの真の味がわかる" />
@@ -17614,8 +17774,10 @@
   <o id="23665" en="DEF:95 HP+74 STR+22&#xA;DEX+34 VIT+22 AGI+47&#xA;MND+22 CHR+40 Accuracy+46&#xA;Evasion+112 Magic Evasion+99&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+4% &quot;Pflug&quot;+4" ja="防95 HP+74 STR+22 DEX+34 VIT+22&#xA;AGI+47 MND+22 CHR+40&#xA;命中+46 回避+112 魔回避+99 魔防+6 ヘイスト+4%&#xA;フルーグ+4" />
   <o id="25579" en="DEF:113 HP+80 MP+20 STR+25 DEX+21&#xA;VIT+24 AGI+16 INT+12 MND+12 CHR+12&#xA;Accuracy+26 Magic Accuracy+26&#xA;Evasion+49 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+3 Haste+4%&#xA;&quot;Triple Attack&quot;+2% &quot;Store TP&quot;+3" ja="防113 HP+80 MP+20 STR+25 DEX+21&#xA;VIT+24 AGI+16 INT+12 MND+12 CHR+12&#xA;命中+26 魔命+26 回避+49 魔回避+53 魔防+3&#xA;ヘイスト+4% トリプルアタック+2% ストアTP+3" />
   <o id="25580" en="DEF:118 HP+80 MP+20 STR+32 DEX+28&#xA;VIT+24 AGI+16 INT+12 MND+12 CHR+12&#xA;Accuracy+38 Magic Accuracy+38&#xA;Evasion+49 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+3 Haste+4%&#xA;&quot;Triple Attack&quot;+4% &quot;Store TP&quot;+5" ja="防118 HP+80 MP+20 STR+32 DEX+28&#xA;VIT+24 AGI+16 INT+12 MND+12 CHR+12&#xA;命中+38 魔命+38 回避+49 魔回避+53 魔防+3&#xA;ヘイスト+4% トリプルアタック+4% ストアTP+5" />
-  <o id="25581" en="DEF:105 HP+37 MP+20 STR+20&#xA;DEX+28 VIT+16 AGI+23&#xA;INT+15 MND+14 CHR+17&#xA;Accuracy+26 Ranged Accuracy+26&#xA;Magic Accuracy+26&#xA;Evasion+63 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+8%&#xA;Potency of &quot;Waltz&quot; effects received +5%&#xA;Critical hit rate +2%" ja="防105 HP+37 MP+20 STR+20 DEX+28&#xA;VIT+16 AGI+23 INT+15 MND+14 CHR+17&#xA;命中+26 飛命+26 魔命+26 回避+63 魔回避+75&#xA;魔防+3 ヘイスト+8 被ワルツ回復量+5%&#xA;クリティカルヒット+2%" />
-  <o id="25582" en="DEF:110 HP+37 MP+20 STR+20&#xA;DEX+35 VIT+16 AGI+30&#xA;INT+15 MND+14 CHR+17&#xA;Accuracy+38 Ranged Accuracy+38&#xA;Magic Accuracy+38&#xA;Evasion+63 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+8%&#xA;Potency of &quot;Waltz&quot; effects received +8%&#xA;Critical hit rate +4%" ja="防110 HP+37 MP+20 STR+20 DEX+35&#xA;VIT+16 AGI+30 INT+15 MND+14 CHR+17&#xA;命中+38 飛命+38 魔命+38 回避+63 魔回避+75&#xA;魔防+3 ヘイスト+8 被ワルツ回復量+8%&#xA;クリティカルヒット+4%" />
+  <o id="25581" en="DEF:105 HP+37 MP+20 STR+20&#xA;DEX+28 VIT+16 AGI+23&#xA;INT+15 MND+14 CHR+17&#xA;Accuracy+26 Ranged Accuracy+26&#xA;Magic Accuracy+26&#xA;Evasion+63 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+8%&#xA;Potency of &quot;Waltz&quot; effects received +5%&#xA;Critical hit rate +2%" ja="防105 HP+37 MP+20 STR+20 DEX+28&#xA;VIT+16 AGI+23 INT+15 MND+14 CHR+17&#xA;命中+26 飛命+26 魔命+26 回避+63 魔回避+75&#xA;魔防+3 ヘイスト+8% 被ワルツ回復量+5%&#xA;クリティカルヒット+2%" />
+  <o id="25582" en="DEF:110 HP+37 MP+20 STR+20&#xA;DEX+35 VIT+16 AGI+30&#xA;INT+15 MND+14 CHR+17&#xA;Accuracy+38 Ranged Accuracy+38&#xA;Magic Accuracy+38&#xA;Evasion+63 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+8%&#xA;Potency of &quot;Waltz&quot; effects received +8%&#xA;Critical hit rate +4%" ja="防110 HP+37 MP+20 STR+20 DEX+35&#xA;VIT+16 AGI+30 INT+15 MND+14 CHR+17&#xA;命中+38 飛命+38 魔命+38 回避+63 魔回避+75&#xA;魔防+3 ヘイスト+8% 被ワルツ回復量+8%&#xA;クリティカルヒット+4%" />
+  <o id="25583" en="DEF:91 HP+36 MP+29 STR+10 DEX+10&#xA;VIT+12 AGI+1 INT+29 MND+23 CHR+21&#xA;Magic Accuracy+26 Magic Damage+52&#xA;Evasion+33 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+4%&#xA;&quot;Occult Acumen&quot;+7&#xA;Elemental magic casting time -3%" ja="防91 HP+36 MP+29 STR+10 DEX+10&#xA;VIT+12 AGI+1 INT+29 MND+23 CHR+21&#xA;魔命+26 魔法ダメージ+52 回避+33 魔回避+53&#xA;魔防+6 ヘイスト+4%&#xA;マジックアキュメン+7 精霊魔法の詠唱時間-3%" />
+  <o id="25584" en="DEF:96 HP+36 MP+29 STR+10 DEX+10&#xA;VIT+19 AGI+1 INT+36 MND+23 CHR+21&#xA;Magic Accuracy+38 Magic Damage+52&#xA;&quot;Magic Atk. Bonus&quot;+12&#xA;Evasion+33 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+4%&#xA;&quot;Occult Acumen&quot;+10&#xA;Elemental magic casting time -5%" ja="防96 HP+36 MP+29 STR+10 DEX+10&#xA;VIT+19 AGI+1 INT+36 MND+23 CHR+21&#xA;魔命+38 魔攻+12 魔法ダメージ+52 回避+33&#xA;魔回避+53 魔防+6 ヘイスト+4%&#xA;マジックアキュメン+10 精霊魔法の詠唱時間-5%" />
   <o id="25585" en="DEF:1 Enchantment: &quot;Teleport&quot;&#xA;(Upper Jeuno Chocobo Stables)" ja="防1&#xA;エンチャント:テレポ（ジュノ上層チョコボ厩舎）" />
   <o id="25586" en="DEF:1" ja="防1" />
   <o id="25587" en="DEF:2 Enchantment: Costume" ja="防2 エンチャント:コスチュームハロウィン" />
@@ -17693,6 +17855,8 @@
   <o id="25671" en="DEF:2&#xA;Enchantment: Rarab Incantations" ja="防2 エンチャント:ララブのお守り" />
   <o id="25672" en="DEF:1" ja="防1" />
   <o id="25673" en="DEF:2&#xA;Dispense: Delectable Delights" ja="防2 ストック:ひんやりスィーツ" />
+  <o id="25677" en="DEF:1" ja="防1" />
+  <o id="25678" en="DEF:2 Dispense: Crab Lover's Delight" ja="防2 ストック:カニすき" />
   <o id="25680" en="Cannot Equip Headgear&#xA;DEF:217 HP+91 MP+91 STR+35 DEX+35&#xA;VIT+35 AGI+35 INT+55 MND+55 CHR+48&#xA;Evasion+77 Magic Evasion+156&#xA;&quot;Magic Def. Bonus&quot;+12&#xA;Enfeebling magic skill +33&#xA;Elemental magic skill +33&#xA;Haste+9%&#xA;Unity Ranking: Magic Accuracy+10～20" ja="頭装備不可 防217 HP+91 MP+91 STR+35&#xA;DEX+35 VIT+35 AGI+35 INT+55 MND+55&#xA;CHR+48 回避+77 魔回避+156 魔防+12&#xA;弱体魔法スキル+33 精霊魔法スキル+33 ヘイスト+9%&#xA;ユニティランク:魔命+10～20" />
   <o id="25681" en="Cannot Equip Headgear&#xA;DEF:218 HP+91 MP+91 STR+35 DEX+35&#xA;VIT+35 AGI+35 INT+56 MND+56 CHR+48&#xA;Evasion+77 Magic Evasion+156&#xA;&quot;Magic Def. Bonus&quot;+12&#xA;Enfeebling magic skill +34&#xA;Elemental magic skill +34&#xA; Haste+9%&#xA;Unity Ranking: Magic Accuracy+10～20" ja="頭装備不可 防218 HP+91 MP+91 STR+35&#xA;DEX+35 VIT+35 AGI+35 INT+56 MND+56&#xA;CHR+48 回避+77 魔回避+156 魔防+12&#xA;弱体魔法スキル+34 精霊魔法スキル+34 ヘイスト+9%&#xA;ユニティランク:魔命+10～20" />
   <o id="25682" en="DEF:147 HP+63 MP+29 STR+28 DEX+29&#xA;VIT+24 AGI+29 INT+25 MND+24 CHR+24&#xA;Accuracy+27 Attack+27&#xA;Evasion+44 Magic Evasion+53&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Haste+3% &quot;Double Attack&quot;+4%&#xA;Pet: &quot;Magic Atk. Bonus&quot;+25&#xA;Damage taken -3%" ja="防147 HP+63 MP+29 STR+28 DEX+29&#xA;VIT+24 AGI+29 INT+25 MND+24 CHR+24&#xA;命中+27 攻+27 回避+44 魔回避+53 魔防+4&#xA;ヘイスト+3% ダブルアタック+4%&#xA;ペット:魔攻+25 被ダメージ-3%" />
@@ -17780,6 +17944,8 @@
   <o id="25780" en="DEF:148 HP+140 MP+35 STR+39 DEX+35&#xA;VIT+32 AGI+20 INT+20 MND+20 CHR+20&#xA;Accuracy+40 Magic Accuracy+40&#xA;Evasion+55 Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+2%&#xA;&quot;Store TP&quot;+8 &quot;Subtle Blow&quot;+15" ja="防148 HP+140 MP+35 STR+39 DEX+35&#xA;VIT+32 AGI+20 INT+20 MND+20 CHR+20&#xA;命中+40 魔命+40 回避+55 魔回避+69 魔防+6&#xA;ヘイスト+2% ストアTP+8 モクシャ+15" />
   <o id="25781" en="DEF:131 HP+60 MP+35 STR+28&#xA;DEX+37 VIT+24 AGI+33&#xA;INT+21 MND+20 CHR+24&#xA;Accuracy+28 Ranged Accuracy+28&#xA;Magic Accuracy+28&#xA;Evasion+69 Magic Evasion+80&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+4% &quot;Store TP&quot;+3&#xA;Critical hit rate +5%" ja="防131 HP+60 MP+35 STR+28 DEX+37&#xA;VIT+24 AGI+33 INT+21 MND+20 CHR+24&#xA;命中+28 飛命+28 魔命+28 回避+69 魔回避+80&#xA;魔防+6 ヘイスト+4% ストアTP+3&#xA;クリティカルヒット+5%" />
   <o id="25782" en="DEF:136 HP+60 MP+35 STR+28&#xA;DEX+44 VIT+24 AGI+40&#xA;INT+21 MND+20 CHR+24&#xA;Accuracy+40 Ranged Accuracy+40&#xA;Magic Accuracy+40&#xA;Evasion+69 Magic Evasion+80&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Haste+4% &quot;Store TP&quot;+5&#xA;Critical hit rate +8%" ja="防136 HP+60 MP+35 STR+28 DEX+44&#xA;VIT+24 AGI+40 INT+21 MND+20 CHR+24&#xA;命中+40 飛命+40 魔命+40 回避+69 魔回避+80&#xA;魔防+6 ヘイスト+4% ストアTP+5&#xA;クリティカルヒット+8%" />
+  <o id="25783" en="DEF:119 HP+68 MP+53 STR+16 DEX+19&#xA;VIT+19 AGI+16 INT+43 MND+33 CHR+32&#xA;Magic Accuracy+28 Magic Damage+58&#xA;Evasion+38 Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+7 Haste+2%&#xA;Elemental magic casting time -5%&#xA;Damage taken -5%" ja="防119 HP+68 MP+53 STR+16 DEX+19&#xA;VIT+19 AGI+16 INT+43 MND+33 CHR+32&#xA;魔命+28 魔法ダメージ+58 回避+38 魔回避+69&#xA;魔防+7 ヘイスト+2%&#xA;精霊魔法の詠唱時間-5% 被ダメージ-5%" />
+  <o id="25784" en="DEF:124 HP+68 MP+53 STR+16 DEX+19&#xA;VIT+26 AGI+16 INT+50 MND+33 CHR+32&#xA;Magic Accuracy+40 Magic Damage+58&#xA;&quot;Magic Atk. Bonus&quot;+12&#xA;Evasion+38 Magic Evasion+69&#xA;&quot;Magic Def. Bonus&quot;+7 Haste+2%&#xA;Elemental magic casting time -8%&#xA;Damage taken -6%" ja="防124 HP+68 MP+53 STR+16 DEX+19&#xA;VIT+26 AGI+16 INT+50 MND+33 CHR+32&#xA;魔命+40 魔攻+12 魔法ダメージ+58 回避+38&#xA;魔回避+69 魔防+7 ヘイスト+2%&#xA;精霊魔法の詠唱時間-8% 被ダメージ-6%" />
   <o id="25785" en="DEF:155 HP+136 MP+59 STR+40&#xA;DEX+30 VIT+40 AGI+30&#xA;INT+30 MND+30 CHR+30&#xA;Accuracy+45 Attack+45&#xA;Evasion+60 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+1% &quot;Triple Attack&quot;+5%&#xA;&quot;Subtle Blow II&quot;+10&#xA;&quot;Resist Slow&quot;+90&#xA;Critical hit rate +4%" ja="防155 HP+136 MP+59 STR+40 DEX+30&#xA;VIT+40 AGI+30 INT+30 MND+30 CHR+30&#xA;命中+45 攻+45 回避+60 魔回避+86 魔防+5&#xA;ヘイスト+1% トリプルアタック+5% モクシャII+10&#xA;レジストスロウ+90 クリティカルヒット+4%" />
   <o id="25786" en="DEF:148 HP+182 MP+44 STR+30&#xA;DEX+40 VIT+30 AGI+30&#xA;INT+30 MND+30 CHR+40&#xA;Accuray+45 Attack+45&#xA;Ranged Accuracy+45&#xA;Evasion+90 Magic Evasion+96&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% &quot;Store TP&quot;+10&#xA;&quot;Resist Paralyze&quot;+90&#xA;Damage taken -7%" ja="防148 HP+182 MP+44 STR+30 DEX+40&#xA;VIT+30 AGI+30 INT+30 MND+30 CHR+40&#xA;命中+45 攻+45 飛命+45 回避+90 魔回避+96&#xA;魔防+5 ヘイスト+4% ストアTP+10&#xA;レジストパライズ+90 被ダメージ-7%" />
   <o id="25787" en="DEF:140 HP+57 MP+88 STR+30&#xA;DEX+30 VIT+30 AGI+30&#xA;INT+40 MND+40 CHR+30&#xA;Magic Accuracy+45&#xA;Evasion+50 Magic Evasion+106&#xA;&quot;Magic Atk. Bonus&quot;+45&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Enmity-10 Haste+3%&#xA;&quot;Resist Silence&quot;+90 &quot;Refresh&quot;+3&#xA;Physical damage taken -10%" ja="防140 HP+57 MP+88 STR+30 DEX+30&#xA;VIT+30 AGI+30 INT+40 MND+40 CHR+30&#xA;魔命+45 魔攻+45 回避+50 魔回避+106 魔防+6&#xA;敵対心-10 ヘイスト+3% レジストサイレス+90&#xA;リフレシュ+3 被物理ダメージ-10% " />
@@ -17804,6 +17970,8 @@
   <o id="25819" en="DEF:106 HP+60 MP+15 STR+19 DEX+42&#xA;VIT+35 AGI+8 INT+7 MND+24 CHR+17&#xA;Accuracy+37 Magic Accuracy+37&#xA;Evasion+36 Magic Evasion+48&#xA;&quot;Magic Def. Bonus&quot;+2 Haste+4%&#xA;&quot;Store TP&quot;+5 Critical hit rate +7%" ja="防106 HP+60 MP+15 STR+19 DEX+42&#xA;VIT+35 AGI+8 INT+7 MND+24 CHR+17&#xA;命中+37 魔命+37 回避+36 魔回避+48 魔防+2&#xA;ヘイスト+4% ストアTP+5 クリティカルヒット+7%" />
   <o id="25820" en="DEF:96 HP+45 MP+15 STR+16&#xA;DEX+42 VIT+30 AGI+11&#xA;INT+14 MND+26 CHR+21&#xA;Accuracy+25 Ranged Accuracy+25&#xA;Magic Accuracy+25&#xA;Evasion+49 Magic Evasion+43&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+5% &quot;Double Attack&quot;+3%&#xA;Critical hit rate +3%" ja="防96 HP+45 MP+15 STR+16 DEX+42&#xA;VIT+30 AGI+11 INT+14 MND+26 CHR+21&#xA;命中+25 飛命+25 魔命+25 回避+49 魔回避+43&#xA;魔防+2 ヘイスト+5% ダブルアタック+3%&#xA;クリティカルヒット+3%" />
   <o id="25821" en="DEF:101 HP+45 MP+15 STR+16&#xA;DEX+49 VIT+30 AGI+18&#xA;INT+14 MND+26 CHR+21&#xA;Accuracy+37 Ranged Accuracy+37&#xA;Magic Accuracy+37&#xA;Evasion+49 Magic Evasion+43&#xA;&quot;Magic Def. Bonus&quot;+2&#xA;Haste+5% &quot;Double Attack&quot;+5%&#xA;Critical hit rate +5%" ja="防101 HP+45 MP+15 STR+16 DEX+49&#xA;VIT+30 AGI+18 INT+14 MND+26 CHR+21&#xA;命中+37 飛命+37 魔命+37 回避+49 魔回避+43&#xA;魔防+2 ヘイスト+5% ダブルアタック+5%&#xA;クリティカルヒット+5%" />
+  <o id="25822" en="DEF:78 HP+27 MP+26 STR+3 DEX+23&#xA;VIT+23 AGI+2 INT+29 MND+37 CHR+21&#xA;Magic Accuracy+25 Magic Damage+49&#xA;Evasion+19 Magic Evasion+48&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+4% Enmity-5&#xA;Elemental magic casting time -3%" ja="防78 HP+27 MP+26 STR+3 DEX+23&#xA;VIT+23 AGI+2 INT+29 MND+37 CHR+21&#xA;魔命+25 魔法ダメージ+49 回避+19&#xA;魔回避+48 魔防+3 ヘイスト+4% 敵対心-5&#xA;精霊魔法の詠唱時間-3%" />
+  <o id="25823" en="DEF:83 HP+27 MP+26 STR+3 DEX+23&#xA;VIT+30 AGI+2 INT+36 MND+37 CHR+21&#xA;Magic Accuracy+37 Magic Damage+49&#xA;&quot;Magic Atk. Bonus&quot;+12&#xA;Evasion+19 Magic Evasion+48&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+4% Enmity-8&#xA;Elemental magic casting time -5%" ja="防83 HP+27 MP+26 STR+3 DEX+23&#xA;VIT+30 AGI+2 INT+36 MND+37 CHR+21&#xA;魔命+37 魔攻+12 魔法ダメージ+49 回避+19&#xA;魔回避+48 魔防+3 ヘイスト+4% 敵対心-8&#xA;精霊魔法の詠唱時間-5%" />
   <o id="25840" en="DEF:132 HP+54 MP+41 STR+37 VIT+23&#xA;AGI+16 INT+26 MND+12 CHR+10&#xA;Accuracy+15&#xA;Evasion+22 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+4&#xA;Haste+5% Enmity+4&#xA;&quot;Store TP&quot;+5 &quot;Double Attack&quot;+2%" ja="防132 HP+54 MP+41 STR+37 VIT+23&#xA;AGI+16 INT+26 MND+12 CHR+10 命中+15&#xA;回避+22 魔回避+86 魔防+4 ヘイスト+5% 敵対心+4&#xA;ストアTP+5 ダブルアタック+2%" />
   <o id="25841" en="DEF:127 HP+95 STR+39 VIT+26 AGI+16&#xA;INT+24 MND+14 CHR+11 Attack+15&#xA;Evasion+24 Magic Evasion+80&#xA;&quot;Magic Def. Bonus&quot;+3&#xA;Haste+5% &quot;Double Attack&quot;+3%&#xA;Physical damage taken -2%" ja="防127 HP+95 STR+39 VIT+26 AGI+16&#xA;INT+24 MND+14 CHR+11 攻+15 回避+24&#xA;魔回避+80 魔防+3 ヘイスト+5% ダブルアタック+3%&#xA;被物理ダメージ-2%" />
   <o id="25842" en="DEF:114 HP+38 STR+33 VIT+16 AGI+32&#xA;INT+29 MND+15 CHR+10&#xA;Attack+15 Ranged Attack+15&#xA;Evasion+62 Magic Evasion+75&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+6% Enmity-4 &quot;Store TP&quot;+4&#xA;Physical damage taken -2%" ja="防114 HP+38 STR+33 VIT+16 AGI+32&#xA;INT+29 MND+15 CHR+10 攻+15 飛攻+15&#xA;回避+62 魔回避+75 魔防+5 ヘイスト+6% 敵対心-4&#xA;ストアTP+4 被物理ダメージ-2%" />
@@ -17834,6 +18002,8 @@
   <o id="25874" en="DEF:130 HP+100 MP+25 STR+49 DEX+7&#xA;VIT+29 AGI+16 INT+24 MND+14 CHR+11&#xA;Accuracy+39 Magic Accuracy+39&#xA;Evasion+41 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% &quot;Store TP&quot;+7&#xA;Potency of &quot;Cure&quot; effect received +8%" ja="防130 HP+100 MP+25 STR+49 DEX+7&#xA;VIT+29 AGI+16 INT+24 MND+14 CHR+11&#xA;命中+39 魔命+39 回避+41 魔回避+86 魔防+5&#xA;ヘイスト+4% ストアTP+7 被ケアル回復量+8%" />
   <o id="25875" en="DEF:113 HP+52 MP+25&#xA;STR+33 VIT+16 AGI+34&#xA;INT+29 MND+15 CHR+12&#xA;Accuracy+27 Ranged Accuracy+27&#xA;Magic Accuracy+27&#xA;Evasion+55 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+6% Critical hit rate +4%&#xA;Damage taken -3%" ja="防113 HP+52 MP+25 STR+33 VIT+16&#xA;AGI+34 INT+29 MND+15 CHR+12&#xA;命中+27 飛命+27 魔命+27 回避+55 魔回避+107&#xA;魔防+5 ヘイスト+6% クリティカルヒット+4%&#xA;被ダメージ-3%" />
   <o id="25876" en="DEF:118 HP+52 MP+25 STR+33&#xA;DEX+7 VIT+16 AGI+41&#xA;INT+29 MND+15 CHR+12&#xA;Accuracy+39 Ranged Accuracy+39&#xA;Magic Accuracy+39&#xA;Evasion+55 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+6% Critical hit rate +6%&#xA;Damage taken -4%" ja="防118 HP+52 MP+25 STR+33 DEX+7&#xA;VIT+16 AGI+41 INT+29 MND+15 CHR+12&#xA;命中+39 飛命+39 魔命+39 回避+55 魔回避+107&#xA;魔防+5 ヘイスト+6% クリティカルヒット+6%&#xA;被ダメージ-4%" />
+  <o id="25877" en="DEF:100 HP+45 MP+38 STR+19 VIT+8&#xA;AGI+14 INT+46 MND+28 CHR+21&#xA;Magic Accuracy+27 Magic Damage+55&#xA;Evasion+24 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+4%&#xA;Magic burst damage +3&#xA;Elemental magic casting time -4%" ja="防100 HP+45 MP+38 STR+19 VIT+8&#xA;AGI+14 INT+46 MND+28 CHR+21&#xA;魔命+27 魔法ダメージ+55 回避+24 魔回避+86&#xA;魔防+6 ヘイスト+4%&#xA;マジックバーストダメージ+3 精霊魔法の詠唱時間-4%" />
+  <o id="25878" en="DEF:105 HP+45 MP+38 STR+19 VIT+15&#xA;AGI+14 INT+53 MND+28 CHR+21&#xA;Magic Accuracy+39 Magic Damage+55&#xA;&quot;Magic Atk. Bonus&quot;+12&#xA;Evasion+24 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+4%&#xA;Magic burst damage +5&#xA;Elemental magic casting time -6%" ja="防105 HP+45 MP+38 STR+19 VIT+15&#xA;AGI+14 INT+53 MND+28 CHR+21&#xA;魔命+39 魔攻+12 魔法ダメージ+55 回避+24&#xA;魔回避+86 魔防+6 ヘイスト+4%&#xA;マジックバーストダメージ+5 精霊魔法の詠唱時間-6%" />
   <o id="25920" en="DEF:84 HP+18 MP+29 STR+17 DEX+26&#xA;VIT+11 AGI+38 MND+16 CHR+32&#xA;Resist all elements +15 Accuracy+35&#xA;Evasion+77 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% Enmity+7&#xA;Physical damage taken -4%" ja="防84 HP+18 MP+29 STR+17 DEX+26&#xA;VIT+11 AGI+38 MND+16 CHR+32&#xA;全耐性+15 命中+35 回避+77 魔回避+107 魔防+5&#xA;ヘイスト+4% 敵対心+7 被物理ダメージ-4%" />
   <o id="25921" en="DEF:71 HP+65 MP+67 STR+12 DEX+16&#xA;VIT+12 AGI+33 INT+16 MND+17 CHR+33&#xA;Magic Accuracy+37&#xA;Evasion+60 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Enfeebling magic skill +17&#xA;Haste+3% &quot;Cure&quot; potency +7%" ja="防71 HP+65 MP+67 STR+12 DEX+16&#xA;VIT+12 AGI+33 INT+16 MND+17 CHR+33&#xA;魔命+37 回避+60 魔回避+107 魔防+6&#xA;弱体魔法スキル+17 ヘイスト+3% ケアル回復量+7%" />
   <o id="25922" en="DEF:69 HP+9 MP+20 STR+8 DEX+8&#xA;VIT+8 AGI+29 INT+19 MND+17 CHR+32&#xA;&quot;Magic Atk. Bonus&quot;+35&#xA;&quot;Magic Def. Bonus&quot;+6&#xA;Magic Damage+10&#xA;Evasion+60 Magic Evasion+118&#xA;Elemental magic skill +15&#xA;Haste+3% &quot;Fast Cast&quot;+5%" ja="防69 HP+9 MP+20 STR+8 DEX+8 VIT+8&#xA;AGI+29 INT+19 MND+17 CHR+32 魔攻+35&#xA;魔法ダメージ+10 回避+60 魔回避+118 魔防+6&#xA;精霊魔法スキル+15 ヘイスト+3%&#xA;ファストキャスト+5%" />
@@ -17857,6 +18027,8 @@
   <o id="25941" en="DEF:88 HP+40 MP+10 STR+27 DEX+30&#xA;VIT+20 AGI+26 MND+6 CHR+20&#xA;Accuracy+36 Magic Accuracy+36&#xA;Evasion+74 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+5 Haste+2%&#xA;&quot;Double Attack&quot;+5% &quot;Store TP&quot;+5" ja="防88 HP+40 MP+10 STR+27 DEX+30&#xA;VIT+20 AGI+26 MND+6 CHR+20&#xA;命中+36 魔命+36 回避+74 魔回避+86 魔防+5&#xA;ヘイスト+2% ダブルアタック+5% ストアTP+5" />
   <o id="25942" en="DEF:75 HP+30 MP+10&#xA;STR+16 DEX+26 VIT+10&#xA;AGI+46 MND+11 CHR+29&#xA;Accuracy+24 Ranged Accuracy+24&#xA;Magic Accuracy+24&#xA;Evasion+88 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% &quot;Subtle Blow&quot;+5&#xA;Critical hit rate +2%" ja="防75 HP+30 MP+10 STR+16 DEX+26&#xA;VIT+10 AGI+46 MND+11 CHR+29&#xA;命中+24 飛命+24 魔命+24 回避+88 魔回避+107&#xA;魔防+5 ヘイスト+4% モクシャ+5&#xA;クリティカルヒット+2%" />
   <o id="25943" en="DEF:80 HP+30 MP+10&#xA;STR+16 DEX+33 VIT+10&#xA;AGI+53 MND+11 CHR+29&#xA;Accuracy+36 Ranged Accuracy+36&#xA;Magic Accuracy+36&#xA;Evasion+88 Magic Evasion+107&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Haste+4% &quot;Subtle Blow&quot;+8&#xA;Critical hit rate +4%" ja="防80 HP+30 MP+10 STR+16 DEX+33&#xA;VIT+10 AGI+53 MND+11 CHR+29&#xA;命中+36 飛命+36 魔命+36 回避+88 魔回避+107&#xA;魔防+5 ヘイスト+4% モクシャ+8&#xA;クリティカルヒット+4%" />
+  <o id="25944" en="DEF:60 HP+20 MP+20 STR+6 DEX+6&#xA;VIT+8 AGI+26 INT+26 MND+23 CHR+35&#xA;Magic Accuracy+24 Magic Damage+46&#xA;Evasion+60 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+2%&#xA;Elemental magic casting time -3%&#xA;Converts 7% of damage taken to MP" ja="防60 HP+20 MP+20 STR+6 DEX+6 VIT+8&#xA;AGI+26 INT+26 MND+23 CHR+35&#xA;魔命+24 魔法ダメージ+46 回避+60 魔回避+86&#xA;魔防+6 ヘイスト+2%&#xA;精霊魔法の詠唱時間-3% 被ダメージの7%をMPに変換" />
+  <o id="25945" en="DEF:65 HP+20 MP+20 STR+6 DEX+6&#xA;VIT+15 AGI+26 INT+33 MND+23 CHR+35&#xA;Magic Accuracy+36 Magic Damage+46&#xA;&quot;Magic Atk. Bonus&quot;+12&#xA;Evasion+60 Magic Evasion+86&#xA;&quot;Magic Def. Bonus&quot;+6 Haste+2%&#xA;Elemental magic casting time -5%&#xA;Converts 10% of damage tak" ja="防65 HP+20 MP+20 STR+6 DEX+6 VIT+15&#xA;AGI+26 INT+33 MND+23 CHR+35&#xA;魔命+36 魔攻+12 魔法ダメージ+46 回避+60&#xA;魔回避+86 魔防+6 ヘイスト+2%&#xA;精霊魔法の詠唱時間-5% 被ダメージの10%をMPに変換" />
   <o id="26000" en="&quot;Blood Boon&quot;+3&#xA;Avatar: Accuracy+5 Magic Accuracy+5&#xA;Enmity+5" ja="ブラッドブーン+3&#xA;召喚獣:命中+5 魔命+5 敵対心+5" />
   <o id="26001" en="Damage taken -5%&#xA;Unity Ranking: DEF:+10～15" ja="被ダメージ-5%&#xA;ユニティランク:防+10～15" />
   <o id="26002" en="Damage taken -6%&#xA;Unity Ranking: DEF:+10～15" ja="被ダメージ-6%&#xA;ユニティランク:防+10～15" />
@@ -17886,6 +18058,9 @@
   <o id="26028" en="DEF:8 HP+25&#xA;Damage taken -4%&#xA;Pet: Magic Accuracy+20&#xA;&quot;Magic Atk. Bonus&quot;+10" ja="防8 HP+25 被ダメージ-4%&#xA;ペット:魔命+20 魔攻+10" />
   <o id="26029" en="DEF:10 Attack+20&#xA;&quot;Store TP&quot;+7&#xA;&quot;Resist Stun&quot;+10" ja="防10 攻+20 ストアTP+7 レジストスタン+10 " />
   <o id="26030" en="DEF:6 Magic Accuracy+17&#xA;Dark magic skill +10&#xA;&quot;Absorb&quot; effect +5%&#xA;&quot;Drain&quot; and &quot;Aspir&quot; potency +5" ja="防6 魔命+17 暗黒魔法スキル+10&#xA;アブゾ系効果+5% ドレインとアスピル吸収量+5" />
+  <o id="26031" en="DEF:10 All songs +1" ja="防10 全歌+1" />
+  <o id="26032" en="DEF:12 CHR+18&#xA;Magic Accuracy+18&#xA;All songs +2" ja="防12 CHR+18 魔命+18 全歌+2" />
+  <o id="26033" en="DEF:14 CHR+23&#xA;Magic Accuracy+23&#xA;All songs +3" ja="防14 CHR+23 魔命+23 全歌+3" />
   <o id="26080" en="DEX+5 Accuracy+7&#xA;&quot;Double Attack&quot;+1%&#xA;&quot;Martial Arts&quot;+10" ja="DEX+5 命中+7 ダブルアタック+1%&#xA;マーシャルアーツ+10" />
   <o id="26081" en="DEX+8 Accuracy+10&#xA;&quot;Double Attack&quot;+2%&#xA;&quot;Martial Arts&quot;+13" ja="DEX+8 命中+10 ダブルアタック+2%&#xA;マーシャルアーツ+13" />
   <o id="26082" en="DEF:3 Magic Evasion+10&#xA;&quot;Magic Def. Bonus&quot;+5&#xA;Avatar: Accuracy+15&#xA;Ranged Accuracy+15&#xA;Magic Accuracy+15&#xA;&quot;Blood Pact&quot; damage +10" ja="防3 魔回避+10 魔防+5&#xA;召喚獣:命中+15 飛命+15 魔命+15&#xA;契約の履行ダメージ+10" />
@@ -17920,6 +18095,18 @@
   <o id="26186" en="DEF:10 HP+60 DEX+10&#xA;AGI+10 Attack+25&#xA;&quot;Store TP&quot;+5 " ja="防10 HP+60 DEX+10 AGI+10 攻+25&#xA;ストアTP+5 " />
   <o id="26187" en="AGI+10 Ranged Attack+25&#xA;&quot;Magic Atk. Bonus&quot;+10&#xA;&quot;Recycle&quot;+10" ja="AGI+10 飛攻+25 魔攻+10 リサイクル+10" />
   <o id="26188" en="Magic Accuracy+5&#xA;&quot;Fast Cast&quot;+4%&#xA;Enfeebling magic effect duration +10%&#xA;&quot;Absorb&quot; effect duration +10%" ja="魔命+5 ファストキャスト+4%&#xA;弱体魔法効果時間+10% アブゾ系効果時間+10%" />
+  <o id="26192" en="HP+55 MP+55&#xA;Accuracy+8 Attack+20&#xA;Ranged Accuracy+8&#xA;Ranged Attack+20&#xA;Magic Accuracy+8&#xA;&quot;Magic Atk. Bonus&quot;+8" ja="HP+55 MP+55 命中+8 攻+20 飛命+8&#xA;飛攻+20 魔命+8 魔攻+8" />
+  <o id="26193" en="Sublimation+2&#xA;&quot;Regen&quot;+2&#xA;&quot;Refresh&quot;+2" ja="机上演習+2 リジェネ+2 リフレシュ+2" />
+  <o id="26194" en="Magic Accuracy+13&#xA;&quot;Fast Cast&quot;+6%&#xA;&quot;Quick Magic&quot;+4%&#xA;Light elemental&#xA;&quot;Magic Atk. Bonus&quot;+11" ja="魔命+13 ファストキャスト+6% &#xA;クイックマジック+4% 光属性魔攻+11" />
+  <o id="26195" en="MP+44 Enmity-8&#xA;&quot;Cure&quot; potency II +6%" ja="MP+44 敵対心-8 ケアル回復量II+6%" />
+  <o id="26196" en="Singing skill +11&#xA;Blue magic skill +11&#xA;Geomancy skill +11&#xA;&quot;Refresh&quot;+2" ja="歌唱スキル+11 青魔法スキル+11&#xA;風水魔法スキル+11 リフレシュ+2" />
+  <o id="26197" en="Gilfinder+2&#xA;&quot;Treasure Hunter&quot;+1&#xA;&quot;Steal&quot;+3 &quot;Mug&quot;+2" ja="ギルスティール+2 トレジャーハンター+1&#xA;ぬすむ+3 かすめとる+2" />
+  <o id="26198" en="Ranged Accuracy+23&#xA;Ninjutsu skill +11&#xA;&quot;Snapshot&quot;+7&#xA;&quot;Dual Wield&quot;+6" ja="飛命+23 忍術スキル+11 スナップショット+7&#xA;二刀流+6" />
+  <o id="26199" en="Regain+5&#xA;Weapon Skill Accuracy+10&#xA;Weapon skill damage +4%" ja="リゲイン+5 ウェポンスキルの命中+10&#xA;ウェポンスキルのダメージ+4%" />
+  <o id="26200" en="Potency of &quot;Cure&quot; effect received +6%&#xA;Damage taken -8%&#xA;Reduces distance knocked back +2" ja="被ケアル回復量+6% 被ダメージ-8%&#xA;ノックバック軽減+2" />
+  <o id="26201" en="Pet: Accuracy+22 Ranged Accuracy+22&#xA;Attack+23 Ranged Attack+23&#xA;Haste+4% Damage taken -4%" ja="ペット:命中+22 飛命+22 攻+23 飛攻+23&#xA;ヘイスト+4% 被ダメージ-4%" />
+  <o id="26202" en="&quot;Resist Petrify&quot;+17&#xA;&quot;Resist Bind&quot;+17&#xA;&quot;Resist Gravity&quot;+17&#xA;Movement speed +18%" ja="レジストペトリ+17 レジストバインド+17&#xA;レジストグラビティ+17 移動速度+18%" />
+  <o id="26203" en="Increases rate of synthesis&#xA;success by 2%&#xA;Increases rate of high-quality item&#xA;synthesis success by 1%&#xA;Decreases likelihood of synthesis&#xA;material loss +2%&#xA;Synthesis skill gain rate +6%" ja="合成成功率+2% ハイクォリティー成功率+1%&#xA;合成素材消失率-2% 合成スキル上昇率+6%" />
   <o id="26240" en="DEF:17 HP+50 MP+50 STR+4 DEX+4&#xA;VIT+4 AGI+4 INT+4 MND+4 CHR+4&#xA;&quot;Resist Poison&quot;+15 &quot;Resist Stun&quot;+15" ja="防17 HP+50 MP+50 STR+4 DEX+4 VIT+4&#xA;AGI+4 INT+4 MND+4 CHR+4&#xA;レジストポイズン+15 レジストスタン+15" />
   <o id="26241" en="DEF:15 Pet: Attack+16&#xA;&quot;Magic Atk. Bonus&quot;+16&#xA;Critical hit rate +3%" ja="防15 ペット:攻+16 魔攻+16&#xA;クリティカルヒット+3%" />
   <o id="26242" en="DEF:21 STR+5 Attack+25 Enmity+5" ja="防21 STR+5 攻+25 敵対心+5 " />
@@ -17978,6 +18165,22 @@
   <o id="26419" en="DEF:47 HP+22 MP+58&#xA;INT+13 MND+13&#xA;Shield skill +107&#xA;Magic Accuracy+38&#xA;&quot;Magic Atk. Bonus&quot;+38&#xA;Enhancing magic effect duration +10%" ja="防47 HP+22 MP+58 INT+13 MND+13&#xA;盾スキル+107 魔命+38 魔攻+38&#xA;強化魔法の効果時間+10" />
   <o id="26420" en="DEF:63 HP+120&#xA;Shield skill +112&#xA;Chance of successful block +20&#xA;Damage taken -5%&#xA;Physical damage taken: &quot;Reprisal&quot;" ja="防63 HP+120 盾スキル+112 盾発動率+20&#xA;被ダメージ-5% 被物理ダメージ:リアクト" />
   <o id="26421" en="DEF:40 HP+22&#xA;Ranged Accuracy+20&#xA;Ranged Attack+20&#xA;Shield skill +107&#xA;&quot;Store TP&quot;+3" ja="防40 HP+22 飛命+20 飛攻+20 盾スキル+107&#xA;ストアTP+3 " />
+  <o id="26423" en="DEF:1" ja="防1" />
+  <o id="26424" en="DEF:2&#xA;Woodworking skill +1" ja="防2 木工スキル+1" />
+  <o id="26428" en="DEF:1" ja="防1" />
+  <o id="26429" en="DEF:2&#xA;Blacksmithing skill +1" ja="防2 鍛冶スキル+1" />
+  <o id="26433" en="DEF:1" ja="防1" />
+  <o id="26434" en="DEF:2&#xA;Goldsmithing skill +1" ja="防2 彫金スキル+1" />
+  <o id="26438" en="DEF:1" ja="防1" />
+  <o id="26439" en="DEF:2&#xA;Clothcraft skill +1" ja="防2 裁縫スキル+1" />
+  <o id="26443" en="DEF:1" ja="防1" />
+  <o id="26444" en="DEF:2&#xA;Leathercraft skill +1" ja="防2 革細工スキル+1" />
+  <o id="26448" en="DEF:1" ja="防1" />
+  <o id="26449" en="DEF:2&#xA;Boneworking skill +1" ja="防2 骨細工スキル+1" />
+  <o id="26453" en="DEF:1" ja="防1" />
+  <o id="26454" en="DEF:2&#xA;Alchemy skill +1" ja="防2 錬金術スキル+1" />
+  <o id="26458" en="DEF:1" ja="防1" />
+  <o id="26459" en="DEF:2&#xA;Cooking skill +1" ja="防2 調理スキル+1" />
   <o id="26520" en="DEF:1" ja="防1" />
   <o id="26523" en="Enchantment: &quot;Teleport&quot;&#xA;(Adoulin Castle Gates)" ja="防2 エンチャント:テレポ（アドゥリン城門前）" />
   <o id="26624" en="DEF:82 HP+18 STR+19 DEX+12 VIT+19&#xA;AGI+12 INT+12 MND+12 CHR+12&#xA;Attack+18 Evasion+16&#xA;Magic Evasion+36&#xA;&quot;Magic Def. Bonus&quot;+1&#xA;Parrying skill +15 Haste+7%&#xA;&quot;Warcry&quot; effect duration +25" ja="防82 HP+18 STR+19 DEX+12 VIT+19&#xA;AGI+12 INT+12 MND+12 CHR+12 攻+18&#xA;回避+16 魔回避+36 魔防+1 受け流しスキル+15&#xA;ヘイスト+7% ウォークライ効果時間+25" />
@@ -18935,8 +19138,8 @@
   <o id="27587" en="&quot;Regain&quot;+5&#xA;Weapon Skill Accuracy+5&#xA;Weapon Skill Damage+3%" ja="リゲイン+5 ウェポンスキルの命中+5&#xA;ウェポンスキルのダメージ+3%" />
   <o id="27588" en="Potency of &quot;Cure&quot; effect received +5%&#xA;Damage taken -7%&#xA;Reduces distance knocked back +2" ja="被ケアル回復量+5% 被ダメージ-7%&#xA;ノックバック軽減+2" />
   <o id="27589" en="Pet: Accuracy+20 Ranged Accuracy+20&#xA;Attack+20 Ranged Attack+20&#xA;Haste+3% Damage taken -3%" ja="ペット:命中+20 飛命+20 攻+20 飛攻+20&#xA;ヘイスト+3% 被ダメージ-3%" />
-  <o id="27590" en="Movement speed +18%&#xA;&quot;Resist Petrify&quot;+15&#xA;&quot;Resist Bind&quot;+15&#xA;&quot;Resist Gravity&quot;+15" ja="移動速度+18% レジストペトリ+15&#xA;レジストバインド+15 レジストグラビティ+15" />
-  <o id="27591" en="Synthesis skill gain rate +5%&#xA;Decreases likelihood of synthesis&#xA;material loss +1%&#xA;Increases rate of synthesis&#xA;success by 1%&#xA;Increases rate of high quality-item&#xA;synthesis success by 1%" ja="合成スキル上昇率+5% 合成素材消失率-1%&#xA;合成成功率+1% ハイクォリティー成功率+1%" />
+  <o id="27590" en="&quot;Resist Petrify&quot;+15&#xA;&quot;Resist Bind&quot;+15&#xA;&quot;Resist Gravity&quot;+15&#xA;Movement speed +18%" ja="レジストペトリ+15 レジストバインド+15&#xA;レジストグラビティ+15 移動速度+18%" />
+  <o id="27591" en="Decreases likelihood of synthesis&#xA;material loss +1%&#xA;Increases rate of synthesis&#xA;success by 1%&#xA;Increases rate of high quality-item&#xA;synthesis success by 1%&#xA;Synthesis skill gain rate +5%&#xA;" ja="合成成功率+1% ハイクォリティー成功率+1%&#xA;合成素材消失率-1% 合成スキル上昇率+5%" />
   <o id="27592" en="HP+20 MP+20&#xA;Evasion+9 Magic Evasion+9&#xA;Enmity+3" ja="HP+20 MP+20 回避+9 魔回避+9 敵対心+3" />
   <o id="27594" en="DEF:13 STR+5 &quot;Double Attack&quot;+4%&#xA;Fire elemental weather:&#xA;Attack+20" ja="防13 STR+5 ダブルアタック+4%&#xA;火属性天候:攻+20" />
   <o id="27595" en="DEF:13 Attack+12&#xA;&quot;Magic Atk. Bonus&quot;+12 Pet: Attack+12&#xA;Ranged Attack+12&#xA;&quot;Magic Atk. Bonus&quot;+12" ja="防13 攻+12 魔攻+12&#xA;ペット:攻+12 飛攻+12 魔攻+12" />

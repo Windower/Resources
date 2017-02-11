@@ -2587,7 +2587,7 @@
   <o id="3082" en="Galumph" ja="ガランフ" />
   <o id="3083" en="Coming Through" ja="カミングスルー" />
   <o id="3084" en="Merciless Mauling" ja="マーセレスマウリング" />
-  <o id="3085" en="Croctastrophy" ja="クロックタストロフィー" />
+  <o id="3085" en="Croctastrophe" ja="クロックタストロフィー" />
   <o id="3087" en="Battle Trance" ja="バトルトランス" />
   <o id="3091" en="Baneful Blades" ja="ベインブレイド" />
   <o id="3092" en="Wildwood Indignation" ja="フォレストインディグネイト" />
@@ -3198,6 +3198,16 @@
   <o id="3815" en="Area" ja="範囲攻撃技" />
   <o id="3816" en="Chemical Bomb II" ja="ケミカルボムII" />
   <o id="3817" en="Death Sentence" ja="死の宣告" />
+  <o id="3818" en="Sacred Caper" ja="セイクリッドケーパー" />
+  <o id="3819" en="Phototrophic Blessing" ja="フォトトロフブレッシング" />
+  <o id="3820" en="Phototrophic Wrath" ja="フォトトロフラース" />
+  <o id="3821" en="Deific Gambol" ja="ディフィックガンボル" />
+  <o id="3822" en="Galumph" ja="ガランフ" />
+  <o id="3823" en="Croctastrophe" ja="クロックタストロフィー" />
+  <o id="3824" en="Saurian Slide" ja="サウリアンスライド" />
+  <o id="3825" en="Jungle Wallop" ja="ジャングルワーラップ" />
+  <o id="3826" en="Saurian Slide" ja="サウリアンスライド" />
+  <o id="3827" en="Jungle Wallop" ja="ジャングルワーラップ" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3308,26 +3318,37 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Petrifaction" ja="ペトリファクション" />
-  <o id="3969" en="Shadow Thrust" ja="シャドウスラスト" />
-  <o id="3970" en="Tail Slap" ja="テールスラップ" />
-  <o id="3971" en="Ranged Attack" ja="遠隔攻撃" />
-  <o id="3972" en="Pinning Shot" ja="天の羽羽矢" />
-  <o id="3973" en="Calcifying Deluge" ja="石火矢" />
-  <o id="3974" en="Divine Retribution" ja="天の返矢" />
-  <o id="3975" en="Petrifying Dance" ja="産強石のダンス" />
-  <o id="3976" en="Imperiling Disregard" ja="インペーリングディスリガード" />
-  <o id="3977" en="Blight Dance" ja="産毒石のダンス" />
-  <o id="3978" en="Raqs Baladi Dance" ja="ラクスバラディダンス" />
-  <o id="3979" en="Chastening Disregard" ja="チェイシングディスリガード" />
-  <o id="4032" en="Amplification" ja="ねたみ種" />
-  <o id="4033" en="Boiling Point" ja="罵詈雑言" />
-  <o id="4034" en="Xenoglossia" ja="自画自賛" />
-  <o id="4035" en="Amorphic Spikes" ja="槍玉" />
-  <o id="4036" en="Amorphic Scythe" ja="鎌かけ" />
-  <o id="4037" en="Synergism" ja="悪平等" />
-  <o id="4038" en="Metastasis" ja="メタスターシス" />
-  <o id="4039" en="Gush o' Goo" ja="グッシュ・オ・グー" />
+  <o id="3968" en="Glutinous Dart" ja="グルーティナスダート" />
+  <o id="3969" en="Death Spin" ja="デススピン" />
+  <o id="3970" en="Velkkan Pygmachia" ja="ヴェルクピグマキア" />
+  <o id="3971" en="Saurian Slide" ja="サウリアンスライド" />
+  <o id="3972" en="Jungle Wallop" ja="ジャングルワーラップ" />
+  <o id="3973" en="Glutinous Dart" ja="グルーティナスダート" />
+  <o id="3974" en="Death Spin" ja="デススピン" />
+  <o id="3975" en="Velkkan Pygmachia" ja="ヴェルクピグマキア" />
+  <o id="3976" en="Saurian Swamp" ja="サウリアンスワンプ" />
+  <o id="3977" en="Jungle Hoodoo" ja="ジャングルフードゥー" />
+  <o id="3978" en="Velkkan Ambush" ja="ヴェルクアンブッシュ" />
+  <o id="3979" en="Galumph" ja="ガランフ" />
+  <o id="3980" en="Coming Through" ja="カミングスルー" />
+  <o id="3981" en="Merciless Mauling" ja="マーセレスマウリング" />
+  <o id="3982" en="Croctastrophe" ja="クロックタストロフィー" />
+  <o id="3983" en="Sovereign's Edict" ja="ソベランイーディクト" />
+  <o id="3984" en="Noblesse Oblige" ja="ノブレスオブリージュ" />
+  <o id="4033" en="Head Butt" ja="ヘッドバット" />
+  <o id="4034" en="Tortoise Stomp" ja="トータスストンプ" />
+  <o id="4035" en="Harden Shell" ja="甲羅強化" />
+  <o id="4036" en="Earth Breath" ja="アースブレス" />
+  <o id="4037" en="Aqua Breath" ja="アクアブレス" />
+  <o id="4038" en="Fireball" ja="ファイアボール" />
+  <o id="4039" en="Brain Crush" ja="ブレインクラッシュ" />
+  <o id="4040" en="Secretion" ja="体液分泌" />
+  <o id="4041" en="Frost Breath" ja="フロストブレス" />
+  <o id="4042" en="Chomp Rush" ja="噛みつきラッシュ" />
+  <o id="4043" en="Scythe Tail" ja="サイズテール" />
+  <o id="4044" en="Geist Wall" ja="ガイストウォール" />
+  <o id="4045" en="Nimble Snap" ja="ニンブルスナップ" />
+  <o id="4046" en="Cyclotail" ja="サイクロテール" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
