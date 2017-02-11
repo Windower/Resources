@@ -245,9 +245,6 @@
   <o id="2199" en="Energy" ja="体力" />
   <o id="2200" en="Stamina" ja="スタミナ" />
   <o id="2201" en="Retirement" ja="引退" />
-  <o id="2202" en="Mog Case" ja="モグケース" />
-  <o id="2203" en="Mog Sack" ja="モグサック" />
-  <o id="2204" en="Mog Wardrobe" ja="モグワードローブ" />
   <o id="2207" en="Mog Locker" ja="モグロッカー" />
   <o id="2208" en="Salvage" ja="サルベージ" />
   <o id="2209" en="Support Job" ja="サポートジョブ" />
@@ -1185,45 +1182,6 @@
   <o id="7063" en="Sacrifice" ja="サクリファイス" />
   <o id="7064" en="Esuna" ja="エスナ" />
   <o id="7065" en="Auspice" ja="オースピス" />
-  <o id="7066" en="Animus Augeo" ja="悪事千里の策" />
-  <o id="7067" en="Animus Minuo" ja="暗中飛躍の策" />
-  <o id="7068" en="Adloquium" ja="鼓舞激励の策" />
-  <o id="7069" en="Break" ja="ブレイク" />
-  <o id="7070" en="Baramnesra" ja="バアムネジラ" />
-  <o id="7071" en="Gain-VIT" ja="ゲインバイト" />
-  <o id="7072" en="Addle" ja="アドル" />
-  <o id="7073" en="Gain-MND" ja="ゲインマイン" />
-  <o id="7074" en="Distract" ja="ディストラ" />
-  <o id="7075" en="Gain-CHR" ja="ゲインカリス" />
-  <o id="7076" en="Gain-AGI" ja="ゲインアジル" />
-  <o id="7077" en="Frazzle" ja="フラズル" />
-  <o id="7078" en="Gain-STR" ja="ゲインスト" />
-  <o id="7079" en="Temper" ja="ストライ" />
-  <o id="7080" en="Gain-INT" ja="ゲインイン" />
-  <o id="7081" en="Flurry" ja="スナップ" />
-  <o id="7082" en="Gain-DEX" ja="ゲインデック" />
-  <o id="7083" en="Waterja" ja="ウォタジャ" />
-  <o id="7084" en="Stoneja" ja="ストンジャ" />
-  <o id="7085" en="Aeroja" ja="エアロジャ" />
-  <o id="7086" en="Firaja" ja="ファイジャ" />
-  <o id="7087" en="Blizzaja" ja="ブリザジャ" />
-  <o id="7088" en="Comet" ja="コメット" />
-  <o id="7089" en="Breakga" ja="ブレクガ" />
-  <o id="7090" en="Thundaja" ja="サンダジャ" />
-  <o id="7091" en="Meteor" ja="メテオ" />
-  <o id="7092" en="Death" ja="デス" />
-  <o id="7093" en="Full Cure" ja="フルケア" />
-  <o id="7094" en="Arise" ja="アレイズ" />
-  <o id="7095" en="Boost-STR" ja="アディスト" />
-  <o id="7096" en="Boost-DEX" ja="アディデック" />
-  <o id="7097" en="Boost-VIT" ja="アディバイト" />
-  <o id="7098" en="Boost-AGI" ja="アディアジル" />
-  <o id="7099" en="Boost-INT" ja="アディイン" />
-  <o id="7100" en="Boost-MND" ja="アディマイン" />
-  <o id="7101" en="Boost-CHR" ja="アディカリス" />
-  <o id="7102" en="Inundation" ja="イナンデーション" />
-  <o id="7103" en="Kaustra" ja="メルトン" />
-  <o id="7104" en="Embrava" ja="オーラ" />
   <o id="7168" en="Songs" ja="ウタ" />
   <o id="7169" en="March (Song)" ja="マーチ" />
   <o id="7170" en="Elegy" ja="エレジー" />
@@ -1522,8 +1480,6 @@
   <o id="7891" en="red" ja="赤" />
   <o id="7892" en="white" ja="白" />
   <o id="7893" en="weak point" ja="弱点" />
-  <o id="7894" en="Area" ja="範囲" />
-  <o id="7895" en="Enmity" ja="敵対心" />
   <o id="7936" en="Job Abilities" ja="ジョブアビリティ" />
   <o id="7937" en="Provoke" ja="挑発" />
   <o id="7938" en="Aggressor" ja="アグレッサー" />
@@ -2422,7 +2378,6 @@
   <o id="10253" en="Black magic" ja="黒魔法" />
   <o id="10254" en="White magic" ja="白魔法" />
   <o id="10255" en="Blue magic" ja="青魔法" />
-  <o id="10256" en="Omen" ja="オーメン" />
   <o id="10267" en="Maze Monger" ja="メイズモンガー" />
   <o id="10268" en="Moblin Marble" ja="モブリンマーブル" />
   <o id="10269" en="Job Points" ja="ジョブポイント" />
@@ -2475,40 +2430,4 @@
   <o id="10507" en="Seekers of Adoulin" ja="アドゥリンの魔境" />
   <o id="10508" en="Rhapsodies of Vana'diel" ja="ヴァナ・ディールの星唄" />
   <o id="10509" en="Rhapsodies of Vana'diel" ja="ヴァナ・ディールの星唄" />
-  <o id="10752" en="Job Abilities2" ja="ジョブアビリティ２" />
-  <o id="10753" en="Libra" ja="ライブラ" />
-  <o id="10754" en="Perpetuance" ja="令狸執鼠の章" />
-  <o id="10755" en="Immanence" ja="震天動地の章" />
-  <o id="10756" en="Caper Emissarius" ja="カペルエミサリウス" />
-  <o id="10757" en="Blood Rage" ja="ブラッドレイジ" />
-  <o id="10758" en="Brazen Rush" ja="ブラーゼンラッシュ" />
-  <o id="10759" en="Perfect Counter" ja="絶対カウンター" />
-  <o id="10760" en="Impetus" ja="インピタス" />
-  <o id="10761" en="Despoil" ja="ぶんどる" />
-  <o id="10762" en="Conspirator" ja="コンスピレーター" />
-  <o id="10763" en="Bully" ja="まどわす" />
-  <o id="10764" en="Saboteur" ja="サボトゥール" />
-  <o id="10765" en="Spontaneity" ja="クイックマジック" />
-  <o id="10766" en="Mana Wall" ja="マナウォール" />
-  <o id="10767" en="Enmity Douse" ja="エンミティダウス" />
-  <o id="10768" en="Manawell" ja="魔力の雫" />
-  <o id="10769" en="Subtle Sorcery" ja="サテルソーサリー" />
-  <o id="10770" en="Divine Caress" ja="女神の愛撫" />
-  <o id="10771" en="Sacrosanctity" ja="女神の聖域" />
-  <o id="10772" en="Asylum" ja="女神の羽衣" />
-  <o id="10773" en="Presto" ja="プレスト" />
-  <o id="10774" en="Grand Pas" ja="グランドパー" />
-  <o id="10775" en="Climactic Flourish" ja="C.フラリッシュ" />
-  <o id="10776" en="Climactic Flourish" ja="C.フラリッシュ" />
-  <o id="10777" en="Striking Flourish" ja="S.フラリッシュ" />
-  <o id="10778" en="Striking Flourish" ja="S.フラリッシュ" />
-  <o id="10779" en="Ternary Flourish" ja="T.フラリッシュ" />
-  <o id="10780" en="Ternary Flourish" ja="T.フラリッシュ" />
-  <o id="10781" en="Restraint" ja="リストレント" />
-  <o id="10782" en="Inner Strength" ja="インナーストレングス" />
-  <o id="10783" en="Cascade" ja="カスケード" />
-  <o id="10784" en="Larceny" ja="ラーセニー" />
-  <o id="10785" en="Feather Step" ja="フェザーステップ" />
-  <o id="10786" en="Contradance" ja="コントラダンス" />
-  <o id="10787" en="Enlightenment" ja="大悟徹底" />
 </auto_translates>
