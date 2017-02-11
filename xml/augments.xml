@@ -1947,35 +1947,35 @@
   <o id="1946" en="1947" ja="1947" />
   <o id="1947" en="1948" ja="1948" />
   <o id="1948" en="1949" ja="1949" />
-  <o id="1949" en="1950" ja="1950" />
-  <o id="1950" en="1951" ja="1951" />
-  <o id="1951" en="1952" ja="1952" />
-  <o id="1952" en="1953" ja="1953" />
-  <o id="1953" en="1954" ja="1954" />
-  <o id="1954" en="1955" ja="1955" />
-  <o id="1955" en="1956" ja="1956" />
-  <o id="1956" en="1957" ja="1957" />
-  <o id="1957" en="1958" ja="1958" />
-  <o id="1958" en="1959" ja="1959" />
-  <o id="1959" en="1960" ja="1960" />
-  <o id="1960" en="1961" ja="1961" />
-  <o id="1961" en="1962" ja="1962" />
-  <o id="1962" en="1963" ja="1963" />
-  <o id="1963" en="1964" ja="1964" />
-  <o id="1964" en="1965" ja="1965" />
-  <o id="1965" en="1966" ja="1966" />
-  <o id="1966" en="1967" ja="1967" />
-  <o id="1967" en="1968" ja="1968" />
-  <o id="1968" en="1969" ja="1969" />
-  <o id="1969" en="1970" ja="1970" />
-  <o id="1970" en="1971" ja="1971" />
-  <o id="1971" en="1972" ja="1972" />
-  <o id="1972" en="1973" ja="1973" />
-  <o id="1973" en="1974" ja="1974" />
-  <o id="1974" en="1975" ja="1975" />
-  <o id="1975" en="1976" ja="1976" />
-  <o id="1976" en="1977" ja="1977" />
-  <o id="1977" en="1978" ja="1978" />
+  <o id="1949" en="For craftsmanship upgrade:" ja="精魂度上昇ボーナス条件:" />
+  <o id="1950" en="Perform a synthesis" ja="いずれかの合成を行う" />
+  <o id="1951" en="Craft between 6:00 and 17:59" ja="6:00～17:59の期間に合成" />
+  <o id="1952" en="Craft between 18:00 and 5:59" ja="18:00～5:59の期間に合成" />
+  <o id="1953" en="Craft Recruit/Initiate recipes" ja="ランク「素人」「見習」のレシピで合成" />
+  <o id="1954" en="Craft Novice/Apprentice recipes" ja="ランク「徒弟」「下級職人」のレシピで合成" />
+  <o id="1955" en="Craft Journeyman/Craftsman recipes" ja="ランク「名取」「目録」のレシピで合成" />
+  <o id="1956" en="Craft Artisan/Adept recipes" ja="ランク「印可」「高弟」のレシピで合成" />
+  <o id="1957" en="Craft Veteran recipes" ja="ランク「皆伝」のレシピで合成" />
+  <o id="1958" en="Craft Expert and higher recipes" ja="ランク「師範」「高級職人」のレシピで合成" />
+  <o id="1959" en="Craft w/fire crystals" ja="火属性のクリスタルを使用" />
+  <o id="1960" en="Craft w/ice crystals" ja="氷属性のクリスタルを使用" />
+  <o id="1961" en="Craft w/wind crystals" ja="風属性のクリスタルを使用" />
+  <o id="1962" en="Craft w/earth crystals" ja="土属性のクリスタルを使用" />
+  <o id="1963" en="Craft w/lightning crystals" ja="雷属性のクリスタルを使用" />
+  <o id="1964" en="Craft w/water crystals" ja="水属性のクリスタルを使用" />
+  <o id="1965" en="Craft w/light crystals" ja="光属性のクリスタルを使用" />
+  <o id="1966" en="Craft w/dark crystals" ja="闇属性のクリスタルを使用" />
+  <o id="1967" en="Craft on Firesday" ja="火曜日に合成" />
+  <o id="1968" en="Craft on Iceday" ja="氷曜日に合成" />
+  <o id="1969" en="Craft on Windsday" ja="風曜日に合成" />
+  <o id="1970" en="Craft on Earthday" ja="土曜日に合成" />
+  <o id="1971" en="Craft on Lightningday" ja="雷曜日に合成" />
+  <o id="1972" en="Craft on Watersday" ja="水曜日に合成" />
+  <o id="1973" en="Craft on Lightsday" ja="光曜日に合成" />
+  <o id="1974" en="Craft on Darksday" ja="闇曜日に合成" />
+  <o id="1975" en="Use 3+ materials" ja="素材を3個以上使用" />
+  <o id="1976" en="Use 5+ materials" ja="素材を5個以上使用" />
+  <o id="1977" en="Use 7+ materials" ja="素材を7個以上使用" />
   <o id="1978" en="1979" ja="1979" />
   <o id="1979" en="1980" ja="1980" />
   <o id="1980" en="1981" ja="1981" />
@@ -1996,7 +1996,7 @@
   <o id="1995" en="1996" ja="1996" />
   <o id="1996" en="1997" ja="1997" />
   <o id="1997" en="1998" ja="1998" />
-  <o id="1998" en="1999" ja="1999" />
+  <o id="1998" en="Synthesis success rate %+d" ja="合成成功率%+d " />
   <o id="1999" en="2000" ja="2000" />
   <o id="2000" en="2001" ja="2001" />
   <o id="2001" en="2002" ja="2002" />
