@@ -61,7 +61,7 @@ return {
     [58] = {id=58,en="Herculean Slash",ja="ヘラクレススラッシュ",element=1,icon_id=603,prefix="/weaponskill",range=2,skill=4,skillchain_a="Induration",skillchain_b="Impaction",skillchain_c="Detonation",targets=32},
     [59] = {id=59,en="Torcleaver",ja="トアクリーバー",element=6,icon_id=602,prefix="/weaponskill",range=2,skill=4,skillchain_a="Light",skillchain_b="Distortion",skillchain_c="",targets=32},
     [60] = {id=60,en="Resolution",ja="レゾルーション",element=6,icon_id=602,prefix="/weaponskill",range=2,skill=4,skillchain_a="Fragmentation",skillchain_b="Scission",skillchain_c="",targets=32},
-    [61] = {id=61,en="Dimidiation",ja="デミディエーション",element=6,icon_id=602,prefix="/weaponskill",range=2,targets=32},
+    [61] = {id=61,en="Dimidiation",ja="デミディエーション",element=6,icon_id=602,prefix="/weaponskill",range=2,skill=4,skillchain_a="Light",skillchain_b="Fragmentation",skillchain_c="",targets=32},
     [64] = {id=64,en="Raging Axe",ja="レイジングアクス",element=6,icon_id=605,prefix="/weaponskill",range=2,skill=5,skillchain_a="Detonation",skillchain_b="Impaction",skillchain_c="",targets=32},
     [65] = {id=65,en="Smash Axe",ja="スマッシュ",element=4,icon_id=606,prefix="/weaponskill",range=2,skill=5,skillchain_a="Impaction",skillchain_b="Reverberation",skillchain_c="",targets=32},
     [66] = {id=66,en="Gale Axe",ja="ラファールアクス",element=2,icon_id=607,prefix="/weaponskill",range=2,skill=5,skillchain_a="Detonation",skillchain_b="",skillchain_c="",targets=32},

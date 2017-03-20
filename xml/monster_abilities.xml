@@ -3318,37 +3318,23 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Glutinous Dart" ja="グルーティナスダート" />
-  <o id="3969" en="Death Spin" ja="デススピン" />
-  <o id="3970" en="Velkkan Pygmachia" ja="ヴェルクピグマキア" />
-  <o id="3971" en="Saurian Slide" ja="サウリアンスライド" />
-  <o id="3972" en="Jungle Wallop" ja="ジャングルワーラップ" />
-  <o id="3973" en="Glutinous Dart" ja="グルーティナスダート" />
-  <o id="3974" en="Death Spin" ja="デススピン" />
-  <o id="3975" en="Velkkan Pygmachia" ja="ヴェルクピグマキア" />
-  <o id="3976" en="Saurian Swamp" ja="サウリアンスワンプ" />
-  <o id="3977" en="Jungle Hoodoo" ja="ジャングルフードゥー" />
-  <o id="3978" en="Velkkan Ambush" ja="ヴェルクアンブッシュ" />
-  <o id="3979" en="Galumph" ja="ガランフ" />
-  <o id="3980" en="Coming Through" ja="カミングスルー" />
-  <o id="3981" en="Merciless Mauling" ja="マーセレスマウリング" />
-  <o id="3982" en="Croctastrophe" ja="クロックタストロフィー" />
-  <o id="3983" en="Sovereign's Edict" ja="ソベランイーディクト" />
-  <o id="3984" en="Noblesse Oblige" ja="ノブレスオブリージュ" />
-  <o id="4033" en="Head Butt" ja="ヘッドバット" />
-  <o id="4034" en="Tortoise Stomp" ja="トータスストンプ" />
-  <o id="4035" en="Harden Shell" ja="甲羅強化" />
-  <o id="4036" en="Earth Breath" ja="アースブレス" />
-  <o id="4037" en="Aqua Breath" ja="アクアブレス" />
-  <o id="4038" en="Fireball" ja="ファイアボール" />
-  <o id="4039" en="Brain Crush" ja="ブレインクラッシュ" />
-  <o id="4040" en="Secretion" ja="体液分泌" />
-  <o id="4041" en="Frost Breath" ja="フロストブレス" />
-  <o id="4042" en="Chomp Rush" ja="噛みつきラッシュ" />
-  <o id="4043" en="Scythe Tail" ja="サイズテール" />
-  <o id="4044" en="Geist Wall" ja="ガイストウォール" />
-  <o id="4045" en="Nimble Snap" ja="ニンブルスナップ" />
-  <o id="4046" en="Cyclotail" ja="サイクロテール" />
+  <o id="3968" en="Airy Shield" ja="エアリーシールド" />
+  <o id="3969" en="Magic Barrier" ja="マジックバリア" />
+  <o id="3973" en="Shield Bash" ja="シールドバッシュ" />
+  <o id="3974" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="3975" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="4032" en="Zephyr Arrow" ja="ゼファーアロー" />
+  <o id="4033" en="Lethe Arrows" ja="レーテアロー" />
+  <o id="4034" en="Spring Breeze" ja="スプリングブリーズ" />
+  <o id="4035" en="Summer Breeze" ja="サマーブリーズ" />
+  <o id="4036" en="Autumn Breeze" ja="オータムブリーズ" />
+  <o id="4037" en="Winter Breeze" ja="ウィンターブリーズ" />
+  <o id="4038" en="Cyclonic Turmoil" ja="サイクロニックターモイル" />
+  <o id="4039" en="Cyclonic Torrent" ja="サイクロニックトレント" />
+  <o id="4040" en="Cyclonic Blight" ja="サイクロニックブライト" />
+  <o id="4048" en="Palate Cleanse" ja="パレットクレンズ" />
+  <o id="4049" en="Beclouding Dust" ja="ビクラウドダスト" />
+  <o id="4050" en="Brewing Storm" ja="ブルーイングストーム" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
@@ -3359,4 +3345,6 @@
   <o id="4103" en="Dancing Fullers" ja="ダンシングフラー" />
   <o id="4104" en="Unfaltering Bravado" ja="アンファルタリングブラバード" />
   <o id="4105" en="Ebullient Nullification" ja="エビュリエントナリフィケーション" />
+  <o id="4106" en="Gardez" ja="ガールデ" />
+  <o id="4107" en="Prophylaxis" ja="プロフィラクシス" />
 </monster_abilities>
