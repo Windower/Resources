@@ -3318,23 +3318,62 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Airy Shield" ja="エアリーシールド" />
-  <o id="3969" en="Magic Barrier" ja="マジックバリア" />
-  <o id="3973" en="Shield Bash" ja="シールドバッシュ" />
-  <o id="3974" en="Eagle Eye Shot" ja="イーグルアイ" />
-  <o id="3975" en="Eagle Eye Shot" ja="イーグルアイ" />
-  <o id="4032" en="Zephyr Arrow" ja="ゼファーアロー" />
-  <o id="4033" en="Lethe Arrows" ja="レーテアロー" />
-  <o id="4034" en="Spring Breeze" ja="スプリングブリーズ" />
-  <o id="4035" en="Summer Breeze" ja="サマーブリーズ" />
-  <o id="4036" en="Autumn Breeze" ja="オータムブリーズ" />
-  <o id="4037" en="Winter Breeze" ja="ウィンターブリーズ" />
-  <o id="4038" en="Cyclonic Turmoil" ja="サイクロニックターモイル" />
-  <o id="4039" en="Cyclonic Torrent" ja="サイクロニックトレント" />
-  <o id="4040" en="Cyclonic Blight" ja="サイクロニックブライト" />
-  <o id="4048" en="Palate Cleanse" ja="パレットクレンズ" />
-  <o id="4049" en="Beclouding Dust" ja="ビクラウドダスト" />
-  <o id="4050" en="Brewing Storm" ja="ブルーイングストーム" />
+  <o id="3968" en="Lightning Roar" ja="雷の咆哮" />
+  <o id="3969" en="Ice Roar" ja="氷の咆哮" />
+  <o id="3970" en="Impact Roar" ja="衝撃の咆哮" />
+  <o id="3971" en="Grand Slam" ja="グランドスラム" />
+  <o id="3972" en="Power Attack" ja="パワーアタック" />
+  <o id="3973" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="3974" en="Glacial Bellow" ja="グレイシャルベロー" />
+  <o id="3975" en="Daunting Hurl" ja="ドンティングハール" />
+  <o id="3976" en="Moribund Hack" ja="モリバンドハック" />
+  <o id="3977" en="Mercurial Strike" ja="マキュリアルストライク" />
+  <o id="3978" en="Muzzling Wallop" ja="マズリングワラップ" />
+  <o id="3981" en="Catapult" ja="カタパルト" />
+  <o id="4032" en="Succession" ja="サックセッション" />
+  <o id="4033" en="牙門" ja="牙門" />
+  <o id="4034" en="Onrush" ja="オンラッシュ" />
+  <o id="4035" en="Stampede" ja="轟足" />
+  <o id="4036" en="Flailing Trunk" ja="薙鼻" />
+  <o id="4037" en="Voracious Trunk" ja="吸印" />
+  <o id="4038" en="Proboscis Shower" ja="プロバシスシャワー" />
+  <o id="4039" en="Petrifactive Breath" ja="石の吐息" />
+  <o id="4040" en="Frenzied Rage" ja="怒髪" />
+  <o id="4041" en="Pounce" ja="パウンス" />
+  <o id="4042" en="Charged Whisker" ja="チャージドホイスカー" />
+  <o id="4043" en="Blaster" ja="ブラスター" />
+  <o id="4044" en="Chaotic Eye" ja="カオティックアイ" />
+  <o id="4045" en="Sonic Wave" ja="ソニックウェーブ" />
+  <o id="4046" en="Stomping" ja="ストンピング" />
+  <o id="4047" en="Back Kick" ja="バックキック" />
+  <o id="4048" en="Spinning Tail" ja="スピンテール" />
+  <o id="4049" en="Cold Stare" ja="白眼視" />
+  <o id="4050" en="Whistle" ja="ホイッスル" />
+  <o id="4051" en="Berserk" ja="バーサク" />
+  <o id="4052" en="Healing Breeze" ja="いやしの風" />
+  <o id="4053" en="Roar" ja="咆哮" />
+  <o id="4054" en="Razor Fang" ja="レイザーファング" />
+  <o id="4055" en="Claw Cyclone" ja="クローサイクロン" />
+  <o id="4056" en="Gerjis' Grip" ja="ガージスグリップ" />
+  <o id="4057" en="Crossthrash" ja="クロススラッシュ" />
+  <o id="4058" en="Foot Kick" ja="フットキック" />
+  <o id="4059" en="Dust Cloud" ja="土煙" />
+  <o id="4060" en="Whirl Claws" ja="爪旋風脚" />
+  <o id="4061" en="Wild Carrot" ja="ワイルドカロット" />
+  <o id="4062" en="Snow Cloud" ja="雪煙" />
+  <o id="4063" en="Rampant Gnaw" ja="ランパントナウ" />
+  <o id="4064" en="Big Horn" ja="ビッグホーン" />
+  <o id="4065" en="Snort" ja="スノート" />
+  <o id="4066" en="Rabid Dance" ja="ラビッドダンス" />
+  <o id="4067" en="Lowing" ja="ロウイン" />
+  <o id="4068" en="Mighty Snort" ja="マイティースノート" />
+  <o id="4069" en="Vicious Claw" ja="ビシャスクロー" />
+  <o id="4070" en="Stone Throw" ja="投石" />
+  <o id="4071" en="Spinning Claw" ja="スピニングクロー" />
+  <o id="4072" en="Claw Storm" ja="クローストーム" />
+  <o id="4073" en="Blank Gaze" ja="ブランクゲイズ" />
+  <o id="4074" en="Eye Scratch" ja="アイスクラッチ" />
+  <o id="4075" en="Magic Fruit" ja="マジックフルーツ" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />

@@ -60,7 +60,7 @@
   <o id="58" skillchain_a="Induration" element="1" icon_id="603" skill="4" skillchain_c="Detonation" targets="32" skillchain_b="Impaction" range="2" prefix="/weaponskill" en="Herculean Slash" ja="ヘラクレススラッシュ" />
   <o id="59" skillchain_a="Light" element="6" icon_id="602" skill="4" skillchain_c="" targets="32" skillchain_b="Distortion" range="2" prefix="/weaponskill" en="Torcleaver" ja="トアクリーバー" />
   <o id="60" skillchain_a="Fragmentation" element="6" icon_id="602" skill="4" skillchain_c="" targets="32" skillchain_b="Scission" range="2" prefix="/weaponskill" en="Resolution" ja="レゾルーション" />
-  <o id="61" element="6" icon_id="602" targets="32" range="2" prefix="/weaponskill" en="Dimidiation" ja="デミディエーション" />
+  <o id="61" skillchain_a="Light" element="6" icon_id="602" skill="4" skillchain_c="" targets="32" skillchain_b="Fragmentation" range="2" prefix="/weaponskill" en="Dimidiation" ja="デミディエーション" />
   <o id="64" skillchain_a="Detonation" element="6" icon_id="605" skill="5" skillchain_c="" targets="32" skillchain_b="Impaction" range="2" prefix="/weaponskill" en="Raging Axe" ja="レイジングアクス" />
   <o id="65" skillchain_a="Impaction" element="4" icon_id="606" skill="5" skillchain_c="" targets="32" skillchain_b="Reverberation" range="2" prefix="/weaponskill" en="Smash Axe" ja="スマッシュ" />
   <o id="66" skillchain_a="Detonation" element="2" icon_id="607" skill="5" skillchain_c="" targets="32" skillchain_b="" range="2" prefix="/weaponskill" en="Gale Axe" ja="ラファールアクス" />
@@ -160,7 +160,7 @@
   <o id="172" skillchain_a="Induration" element="6" icon_id="628" skill="11" skillchain_c="" targets="32" skillchain_b="Reverberation" range="2" prefix="/weaponskill" en="Flash Nova" ja="フラッシュノヴァ" />
   <o id="173" skillchain_a="" element="6" icon_id="628" skill="11" skillchain_c="" targets="1" skillchain_b="" range="2" prefix="/weaponskill" en="Dagan" ja="ダガン" />
   <o id="174" skillchain_a="Fusion" element="6" icon_id="628" skill="11" skillchain_c="" targets="32" skillchain_b="Impaction" range="2" prefix="/weaponskill" en="Realmrazer" ja="レルムレイザー" />
-  <o id="175" element="6" icon_id="628" targets="32" range="2" prefix="/weaponskill" en="Exudation" ja="エクズデーション" />
+  <o id="175" skillchain_a="Darkness" element="6" icon_id="628" skill="11" skillchain_c="" targets="32" skillchain_b="Fragmentation" range="2" prefix="/weaponskill" en="Exudation" ja="エクズデーション" />
   <o id="176" skillchain_a="Impaction" element="6" icon_id="631" skill="12" skillchain_c="" targets="32" skillchain_b="" range="2" prefix="/weaponskill" en="Heavy Swing" ja="ヘヴィスイング" />
   <o id="177" skillchain_a="Impaction" element="3" icon_id="632" skill="12" skillchain_c="" targets="32" skillchain_b="" range="2" prefix="/weaponskill" en="Rock Crusher" ja="ロッククラッシャー" />
   <o id="178" skillchain_a="Detonation" element="3" icon_id="632" skill="12" skillchain_c="" targets="32" skillchain_b="Impaction" range="2" prefix="/weaponskill" en="Earth Crusher" ja="アースクラッシャー" />

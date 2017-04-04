@@ -1246,9 +1246,9 @@
   <o id="1245" en="1246" ja="1246" />
   <o id="1246" en="1247" ja="1247" />
   <o id="1247" en="1248" ja="1248" />
-  <o id="1248" en="Enh. Mag. eff. dur. %+d" ja="強化魔法効果時間%+d" />
-  <o id="1249" en="Helix eff. dur. %+d" ja="計略魔法効果時間%+d" />
-  <o id="1250" en="Indi. eff. dur. %+d" ja="インデ魔法効果時間+%d" />
+  <o id="1248" en="Enh. Mag. eff. dur. %+d" ja="強化魔法効果時間%+d%%" />
+  <o id="1249" en="Helix eff. dur. %+d" ja="計略魔法効果時間%+d%%" />
+  <o id="1250" en="Indi. eff. dur. %+d" ja="インデ魔法効果時間%+d%%" />
   <o id="1251" en="1252" ja="1252" />
   <o id="1252" en="1253" ja="1253" />
   <o id="1253" en="1254" ja="1254" />
