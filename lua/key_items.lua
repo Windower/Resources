@@ -2462,7 +2462,7 @@ return {
     [2553] = {id=2553,en="ivory wing talisman",ja="白翼の護符",category="Permanent Key Items"},
     [2554] = {id=2554,en="silver mattock cordon",ja="白銀つるはし勲章",category="Permanent Key Items"},
     [2555] = {id=2555,en="silver shovel cordon",ja="白銀スコップ勲章",category="Permanent Key Items"},
-    [2556] = {id=2556,en="Puppet In Peril phantom gem",ja="ファントムクォーツ【騎龍】",category="Temporary Key Items"},
+    [2556] = {id=2556,en="Puppet in Peril phantom gem",ja="ファントムクォーツ【騎龍】",category="Temporary Key Items"},
     [2557] = {id=2557,en="Legacy phantom gem",ja="ファントムクォーツ【天狗】",category="Temporary Key Items"},
     [2558] = {id=2558,en="World Tree sapling",ja="世界樹の若木",category="Temporary Key Items"},
     [2559] = {id=2559,en="Mog Kupon I-???",ja="クーポンI-？？？",category="Temporary Key Items"},

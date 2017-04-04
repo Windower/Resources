@@ -161,7 +161,7 @@ return {
     [172] = {id=172,en="Flash Nova",ja="フラッシュノヴァ",element=6,icon_id=628,prefix="/weaponskill",range=2,skill=11,skillchain_a="Induration",skillchain_b="Reverberation",skillchain_c="",targets=32},
     [173] = {id=173,en="Dagan",ja="ダガン",element=6,icon_id=628,prefix="/weaponskill",range=2,skill=11,skillchain_a="",skillchain_b="",skillchain_c="",targets=1},
     [174] = {id=174,en="Realmrazer",ja="レルムレイザー",element=6,icon_id=628,prefix="/weaponskill",range=2,skill=11,skillchain_a="Fusion",skillchain_b="Impaction",skillchain_c="",targets=32},
-    [175] = {id=175,en="Exudation",ja="エクズデーション",element=6,icon_id=628,prefix="/weaponskill",range=2,targets=32},
+    [175] = {id=175,en="Exudation",ja="エクズデーション",element=6,icon_id=628,prefix="/weaponskill",range=2,skill=11,skillchain_a="Darkness",skillchain_b="Fragmentation",skillchain_c="",targets=32},
     [176] = {id=176,en="Heavy Swing",ja="ヘヴィスイング",element=6,icon_id=631,prefix="/weaponskill",range=2,skill=12,skillchain_a="Impaction",skillchain_b="",skillchain_c="",targets=32},
     [177] = {id=177,en="Rock Crusher",ja="ロッククラッシャー",element=3,icon_id=632,prefix="/weaponskill",range=2,skill=12,skillchain_a="Impaction",skillchain_b="",skillchain_c="",targets=32},
     [178] = {id=178,en="Earth Crusher",ja="アースクラッシャー",element=3,icon_id=632,prefix="/weaponskill",range=2,skill=12,skillchain_a="Detonation",skillchain_b="Impaction",skillchain_c="",targets=32},
