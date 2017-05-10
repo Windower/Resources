@@ -65,7 +65,7 @@
   <o id="319" en="Bad Breath" ja="臭い息" element="6" icon_id="46" targets="32" tp_cost="1000" monster_level="1" range="12" prefix="/monsterskill" />
   <o id="320" en="Sweet Breath" ja="甘い息" element="6" icon_id="46" targets="1" tp_cost="1500" monster_level="10" range="0" prefix="/monsterskill" />
   <o id="321" en="Needleshot" ja="ニードルショット" element="6" icon_id="46" targets="32" tp_cost="2000" monster_level="20" range="9" prefix="/monsterskill" />
-  <o id="322" en="1000 Needles" ja="針千本" element="6" icon_id="46" targets="32" tp_cost="1000" monster_level="1" range="2" prefix="/monsterskill" />
+  <o id="322" en="1,000 Needles" ja="針千本" element="6" icon_id="46" targets="32" tp_cost="1000" monster_level="1" range="2" prefix="/monsterskill" />
   <o id="323" en="Wild Carrot" ja="ワイルドカロット" element="6" icon_id="46" targets="32" tp_cost="1000" monster_level="20" range="9" prefix="/monsterskill" />
   <o id="324" en="Photosynthesis" ja="光合成" element="6" icon_id="46" targets="32" tp_cost="1200" monster_level="40" range="2" prefix="/monsterskill" />
   <o id="325" en="Random Kiss" ja="ランダムキッス" element="6" icon_id="46" targets="1" tp_cost="800" monster_level="30" range="0" prefix="/monsterskill" />
@@ -1343,8 +1343,8 @@
   <o id="1622" en="Cursed Sphere" ja="カースドスフィア" />
   <o id="1623" en="Venom" ja="毒液" />
   <o id="1624" en="Debilitating Drone" ja="耳障りな羽音" />
-  <o id="1625" en="2000 Needles" ja="針弐千本" />
-  <o id="1626" en="4000 Needles" ja="針四千本" />
+  <o id="1625" en="2,000 Needles" ja="針弐千本" />
+  <o id="1626" en="4,000 Needles" ja="針四千本" />
   <o id="1627" en="Needleshot" ja="ニードルショット" />
   <o id="1628" en="Heat Breath" ja="火炎の息" />
   <o id="1629" en="Riddle" ja="リドル" />
@@ -1829,7 +1829,7 @@
   <o id="2148" en="Eagle Eye Shot" ja="イーグルアイ" />
   <o id="2149" en="Chi Blast" ja="気孔弾" />
   <o id="2150" en="Snatch Morsel" ja="スナッチモースル" />
-  <o id="2151" en="1000 Needles" ja="針千本" />
+  <o id="2151" en="1,000 Needles" ja="針千本" />
   <o id="2152" en="Aqua Fortis" ja="アクアフォーティス" />
   <o id="2153" en="Regurgitation" ja="リガージテーション" />
   <o id="2154" en="Delta Thrust" ja="デルタスラスト" />
@@ -3318,62 +3318,38 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Lightning Roar" ja="雷の咆哮" />
-  <o id="3969" en="Ice Roar" ja="氷の咆哮" />
-  <o id="3970" en="Impact Roar" ja="衝撃の咆哮" />
-  <o id="3971" en="Grand Slam" ja="グランドスラム" />
-  <o id="3972" en="Power Attack" ja="パワーアタック" />
-  <o id="3973" en="Eagle Eye Shot" ja="イーグルアイ" />
-  <o id="3974" en="Glacial Bellow" ja="グレイシャルベロー" />
-  <o id="3975" en="Daunting Hurl" ja="ドンティングハール" />
-  <o id="3976" en="Moribund Hack" ja="モリバンドハック" />
-  <o id="3977" en="Mercurial Strike" ja="マキュリアルストライク" />
-  <o id="3978" en="Muzzling Wallop" ja="マズリングワラップ" />
-  <o id="3981" en="Catapult" ja="カタパルト" />
-  <o id="4032" en="Succession" ja="サックセッション" />
-  <o id="4033" en="牙門" ja="牙門" />
-  <o id="4034" en="Onrush" ja="オンラッシュ" />
-  <o id="4035" en="Stampede" ja="轟足" />
-  <o id="4036" en="Flailing Trunk" ja="薙鼻" />
-  <o id="4037" en="Voracious Trunk" ja="吸印" />
-  <o id="4038" en="Proboscis Shower" ja="プロバシスシャワー" />
-  <o id="4039" en="Petrifactive Breath" ja="石の吐息" />
-  <o id="4040" en="Frenzied Rage" ja="怒髪" />
-  <o id="4041" en="Pounce" ja="パウンス" />
-  <o id="4042" en="Charged Whisker" ja="チャージドホイスカー" />
-  <o id="4043" en="Blaster" ja="ブラスター" />
-  <o id="4044" en="Chaotic Eye" ja="カオティックアイ" />
-  <o id="4045" en="Sonic Wave" ja="ソニックウェーブ" />
-  <o id="4046" en="Stomping" ja="ストンピング" />
-  <o id="4047" en="Back Kick" ja="バックキック" />
-  <o id="4048" en="Spinning Tail" ja="スピンテール" />
-  <o id="4049" en="Cold Stare" ja="白眼視" />
-  <o id="4050" en="Whistle" ja="ホイッスル" />
-  <o id="4051" en="Berserk" ja="バーサク" />
-  <o id="4052" en="Healing Breeze" ja="いやしの風" />
-  <o id="4053" en="Roar" ja="咆哮" />
-  <o id="4054" en="Razor Fang" ja="レイザーファング" />
-  <o id="4055" en="Claw Cyclone" ja="クローサイクロン" />
-  <o id="4056" en="Gerjis' Grip" ja="ガージスグリップ" />
-  <o id="4057" en="Crossthrash" ja="クロススラッシュ" />
-  <o id="4058" en="Foot Kick" ja="フットキック" />
-  <o id="4059" en="Dust Cloud" ja="土煙" />
-  <o id="4060" en="Whirl Claws" ja="爪旋風脚" />
-  <o id="4061" en="Wild Carrot" ja="ワイルドカロット" />
-  <o id="4062" en="Snow Cloud" ja="雪煙" />
-  <o id="4063" en="Rampant Gnaw" ja="ランパントナウ" />
-  <o id="4064" en="Big Horn" ja="ビッグホーン" />
-  <o id="4065" en="Snort" ja="スノート" />
-  <o id="4066" en="Rabid Dance" ja="ラビッドダンス" />
-  <o id="4067" en="Lowing" ja="ロウイン" />
-  <o id="4068" en="Mighty Snort" ja="マイティースノート" />
-  <o id="4069" en="Vicious Claw" ja="ビシャスクロー" />
-  <o id="4070" en="Stone Throw" ja="投石" />
-  <o id="4071" en="Spinning Claw" ja="スピニングクロー" />
-  <o id="4072" en="Claw Storm" ja="クローストーム" />
-  <o id="4073" en="Blank Gaze" ja="ブランクゲイズ" />
-  <o id="4074" en="Eye Scratch" ja="アイスクラッチ" />
-  <o id="4075" en="Magic Fruit" ja="マジックフルーツ" />
+  <o id="3968" en="Sand Shroud" ja="サンドシュラウド" />
+  <o id="3969" en="Sand Shield" ja="サンドシールド" />
+  <o id="3970" en="Thornball" ja="ソーンボール" />
+  <o id="3971" en="Fettering Tackle" ja="フェタリングタックル" />
+  <o id="3972" en="Magnetite Cloud" ja="磁鉄粉" />
+  <o id="3973" en="Jamming Wave" ja="妨害音波" />
+  <o id="3974" en="Sand Trap" ja="砂の呪縛" />
+  <o id="3975" en="Sodstorm" ja="砂岩嵐" />
+  <o id="3976" en="Spikeball" ja="スパイクボール" />
+  <o id="3977" en="Shoulder Slam" ja="ショルダースラム" />
+  <o id="3978" en="Magnetite Cloud" ja="磁鉄粉" />
+  <o id="3979" en="Sandstorm" ja="砂塵" />
+  <o id="3980" en="Sand Veil" ja="サンドヴェール" />
+  <o id="3981" en="Sand Shield" ja="サンドシールド" />
+  <o id="3982" en="Jamming Wave" ja="妨害音波" />
+  <o id="3983" en="Sand Trap" ja="砂の呪縛" />
+  <o id="3984" en="10,000 Needles" ja="針万本" />
+  <o id="3985" en="4,000 Needles" ja="針四千本" />
+  <o id="3986" en="2,000 Needles" ja="針弐千本" />
+  <o id="3987" en="1,000 Needles" ja="針千本" />
+  <o id="3988" en="100 Needles" ja="針百本" />
+  <o id="3989" en="Ranged Attack" ja="遠隔攻撃" />
+  <o id="3990" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="4038" en="Echolocation" ja="エコーロケーション" />
+  <o id="4039" en="Deep Sea Dirge" ja="ディープシーダージ" />
+  <o id="4040" en="Caudal Capacitor" ja="コーダルキャパシター" />
+  <o id="4041" en="Baleen Gurge" ja="ベイリーンガージ" />
+  <o id="4042" en="Depth Charge" ja="デプスチャージ" />
+  <o id="4043" en="Blowhole Blast" ja="ブローホールブラスト" />
+  <o id="4044" en="Waterspout" ja="ウォータースパウト" />
+  <o id="4045" en="Angry Seas" ja="アングリーシーズ" />
+  <o id="4046" en="Thar She Blows" ja="ザーシーブロウズ" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
