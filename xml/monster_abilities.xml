@@ -3192,10 +3192,6 @@
   <o id="3809" en="Gospel of the Lost" ja="万霊の福音" />
   <o id="3810" en="Void of Repentance" ja="懺悔の間" />
   <o id="3811" en="Perfect Defense" ja="絶対防御" />
-  <o id="3812" en="Single Target" ja="単体攻撃技" />
-  <o id="3813" en="Healing" ja="回復技" />
-  <o id="3814" en="Ultra" ja="超強化技" />
-  <o id="3815" en="Area" ja="範囲攻撃技" />
   <o id="3816" en="Chemical Bomb II" ja="ケミカルボムII" />
   <o id="3817" en="Death Sentence" ja="死の宣告" />
   <o id="3818" en="Sacred Caper" ja="セイクリッドケーパー" />
@@ -3318,38 +3314,39 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Sand Shroud" ja="サンドシュラウド" />
-  <o id="3969" en="Sand Shield" ja="サンドシールド" />
-  <o id="3970" en="Thornball" ja="ソーンボール" />
-  <o id="3971" en="Fettering Tackle" ja="フェタリングタックル" />
-  <o id="3972" en="Magnetite Cloud" ja="磁鉄粉" />
-  <o id="3973" en="Jamming Wave" ja="妨害音波" />
-  <o id="3974" en="Sand Trap" ja="砂の呪縛" />
-  <o id="3975" en="Sodstorm" ja="砂岩嵐" />
-  <o id="3976" en="Spikeball" ja="スパイクボール" />
-  <o id="3977" en="Shoulder Slam" ja="ショルダースラム" />
-  <o id="3978" en="Magnetite Cloud" ja="磁鉄粉" />
-  <o id="3979" en="Sandstorm" ja="砂塵" />
-  <o id="3980" en="Sand Veil" ja="サンドヴェール" />
-  <o id="3981" en="Sand Shield" ja="サンドシールド" />
-  <o id="3982" en="Jamming Wave" ja="妨害音波" />
-  <o id="3983" en="Sand Trap" ja="砂の呪縛" />
-  <o id="3984" en="10,000 Needles" ja="針万本" />
-  <o id="3985" en="4,000 Needles" ja="針四千本" />
-  <o id="3986" en="2,000 Needles" ja="針弐千本" />
-  <o id="3987" en="1,000 Needles" ja="針千本" />
-  <o id="3988" en="100 Needles" ja="針百本" />
-  <o id="3989" en="Ranged Attack" ja="遠隔攻撃" />
-  <o id="3990" en="Eagle Eye Shot" ja="イーグルアイ" />
-  <o id="4038" en="Echolocation" ja="エコーロケーション" />
-  <o id="4039" en="Deep Sea Dirge" ja="ディープシーダージ" />
-  <o id="4040" en="Caudal Capacitor" ja="コーダルキャパシター" />
-  <o id="4041" en="Baleen Gurge" ja="ベイリーンガージ" />
-  <o id="4042" en="Depth Charge" ja="デプスチャージ" />
-  <o id="4043" en="Blowhole Blast" ja="ブローホールブラスト" />
-  <o id="4044" en="Waterspout" ja="ウォータースパウト" />
-  <o id="4045" en="Angry Seas" ja="アングリーシーズ" />
-  <o id="4046" en="Thar She Blows" ja="ザーシーブロウズ" />
+  <o id="3968" en="Words of Bane" ja="呪いの言葉" />
+  <o id="3969" en="Sigh" ja="ため息" />
+  <o id="3970" en="Light of Penance" ja="贖罪の光" />
+  <o id="3971" en="Lateral Slash" ja="胴斬り" />
+  <o id="3972" en="Vertical Slash" ja="袈裟斬り" />
+  <o id="3973" en="Vital Strike" ja="急所刺し" />
+  <o id="3974" en="Everyone's Rancor" ja="みんなの怨念" />
+  <o id="3975" en="Words of Bane" ja="呪いの言葉" />
+  <o id="3976" en="Sigh" ja="ため息" />
+  <o id="3977" en="Lateral Slash" ja="胴斬り" />
+  <o id="3978" en="Vertical Slash" ja="袈裟斬り" />
+  <o id="3979" en="Light of Judgment" ja="断罪の光" />
+  <o id="3980" en="Lateral Slash" ja="胴刈り" />
+  <o id="3981" en="Vertical Slash" ja="袈裟刈り" />
+  <o id="3982" en="Vital Strike" ja="急所突き" />
+  <o id="3983" en="Everyone's Wrath" ja="みんなの怨恨" />
+  <o id="3984" en="Everyone's Revenge" ja="みんなの怨讐" />
+  <o id="3985" en="Everyone's Revenge" ja="みんなの怨讐" />
+  <o id="3986" en="Everyone's Revenge" ja="みんなの怨讐" />
+  <o id="3987" en="Everyone's Revenge" ja="みんなの怨讐" />
+  <o id="3988" en="Everyone's Revenge" ja="みんなの怨讐" />
+  <o id="3989" en="Fetters" ja="呪縛" />
+  <o id="3991" en="Tidal Wave" ja="タイダルウェイブ" />
+  <o id="3992" en="Diamond Dust" ja="ダイヤモンドダスト" />
+  <o id="4032" en="Fuscous Ooze" ja="ファスカスウーズ" />
+  <o id="4033" en="Purulent Ooze" ja="ピュルラントウーズ" />
+  <o id="4034" en="Corrosive Ooze" ja="コローシブウーズ" />
+  <o id="4035" en="Mucilaginous Ooze" ja="ミュシラジナスウーズ" />
+  <o id="4036" en="Suction" ja="吸着" />
+  <o id="4038" en="Sand Breath" ja="サンドブレス" />
+  <o id="4039" en="Drainkiss" ja="ドレインキッス" />
+  <o id="4041" en="TP Drainkiss" ja="TP吸収キッス" />
+  <o id="4042" en="MP Drainkiss" ja="MP吸収キッス" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
