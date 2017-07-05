@@ -2745,6 +2745,7 @@ return {
     [2845] = {id=2845,en="\"Sakura and the Cactus Corps\"",ja="『サクラちゃんとサボテン兵団』",category="Mog Garden"},
     [2846] = {id=2846,en="\"Sakura and the Holy Grail\"",ja="『サクラちゃんと魔境の聖杯』",category="Mog Garden"},
     [2847] = {id=2847,en="Siren's plume",ja="セイレーンの風切り羽根",category="Temporary Key Items"},
+    [2849] = {id=2849,en="Moglification: Resist Poison",ja="モーグリの応援：レジストポイズン",category="Active Effects"},
     [2850] = {id=2850,en="Moglification: Resist Paralysis",ja="モーグリの応援：レジストパライズ",category="Active Effects"},
     [2852] = {id=2852,en="Moglification: Resist Silence",ja="モーグリの応援：レジストサイレス",category="Active Effects"},
     [2853] = {id=2853,en="Moglification: Resist Petrification",ja="モーグリの応援：レジストペトリ",category="Active Effects"},
@@ -2955,6 +2956,7 @@ return {
     [3084] = {id=3084,en="♪Magic pot companion",ja="♪マジックポット",category="Mounts"},
     [3085] = {id=3085,en="♪Tulfaire companion",ja="♪トゥルフェイア",category="Mounts"},
     [3086] = {id=3086,en="♪Warmachine companion",ja="♪ウォーマシン",category="Mounts"},
+    [3087] = {id=3087,en="♪Xzomit Companion",ja="♪ゾミト",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -2966,6 +2968,8 @@ return {
     [3144] = {id=3144,en="Kyou’s bead",ja="香車の曲玉",category="Temporary Key Items"},
     [3145] = {id=3145,en="Gin’s bead",ja="銀将の曲玉",category="Temporary Key Items"},
     [3146] = {id=3146,en="Kin’s bead",ja="金将の曲玉",category="Temporary Key Items"},
+    [3147] = {id=3147,en="Ygnas's leaf",ja="ユグナスの葉っぱ",category="Permanent Key Items"},
+    [3148] = {id=3148,en="Ancient Melody: O",ja="古の旋律【Ｏ】",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

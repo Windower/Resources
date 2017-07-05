@@ -2744,6 +2744,7 @@
   <o id="2845" en="&quot;Sakura and the Cactus Corps&quot;" ja="『サクラちゃんとサボテン兵団』" category="Mog Garden" />
   <o id="2846" en="&quot;Sakura and the Holy Grail&quot;" ja="『サクラちゃんと魔境の聖杯』" category="Mog Garden" />
   <o id="2847" en="Siren's plume" ja="セイレーンの風切り羽根" category="Temporary Key Items" />
+  <o id="2849" en="Moglification: Resist Poison" ja="モーグリの応援：レジストポイズン" category="Active Effects" />
   <o id="2850" en="Moglification: Resist Paralysis" ja="モーグリの応援：レジストパライズ" category="Active Effects" />
   <o id="2852" en="Moglification: Resist Silence" ja="モーグリの応援：レジストサイレス" category="Active Effects" />
   <o id="2853" en="Moglification: Resist Petrification" ja="モーグリの応援：レジストペトリ" category="Active Effects" />
@@ -2954,6 +2955,7 @@
   <o id="3084" en="♪Magic pot companion" ja="♪マジックポット" category="Mounts" />
   <o id="3085" en="♪Tulfaire companion" ja="♪トゥルフェイア" category="Mounts" />
   <o id="3086" en="♪Warmachine companion" ja="♪ウォーマシン" category="Mounts" />
+  <o id="3087" en="♪Xzomit Companion" ja="♪ゾミト" category="Mounts" />
   <o id="3136" en="sheet of Shadow Lord tunes" ja="オーケストリオン譜：闇の王" category="Permanent Key Items" />
   <o id="3137" en="mystical canteen" ja="チカラを閉じ込めた飯盒" category="Temporary Key Items" />
   <o id="3138" en="Ygnas's insignia" ja="ユグナスの紹介状" category="Permanent Key Items" />
@@ -2965,4 +2967,6 @@
   <o id="3144" en="Kyou’s bead" ja="香車の曲玉" category="Temporary Key Items" />
   <o id="3145" en="Gin’s bead" ja="銀将の曲玉" category="Temporary Key Items" />
   <o id="3146" en="Kin’s bead" ja="金将の曲玉" category="Temporary Key Items" />
+  <o id="3147" en="Ygnas's leaf" ja="ユグナスの葉っぱ" category="Permanent Key Items" />
+  <o id="3148" en="Ancient Melody: O" ja="古の旋律【Ｏ】" category="Permanent Key Items" />
 </key_items>
