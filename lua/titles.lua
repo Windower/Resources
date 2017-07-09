@@ -1023,6 +1023,7 @@ return {
     [1116] = {id=1116,en="Raptor Wrangler",ja="爆速ラプトルライダー"},
     [1117] = {id=1117,en="Gardener for the Ages",ja="疾走ガーデンライダー"},
     [1118] = {id=1118,en="Lagoon Explorer",ja="伝説ラグーンライダー"},
+    [1119] = {id=1119,en="Servant to the Servant",ja="侍女と葉っぱに翻弄されし功労者"},
 }, {"id", "en", "ja"}
 
 --[[

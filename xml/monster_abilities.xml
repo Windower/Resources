@@ -3192,6 +3192,10 @@
   <o id="3809" en="Gospel of the Lost" ja="万霊の福音" />
   <o id="3810" en="Void of Repentance" ja="懺悔の間" />
   <o id="3811" en="Perfect Defense" ja="絶対防御" />
+  <o id="3812" en="Sacred Caper" ja="セイクリッドケーパー" />
+  <o id="3813" en="Phototrophic Blessing" ja="フォトトロフブレッシング" />
+  <o id="3814" en="Phototrophic Wrath" ja="フォトトロフラース" />
+  <o id="3815" en="Deific Gambol" ja="ディフィックガンボル" />
   <o id="3816" en="Chemical Bomb II" ja="ケミカルボムII" />
   <o id="3817" en="Death Sentence" ja="死の宣告" />
   <o id="3818" en="Sacred Caper" ja="セイクリッドケーパー" />
@@ -3314,39 +3318,27 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Words of Bane" ja="呪いの言葉" />
-  <o id="3969" en="Sigh" ja="ため息" />
-  <o id="3970" en="Light of Penance" ja="贖罪の光" />
-  <o id="3971" en="Lateral Slash" ja="胴斬り" />
-  <o id="3972" en="Vertical Slash" ja="袈裟斬り" />
-  <o id="3973" en="Vital Strike" ja="急所刺し" />
-  <o id="3974" en="Everyone's Rancor" ja="みんなの怨念" />
-  <o id="3975" en="Words of Bane" ja="呪いの言葉" />
-  <o id="3976" en="Sigh" ja="ため息" />
-  <o id="3977" en="Lateral Slash" ja="胴斬り" />
-  <o id="3978" en="Vertical Slash" ja="袈裟斬り" />
-  <o id="3979" en="Light of Judgment" ja="断罪の光" />
-  <o id="3980" en="Lateral Slash" ja="胴刈り" />
-  <o id="3981" en="Vertical Slash" ja="袈裟刈り" />
-  <o id="3982" en="Vital Strike" ja="急所突き" />
-  <o id="3983" en="Everyone's Wrath" ja="みんなの怨恨" />
-  <o id="3984" en="Everyone's Revenge" ja="みんなの怨讐" />
-  <o id="3985" en="Everyone's Revenge" ja="みんなの怨讐" />
-  <o id="3986" en="Everyone's Revenge" ja="みんなの怨讐" />
-  <o id="3987" en="Everyone's Revenge" ja="みんなの怨讐" />
-  <o id="3988" en="Everyone's Revenge" ja="みんなの怨讐" />
-  <o id="3989" en="Fetters" ja="呪縛" />
-  <o id="3991" en="Tidal Wave" ja="タイダルウェイブ" />
-  <o id="3992" en="Diamond Dust" ja="ダイヤモンドダスト" />
-  <o id="4032" en="Fuscous Ooze" ja="ファスカスウーズ" />
-  <o id="4033" en="Purulent Ooze" ja="ピュルラントウーズ" />
-  <o id="4034" en="Corrosive Ooze" ja="コローシブウーズ" />
-  <o id="4035" en="Mucilaginous Ooze" ja="ミュシラジナスウーズ" />
-  <o id="4036" en="Suction" ja="吸着" />
-  <o id="4038" en="Sand Breath" ja="サンドブレス" />
-  <o id="4039" en="Drainkiss" ja="ドレインキッス" />
-  <o id="4041" en="TP Drainkiss" ja="TP吸収キッス" />
-  <o id="4042" en="MP Drainkiss" ja="MP吸収キッス" />
+  <o id="3968" en="Airy Shield" ja="エアリーシールド" />
+  <o id="3969" en="Magic Barrier" ja="マジックバリア" />
+  <o id="3973" en="Shield Bash" ja="シールドバッシュ" />
+  <o id="3974" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="3975" en="Eagle Eye Shot" ja="イーグルアイ" />
+  <o id="4032" en="Power Attack" ja="パワーアタック" />
+  <o id="4033" en="Hi-Freq Field" ja="高周波フィールド" />
+  <o id="4034" en="Rhino Attack" ja="ライノアタック" />
+  <o id="4035" en="Rhino Guard" ja="ライノガード" />
+  <o id="4036" en="Spoil" ja="スポイル" />
+  <o id="4037" en="Rhinowrecker" ja="ライノレッカー" />
+  <o id="4048" en="Nature's Meditation" ja="ネイチャーメディテイト" />
+  <o id="4049" en="Sensilla Blades" ja="センシラブレード" />
+  <o id="4050" en="Tegmina Buffet" ja="テグミナバフェット" />
+  <o id="4051" en="Sanguinary Slash" ja="サングインスラッシュ" />
+  <o id="4064" en="Magma Fan" ja="マグマファン" />
+  <o id="4065" en="Erratic Flutter" ja="エラチックフラッター" />
+  <o id="4066" en="Proboscis" ja="プロボシス" />
+  <o id="4067" en="Erosion Dust" ja="妖鱗粉" />
+  <o id="4068" en="Exuviation" ja="イグジュビエーション" />
+  <o id="4069" en="Fire Break" ja="ファイアブレーク" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
