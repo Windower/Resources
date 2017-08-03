@@ -600,7 +600,8 @@ return {
     [610] = {id=610,en="Negate Charm",ja="ネゲートチャーム",enl="Negate Charm",jal="ネゲートチャーム"},
     [611] = {id=611,en="Magic Evasion Boost",ja="魔法回避率アップ",enl="Magic Evasion Boost",jal="魔法回避率アップ"},
     [612] = {id=612,en="Colure Active",ja="コルア展開",enl="Colure Active",jal="コルア展開"},
-    [613] = {id=613,en="Combat Learning",ja="なし",enl="Combat Learning",jal="なし"},
+    [613] = {id=613,en="Mumor's Radiance",ja="ミュモルの光",enl="Mumor's Radiance",jal="ミュモルの光"},
+    [614] = {id=614,en="Ullegore's Gloom",ja="ウルゴアの闇",enl="Ullegore's Gloom",jal="ウルゴアの闇"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
