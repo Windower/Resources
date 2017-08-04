@@ -3343,7 +3343,7 @@ return {
     [3989] = {id=3989,en="Whirlwind",ja="旋風"},
     [4032] = {id=4032,en="Impale",ja="くしざし"},
     [4033] = {id=4033,en="Vampiric Lash",ja="吸血ムチ"},
-    [4034] = {id=4034,en="Rhino Attack",ja="臭い息"},
+    [4034] = {id=4034,en="Bad Breath",ja="臭い息"},
     [4035] = {id=4035,en="Sweet Breath",ja="甘い息"},
     [4036] = {id=4036,en="Vampiric Root",ja="ヴァンピリックルート"},
     [4037] = {id=4037,en="Thousand Spears",ja="サウザンドスピア"},
