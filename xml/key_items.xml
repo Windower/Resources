@@ -1955,13 +1955,14 @@
   <o id="1980" en="Spiffy Synth." ja="釣りフラグ４" category="Permanent Key Items" />
   <o id="1981" en="Spiffy Synth." ja="釣りフラグ５" category="Permanent Key Items" />
   <o id="1982" en="alchemist's argentum tome" ja="錬金術ギルド銀の書" category="Permanent Key Items" />
+  <o id="1983" en="alchemist's aurum tome" ja="錬金術ギルド金の書" category="Permanent Key Items" />
   <o id="1984" en="Wood Purification" ja="浄化木材合成" category="Permanent Key Items" />
   <o id="1985" en="Wood Ensorcellment" ja="妖化木材合成" category="Permanent Key Items" />
   <o id="1986" en="Lumberjack" ja="ランバージャック" category="Permanent Key Items" />
   <o id="1987" en="Boltmaker" ja="ボルトメーカー" category="Permanent Key Items" />
   <o id="1988" en="Way of the Carpenter" ja="木工ギルド指南書" category="Permanent Key Items" />
   <o id="1989" en="carpenter's argentum tome" ja="木工ギルド銀の書" category="Permanent Key Items" />
-  <o id="1990" en="Spiffy Synth." ja="木工フラグ６" category="Permanent Key Items" />
+  <o id="1990" en="carpenter's aurum tome" ja="木工ギルド金の書" category="Permanent Key Items" />
   <o id="1991" en="Spiffy Synth." ja="木工フラグ７" category="Permanent Key Items" />
   <o id="1992" en="Metal Purification" ja="浄化金属合成" category="Permanent Key Items" />
   <o id="1993" en="Metal Ensorcellment" ja="妖化金属合成" category="Permanent Key Items" />
@@ -1969,14 +1970,14 @@
   <o id="1995" en="Sheeting" ja="シーティング" category="Permanent Key Items" />
   <o id="1996" en="Way of the Blacksmith" ja="鍛冶ギルド指南書" category="Permanent Key Items" />
   <o id="1997" en="blacksmith's argentum tome" ja="鍛冶ギルド銀の書" category="Permanent Key Items" />
-  <o id="1998" en="Spiffy Synth." ja="鍛冶フラグ６" category="Permanent Key Items" />
+  <o id="1998" en="blacksmith's aurum tome" ja="鍛冶ギルド金の書" category="Permanent Key Items" />
   <o id="1999" en="Spiffy Synth." ja="鍛冶フラグ７" category="Permanent Key Items" />
   <o id="2000" en="Gold Purification" ja="浄化貴金属合成" category="Permanent Key Items" />
   <o id="2001" en="Gold Ensorcellment" ja="妖化貴金属合成" category="Permanent Key Items" />
   <o id="2002" en="Clockmaking" ja="クロックメーカー" category="Permanent Key Items" />
   <o id="2003" en="Way of the Goldsmith" ja="彫金ギルド指南書" category="Permanent Key Items" />
   <o id="2004" en="goldsmith's argentum tome" ja="彫金ギルド銀の書" category="Permanent Key Items" />
-  <o id="2005" en="Spiffy Synth." ja="彫金フラグ５" category="Permanent Key Items" />
+  <o id="2005" en="goldsmith's aurum tome" ja="彫金ギルド金の書" category="Permanent Key Items" />
   <o id="2006" en="Spiffy Synth." ja="彫金フラグ６" category="Permanent Key Items" />
   <o id="2007" en="Spiffy Synth." ja="彫金フラグ７" category="Permanent Key Items" />
   <o id="2008" en="Cloth Purification" ja="浄化布合成" category="Permanent Key Items" />
@@ -1985,14 +1986,14 @@
   <o id="2011" en="Fletching" ja="フレッチング" category="Permanent Key Items" />
   <o id="2012" en="Way of the Weaver" ja="織工ギルド指南書" category="Permanent Key Items" />
   <o id="2013" en="weaver's argentum tome" ja="織工ギルド銀の書" category="Permanent Key Items" />
-  <o id="2014" en="Spiffy Synth." ja="裁縫フラグ６" category="Permanent Key Items" />
+  <o id="2014" en="weaver's aurum tome" ja="織工ギルド金の書" category="Permanent Key Items" />
   <o id="2015" en="Spiffy Synth." ja="裁縫フラグ７" category="Permanent Key Items" />
   <o id="2016" en="Leather Purification" ja="浄化皮革合成" category="Permanent Key Items" />
   <o id="2017" en="Leather Ensorcellment" ja="妖化皮革合成" category="Permanent Key Items" />
   <o id="2018" en="Tanning" ja="タンニング" category="Permanent Key Items" />
   <o id="2019" en="Way of the Tanner" ja="革工ギルド指南書" category="Permanent Key Items" />
   <o id="2020" en="tanner's argentum tome" ja="革工ギルド銀の書" category="Permanent Key Items" />
-  <o id="2021" en="Spiffy Synth." ja="革細工フラグ５" category="Permanent Key Items" />
+  <o id="2021" en="tanner's aurum tome" ja="革工ギルド金の書" category="Permanent Key Items" />
   <o id="2022" en="Spiffy Synth." ja="革細工フラグ６" category="Permanent Key Items" />
   <o id="2023" en="Spiffy Synth." ja="革細工フラグ７" category="Permanent Key Items" />
   <o id="2024" en="Bone Purification" ja="浄化骨材合成" category="Permanent Key Items" />
@@ -2000,7 +2001,7 @@
   <o id="2026" en="Filing" ja="ファイリング" category="Permanent Key Items" />
   <o id="2027" en="Way of the Boneworker" ja="骨工ギルド指南書" category="Permanent Key Items" />
   <o id="2028" en="boneworker's argentum tome" ja="骨工ギルド銀の書" category="Permanent Key Items" />
-  <o id="2029" en="Spiffy Synth." ja="骨細工フラグ５" category="Permanent Key Items" />
+  <o id="2029" en="boneworker's aurum tome" ja="骨工ギルド金の書" category="Permanent Key Items" />
   <o id="2030" en="Spiffy Synth." ja="骨細工フラグ６" category="Permanent Key Items" />
   <o id="2031" en="Spiffy Synth." ja="骨細工フラグ７" category="Permanent Key Items" />
   <o id="2032" en="Anima Synthesis" ja="アニマ合成" category="Permanent Key Items" />
@@ -2017,7 +2018,7 @@
   <o id="2043" en="Stewpot Mastery" ja="鍋奉行" category="Permanent Key Items" />
   <o id="2044" en="Way of the Culinarian" ja="調理ギルド指南書" category="Permanent Key Items" />
   <o id="2045" en="culinarian's argentum tome" ja="調理ギルド銀の書" category="Permanent Key Items" />
-  <o id="2046" en="Spiffy Synth." ja="調理フラグ６" category="Permanent Key Items" />
+  <o id="2046" en="culinarian's aurum tome" ja="調理ギルド金の書" category="Permanent Key Items" />
   <o id="2047" en="Spiffy Synth." ja="調理フラグ７" category="Permanent Key Items" />
   <o id="2048" en="Voidwatch alarum" ja="VW招集通知" category="Voidwatch" />
   <o id="2049" en="Voidwatcher's emblem: Jeuno" ja="VW作戦認可章：ジュノ" category="Voidwatch" />
@@ -2955,7 +2956,8 @@
   <o id="3084" en="♪Magic pot companion" ja="♪マジックポット" category="Mounts" />
   <o id="3085" en="♪Tulfaire companion" ja="♪トゥルフェイア" category="Mounts" />
   <o id="3086" en="♪Warmachine companion" ja="♪ウォーマシン" category="Mounts" />
-  <o id="3087" en="♪Xzomit Companion" ja="♪ゾミト" category="Mounts" />
+  <o id="3087" en="♪Xzomit companion" ja="♪ゾミト" category="Mounts" />
+  <o id="3088" en="♪Hippogryph companion" ja="♪ヒポグリフ" category="Mounts" />
   <o id="3136" en="sheet of Shadow Lord tunes" ja="オーケストリオン譜：闇の王" category="Permanent Key Items" />
   <o id="3137" en="mystical canteen" ja="チカラを閉じ込めた飯盒" category="Temporary Key Items" />
   <o id="3138" en="Ygnas's insignia" ja="ユグナスの紹介状" category="Permanent Key Items" />
@@ -2969,5 +2971,7 @@
   <o id="3146" en="Kin’s bead" ja="金将の曲玉" category="Temporary Key Items" />
   <o id="3147" en="Ygnas's leaf" ja="ユグナスの葉っぱ" category="Permanent Key Items" />
   <o id="3148" en="Ancient Melody: O" ja="古の旋律【Ｏ】" category="Temporary Key Items" />
+  <o id="3149" en="Ancient Melody: M" ja="古の旋律【Ｍ】" category="Temporary Key Items" />
   <o id="3153" en="after-party pass" ja="ミュモルエクストラステージ特別招待券" category="Temporary Key Items" />
+  <o id="3154" en="reassembling technique" ja="リアセンブル" category="Permanent Key Items" />
 </key_items>

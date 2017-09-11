@@ -3318,36 +3318,27 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Cleansing Bubbles" ja="バブルクレンズ" />
-  <o id="3969" en="Sucker Punch" ja="サッカーパンチ" />
-  <o id="3970" en="Hydroball" ja="ハイドロボール" />
-  <o id="3971" en="Bubble Armor" ja="バブルアーマー" />
-  <o id="3972" en="Hydro Shot" ja="ハイドロショット" />
-  <o id="3973" en="Spinning Fin" ja="スピニングフィン" />
-  <o id="3974" en="Jumping Thrust" ja="ジャンプスラスト" />
-  <o id="3975" en="Hydroball" ja="ハイドロボール" />
-  <o id="3976" en="Bubble Armor" ja="バブルアーマー" />
-  <o id="3977" en="Hydro Shot" ja="ハイドロショット" />
-  <o id="3978" en="Spinning Fin" ja="スピニングフィン" />
-  <o id="3979" en="Hydroball" ja="ハイドロボール" />
-  <o id="3980" en="Bubble Armor" ja="バブルアーマー" />
-  <o id="3981" en="Hydro Shot" ja="ハイドロショット" />
-  <o id="3982" en="Spinning Fin" ja="スピニングフィン" />
-  <o id="3983" en="Tentacle" ja="触手" />
-  <o id="3984" en="Inky Injection" ja="インキーインジェクト" />
-  <o id="3985" en="Hard Membrane" ja="粘膜強化" />
-  <o id="3986" en="Cross Attack" ja="クロスアタック" />
-  <o id="3987" en="Rapid Metabolism" ja="ラピッドメタボリズム" />
-  <o id="3988" en="Maelstrom" ja="メイルシュトロム" />
-  <o id="3989" en="Whirlwind" ja="旋風" />
-  <o id="4032" en="Impale" ja="くしざし" />
-  <o id="4033" en="Vampiric Lash" ja="吸血ムチ" />
-  <o id="4034" en="Rhino Attack" ja="臭い息" />
-  <o id="4035" en="Sweet Breath" ja="甘い息" />
-  <o id="4036" en="Vampiric Root" ja="ヴァンピリックルート" />
-  <o id="4037" en="Thousand Spears" ja="サウザンドスピア" />
-  <o id="4038" en="Tainting Breath" ja="テイントブレス" />
-  <o id="4039" en="Bloody Breath" ja="血生臭い息" />
+  <o id="3968" en="Kibosh" ja="カイボッシュ" />
+  <o id="3969" en="Cutpurse" ja="カットパース" />
+  <o id="3970" en="Sandspray" ja="サンドスプレー" />
+  <o id="3971" en="Faze" ja="猫だまし" />
+  <o id="3972" en="Deadeye" ja="デッドアイ" />
+  <o id="3973" en="Essence Theft" ja="支援を盗む" />
+  <o id="3974" en="HP Theft" ja="HPを盗む" />
+  <o id="3975" en="MP Theft" ja="MPを盗む" />
+  <o id="3976" en="Status Theft" ja="ステータスを盗む" />
+  <o id="3977" en="TP Theft" ja="TPを盗む" />
+  <o id="3978" en="Ability Theft" ja="アビリティを盗む" />
+  <o id="3979" en="Mine Blast" ja="マインブラスト" />
+  <o id="4032" en="Touchdown" ja="タッチダウン" />
+  <o id="4035" en="Hurricane Wing" ja="ハリケーンウィング" />
+  <o id="4036" en="Spike Flail" ja="スパイクフレイル" />
+  <o id="4037" en="Dragon Breath" ja="ドラゴンブレス" />
+  <o id="4038" en="Touchdown" ja="タッチダウン" />
+  <o id="4039" en="Flame Blast" ja="フレイムブラスト" />
+  <o id="4040" en="Hurricane Wing" ja="ハリケーンウィング" />
+  <o id="4041" en="Absolute Terror" ja="アブソルートテラー" />
+  <o id="4042" en="Horrid Roar" ja="ホリッドロア" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
