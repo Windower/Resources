@@ -1024,6 +1024,14 @@ return {
     [1117] = {id=1117,en="Gardener for the Ages",ja="疾走ガーデンライダー"},
     [1118] = {id=1118,en="Lagoon Explorer",ja="伝説ラグーンライダー"},
     [1119] = {id=1119,en="Servant to the Servant",ja="侍女と葉っぱに翻弄されし功労者"},
+    [1120] = {id=1120,en="Legendary Woodworker",ja="運斤成風の木彫師"},
+    [1121] = {id=1121,en="Legendary Blacksmith",ja="運斤成風の鍛冶師"},
+    [1122] = {id=1122,en="Legendary Goldsmith",ja="運斤成風の彫金師"},
+    [1123] = {id=1123,en="Legendary Weaver",ja="運斤成風の裁縫師"},
+    [1124] = {id=1124,en="Legendary Tanner",ja="運斤成風の革細工師"},
+    [1125] = {id=1125,en="Legendary Boneworker",ja="運斤成風の骨彫師"},
+    [1126] = {id=1126,en="Legendary Alchemist",ja="運斤成風の錬金術師"},
+    [1127] = {id=1127,en="Legendary Culinarian",ja="運斤成風の調理師"},
 }, {"id", "en", "ja"}
 
 --[[

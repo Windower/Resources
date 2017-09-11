@@ -17,6 +17,7 @@ return {
     [13] = {id=13,en="Tulfaire",ja="トゥルフェイア",endesc="Calls forth a tulfaire.",icon_id=87,jadesc="トゥルフェイアを呼び出す。",prefix="/mount"},
     [14] = {id=14,en="Warmachine",ja="ウォーマシン",endesc="Calls forth a warmachine.",icon_id=87,jadesc="ウォーマシンを呼び出す。",prefix="/mount"},
     [15] = {id=15,en="Xzomit",ja="ゾミト",endesc="Calls forth a xzomit.",icon_id=87,jadesc="ゾミトを呼び出す。",prefix="/mount"},
+    [16] = {id=16,en="Hippogryph",ja="ヒポグリフ",endesc="Calls forth a hippogryph.",icon_id=87,jadesc="ヒポグリフを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[

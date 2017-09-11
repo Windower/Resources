@@ -602,6 +602,8 @@ return {
     [612] = {id=612,en="Colure Active",ja="コルア展開",enl="Colure Active",jal="コルア展開"},
     [613] = {id=613,en="Mumor's Radiance",ja="ミュモルの光",enl="Mumor's Radiance",jal="ミュモルの光"},
     [614] = {id=614,en="Ullegore's Gloom",ja="ウルゴアの闇",enl="Ullegore's Gloom",jal="ウルゴアの闇"},
+    [615] = {id=615,en="Boost",ja="ためる",enl="Boost",jal="ためる"},
+    [616] = {id=616,en="Artisanal Knowledge",ja="芸術家肌",enl="Artisanal Knowledge",jal="芸術家肌"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
