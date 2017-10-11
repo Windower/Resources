@@ -2959,6 +2959,7 @@ return {
     [3086] = {id=3086,en="♪Warmachine companion",ja="♪ウォーマシン",category="Mounts"},
     [3087] = {id=3087,en="♪Xzomit companion",ja="♪ゾミト",category="Mounts"},
     [3088] = {id=3088,en="♪Hippogryph companion",ja="♪ヒポグリフ",category="Mounts"},
+    [3089] = {id=3089,en="♪Spectral chair companion",ja="♪悪霊の椅子",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},

@@ -3208,6 +3208,7 @@
   <o id="3825" en="Jungle Wallop" ja="ジャングルワーラップ" />
   <o id="3826" en="Saurian Slide" ja="サウリアンスライド" />
   <o id="3827" en="Jungle Wallop" ja="ジャングルワーラップ" />
+  <o id="3828" en="Concentric Pulse" ja="コンセントリクパルス" />
   <o id="3840" en="Foot Kick" ja="フットキック" />
   <o id="3841" en="Dust Cloud" ja="土煙" />
   <o id="3842" en="Whirl Claws" ja="爪旋風脚" />
@@ -3318,27 +3319,39 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Kibosh" ja="カイボッシュ" />
-  <o id="3969" en="Cutpurse" ja="カットパース" />
-  <o id="3970" en="Sandspray" ja="サンドスプレー" />
-  <o id="3971" en="Faze" ja="猫だまし" />
-  <o id="3972" en="Deadeye" ja="デッドアイ" />
-  <o id="3973" en="Essence Theft" ja="支援を盗む" />
-  <o id="3974" en="HP Theft" ja="HPを盗む" />
-  <o id="3975" en="MP Theft" ja="MPを盗む" />
-  <o id="3976" en="Status Theft" ja="ステータスを盗む" />
-  <o id="3977" en="TP Theft" ja="TPを盗む" />
-  <o id="3978" en="Ability Theft" ja="アビリティを盗む" />
-  <o id="3979" en="Mine Blast" ja="マインブラスト" />
-  <o id="4032" en="Touchdown" ja="タッチダウン" />
-  <o id="4035" en="Hurricane Wing" ja="ハリケーンウィング" />
-  <o id="4036" en="Spike Flail" ja="スパイクフレイル" />
-  <o id="4037" en="Dragon Breath" ja="ドラゴンブレス" />
-  <o id="4038" en="Touchdown" ja="タッチダウン" />
-  <o id="4039" en="Flame Blast" ja="フレイムブラスト" />
-  <o id="4040" en="Hurricane Wing" ja="ハリケーンウィング" />
-  <o id="4041" en="Absolute Terror" ja="アブソルートテラー" />
-  <o id="4042" en="Horrid Roar" ja="ホリッドロア" />
+  <o id="3968" en="Spinal Cleave" ja="スパイナルクリーブ" />
+  <o id="3969" en="Mangle" ja="マングル" />
+  <o id="3970" en="Leaping Cleave" ja="一刀両断" />
+  <o id="3971" en="Hex Palm" ja="落掌" />
+  <o id="3972" en="Animating Wail" ja="鯨波" />
+  <o id="3973" en="Fortifying Wail" ja="大喝" />
+  <o id="3974" en="Unblest Jambiya" ja="アンブレストジャンビア" />
+  <o id="3975" en="Gen'ei Ryodan" ja="幻影両断" />
+  <o id="3976" en="Phantom Whorl" ja="幻空抜剣" />
+  <o id="3977" en="Turn the Tables" ja="忖度強要" />
+  <o id="3978" en="Mangle" ja="マングル" />
+  <o id="3979" en="Leaping Cleave" ja="一刀両断" />
+  <o id="3980" en="Animating Wail" ja="鯨波" />
+  <o id="3981" en="Fortifying Wail" ja="大喝" />
+  <o id="3982" en="Triple Reversal" ja="トリプルリバーサル" />
+  <o id="3983" en="Enforce" ja="忖度大強要" />
+  <o id="4032" en="Hell Slash" ja="ヘルスラッシュ" />
+  <o id="4033" en="Horror Cloud" ja="ホラークラウド" />
+  <o id="4034" en="Black Cloud" ja="ブラッククラウド" />
+  <o id="4035" en="Blood Saber" ja="ブラッドセイバー" />
+  <o id="4036" en="Howling" ja="ハウリング" />
+  <o id="4037" en="Poison Breath" ja="ポイズンブレス" />
+  <o id="4038" en="Rot Gas" ja="腐敗ガス" />
+  <o id="4039" en="Dirty Claw" ja="ダーティクロー" />
+  <o id="4040" en="Shadow Claw" ja="闇の爪" />
+  <o id="4041" en="Methane Breath" ja="メタンブレス" />
+  <o id="4042" en="Grave Reel" ja="グレーブリール" />
+  <o id="4043" en="Ectosmash" ja="エクトスマッシュ" />
+  <o id="4044" en="Fear Touch" ja="フィアタッチ" />
+  <o id="4045" en="Terror Touch" ja="テラータッチ" />
+  <o id="4046" en="Curse" ja="呪う" />
+  <o id="4047" en="Dark Sphere" ja="ダークスフィア" />
+  <o id="4048" en="Trick or Treat" ja="トリックオアトリート" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
