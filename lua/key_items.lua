@@ -2974,8 +2974,10 @@ return {
     [3147] = {id=3147,en="Ygnas's leaf",ja="ユグナスの葉っぱ",category="Permanent Key Items"},
     [3148] = {id=3148,en="Ancient Melody: O",ja="古の旋律【Ｏ】",category="Temporary Key Items"},
     [3149] = {id=3149,en="Ancient Melody: M",ja="古の旋律【Ｍ】",category="Temporary Key Items"},
+    [3150] = {id=3150,en="Ancient Melody: E",ja="古の旋律【Ｅ】",category="Temporary Key Items"},
     [3153] = {id=3153,en="after-party pass",ja="ミュモルエクストラステージ特別招待券",category="Temporary Key Items"},
     [3154] = {id=3154,en="reassembling technique",ja="リアセンブル",category="Permanent Key Items"},
+    [3156] = {id=3156,en="empty hourglass",ja="空虚な砂時計",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

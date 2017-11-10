@@ -283,6 +283,7 @@ return {
     [291] = {id=291,en="Reisenjima",ja="醴泉島",search="Reisenjima"},
     [292] = {id=292,en="Reisenjima Henge",ja="醴泉島-秘境",search="ReisenHenge"},
     [293] = {id=293,en="Reisenjima Sanctorium",ja="醴泉島の祠",search="ReisenSanc"},
+    [294] = {id=294,en="Dynamis - San d'Oria [D]",ja="デュナミス-サンドリア〔Ｄ〕",search="DynamisSan_D"},
 }, {"id", "en", "ja", "search"}
 
 --[[

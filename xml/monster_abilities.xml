@@ -3319,39 +3319,22 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Spinal Cleave" ja="スパイナルクリーブ" />
-  <o id="3969" en="Mangle" ja="マングル" />
-  <o id="3970" en="Leaping Cleave" ja="一刀両断" />
-  <o id="3971" en="Hex Palm" ja="落掌" />
-  <o id="3972" en="Animating Wail" ja="鯨波" />
-  <o id="3973" en="Fortifying Wail" ja="大喝" />
-  <o id="3974" en="Unblest Jambiya" ja="アンブレストジャンビア" />
-  <o id="3975" en="Gen'ei Ryodan" ja="幻影両断" />
-  <o id="3976" en="Phantom Whorl" ja="幻空抜剣" />
-  <o id="3977" en="Turn the Tables" ja="忖度強要" />
-  <o id="3978" en="Mangle" ja="マングル" />
-  <o id="3979" en="Leaping Cleave" ja="一刀両断" />
-  <o id="3980" en="Animating Wail" ja="鯨波" />
-  <o id="3981" en="Fortifying Wail" ja="大喝" />
-  <o id="3982" en="Triple Reversal" ja="トリプルリバーサル" />
-  <o id="3983" en="Enforce" ja="忖度大強要" />
-  <o id="4032" en="Hell Slash" ja="ヘルスラッシュ" />
-  <o id="4033" en="Horror Cloud" ja="ホラークラウド" />
-  <o id="4034" en="Black Cloud" ja="ブラッククラウド" />
-  <o id="4035" en="Blood Saber" ja="ブラッドセイバー" />
-  <o id="4036" en="Howling" ja="ハウリング" />
-  <o id="4037" en="Poison Breath" ja="ポイズンブレス" />
-  <o id="4038" en="Rot Gas" ja="腐敗ガス" />
-  <o id="4039" en="Dirty Claw" ja="ダーティクロー" />
-  <o id="4040" en="Shadow Claw" ja="闇の爪" />
-  <o id="4041" en="Methane Breath" ja="メタンブレス" />
-  <o id="4042" en="Grave Reel" ja="グレーブリール" />
-  <o id="4043" en="Ectosmash" ja="エクトスマッシュ" />
-  <o id="4044" en="Fear Touch" ja="フィアタッチ" />
-  <o id="4045" en="Terror Touch" ja="テラータッチ" />
-  <o id="4046" en="Curse" ja="呪う" />
-  <o id="4047" en="Dark Sphere" ja="ダークスフィア" />
-  <o id="4048" en="Trick or Treat" ja="トリックオアトリート" />
+  <o id="3968" en="Frog Song" ja="カエルの奉唱" />
+  <o id="3969" en="Magic Hammer" ja="マジックハンマー" />
+  <o id="3970" en="Quenching Hammer" ja="クエンチングハンマー" />
+  <o id="3971" en="Water Bomb" ja="超水風船爆弾" />
+  <o id="3972" en="Frog Cheer" ja="カエルの鼓舞" />
+  <o id="3973" en="Providence" ja="天乞い" />
+  <o id="4032" en="Hellsnap" ja="ヘルスナップ" />
+  <o id="4033" en="Hellclap" ja="ヘルクラップ" />
+  <o id="4034" en="Cackle" ja="カックル" />
+  <o id="4035" en="Necrobane" ja="ネクロベイン" />
+  <o id="4036" en="Necropurge" ja="ネクロパージ" />
+  <o id="4037" en="Bilgestorm" ja="ビルジストーム" />
+  <o id="4038" en="Thundris Shriek" ja="鮮血の饗宴" />
+  <o id="4039" en="Hellsnap" ja="ヘルスナップ" />
+  <o id="4040" en="Hellclap" ja="ヘルクラップ" />
+  <o id="4041" en="Thundris Shriek" ja="鮮血の饗宴" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
@@ -3371,4 +3354,16 @@
   <o id="4112" en="Ullegore's Smash" ja="ウルゴアスラッシュ" />
   <o id="4113" en="Ullegore's Dullness" ja="ウルゴアダルネス" />
   <o id="4114" en="Eternal Vana Dullness" ja="ファイナル・エターナル・ダルネス" />
+  <o id="4115" en="Shriek" ja="シュリーク" />
+  <o id="4116" en="Bilateral Shield" ja="バイラテラルシールド" />
+  <o id="4117" en="Cyclone Slice" ja="サイクローンスライス" />
+  <o id="4118" en="Full-On Tackle" ja="フルオンタックル" />
+  <o id="4119" en="Yarkhushta" ja="ヤークシュタ" />
+  <o id="4120" en="Flailing Blow" ja="フレーリングブロウ" />
+  <o id="4121" en="Repulsor" ja="リパルサー" />
+  <o id="4122" en="Sanguine Blessing" ja="サングィンブレッシング" />
+  <o id="4123" en="Aetherwell" ja="エーサーウェル" />
+  <o id="4124" en="Bomb Toss" ja="爆弾投げ" />
+  <o id="4125" en="Frypan" ja="フライパン" />
+  <o id="4126" en="Charm" ja="あやつる" />
 </monster_abilities>

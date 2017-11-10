@@ -1012,6 +1012,8 @@ return {
     [1016] = {id=1016,en="Gin Gagger",ja="ギン・ガッガー"},
     [1017] = {id=1017,en="Kin Kicker",ja="キン・キッカー"},
     [1018] = {id=1018,en="Ou Obliterator",ja="オウ・オビリテレーター"},
+    [1019] = {id=1019,en="Dynamis-San d'Oria [D] Trespasser",ja="デュナミス～サンドリア〔Ｄ〕の侵入者"},
+    [1020] = {id=1020,en="Dynamis-San d'Oria [D] Infiltrator",ja="デュナミス～サンドリア〔Ｄ〕の潜入者"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
