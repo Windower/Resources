@@ -3319,22 +3319,23 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Frog Song" ja="カエルの奉唱" />
-  <o id="3969" en="Magic Hammer" ja="マジックハンマー" />
-  <o id="3970" en="Quenching Hammer" ja="クエンチングハンマー" />
-  <o id="3971" en="Water Bomb" ja="超水風船爆弾" />
-  <o id="3972" en="Frog Cheer" ja="カエルの鼓舞" />
-  <o id="3973" en="Providence" ja="天乞い" />
-  <o id="4032" en="Hellsnap" ja="ヘルスナップ" />
-  <o id="4033" en="Hellclap" ja="ヘルクラップ" />
-  <o id="4034" en="Cackle" ja="カックル" />
-  <o id="4035" en="Necrobane" ja="ネクロベイン" />
-  <o id="4036" en="Necropurge" ja="ネクロパージ" />
-  <o id="4037" en="Bilgestorm" ja="ビルジストーム" />
-  <o id="4038" en="Thundris Shriek" ja="鮮血の饗宴" />
-  <o id="4039" en="Hellsnap" ja="ヘルスナップ" />
-  <o id="4040" en="Hellclap" ja="ヘルクラップ" />
-  <o id="4041" en="Thundris Shriek" ja="鮮血の饗宴" />
+  <o id="3968" en="Flaming Meeble Warble" ja="ファイアミーブルワーブル" />
+  <o id="3969" en="Freezing Meeble Warble" ja="ブリザドミーブルワーブル" />
+  <o id="3970" en="Shocking Meeble Warble" ja="サンダーミーブルワーブル" />
+  <o id="3971" en="Lithic Meeble Warble" ja="ストーンミーブルワーブル" />
+  <o id="3972" en="Deluging Meeble Warble" ja="ウォータミーブルワーブル" />
+  <o id="3973" en="Gusty Meeble Warble" ja="エアロミーブルワーブル" />
+  <o id="3974" en="Thrashing Assault" ja="スラッシングアッサルト" />
+  <o id="3975" en="Drill Claw" ja="ドリルクロー" />
+  <o id="3976" en="Puncturing Frenzy" ja="パンクチャリングフレンジー" />
+  <o id="3977" en="Meeble Warble" ja="ミーブルワーブル" />
+  <o id="3978" en="Earthshaker?" ja="アースシェイカー？" />
+  <o id="4035" en="Rending Talons" ja="レンディングタロン" />
+  <o id="4036" en="Shrieking Gale" ja="シュリークゲール" />
+  <o id="4037" en="Wings of Woe" ja="ウィングオブウォウ" />
+  <o id="4038" en="Wings of Agony" ja="ウィングオブアゴニ" />
+  <o id="4040" en="Ravenous Wail" ja="ラビナスウェール" />
+  <o id="4041" en="Face the Music" ja="フェイスザミュージック" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
@@ -3366,4 +3367,7 @@
   <o id="4124" en="Bomb Toss" ja="爆弾投げ" />
   <o id="4125" en="Frypan" ja="フライパン" />
   <o id="4126" en="Charm" ja="あやつる" />
+  <o id="4127" en="Ore Hurl" ja="オアハール" />
+  <o id="4128" en="Hell Whirl" ja="ヘルワール" />
+  <o id="4129" en="Thousand Fists" ja="サウザンドフィスト" />
 </monster_abilities>

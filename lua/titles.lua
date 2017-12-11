@@ -1014,6 +1014,8 @@ return {
     [1018] = {id=1018,en="Ou Obliterator",ja="オウ・オビリテレーター"},
     [1019] = {id=1019,en="Dynamis-San d'Oria [D] Trespasser",ja="デュナミス～サンドリア〔Ｄ〕の侵入者"},
     [1020] = {id=1020,en="Dynamis-San d'Oria [D] Infiltrator",ja="デュナミス～サンドリア〔Ｄ〕の潜入者"},
+    [1022] = {id=1022,en="Dynamis-Bastok [D] Trespasser",ja="デュナミス～バストゥーク〔Ｄ〕の侵入者"},
+    [1023] = {id=1023,en="Dynamis-Bastok [D] Infiltrator",ja="デュナミス～バストゥーク〔Ｄ〕の潜入者"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
