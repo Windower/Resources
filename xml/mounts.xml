@@ -18,4 +18,5 @@
   <o id="15" en="Xzomit" icon_id="87" ja="ゾミト" endesc="Calls forth a xzomit." jadesc="ゾミトを呼び出す。" prefix="/mount" />
   <o id="16" en="Hippogryph" icon_id="87" ja="ヒポグリフ" endesc="Calls forth a hippogryph." jadesc="ヒポグリフを呼び出す。" prefix="/mount" />
   <o id="17" en="Spectral Chair" icon_id="87" ja="悪霊の椅子" endesc="Calls forth a spectral chair." jadesc="悪霊の椅子を呼び出す。" prefix="/mount" />
+  <o id="18" en="Spheroid" icon_id="87" ja="スフィアロイド" endesc="Calls forth a spheroid." jadesc="スフィアロイドを呼び出す。" prefix="/mount" />
 </mounts>

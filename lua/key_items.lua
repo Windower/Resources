@@ -2960,6 +2960,7 @@ return {
     [3087] = {id=3087,en="♪Xzomit companion",ja="♪ゾミト",category="Mounts"},
     [3088] = {id=3088,en="♪Hippogryph companion",ja="♪ヒポグリフ",category="Mounts"},
     [3089] = {id=3089,en="♪Spectral chair companion",ja="♪悪霊の椅子",category="Mounts"},
+    [3090] = {id=3090,en="♪Spheroid companion",ja="♪スフィアロイド",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -2975,13 +2976,14 @@ return {
     [3148] = {id=3148,en="Ancient Melody: O",ja="古の旋律【Ｏ】",category="Temporary Key Items"},
     [3149] = {id=3149,en="Ancient Melody: M",ja="古の旋律【Ｍ】",category="Temporary Key Items"},
     [3150] = {id=3150,en="Ancient Melody: E",ja="古の旋律【Ｅ】",category="Temporary Key Items"},
+    [3151] = {id=3151,en="Ancient Melody: G",ja="古の旋律【Ｇ】",category="Temporary Key Items"},
     [3153] = {id=3153,en="after-party pass",ja="ミュモルエクストラステージ特別招待券",category="Temporary Key Items"},
     [3154] = {id=3154,en="reassembling technique",ja="リアセンブル",category="Permanent Key Items"},
     [3156] = {id=3156,en="empty hourglass",ja="空虚な砂時計",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
-Copyright © 2013-2017, Windower
+Copyright © 2013-2018, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

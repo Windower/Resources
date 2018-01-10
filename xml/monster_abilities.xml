@@ -3319,23 +3319,53 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Flaming Meeble Warble" ja="ファイアミーブルワーブル" />
-  <o id="3969" en="Freezing Meeble Warble" ja="ブリザドミーブルワーブル" />
-  <o id="3970" en="Shocking Meeble Warble" ja="サンダーミーブルワーブル" />
-  <o id="3971" en="Lithic Meeble Warble" ja="ストーンミーブルワーブル" />
-  <o id="3972" en="Deluging Meeble Warble" ja="ウォータミーブルワーブル" />
-  <o id="3973" en="Gusty Meeble Warble" ja="エアロミーブルワーブル" />
-  <o id="3974" en="Thrashing Assault" ja="スラッシングアッサルト" />
-  <o id="3975" en="Drill Claw" ja="ドリルクロー" />
-  <o id="3976" en="Puncturing Frenzy" ja="パンクチャリングフレンジー" />
-  <o id="3977" en="Meeble Warble" ja="ミーブルワーブル" />
-  <o id="3978" en="Earthshaker?" ja="アースシェイカー？" />
-  <o id="4035" en="Rending Talons" ja="レンディングタロン" />
-  <o id="4036" en="Shrieking Gale" ja="シュリークゲール" />
-  <o id="4037" en="Wings of Woe" ja="ウィングオブウォウ" />
-  <o id="4038" en="Wings of Agony" ja="ウィングオブアゴニ" />
-  <o id="4040" en="Ravenous Wail" ja="ラビナスウェール" />
-  <o id="4041" en="Face the Music" ja="フェイスザミュージック" />
+  <o id="3968" en="Miasma" ja="マイアズマ" />
+  <o id="3969" en="Rushing Slash" ja="ラッシングスラッシュ" />
+  <o id="3970" en="Tyrannic Blare" ja="タイラニックブレー" />
+  <o id="3971" en="Decussate" ja="デカセート" />
+  <o id="3972" en="Hemotoxin Wheel" ja="ヒモトクシンホイール" />
+  <o id="3973" en="Forceful Blow" ja="フォースフルブロー" />
+  <o id="3974" en="Somersault Kick" ja="サマーソルトキック" />
+  <o id="3975" en="Firespit" ja="ファイアースピット" />
+  <o id="3976" en="Groundburst" ja="グランドバースト" />
+  <o id="3977" en="Rushing Stab" ja="ラッシングスタッブ" />
+  <o id="3978" en="Assault" ja="レステアサルト" />
+  <o id="3979" en="Rushing Slash" ja="ラッシングドラブ" />
+  <o id="3980" en="Forceful Blow" ja="フォースフルブロー" />
+  <o id="3981" en="Somersault Kick" ja="サマーソルトキック" />
+  <o id="3982" en="Firespit" ja="ファイアースピット" />
+  <o id="3983" en="Warm-Up" ja="ワームアップ" />
+  <o id="3984" en="Groundburst" ja="グランドバースト" />
+  <o id="3985" en="Rushing Slash" ja="レステアサルト" />
+  <o id="3986" en="Ranged Attack" ja="遠隔攻撃" />
+  <o id="3987" en="Fire Angon" ja="ファイアアンゴン" />
+  <o id="3988" en="Batterhorn" ja="バッターホーン" />
+  <o id="3989" en="Clobber" ja="クロッバー" />
+  <o id="3990" en="Granite Skin" ja="グラニットスキン" />
+  <o id="3991" en="Blazing Angon" ja="ブレージングアンゴン" />
+  <o id="3992" en="Cyclonic Flame" ja="サイクロニックフレイム" />
+  <o id="3993" en="Sucker Punch" ja="サッカーパンチ" />
+  <o id="3994" en="Hydroball" ja="ハイドロボール" />
+  <o id="3995" en="Bubble Armor" ja="バブルアーマー" />
+  <o id="3996" en="Hydroshot" ja="ハイドロショット" />
+  <o id="3997" en="Spinning Fin" ja="スピニングフィン" />
+  <o id="3998" en="Fetid Blood" ja="フェティッドフラッド" />
+  <o id="3999" en="Mijin Gakure" ja="微塵がくれ・改" />
+  <o id="4000" en="Mijin Gakure Kai" ja="微塵がくれ" />
+  <o id="4032" en="Moonlit Charge" ja="ムーンリットチャージ" />
+  <o id="4033" en="Crescent Fang" ja="クレセントファング" />
+  <o id="4034" en="Lunar Cry" ja="ルナークライ" />
+  <o id="4035" en="Ecliptic Growl" ja="上弦の唸り" />
+  <o id="4036" en="Lunar Roar" ja="ルナーロア" />
+  <o id="4037" en="Eclipse Bite" ja="エクリプスバイト" />
+  <o id="4038" en="Ecliptic Howl" ja="下弦の咆哮" />
+  <o id="4040" en="Howling Moon" ja="ハウリングムーン" />
+  <o id="4049" en="Poison Nails" ja="ポイズンネイル" />
+  <o id="4050" en="Shining Ruby" ja="ルビーの輝き" />
+  <o id="4051" en="Glittering Ruby" ja="ルビーの煌き" />
+  <o id="4052" en="Meteorite" ja="プチメテオ" />
+  <o id="4053" en="Healing Ruby II" ja="ルビーの癒しII" />
+  <o id="4054" en="Searing Light" ja="シアリングライト" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
