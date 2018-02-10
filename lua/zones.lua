@@ -285,6 +285,7 @@ return {
     [293] = {id=293,en="Reisenjima Sanctorium",ja="醴泉島の祠",search="ReisenSanc"},
     [294] = {id=294,en="Dynamis - San d'Oria [D]",ja="デュナミス-サンドリア〔Ｄ〕",search="DynamisSan_D"},
     [295] = {id=295,en="Dynamis - Bastok [D]",ja="デュナミス-バストゥーク〔Ｄ〕",search="DynamisBas_D"},
+    [296] = {id=296,en="Dynamis - Windurst [D]",ja="デュナミス-ウィンダス〔Ｄ〕",search="DynamisWin_D"},
 }, {"id", "en", "ja", "search"}
 
 --[[
