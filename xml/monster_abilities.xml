@@ -3319,53 +3319,31 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Miasma" ja="マイアズマ" />
-  <o id="3969" en="Rushing Slash" ja="ラッシングスラッシュ" />
-  <o id="3970" en="Tyrannic Blare" ja="タイラニックブレー" />
-  <o id="3971" en="Decussate" ja="デカセート" />
-  <o id="3972" en="Hemotoxin Wheel" ja="ヒモトクシンホイール" />
-  <o id="3973" en="Forceful Blow" ja="フォースフルブロー" />
-  <o id="3974" en="Somersault Kick" ja="サマーソルトキック" />
-  <o id="3975" en="Firespit" ja="ファイアースピット" />
-  <o id="3976" en="Groundburst" ja="グランドバースト" />
-  <o id="3977" en="Rushing Stab" ja="ラッシングスタッブ" />
-  <o id="3978" en="Assault" ja="レステアサルト" />
-  <o id="3979" en="Rushing Slash" ja="ラッシングドラブ" />
-  <o id="3980" en="Forceful Blow" ja="フォースフルブロー" />
-  <o id="3981" en="Somersault Kick" ja="サマーソルトキック" />
-  <o id="3982" en="Firespit" ja="ファイアースピット" />
-  <o id="3983" en="Warm-Up" ja="ワームアップ" />
-  <o id="3984" en="Groundburst" ja="グランドバースト" />
-  <o id="3985" en="Rushing Slash" ja="レステアサルト" />
-  <o id="3986" en="Ranged Attack" ja="遠隔攻撃" />
-  <o id="3987" en="Fire Angon" ja="ファイアアンゴン" />
-  <o id="3988" en="Batterhorn" ja="バッターホーン" />
-  <o id="3989" en="Clobber" ja="クロッバー" />
-  <o id="3990" en="Granite Skin" ja="グラニットスキン" />
-  <o id="3991" en="Blazing Angon" ja="ブレージングアンゴン" />
-  <o id="3992" en="Cyclonic Flame" ja="サイクロニックフレイム" />
-  <o id="3993" en="Sucker Punch" ja="サッカーパンチ" />
-  <o id="3994" en="Hydroball" ja="ハイドロボール" />
-  <o id="3995" en="Bubble Armor" ja="バブルアーマー" />
-  <o id="3996" en="Hydroshot" ja="ハイドロショット" />
-  <o id="3997" en="Spinning Fin" ja="スピニングフィン" />
-  <o id="3998" en="Fetid Blood" ja="フェティッドフラッド" />
-  <o id="3999" en="Mijin Gakure" ja="微塵がくれ・改" />
-  <o id="4000" en="Mijin Gakure Kai" ja="微塵がくれ" />
-  <o id="4032" en="Moonlit Charge" ja="ムーンリットチャージ" />
-  <o id="4033" en="Crescent Fang" ja="クレセントファング" />
-  <o id="4034" en="Lunar Cry" ja="ルナークライ" />
-  <o id="4035" en="Ecliptic Growl" ja="上弦の唸り" />
-  <o id="4036" en="Lunar Roar" ja="ルナーロア" />
-  <o id="4037" en="Eclipse Bite" ja="エクリプスバイト" />
-  <o id="4038" en="Ecliptic Howl" ja="下弦の咆哮" />
-  <o id="4040" en="Howling Moon" ja="ハウリングムーン" />
-  <o id="4049" en="Poison Nails" ja="ポイズンネイル" />
-  <o id="4050" en="Shining Ruby" ja="ルビーの輝き" />
-  <o id="4051" en="Glittering Ruby" ja="ルビーの煌き" />
-  <o id="4052" en="Meteorite" ja="プチメテオ" />
-  <o id="4053" en="Healing Ruby II" ja="ルビーの癒しII" />
-  <o id="4054" en="Searing Light" ja="シアリングライト" />
+  <o id="3968" en="Villainous Rebuke" ja="ヴィラナス・レビューク" />
+  <o id="3969" en="Stygian Release" ja="スティジアン・リリース" />
+  <o id="3970" en="Infernal Bulwark" ja="インファーナル・バルワーク" />
+  <o id="3971" en="Atramentous Libations" ja="アトラメント・ライベーション" />
+  <o id="3972" en="Charging Up" ja="チャージングアップ" />
+  <o id="3973" en="Atramentous Oblation" ja="アトラメント・オブレーション" />
+  <o id="3974" en="Nether Castigation" ja="ネザーカスティゲーション" />
+  <o id="3975" en="Eisenschneider" ja="アイゼンシュナイダー" />
+  <o id="3976" en="Noahionto" ja="ノアヒオント" />
+  <o id="3977" en="Acheron Kick" ja="アケロンキック" />
+  <o id="3978" en="Rampant Stance" ja="ランパントスタンス" />
+  <o id="3979" en="Damsel Memento" ja="ダムゼルメメント" />
+  <o id="3980" en="Scintillant Lance" ja="シンチラントランス" />
+  <o id="3981" en="Grace of Hera" ja="グレース・オブ・ヘラ" />
+  <o id="4048" en="Berserk" ja="バーサク" />
+  <o id="4049" en="Arctic Impact" ja="極寒衝" />
+  <o id="4050" en="Cold Wave" ja="コールドウェーブ" />
+  <o id="4051" en="Hiemal Storm" ja="ハイマルストーム" />
+  <o id="4052" en="Pogonip" ja="パゴニップ" />
+  <o id="4056" en="Berserk" ja="バーサク" />
+  <o id="4057" en="Freeze Rush" ja="フリーズラッシュ" />
+  <o id="4058" en="Gelid Tempest" ja="ジェリッドテンペスト" />
+  <o id="4059" en="Hypothermal Combustion" ja="砕氷" />
+  <o id="4060" en="Self-Destruct" ja="自爆" />
+  <o id="4061" en="Berserk" ja="バーサク" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
@@ -3400,4 +3378,11 @@
   <o id="4127" en="Ore Hurl" ja="オアハール" />
   <o id="4128" en="Hell Whirl" ja="ヘルワール" />
   <o id="4129" en="Thousand Fists" ja="サウザンドフィスト" />
+  <o id="4130" en="Feather Fusillade" ja="フェザーフュシレード" />
+  <o id="4131" en="Double Punt" ja="ダブルパント" />
+  <o id="4132" en="Riposte" ja="リポスト" />
+  <o id="4133" en="Stroke" ja="ストローク" />
+  <o id="4134" en="Guttural Roar" ja="ガッタラルロア" />
+  <o id="4135" en="Pristine Evasion" ja="プリスティーンイべージョン" />
+  <o id="4136" en="Vorticose Sands" ja="ヴォーティコスサンズ" />
 </monster_abilities>
