@@ -1018,6 +1018,8 @@ return {
     [1023] = {id=1023,en="Dynamis-Bastok [D] Infiltrator",ja="デュナミス～バストゥーク〔Ｄ〕の潜入者"},
     [1025] = {id=1025,en="Dynamis-Windurst [D] Trespasser",ja="デュナミス～ウィンダス〔Ｄ〕の侵入者"},
     [1026] = {id=1026,en="Dynamis-Windurst [D] Infiltrator",ja="デュナミス～ウィンダス〔Ｄ〕の潜入者"},
+    [1028] = {id=1028,en="Dynamis-Jeuno [D] Trespasser",ja="デュナミス～ジュノ〔Ｄ〕の侵入者"},
+    [1029] = {id=1029,en="Dynamis-Jeuno [D] Infiltrator",ja="デュナミス～ジュノ〔Ｄ〕の潜入者"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},

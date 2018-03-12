@@ -20,6 +20,7 @@ return {
     [16] = {id=16,en="Hippogryph",ja="ヒポグリフ",endesc="Calls forth a hippogryph.",icon_id=87,jadesc="ヒポグリフを呼び出す。",prefix="/mount"},
     [17] = {id=17,en="Spectral Chair",ja="悪霊の椅子",endesc="Calls forth a spectral chair.",icon_id=87,jadesc="悪霊の椅子を呼び出す。",prefix="/mount"},
     [18] = {id=18,en="Spheroid",ja="スフィアロイド",endesc="Calls forth a spheroid.",icon_id=87,jadesc="スフィアロイドを呼び出す。",prefix="/mount"},
+    [19] = {id=19,en="Omega",ja="オメガ",endesc="Calls forth Omega.",icon_id=87,jadesc="オメガを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[

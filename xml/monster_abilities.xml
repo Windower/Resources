@@ -3319,31 +3319,20 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Villainous Rebuke" ja="ヴィラナス・レビューク" />
-  <o id="3969" en="Stygian Release" ja="スティジアン・リリース" />
-  <o id="3970" en="Infernal Bulwark" ja="インファーナル・バルワーク" />
-  <o id="3971" en="Atramentous Libations" ja="アトラメント・ライベーション" />
-  <o id="3972" en="Charging Up" ja="チャージングアップ" />
-  <o id="3973" en="Atramentous Oblation" ja="アトラメント・オブレーション" />
-  <o id="3974" en="Nether Castigation" ja="ネザーカスティゲーション" />
-  <o id="3975" en="Eisenschneider" ja="アイゼンシュナイダー" />
-  <o id="3976" en="Noahionto" ja="ノアヒオント" />
-  <o id="3977" en="Acheron Kick" ja="アケロンキック" />
-  <o id="3978" en="Rampant Stance" ja="ランパントスタンス" />
-  <o id="3979" en="Damsel Memento" ja="ダムゼルメメント" />
-  <o id="3980" en="Scintillant Lance" ja="シンチラントランス" />
-  <o id="3981" en="Grace of Hera" ja="グレース・オブ・ヘラ" />
-  <o id="4048" en="Berserk" ja="バーサク" />
-  <o id="4049" en="Arctic Impact" ja="極寒衝" />
-  <o id="4050" en="Cold Wave" ja="コールドウェーブ" />
-  <o id="4051" en="Hiemal Storm" ja="ハイマルストーム" />
-  <o id="4052" en="Pogonip" ja="パゴニップ" />
-  <o id="4056" en="Berserk" ja="バーサク" />
-  <o id="4057" en="Freeze Rush" ja="フリーズラッシュ" />
-  <o id="4058" en="Gelid Tempest" ja="ジェリッドテンペスト" />
-  <o id="4059" en="Hypothermal Combustion" ja="砕氷" />
-  <o id="4060" en="Self-Destruct" ja="自爆" />
-  <o id="4061" en="Berserk" ja="バーサク" />
+  <o id="3968" en="Somnic Shell" ja="ソムニックシェル" />
+  <o id="3969" en="Contaminating Concoction" ja="コンタミネートコンコクション" />
+  <o id="3970" en="Mogspolsion" ja="ビッグモグボム" />
+  <o id="3971" en="Atramentous Libations" ja="ビルトス" />
+  <o id="3972" en="Washtub" ja="ウォッシュタブ" />
+  <o id="3973" en="Crystalline Flare" ja="クリスタリンフレア" />
+  <o id="3974" en="Invite Over" ja="フレンド招待" />
+  <o id="4032" en="Batterhorn" ja="バッターホーン" />
+  <o id="4033" en="Clobber" ja="クロッバー" />
+  <o id="4034" en="Demoralizing Roar" ja="デモラライジングロア" />
+  <o id="4035" en="Boiling Blood" ja="ボイリングブラッド" />
+  <o id="4036" en="Granite Skin" ja="グラニットスキン" />
+  <o id="4037" en="Crippling Slam" ja="クリップリングスラム" />
+  <o id="4038" en="Keratinous Crush" ja="ケラチナスクラッシュ" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
@@ -3385,4 +3374,19 @@
   <o id="4134" en="Guttural Roar" ja="ガッタラルロア" />
   <o id="4135" en="Pristine Evasion" ja="プリスティーンイべージョン" />
   <o id="4136" en="Vorticose Sands" ja="ヴォーティコスサンズ" />
+  <o id="4137" en="Goblin Frenzy" ja="ゴブリンフレンジー" />
+  <o id="4138" en="Bomb Hurl" ja="ボムハール" />
+  <o id="4139" en="Crockpot" ja="クロックポット" />
+  <o id="4140" en="Smoke Veil" ja="スモークヴェール" />
+  <o id="4141" en="Crackling Candle" ja="クラックリングシャワー" />
+  <o id="4142" en="Numbing Shower" ja="ナミングシャワー" />
+  <o id="4143" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4144" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4145" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4146" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4147" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4148" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4149" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4150" en="Fixed Dice" ja="イカサマのダイス" />
+  <o id="4151" en="Fixed Dice" ja="イカサマのダイス" />
 </monster_abilities>
