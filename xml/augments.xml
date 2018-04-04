@@ -49,11 +49,11 @@
   <o id="47" en="DMG:%+d%% " ja="ダメージ%+d%% " />
   <o id="48" en="Latent effect: &quot;Regain&quot;%+d " ja="潜在能力:リゲイン%+d " />
   <o id="49" en="Latent effect: &quot;Refresh&quot;%+d " ja="潜在能力:リフレシュ%+d " />
-  <o id="50" en="Occ. inc. resist. to stat. ailments %+d " ja="全状態異常のレジスト効果アップ%+d " />
+  <o id="50" en="Occ. inc. resist. to stat. ailments %+d " ja="全状態異常のレジスト%+d " />
   <o id="51" en="All songs %+d" ja="全歌%+d" />
   <o id="52" en="Breath %+d " ja="ブレス%+d " />
   <o id="53" en="TP Bonus %+d " ja="TPボーナス%+d " />
-  <o id="54" en="55" ja="55" />
+  <o id="54" en="Parrying rate %+d%%" ja="受け流し率%+d%%" />
   <o id="55" en="56" ja="56" />
   <o id="56" en="57" ja="57" />
   <o id="57" en="58" ja="58" />

@@ -348,7 +348,7 @@
   <o id="602" en="Hypothermal Combustion" ja="砕氷" element="7" icon_id="47" targets="32" tp_cost="2000" monster_level="60" range="10" prefix="/monsterskill" />
   <o id="603" en="Lateral Slash" ja="下包丁" element="6" icon_id="46" targets="32" tp_cost="1000" monster_level="60" range="4" prefix="/monsterskill" />
   <o id="604" en="Throat Stab" ja="急所突き" element="6" icon_id="46" targets="32" tp_cost="1300" monster_level="10" range="6" prefix="/monsterskill" />
-  <o id="605" en="Aerial Wheel" ja="エアリアルホイール" element="6" icon_id="46" targets="32" tp_cost="2000" monster_level="-1" range="12" prefix="/monsterskill" />
+  <o id="605" en="エアリアルホイール" ja="エアリアルホイール" element="6" icon_id="46" targets="32" tp_cost="2000" monster_level="-1" range="12" prefix="/monsterskill" />
   <o id="606" en="Shoulder Attack" ja="ショルダーアタック" element="2" icon_id="42" targets="32" tp_cost="1500" monster_level="20" range="9" prefix="/monsterskill" />
   <o id="607" en="Slam Dunk" ja="スラムダンク" element="2" icon_id="42" targets="32" tp_cost="1300" monster_level="1" range="12" prefix="/monsterskill" />
   <o id="608" en="Arm Block" ja="アームブロック" element="2" icon_id="42" targets="32" tp_cost="1700" monster_level="30" range="12" prefix="/monsterskill" />
@@ -3319,20 +3319,36 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Somnic Shell" ja="ソムニックシェル" />
-  <o id="3969" en="Contaminating Concoction" ja="コンタミネートコンコクション" />
-  <o id="3970" en="Mogspolsion" ja="ビッグモグボム" />
-  <o id="3971" en="Atramentous Libations" ja="ビルトス" />
-  <o id="3972" en="Washtub" ja="ウォッシュタブ" />
-  <o id="3973" en="Crystalline Flare" ja="クリスタリンフレア" />
-  <o id="3974" en="Invite Over" ja="フレンド招待" />
-  <o id="4032" en="Batterhorn" ja="バッターホーン" />
-  <o id="4033" en="Clobber" ja="クロッバー" />
-  <o id="4034" en="Demoralizing Roar" ja="デモラライジングロア" />
-  <o id="4035" en="Boiling Blood" ja="ボイリングブラッド" />
-  <o id="4036" en="Granite Skin" ja="グラニットスキン" />
-  <o id="4037" en="Crippling Slam" ja="クリップリングスラム" />
-  <o id="4038" en="Keratinous Crush" ja="ケラチナスクラッシュ" />
+  <o id="3968" en="Aerial Wheel" ja="エアリアルホイール" />
+  <o id="3969" en="Shoulder Attack" ja="ショルダーアタック" />
+  <o id="3970" en="Slam Dunk" ja="スラムダンク" />
+  <o id="3971" en="Arm Block" ja="アームブロック" />
+  <o id="3972" en="Battle Dance" ja="バトルダンス" />
+  <o id="3973" en="Heroic Howl" ja="英魂の雄叫び" />
+  <o id="3974" en="Fanatic Dance" ja="ファナティックダンス" />
+  <o id="3975" en="Frantic Howl" ja="雄飛の雄叫び" />
+  <o id="3976" en="Manic Dance" ja="マニックダンス" />
+  <o id="3977" en="Orcish Counterstance" ja="カウンタースタンス" />
+  <o id="3978" en="Berserker Dance" ja="バーサーカーダンス" />
+  <o id="3979" en="Tornado Edge" ja="トルネードエッジ" />
+  <o id="3980" en="Shoulder Charge" ja="ショルダーチャージ" />
+  <o id="3981" en="Veil of Chaos" ja="ベール・オブ・カオス" />
+  <o id="3982" en="Veil of Disarray" ja="ベール・オブ・ディサレー" />
+  <o id="3983" en="Death Ray" ja="デスレイ" />
+  <o id="3984" en="Hex Eye" ja="凶眼" />
+  <o id="3985" en="Ignis" ja="イグニス" />
+  <o id="3986" en="Gelis" ja="ゲールス" />
+  <o id="3987" en="Flabra" ja="フラブラ" />
+  <o id="3988" en="Tellus" ja="テッルス" />
+  <o id="3989" en="Sulpor" ja="スルポール" />
+  <o id="3990" en="Unda" ja="ウンダ" />
+  <o id="3991" en="Lux" ja="ルックス" />
+  <o id="3992" en="Tenebrae" ja="テネブレイ" />
+  <o id="3993" en="Vallation" ja="ヴァレション" />
+  <o id="4032" en="Drill Branch" ja="ドリルブランチ" />
+  <o id="4033" en="Pinecone Bomb" ja="まつぼっくり爆弾" />
+  <o id="4034" en="Pollenstorm" ja="パレンストーム" />
+  <o id="4035" en="Chelate" ja="チェレート" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />
