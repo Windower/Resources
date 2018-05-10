@@ -20,4 +20,5 @@
   <o id="17" en="Spectral Chair" icon_id="87" ja="悪霊の椅子" endesc="Calls forth a spectral chair." jadesc="悪霊の椅子を呼び出す。" prefix="/mount" />
   <o id="18" en="Spheroid" icon_id="87" ja="スフィアロイド" endesc="Calls forth a spheroid." jadesc="スフィアロイドを呼び出す。" prefix="/mount" />
   <o id="19" en="Omega" icon_id="87" ja="オメガ" endesc="Calls forth Omega." jadesc="オメガを呼び出す。" prefix="/mount" />
+  <o id="20" en="Coeurl" icon_id="87" ja="クァール" endesc="Calls forth a coeurl." jadesc="クァールを呼び出す。" prefix="/mount" />
 </mounts>

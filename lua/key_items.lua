@@ -2962,6 +2962,7 @@ return {
     [3089] = {id=3089,en="♪Spectral chair companion",ja="♪悪霊の椅子",category="Mounts"},
     [3090] = {id=3090,en="♪Spheroid companion",ja="♪スフィアロイド",category="Mounts"},
     [3091] = {id=3091,en="♪Omega",ja="♪オメガ",category="Mounts"},
+    [3092] = {id=3092,en="♪Coeurl",ja="♪クァール",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -2981,7 +2982,9 @@ return {
     [3152] = {id=3152,en="Ancient Melody: A",ja="古の旋律【Ａ】",category="Temporary Key Items"},
     [3153] = {id=3153,en="after-party pass",ja="ミュモルエクストラステージ特別招待券",category="Temporary Key Items"},
     [3154] = {id=3154,en="reassembling technique",ja="リアセンブル",category="Permanent Key Items"},
+    [3155] = {id=3155,en="memory gem",ja="想いを感知するダイアモンド",category="Temporary Key Items"},
     [3156] = {id=3156,en="empty hourglass",ja="空虚な砂時計",category="Permanent Key Items"},
+    [3157] = {id=3157,en="filled memory gem",ja="想いの詰まったダイヤモンド",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
