@@ -674,9 +674,9 @@
   <o id="680" en="A newfound puissance courses through your veins." color="91" />
   <o id="681" en="Your muscles ripple with an immensely powerful and invigorating force." color="91" />
   <o id="682" en="Your puissance withers slightly." color="91" />
-  <o id="683" en="You have claimed {$target}!" color="91" />
-  <o id="684" en="{$target} has been claimed!" color="91" />
-  <o id="685" en="The enemy you are battling will no longer be claimed in: {$number}." color="91" />
+  <o id="683" en="You have claimed ${target}!" color="91" />
+  <o id="684" en="${target} has been claimed!" color="91" />
+  <o id="685" en="The enemy you are battling will no longer be claimed in: ${number}." color="91" />
   <o id="686" en="The enemy you were battling is no longer claimed." color="91" />
   <o id="687" en="${actor} captured the ${target}." color="91" />
   <o id="688" en="${actor} has fled!" color="91" />
@@ -749,8 +749,8 @@
   <o id="757" en="${number} of ${target}'s effects disappears!" color="101" />
   <o id="758" en="${actor} uses ${item}.${lb}→Obtained key item: ${key_item}." color="1" />
   <o id="759" en="You already have key item: ${key_item}." color="1" />
-  <o id="760" en="{You are only able to possess one ${item} and thus are unable to receive your just reward. Clear out your inventory and receive the item from the Records of Eminence Menu." color="1" />
-  <o id="761" en="{You were unable to receive your just reward because you need ${number} free spaces in your inventory. Clear out your bags and receive your item from the Records of Eminence Menu." color="1" />
+  <o id="760" en="You are only able to possess one ${item} and thus are unable to receive your just reward. Clear out your inventory and receive the item from the Records of Eminence Menu." color="1" />
+  <o id="761" en="You were unable to receive your just reward because you need ${number} free spaces in your inventory. Clear out your bags and receive your item from the Records of Eminence Menu." color="1" />
   <o id="762" en="${actor} uses ${spell}.${lb}All of ${target}'s status parameters are boosted." color="1" />
   <o id="763" en="${actor} uses ${spell}.${lb}${target} has grown noticeably bored." color="1" />
   <o id="764" en="${actor} uses ${spell}.${lb}${target} feels the Fever!" color="1" />
