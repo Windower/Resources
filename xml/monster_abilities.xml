@@ -3319,41 +3319,59 @@
   <o id="3947" en="Insipid Nip" ja="インシピッドニップ" />
   <o id="3948" en="Pandemic Nip" ja="パンデミックニップ" />
   <o id="3949" en="Cimicine Discharge" ja="シミサインディスチャージ" />
-  <o id="3968" en="Sand Shroud" ja="サンドシュラウド" />
-  <o id="3969" en="Sand Shield" ja="サンドシールド" />
-  <o id="3970" en="Thornball" ja="ソーンボール" />
-  <o id="3971" en="Fettering Tackle" ja="フェタリングタックル" />
-  <o id="3972" en="Magnetite Cloud" ja="磁鉄粉" />
-  <o id="3973" en="Jamming Wave" ja="妨害音波" />
-  <o id="3974" en="Sand Trap" ja="砂の呪縛" />
-  <o id="3975" en="Sand Rush" ja="砂岩嵐" />
-  <o id="3976" en="Spikeball" ja="スパイクボール" />
-  <o id="3977" en="Shoulder Slam" ja="ショルダースラム" />
-  <o id="3978" en="Magnetite Cloud" ja="磁鉄粉" />
-  <o id="3979" en="Sandstorm" ja="砂塵" />
-  <o id="3980" en="Sand Veil" ja="サンドヴェール" />
-  <o id="3981" en="Sand Shield" ja="サンドシールド" />
-  <o id="3982" en="Jamming Wave" ja="妨害音波" />
-  <o id="3983" en="Sand Trap" ja="砂の呪縛" />
-  <o id="3984" en="10,000 Needles" ja="針万本" />
-  <o id="3985" en="4,000 Needles" ja="針四千本" />
-  <o id="3986" en="2,000 Needles" ja="針弐千本" />
-  <o id="3987" en="1,000 Needles" ja="針千本" />
-  <o id="3988" en="100 Needles" ja="針百本" />
-  <o id="3989" en="Ranged Attack" ja="遠隔攻撃" />
-  <o id="3990" en="Eagle Eye Shot" ja="イーグルアイ" />
-  <o id="4032" en="Dispelling Wind" ja="ディスペルウィンド" />
-  <o id="4033" en="Deadly Drive" ja="デッドリードライブ" />
-  <o id="4034" en="Windwall" ja="ウィンドウォール" />
-  <o id="4035" en="Fang Rush" ja="ファングラッシュ" />
-  <o id="4036" en="Dread Shriek" ja="ドレッドシュリーク" />
-  <o id="4037" en="Tail Crush" ja="テールクラッシュ" />
-  <o id="4038" en="Blizzard Breath" ja="ブリザードブレス" />
-  <o id="4039" en="Thunder Breath" ja="サンダーブレス" />
-  <o id="4040" en="Radiant Breath" ja="レイディアントブレス" />
-  <o id="4041" en="Chaos Breath" ja="カオスブレス" />
-  <o id="4042" en="Hurricane Breath" ja="ハリケーンブレス" />
-  <o id="4043" en="Blazing Shriek" ja="ブレイズシュリーク" />
+  <o id="3968" en="Goblin Rush" ja="ゴブリンラッシュ" />
+  <o id="3969" en="Bomb Toss" ja="爆弾投げ" />
+  <o id="3970" en="Frypan" ja="フライパン" />
+  <o id="3971" en="Smokebomb" ja="スモークスクリーン" />
+  <o id="3972" en="Crispy Candle" ja="クリスピーシャワー" />
+  <o id="3973" en="Paralysis Shower" ja="パラライズシャワー" />
+  <o id="3974" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3975" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3976" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3977" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3978" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3979" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3980" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3981" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3982" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3983" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3984" en="Goblin Dice" ja="運命のダイス" />
+  <o id="3985" en="Dirty Bomb" ja="ワルワル爆弾" />
+  <o id="3986" en="Blasting Bomb" ja="バイバイ爆弾" />
+  <o id="3987" en="Goblin Bomb" ja="ゴブゴブ爆弾" />
+  <o id="4032" en="Abrasive Tantara" ja="アブレーシブタンタラ" />
+  <o id="4033" en="Deafening Tantara" ja="デフェニングタンタラ" />
+  <o id="4034" en="Frenetic Rip" ja="フレネティクリップ" />
+  <o id="4035" en="Bugle Call" ja="ビューグルコール" />
+  <o id="4036" en="Grating Tantara" ja="グレーティングタンタラ" />
+  <o id="4037" en="Stifling Tantara" ja="スタイフリングタンタラ" />
+  <o id="4038" en="Dark Recital" ja="ダークリサイタル" />
+  <o id="4048" en="Dark Orb" ja="ダークオーブ" />
+  <o id="4049" en="Dark Mist" ja="ダークミスト" />
+  <o id="4050" en="Triumphant Roar" ja="共鳴" />
+  <o id="4051" en="Terror Eye" ja="テラーアイ" />
+  <o id="4052" en="Bloody Claw" ja="ブラッディクロー" />
+  <o id="4053" en="Shadow Burst" ja="シャドウバースト" />
+  <o id="4064" en="Spidey Web" ja="スパイディーウエブ" />
+  <o id="4065" en="Sickle Smush" ja="シックルスムッシュ" />
+  <o id="4066" en="Acid Drool" ja="アシッドドルール" />
+  <o id="4067" en="Bubbling Bubbles" ja="バブリングバブル" />
+  <o id="4068" en="Mini Scissors" ja="ミニシザー" />
+  <o id="4069" en="Scissor Shield" ja="シザーシールド" />
+  <o id="4070" en="Shiny Frame" ja="シャイニーフレイム" />
+  <o id="4071" en="Headram" ja="ヘッドラム" />
+  <o id="4072" en="Lullaby Flower" ja="プチ夢想歌" />
+  <o id="4073" en="Krazy Oats" ja="プチ種まき" />
+  <o id="4074" en="Mini Photosynthesis" ja="プチ光合成" />
+  <o id="4075" en="Leaf Prick" ja="リーフプリック" />
+  <o id="4076" en="Yelp" ja="イェルプ" />
+  <o id="4077" en="Screamy Arrow" ja="スクリーミーアロー" />
+  <o id="4078" en="Mild Gaze" ja="マイルド邪視" />
+  <o id="4079" en="Sound Sucker" ja="サウンドサッカー" />
+  <o id="4080" en="Temper Tantrum" ja="テンパータントルーム" />
+  <o id="4081" en="All Smiles" ja="オールスマイル" />
+  <o id="4082" en="Mog Bomb" ja="モグボム" />
+  <o id="4083" en="Full Bloom" ja="フルブルーム" />
   <o id="4096" en="Pain Sync" ja="痛覚同化" />
   <o id="4097" en="View Sync" ja="風景同化" />
   <o id="4098" en="Blessing Sync" ja="福音同化" />

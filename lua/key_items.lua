@@ -2948,7 +2948,7 @@ return {
     [3075] = {id=3075,en="♪Crab companion",ja="♪クラブ",category="Mounts"},
     [3076] = {id=3076,en="♪Red crab companion",ja="♪赤クラブ",category="Mounts"},
     [3077] = {id=3077,en="♪Bomb companion",ja="♪ボム",category="Mounts"},
-    [3078] = {id=3078,en="♪Sheep companion",ja="♪大羊",category="Mounts"},
+    [3078] = {id=3078,en="♪Ram companion",ja="♪大羊",category="Mounts"},
     [3079] = {id=3079,en="♪Morbol companion",ja="♪モルボル",category="Mounts"},
     [3080] = {id=3080,en="♪Crawler companion",ja="♪クロウラー",category="Mounts"},
     [3081] = {id=3081,en="♪Fenrir whistle",ja="♪フェンリル",category="Mounts"},
