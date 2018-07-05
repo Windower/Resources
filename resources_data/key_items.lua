@@ -2575,7 +2575,7 @@ return {
     [2673] = {id=2673,en="immature crab memento",ja="幼生クラブの思い出",category="Mog Garden"},
     [2674] = {id=2674,en="crab memento",ja="クラブの思い出",category="Mog Garden"},
     [2675] = {id=2675,en="porter crab memento",ja="ポータークラブの思い出",category="Mog Garden"},
-    [2676] = {id=2676,en="colibri chick memento",ja="幼鳥コリブリの思い出",category="Mog Garden"},
+    [2676] = {id=2676,en="baby colibri memento",ja="幼鳥コリブリの思い出",category="Mog Garden"},
     [2677] = {id=2677,en="colibri memento",ja="コリブリの思い出",category="Mog Garden"},
     [2678] = {id=2678,en="toucalibri memento",ja="トゥカリブリの思い出",category="Mog Garden"},
     [2679] = {id=2679,en="coeurl cub memento",ja="子クァールの思い出",category="Mog Garden"},
