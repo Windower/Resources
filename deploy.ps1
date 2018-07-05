@@ -114,7 +114,7 @@ Get-ChildItem $stagingDir | Copy-Item -Destination . -Recurse -Force
 & git config user.name "$env:GITHUB_NAME"
 & git add .
 "Committing changes..."
-& git commit -q -m "Deploy packages from commit $env:APPVEYOR_REPO_COMMIT"
+& git commit -q -m "Deploy resources from commit $env:APPVEYOR_REPO_COMMIT"
 "Pushing to remote..."
 try { & git push -q origin gh-pages 2>&1 | Out-Null } catch { }
 if (-not $?) { throw "Failed push to remote" }
