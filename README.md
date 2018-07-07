@@ -1,6 +1,8 @@
 Resources
 =========
 
+*Note: This repository's function changed from a raw resource store (which just hosted the latest resource data in XML and Lua format, compiled from the [Resource Extractor](https://github.com/Windower/ResourceExtractor)) to the place where we host the resource package for Windower 5. As such it will only hold the files relevant for the new package, which are the Lua files. If you still need the XML version of the files you need to run ResourceExtractor yourself and use its output.*
+
 This repository contains the latest version of Windower's resources. These resources are parsed with [Resource Extractor](https://github.com/Windower/ResourceExtractor).
 
 It produces two kinds of resources: automatically parsed resources (from FFXI's DAT files) and manually added resources (from its own [`fixes.xml`](https://github.com/Windower/ResourceExtractor/blob/master/fixes.xml) file).

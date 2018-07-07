@@ -1,0 +1,30 @@
+version: "{build}"
+
+branches:
+  only:
+    - master
+
+skip_tags: true
+
+image: Visual Studio 2017
+
+environment:
+  BUILD_PATH: C:\build\
+  GITHUB_USERNAME: WindowerBot
+  GITHUB_NAME: WindowerBot
+  GITHUB_EMAIL: 39810929+WindowerBot@users.noreply.github.com
+  GITHUB_TOKEN:
+    secure: fvFoi2avvq8V1pkv9zpWinZ9+A37Nv/JWPftrsGLn8F8qswDYH1GbKWrn3tBfoFN
+
+init:
+  - git config --global core.autocrlf input
+
+clone_depth: 2
+
+build_script:
+  - ps: .\build
+
+test_script:
+
+deploy_script:
+  - ps: .\deploy
