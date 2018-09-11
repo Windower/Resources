@@ -146,7 +146,7 @@ return {
     [155] = {id=155,en="Tachi: Ageha",ja="十一之太刀・鳳蝶",element=2,icon_id=625,prefix="/weaponskill",range=2,skill=10,skillchain_a="Compression",skillchain_b="Scission",skillchain_c="",targets=32},
     [156] = {id=156,en="Tachi: Fudo",ja="祖之太刀・不動",element=6,icon_id=622,prefix="/weaponskill",range=2,skill=10,skillchain_a="Light",skillchain_b="Distortion",skillchain_c="",targets=32},
     [157] = {id=157,en="Tachi: Shoha",ja="十二之太刀・照破",element=6,icon_id=622,prefix="/weaponskill",range=2,skill=10,skillchain_a="Fragmentation",skillchain_b="Compression",skillchain_c="",targets=32},
-    [158] = {id=158,en="Tachi: Suikawari",ja="盛夏之太刀・西瓜割",element=6,icon_id=46,prefix="/weaponskill",range=2,targets=32},
+    [158] = {id=158,en="Tachi: Suikawari",ja="盛夏之太刀・西瓜割",element=6,icon_id=622,prefix="/weaponskill",range=2,targets=32},
     [160] = {id=160,en="Shining Strike",ja="シャインストライク",element=6,icon_id=628,prefix="/weaponskill",range=2,skill=11,skillchain_a="Impaction",skillchain_b="",skillchain_c="",targets=32},
     [161] = {id=161,en="Seraph Strike",ja="セラフストライク",element=6,icon_id=628,prefix="/weaponskill",range=2,skill=11,skillchain_a="Impaction",skillchain_b="",skillchain_c="",targets=32},
     [162] = {id=162,en="Brainshaker",ja="ブレインシェイカー",element=4,icon_id=629,prefix="/weaponskill",range=2,skill=11,skillchain_a="Reverberation",skillchain_b="",skillchain_c="",targets=32},

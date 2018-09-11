@@ -2985,6 +2985,14 @@ return {
     [3155] = {id=3155,en="memory gem",ja="想いを感知するダイアモンド",category="Temporary Key Items"},
     [3156] = {id=3156,en="empty hourglass",ja="空虚な砂時計",category="Permanent Key Items"},
     [3157] = {id=3157,en="filled memory gem",ja="想いの詰まったダイヤモンド",category="Permanent Key Items"},
+    [3158] = {id=3158,en="Elvaan Mask of Darkness",ja="分かたれしエルヴァーンの闇の仮面",category="Permanent Key Items"},
+    [3159] = {id=3159,en="Elvaan Mask of Light",ja="分かたれしエルヴァーンの光の仮面",category="Permanent Key Items"},
+    [3160] = {id=3160,en="Galka Mask of Darkness",ja="分かたれしガルカの闇の仮面",category="Permanent Key Items"},
+    [3161] = {id=3161,en="Galka Mask of Light",ja="分かたれしガルカの光の仮面",category="Permanent Key Items"},
+    [3162] = {id=3162,en="Tarutaru Mask of Darkness",ja="分かたれしタルタルの闇の仮面",category="Permanent Key Items"},
+    [3163] = {id=3163,en="Tarutaru Mask of Light",ja="分かたれしタルタルの光の仮面",category="Permanent Key Items"},
+    [3164] = {id=3164,en="Mithra Mask of Darkness",ja="分かたれしミスラの闇の仮面",category="Permanent Key Items"},
+    [3165] = {id=3165,en="Mithra Mask of Light",ja="分かたれしミスラの光の仮面",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
