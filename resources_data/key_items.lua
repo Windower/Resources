@@ -2963,6 +2963,7 @@ return {
     [3090] = {id=3090,en="♪Spheroid companion",ja="♪スフィアロイド",category="Mounts"},
     [3091] = {id=3091,en="♪Omega",ja="♪オメガ",category="Mounts"},
     [3092] = {id=3092,en="♪Coeurl",ja="♪クァール",category="Mounts"},
+    [3093] = {id=3093,en="♪Goobbue",ja="♪グゥーブー",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
