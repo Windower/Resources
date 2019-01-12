@@ -121,8 +121,8 @@ return {
     [1162] = {id=1162,en="Raiton Effect",ja="雷遁の術効果",endesc="Increase damage by 2, and length of earth resistance down effect by 2 seconds.",jadesc="能力値1で雷遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。"},
     [1164] = {id=1164,en="Suiton Effect",ja="水遁の術効果",endesc="Increase damage by 2, and length of ltng. resistance down effect by 2 seconds.",jadesc="能力値1で水遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。"},
     [1216] = {id=1216,en="Ancient Circle Recast",ja="エンシェントサークル使用間隔",endesc="Shorten recast time by 10 seconds.",jadesc="能力値1で使用間隔を10秒短縮します。"},
-    [1218] = {id=1218,en="Jump Recast",ja="ジャンプ使用間隔",endesc="Shorten recast time by 2 seconds.",jadesc="能力値1で使用間隔を2秒短縮します。"},
-    [1220] = {id=1220,en="High Jump Recast",ja="ハイジャンプ使用間隔",endesc="Shorten recast time by 4 seconds.",jadesc="能力値1で使用間隔を4秒短縮します。"},
+    [1218] = {id=1218,en="Jump Recast",ja="ジャンプ使用間隔",endesc="Shorten recast time of Jump and Spirit Jump by 2 seconds.",jadesc="能力値1で使用間隔を2秒短縮します。\nスピリットジャンプの使用間隔も短縮します。"},
+    [1220] = {id=1220,en="High Jump Recast",ja="ハイジャンプ使用間隔",endesc="Shorten recast time of High Jump and Soul Jump by 4 seconds.",jadesc="能力値1で使用間隔を4秒短縮します。\nソウルジャンプの使用間隔も短縮します。"},
     [1222] = {id=1222,en="Super Jump Recast",ja="スーパージャンプ使用間隔",endesc="Shorten recast time by 6 seconds.",jadesc="能力値1で使用間隔を6秒短縮します。"},
     [1224] = {id=1224,en="Spirit Link Recast",ja="スピリットリンク使用間隔",endesc="Shorten recast time by 3 seconds.",jadesc="能力値1で使用間隔を3秒短縮します。"},
     [1280] = {id=1280,en="Avatar Physical Accuracy",ja="召喚獣物理命中率",endesc="Increase avatars' physical accuracy by 3.",jadesc="能力値1で召喚獣の物理命中率を+3します。"},
@@ -280,7 +280,7 @@ return {
 }, {"id", "en", "ja", "endesc", "jadesc"}
 
 --[[
-Copyright © 2013-2018, Windower
+Copyright © 2013-2019, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
