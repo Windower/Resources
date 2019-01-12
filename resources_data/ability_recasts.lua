@@ -144,14 +144,16 @@ return {
     [147] = {id=147,en="Innin",ja="陰忍",action_id=249},
     [148] = {id=148,en="Futae",ja="二重",action_id=259},
     [157] = {id=157,en="Ancient Circle",ja="エンシェントサークル",action_id=65},
-    [158] = {id=158,en="Jump/Spirit Jump",ja="ジャンプ/スピリットジャンプ",action_id=260},
-    [159] = {id=159,en="High/Soul Jump",ja="ハイジャンプ/ソウルジャンプ",action_id=293},
+    [158] = {id=158,en="Jump",ja="ジャンプ",action_id=66},
+    [159] = {id=159,en="High Jump",ja="ハイジャンプ",action_id=67},
     [160] = {id=160,en="Super Jump",ja="スーパージャンプ",action_id=68},
     [161] = {id=161,en="Dismiss",ja="送還",action_id=87},
     [162] = {id=162,en="Spirit Link",ja="スピリットリンク",action_id=80},
     [163] = {id=163,en="Call Wyvern",ja="コールワイバーン",action_id=61},
     [164] = {id=164,en="Deep Breathing",ja="ディープブリージング",action_id=169},
     [165] = {id=165,en="Angon",ja="アンゴン",action_id=170},
+    [166] = {id=166,en="Spirit Jump",ja="スピリットジャンプ",action_id=260},
+    [167] = {id=167,en="Soul Jump",ja="ソウルジャンプ",action_id=293},
     [170] = {id=170,en="Assault",ja="神獣の攻撃",action_id=88},
     [171] = {id=171,en="Retreat",ja="神獣の退避",action_id=89},
     [172] = {id=172,en="Release",ja="神獣の帰還",action_id=90},
@@ -164,6 +166,11 @@ return {
     [183] = {id=183,en="Convergence",ja="コンバージェンス",action_id=175},
     [184] = {id=184,en="Diffusion",ja="ディフュージョン",action_id=176},
     [185] = {id=185,en="Efflux",ja="エフラックス",action_id=297},
+    [186] = {id=186,en="Curing Waltz II",ja="ケアルワルツII",action_id=191},
+    [187] = {id=187,en="Curing Waltz III",ja="ケアルワルツIII",action_id=192},
+    [188] = {id=188,en="Curing Waltz IV",ja="ケアルワルツIV",action_id=193},
+    [189] = {id=189,en="Curing Waltz V",ja="ケアルワルツV",action_id=311},
+    [190] = {id=190,en="Divine Waltz II",ja="ディバインワルツII",action_id=262},
     [193] = {id=193,en="Phantom Roll",ja="ファントムロール",action_id=391},
     [194] = {id=194,en="Double-Up",ja="ダブルアップ",action_id=123},
     [195] = {id=195,en="Quick Draw",ja="クイックドロー",action_id=132},
@@ -183,7 +190,7 @@ return {
     [214] = {id=214,en="Maintenance",ja="フラッシング",action_id=322},
     [215] = {id=215,en="Healing Waltz",ja="ヒーリングワルツ",action_id=194},
     [216] = {id=216,en="Sambas",ja="サンバモード",action_id=315},
-    [217] = {id=217,en="Curing Waltz",ja="ケアルワルツ",action_id=311},
+    [217] = {id=217,en="Curing Waltz",ja="ケアルワルツ",action_id=190},
     [218] = {id=218,en="Jigs",ja="ジグモード",action_id=381},
     [219] = {id=219,en="Saber Dance",ja="剣の舞い",action_id=237},
     [220] = {id=220,en="Steps",ja="ステップ",action_id=312},
@@ -191,7 +198,7 @@ return {
     [222] = {id=222,en="Flourishes II",ja="フラリッシュII",action_id=213},
     [223] = {id=223,en="No Foot Rise",ja="ノーフットライズ",action_id=239},
     [224] = {id=224,en="Fan Dance",ja="扇の舞い",action_id=238},
-    [225] = {id=225,en="Divine Waltz",ja="ディバインワルツ",action_id=262},
+    [225] = {id=225,en="Divine Waltz",ja="ディバインワルツ",action_id=195},
     [226] = {id=226,en="Flourishes III",ja="フラリッシュIII",action_id=314},
     [227] = {id=227,en="Waltzes",ja="ワルツモード",action_id=183},
     [228] = {id=228,en="Light Arts",ja="白のグリモア",action_id=211},
@@ -225,7 +232,7 @@ return {
 }, {"id", "en", "ja", "action_id"}
 
 --[[
-Copyright © 2013-2018, Windower
+Copyright © 2013-2019, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

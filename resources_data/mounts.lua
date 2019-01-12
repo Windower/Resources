@@ -23,10 +23,11 @@ return {
     [19] = {id=19,en="Omega",ja="オメガ",endesc="Calls forth Omega.",icon_id=87,jadesc="オメガを呼び出す。",prefix="/mount"},
     [20] = {id=20,en="Coeurl",ja="クァール",endesc="Calls forth a coeurl.",icon_id=87,jadesc="クァールを呼び出す。",prefix="/mount"},
     [21] = {id=21,en="Goobbue",ja="グゥーブー",endesc="Calls forth a goobbue.",icon_id=87,jadesc="グゥーブーを呼び出す。",prefix="/mount"},
+    [22] = {id=22,en="Raaz",ja="ラズ",endesc="Calls forth a raaz.",icon_id=87,jadesc="ラズを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
-Copyright © 2013-2018, Windower
+Copyright © 2013-2019, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

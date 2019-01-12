@@ -175,9 +175,9 @@ return {
     [188] = {id=188,en="Aspir Samba II",ja="アスピルサンバII",duration=90,element=6,icon_id=519,mp_cost=0,prefix="/jobability",range=0,recast_id=216,targets=1,tp_cost=250,type="Samba"},
     [189] = {id=189,en="Haste Samba",ja="ヘイストサンバ",duration=90,element=6,icon_id=520,mp_cost=0,prefix="/jobability",range=0,recast_id=216,targets=1,tp_cost=350,type="Samba"},
     [190] = {id=190,en="Curing Waltz",ja="ケアルワルツ",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=217,targets=63,tp_cost=200,type="Waltz"},
-    [191] = {id=191,en="Curing Waltz II",ja="ケアルワルツII",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=217,targets=63,tp_cost=350,type="Waltz"},
-    [192] = {id=192,en="Curing Waltz III",ja="ケアルワルツIII",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=217,targets=63,tp_cost=500,type="Waltz"},
-    [193] = {id=193,en="Curing Waltz IV",ja="ケアルワルツIV",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=217,targets=63,tp_cost=650,type="Waltz"},
+    [191] = {id=191,en="Curing Waltz II",ja="ケアルワルツII",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=186,targets=63,tp_cost=350,type="Waltz"},
+    [192] = {id=192,en="Curing Waltz III",ja="ケアルワルツIII",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=187,targets=63,tp_cost=500,type="Waltz"},
+    [193] = {id=193,en="Curing Waltz IV",ja="ケアルワルツIV",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=188,targets=63,tp_cost=650,type="Waltz"},
     [194] = {id=194,en="Healing Waltz",ja="ヒーリングワルツ",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=215,targets=5,tp_cost=200,type="Waltz"},
     [195] = {id=195,en="Divine Waltz",ja="ディバインワルツ",element=6,icon_id=522,mp_cost=0,prefix="/jobability",range=8,recast_id=225,targets=5,tp_cost=400,type="Waltz"},
     [196] = {id=196,en="Spectral Jig",ja="スペクトラルジグ",duration=180,element=6,icon_id=528,mp_cost=0,prefix="/jobability",range=0,recast_id=218,targets=1,tp_cost=0,type="Jig"},
@@ -243,9 +243,9 @@ return {
     [257] = {id=257,en="Double Shot",ja="ダブルショット",duration=90,element=6,icon_id=442,mp_cost=0,prefix="/jobability",range=0,recast_id=126,targets=1,tp_cost=0,type="JobAbility"},
     [258] = {id=258,en="Sengikori",ja="先義後利",duration=60,element=6,icon_id=452,mp_cost=0,prefix="/jobability",range=0,recast_id=141,targets=1,tp_cost=0,type="JobAbility"},
     [259] = {id=259,en="Futae",ja="二重",duration=60,element=7,icon_id=463,mp_cost=0,prefix="/jobability",range=0,recast_id=148,targets=1,tp_cost=0,type="JobAbility"},
-    [260] = {id=260,en="Spirit Jump",ja="スピリットジャンプ",element=2,icon_id=465,mp_cost=0,prefix="/jobability",range=7,recast_id=158,targets=32,tp_cost=0,type="JobAbility"},
+    [260] = {id=260,en="Spirit Jump",ja="スピリットジャンプ",element=2,icon_id=465,mp_cost=0,prefix="/jobability",range=7,recast_id=166,targets=32,tp_cost=0,type="JobAbility"},
     [261] = {id=261,en="Presto",ja="プレスト",duration=30,element=6,icon_id=530,mp_cost=0,prefix="/jobability",range=0,recast_id=236,targets=1,tp_cost=0,type="JobAbility"},
-    [262] = {id=262,en="Divine Waltz II",ja="ディバインワルツII",element=6,icon_id=522,mp_cost=0,prefix="/jobability",range=8,recast_id=225,targets=5,tp_cost=800,type="Waltz"},
+    [262] = {id=262,en="Divine Waltz II",ja="ディバインワルツII",element=6,icon_id=522,mp_cost=0,prefix="/jobability",range=8,recast_id=190,targets=5,tp_cost=800,type="Waltz"},
     [263] = {id=263,en="Flourishes III",ja="フラリッシュIII",element=6,icon_id=527,mp_cost=0,prefix="/jobability",range=0,recast_id=226,targets=1,tp_cost=0,type="JobAbility"},
     [264] = {id=264,en="Climactic Flourish",ja="C.フラリッシュ",duration=60,element=6,icon_id=527,mp_cost=0,prefix="/jobability",range=0,recast_id=226,targets=1,tp_cost=0,type="Flourish3"},
     [265] = {id=265,en="Libra",ja="ライブラ",element=6,icon_id=538,mp_cost=0,prefix="/jobability",range=8,recast_id=237,targets=32,tp_cost=0,type="JobAbility"},
@@ -273,7 +273,7 @@ return {
     [288] = {id=288,en="Hagakure",ja="葉隠",duration=60,element=6,icon_id=454,mp_cost=0,prefix="/jobability",range=0,recast_id=54,targets=1,tp_cost=0,type="JobAbility"},
     [291] = {id=291,en="Issekigan",ja="一隻眼",duration=60,element=6,icon_id=461,mp_cost=0,prefix="/jobability",range=0,recast_id=57,targets=1,tp_cost=0,type="JobAbility"},
     [292] = {id=292,en="Dragon Breaker",ja="ドラゴンブレイカー",duration=180,element=7,icon_id=472,mp_cost=0,prefix="/jobability",range=8,recast_id=58,targets=32,tp_cost=0,type="JobAbility"},
-    [293] = {id=293,en="Soul Jump",ja="ソウルジャンプ",element=2,icon_id=465,mp_cost=0,prefix="/jobability",range=7,recast_id=159,targets=32,tp_cost=0,type="JobAbility"},
+    [293] = {id=293,en="Soul Jump",ja="ソウルジャンプ",element=2,icon_id=465,mp_cost=0,prefix="/jobability",range=7,recast_id=167,targets=32,tp_cost=0,type="JobAbility"},
     [295] = {id=295,en="Steady Wing",ja="ステディウィング",element=6,icon_id=468,mp_cost=0,prefix="/pet",range=0,recast_id=70,targets=1,tp_cost=0,type="PetCommand"},
     [296] = {id=296,en="Mana Cede",ja="マナシード",element=6,icon_id=480,mp_cost=0,prefix="/jobability",range=8,recast_id=71,targets=1,tp_cost=0,type="JobAbility"},
     [297] = {id=297,en="Efflux",ja="エフラックス",duration=60,element=6,icon_id=482,mp_cost=0,prefix="/jobability",range=0,recast_id=185,targets=1,tp_cost=0,type="JobAbility"},
@@ -285,7 +285,7 @@ return {
     [305] = {id=305,en="Avenger's Roll",ja="カウンターロール",duration=300,element=1,icon_id=485,mp_cost=0,prefix="/jobability",range=0,recast_id=193,targets=1,tp_cost=0,type="CorsairRoll"},
     [309] = {id=309,en="Cooldown",ja="クールダウン",element=6,icon_id=514,mp_cost=0,prefix="/jobability",range=0,recast_id=114,targets=1,tp_cost=0,type="JobAbility"},
     [310] = {id=310,en="Deus Ex Automata",ja="応急処置",element=6,icon_id=501,mp_cost=0,prefix="/jobability",range=0,recast_id=115,targets=1,tp_cost=0,type="JobAbility"},
-    [311] = {id=311,en="Curing Waltz V",ja="ケアルワルツV",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=217,targets=63,tp_cost=800,type="Waltz"},
+    [311] = {id=311,en="Curing Waltz V",ja="ケアルワルツV",element=6,icon_id=521,mp_cost=0,prefix="/jobability",range=12,recast_id=189,targets=63,tp_cost=800,type="Waltz"},
     [312] = {id=312,en="Feather Step",ja="フェザーステップ",duration=60,element=6,icon_id=526,mp_cost=0,prefix="/jobability",range=2,recast_id=220,targets=32,tp_cost=100,type="Step"},
     [313] = {id=313,en="Striking Flourish",ja="S.フラリッシュ",duration=60,element=6,icon_id=527,mp_cost=0,prefix="/jobability",range=0,recast_id=226,targets=1,tp_cost=0,type="Flourish3"},
     [314] = {id=314,en="Ternary Flourish",ja="T.フラリッシュ",duration=60,element=6,icon_id=527,mp_cost=0,prefix="/jobability",range=0,recast_id=226,targets=1,tp_cost=0,type="Flourish3"},
@@ -603,7 +603,7 @@ return {
 }, {"id", "en", "ja", "duration", "element", "icon_id", "mp_cost", "prefix", "range", "recast_id", "targets", "tp_cost", "type"}
 
 --[[
-Copyright © 2013-2018, Windower
+Copyright © 2013-2019, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
