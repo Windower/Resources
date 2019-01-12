@@ -2961,9 +2961,10 @@ return {
     [3088] = {id=3088,en="♪Hippogryph companion",ja="♪ヒポグリフ",category="Mounts"},
     [3089] = {id=3089,en="♪Spectral chair companion",ja="♪悪霊の椅子",category="Mounts"},
     [3090] = {id=3090,en="♪Spheroid companion",ja="♪スフィアロイド",category="Mounts"},
-    [3091] = {id=3091,en="♪Omega",ja="♪オメガ",category="Mounts"},
-    [3092] = {id=3092,en="♪Coeurl",ja="♪クァール",category="Mounts"},
-    [3093] = {id=3093,en="♪Goobbue",ja="♪グゥーブー",category="Mounts"},
+    [3091] = {id=3091,en="♪Omega whistle",ja="♪オメガ",category="Mounts"},
+    [3092] = {id=3092,en="♪Coeurl companion",ja="♪クァール",category="Mounts"},
+    [3093] = {id=3093,en="♪Goobbue companion",ja="♪グゥーブー",category="Mounts"},
+    [3094] = {id=3094,en="♪Raaz companion",ja="♪ラズ",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -2994,10 +2995,11 @@ return {
     [3163] = {id=3163,en="Tarutaru Mask of Light",ja="分かたれしタルタルの光の仮面",category="Permanent Key Items"},
     [3164] = {id=3164,en="Mithra Mask of Darkness",ja="分かたれしミスラの闇の仮面",category="Temporary Key Items"},
     [3165] = {id=3165,en="Mithra Mask of Light",ja="分かたれしミスラの光の仮面",category="Permanent Key Items"},
+    [3169] = {id=3169,en="Mog Kupon W-RMEA",ja="クーポンW-RMEA",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
-Copyright © 2013-2018, Windower
+Copyright © 2013-2019, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
