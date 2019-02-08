@@ -371,7 +371,7 @@ return {
     [368] = {id=368,en="\"Phalanx\"%+d ",ja="ファランクス%+d "},
     [369] = {id=369,en="\"Blood Pact\" damage %+d ",ja="契約の履行ダメージ%+d "},
     [370] = {id=370,en="\"Rev. Flourish\"%+d ",ja="R.フラリッシュ%+d "},
-    [371] = {id=371,en="\"Regen\" potency %+d%% ",ja="リジェネ回復量%+d%% "},
+    [371] = {id=371,en="\"Regen\" potency %+d ",ja="リジェネ回復量%+d "},
     [372] = {id=372,en="\"Embolden\"%+d ",ja="エンボルド%+d "},
     [373] = {id=373,en="374",ja="374"},
     [374] = {id=374,en="375",ja="375"},

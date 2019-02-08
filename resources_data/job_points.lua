@@ -47,7 +47,7 @@ return {
     [326] = {id=326,en="Magic Accuracy Bonus",ja="魔法命中アップ",endesc="Increases magic accuracy.\nIncrease magic accuracy by 1.",jadesc="魔法命中をアップします。\n能力値1で魔法命中を+1します。"},
     [328] = {id=328,en="Composure Effect",ja="コンポージャー効果アップ",endesc="Increases physical accuracy while under the effects of Composure.\nIncrease physical accuracy by 1.",jadesc="コンポージャー中、物理命中をアップします。\n能力値1で物理命中を+1します。"},
     [330] = {id=330,en="Magic Atk. Bonus",ja="魔法攻撃力アップ",endesc="Enhances Magic Atk. Bonus.\nEnhance Magic Atk. Bonus by 1.",jadesc="魔法攻撃力をアップします。\n能力値1で魔法攻撃力を+1します。"},
-    [332] = {id=332,en="Saboteur Effect",ja="サボトゥール効果アップ",endesc="Increases enfeebling magic accuracy while under the effects of Saboteur.\nIncrease enfeebling magic accuracy by 2.",jadesc="サボトゥール中、弱体魔法の命中をアップします。\n能力値1で弱体魔法の命中を+2します。"},
+    [332] = {id=332,en="Saboteur Effect",ja="サボトゥール効果アップ",endesc="Increases magic accuracy while under the effects of Saboteur.\nIncrease magic accuracy by 2.",jadesc="サボトゥール中、魔法命中をアップします。\n能力値1で魔法命中を+2します。"},
     [334] = {id=334,en="Enfeebling Magic Duration",ja="弱体魔法効果時間延長",endesc="Increases enfeebling magic effect duration.\nIncrease effect duration by 1.",jadesc="弱体魔法の効果時間を延長します。\n能力値1で効果時間を+1秒します。"},
     [336] = {id=336,en="Quick Magic Effect",ja="クイックマジック効果アップ",endesc="Reduces MP consumption while under the effects of Quick Magic.\nReduce MP consumption by 2 percent.",jadesc="クイックマジック中、MP消費量を軽減します。\n能力値1でMP消費量を-2%します。"},
     [338] = {id=338,en="Enhancing Magic Duration",ja="強化魔法効果時間延長",endesc="Increases enhancing magic effect duration.\nIncrease effect duration by 1 second.",jadesc="強化魔法の効果時間を延長します。\n能力値1で効果時間を+1秒します。"},
