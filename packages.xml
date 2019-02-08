@@ -2,12 +2,12 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.6952.42128</version>
+    <version>5.0.6978.10102</version>
     <type>library</type>
     <files>
       <file size="18584">resources_data/ability_recasts.lua</file>
       <file size="75396">resources_data/action_messages.lua</file>
-      <file size="117499">resources_data/augments.lua</file>
+      <file size="117495">resources_data/augments.lua</file>
       <file size="157983">resources_data/auto_translates.lua</file>
       <file size="2676">resources_data/bags.lua</file>
       <file size="64029">resources_data/buffs.lua</file>
@@ -17,19 +17,19 @@
       <file size="1924">resources_data/elements.lua</file>
       <file size="4103">resources_data/emotes.lua</file>
       <file size="1847">resources_data/encumbrance.lua</file>
-      <file size="4589524">resources_data/items.lua</file>
-      <file size="4297069">resources_data/item_descriptions.lua</file>
+      <file size="4593898">resources_data/items.lua</file>
+      <file size="4304401">resources_data/item_descriptions.lua</file>
       <file size="3188">resources_data/jobs.lua</file>
       <file size="108130">resources_data/job_abilities.lua</file>
-      <file size="73781">resources_data/job_points.lua</file>
+      <file size="73741">resources_data/job_points.lua</file>
       <file size="13487">resources_data/job_traits.lua</file>
-      <file size="325492">resources_data/key_items.lua</file>
+      <file size="325895">resources_data/key_items.lua</file>
       <file size="151">resources_data/manifest.xml</file>
-      <file size="73810">resources_data/merit_points.lua</file>
-      <file size="331416">resources_data/monster_abilities.lua</file>
+      <file size="73924">resources_data/merit_points.lua</file>
+      <file size="330847">resources_data/monster_abilities.lua</file>
       <file size="25133">resources_data/monstrosity.lua</file>
       <file size="2185">resources_data/moon_phases.lua</file>
-      <file size="5032">resources_data/mounts.lua</file>
+      <file size="5196">resources_data/mounts.lua</file>
       <file size="2784">resources_data/races.lua</file>
       <file size="5034">resources_data/regions.lua</file>
       <file size="2076">resources_data/servers.lua</file>

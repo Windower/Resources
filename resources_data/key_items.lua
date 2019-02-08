@@ -2965,6 +2965,7 @@ return {
     [3092] = {id=3092,en="♪Coeurl companion",ja="♪クァール",category="Mounts"},
     [3093] = {id=3093,en="♪Goobbue companion",ja="♪グゥーブー",category="Mounts"},
     [3094] = {id=3094,en="♪Raaz companion",ja="♪ラズ",category="Mounts"},
+    [3095] = {id=3095,en="♪Levitus key",ja="♪レヴィデイス",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -2995,6 +2996,9 @@ return {
     [3163] = {id=3163,en="Tarutaru Mask of Light",ja="分かたれしタルタルの光の仮面",category="Permanent Key Items"},
     [3164] = {id=3164,en="Mithra Mask of Darkness",ja="分かたれしミスラの闇の仮面",category="Temporary Key Items"},
     [3165] = {id=3165,en="Mithra Mask of Light",ja="分かたれしミスラの光の仮面",category="Permanent Key Items"},
+    [3166] = {id=3166,en="broken flying machine",ja="壊れた飛翔機",category="Temporary Key Items"},
+    [3167] = {id=3167,en="levitation device",ja="浮遊機関",category="Temporary Key Items"},
+    [3168] = {id=3168,en="whirring engine",ja="稼働し始めた浮遊機関",category="Temporary Key Items"},
     [3169] = {id=3169,en="Mog Kupon W-RMEA",ja="クーポンW-RMEA",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
