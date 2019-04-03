@@ -3000,6 +3000,17 @@ return {
     [3167] = {id=3167,en="levitation device",ja="浮遊機関",category="Temporary Key Items"},
     [3168] = {id=3168,en="whirring engine",ja="稼働し始めた浮遊機関",category="Temporary Key Items"},
     [3169] = {id=3169,en="Mog Kupon W-RMEA",ja="クーポンW-RMEA",category="Temporary Key Items"},
+    [3170] = {id=3170,en="Deed Voucher",ja="Ｄ．チケット",category="Temporary Key Items"},
+    [3171] = {id=3171,en="Deed Voucher +1: Head",ja="Ｄ．チケット+1:頭",category="Temporary Key Items"},
+    [3172] = {id=3172,en="Deed Voucher +1: Chest",ja="Ｄ．チケット+1:胴",category="Temporary Key Items"},
+    [3173] = {id=3173,en="Deed Voucher +1: Hands",ja="Ｄ．チケット+1:手",category="Temporary Key Items"},
+    [3174] = {id=3174,en="Deed Voucher +1: Legs",ja="Ｄ．チケット+1:脚",category="Temporary Key Items"},
+    [3175] = {id=3175,en="Deed Voucher +1: Feet",ja="Ｄ．チケット+1:足",category="Temporary Key Items"},
+    [3176] = {id=3176,en="Deed Voucher +2: Head",ja="Ｄ．チケット+2:頭",category="Temporary Key Items"},
+    [3177] = {id=3177,en="Deed Voucher +2: Chest",ja="Ｄ．チケット+2:胴",category="Temporary Key Items"},
+    [3178] = {id=3178,en="Deed Voucher +2: Hands",ja="Ｄ．チケット+2:手",category="Temporary Key Items"},
+    [3179] = {id=3179,en="Deed Voucher +2: Legs",ja="Ｄ．チケット+2:脚",category="Temporary Key Items"},
+    [3180] = {id=3180,en="Deed Voucher +2: Feet",ja="Ｄ．チケット+2:足",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
