@@ -509,7 +509,7 @@ return {
     [517] = {id=517,en="Collimated Fervor",ja="コリメイトファーバー",enl="Collimated Fervor",jal="コリメイトファーバー"},
     [518] = {id=518,en="Dematerialize",ja="デマテリアライズ",enl="Dematerialize",jal="デマテリアライズ"},
     [519] = {id=519,en="Theurgic Focus",ja="タウマテルギフォカス",enl="Theurgic Focus",jal="タウマテルギフォカス"},
-    [522] = {id=522,en="Elemental Sforzo",ja="Ｅ.スフォルツォ",enl="Elemental Sforzo",jal="Ｅ.スフォルツォ"},
+    [522] = {id=522,en="Elemental Sforzo",ja="E.スフォルツォ",enl="Elemental Sforzo",jal="E.スフォルツォ"},
     [523] = {id=523,en="Ignis",ja="イグニス",enl="Ignis",jal="イグニス"},
     [524] = {id=524,en="Gelus",ja="ゲールス",enl="Gelus",jal="ゲールス"},
     [525] = {id=525,en="Flabra",ja="フラブラ",enl="Flabra",jal="フラブラ"},
