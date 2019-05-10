@@ -2966,6 +2966,7 @@ return {
     [3093] = {id=3093,en="♪Goobbue companion",ja="♪グゥーブー",category="Mounts"},
     [3094] = {id=3094,en="♪Raaz companion",ja="♪ラズ",category="Mounts"},
     [3095] = {id=3095,en="♪Levitus key",ja="♪レヴィデイス",category="Mounts"},
+    [3095] = {id=3095,en="♪Adamantoise companion",ja="♪アダマンタス",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -3011,6 +3012,10 @@ return {
     [3178] = {id=3178,en="Deed Voucher +2: Hands",ja="Ｄ．チケット+2:手",category="Temporary Key Items"},
     [3179] = {id=3179,en="Deed Voucher +2: Legs",ja="Ｄ．チケット+2:脚",category="Temporary Key Items"},
     [3180] = {id=3180,en="Deed Voucher +2: Feet",ja="Ｄ．チケット+2:足",category="Temporary Key Items"},
+    [3181] = {id=3181,en="tentacle touching ticket",ja="触手券",category="Permanent Key Items"},
+    [3182] = {id=3182,en="Invitation from Excenmille",ja="エグセニミルの招待状",category="Temporary Key Items"},
+    [3183] = {id=3183,en="Invitation from Naji",ja="ナジの招待状",category="Temporary Key Items"},
+    [3184] = {id=3184,en="Invitation from Kupipi",ja="クピピの招待状",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

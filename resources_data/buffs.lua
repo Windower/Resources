@@ -604,6 +604,8 @@ return {
     [614] = {id=614,en="Ullegore's Gloom",ja="ウルゴアの闇",enl="Ullegore's Gloom",jal="ウルゴアの闇"},
     [615] = {id=615,en="Boost",ja="ためる",enl="Boost",jal="ためる"},
     [616] = {id=616,en="Artisanal Knowledge",ja="芸術家肌",enl="Artisanal Knowledge",jal="芸術家肌"},
+    [617] = {id=617,en="Sacrifice",ja="サクリファイス",enl="Sacrifice",jal="サクリファイス"},
+    [618] = {id=618,en="Emporox's Gift",ja="エンポロックスのツボ",enl="Emporox's Gift",jal="エンポロックスのツボ"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
