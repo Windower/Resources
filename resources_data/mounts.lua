@@ -25,6 +25,7 @@ return {
     [21] = {id=21,en="Goobbue",ja="グゥーブー",endesc="Calls forth a goobbue.",icon_id=87,jadesc="グゥーブーを呼び出す。",prefix="/mount"},
     [22] = {id=22,en="Raaz",ja="ラズ",endesc="Calls forth a raaz.",icon_id=87,jadesc="ラズを呼び出す。",prefix="/mount"},
     [23] = {id=23,en="Levitus",ja="レヴィデイス",endesc="Calls forth the Levitus.",icon_id=87,jadesc="レヴィデイスを呼び出す。",prefix="/mount"},
+    [24] = {id=24,en="Adamantoise",ja="アダマンタス",endesc="Calls forth an adamantoise.",icon_id=87,jadesc="アダマンタスを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
