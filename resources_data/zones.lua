@@ -287,6 +287,7 @@ return {
     [295] = {id=295,en="Dynamis - Bastok [D]",ja="デュナミス-バストゥーク〔Ｄ〕",search="DynamisBas_D"},
     [296] = {id=296,en="Dynamis - Windurst [D]",ja="デュナミス-ウィンダス〔Ｄ〕",search="DynamisWin_D"},
     [297] = {id=297,en="Dynamis - Jeuno [D]",ja="デュナミス-ジュノ〔Ｄ〕",search="DynamisJeu_D"},
+    [298] = {id=298,en="Walk of Echoes [P]",ja="ウォークオブエコーズ〔Ｐ〕",search="WalkEchoes_P"},
 }, {"id", "en", "ja", "search"}
 
 --[[

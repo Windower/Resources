@@ -3016,6 +3016,7 @@ return {
     [3182] = {id=3182,en="Invitation from Excenmille",ja="エグセニミルの招待状",category="Temporary Key Items"},
     [3183] = {id=3183,en="Invitation from Naji",ja="ナジの招待状",category="Temporary Key Items"},
     [3184] = {id=3184,en="Invitation from Kupipi",ja="クピピの招待状",category="Temporary Key Items"},
+    [3185] = {id=3185,en="Stygian Pact phantom gem",ja="ファントムクォーツ【修羅】",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
