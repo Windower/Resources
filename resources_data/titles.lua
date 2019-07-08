@@ -1029,6 +1029,7 @@ return {
     [1033] = {id=1033,en="Zeroine to Heroine",ja="ゼロイントゥヒロイン"},
     [1034] = {id=1034,en="Every Ilm a Heroine",ja="エブリーイルムヒロイン"},
     [1035] = {id=1035,en="Dread Purger",ja="ドレッド　パージャー"},
+    [1036] = {id=1036,en="Sidhe Smasher",ja="シー　スマッシャー"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
