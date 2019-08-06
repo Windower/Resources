@@ -3018,6 +3018,8 @@ return {
     [3184] = {id=3184,en="Invitation from Kupipi",ja="クピピの招待状",category="Temporary Key Items"},
     [3185] = {id=3185,en="Stygian Pact phantom gem",ja="ファントムクォーツ【修羅】",category="Temporary Key Items"},
     [3186] = {id=3186,en="Champion phantom gem",ja="ファントムクォーツ【暁】",category="Temporary Key Items"},
+    [3187] = {id=3187,en="Divine phantom gem",ja="ファントムクォーツ【天光】",category="Temporary Key Items"},
+    [3191] = {id=3191,en="sheet of Mapitoto tunes",ja="オーケストリオン譜：マウント",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
