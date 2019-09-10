@@ -118,6 +118,8 @@ return {
     [129] = {id=129,en="Damage Limit+",ja="ダメージ上限アップ",element=0,icon_id=40,range=0,targets=0},
     [130] = {id=130,en="Animus Solace",ja="ソウルオブソラス",element=6,icon_id=46,range=0,targets=0},
     [131] = {id=131,en="Animus Misery",ja="ソウルオブミゼリ",element=6,icon_id=46,range=0,targets=0},
+    [132] = {id=132,en="Con Anima",ja="コンアニマ",element=6,icon_id=46,range=0,targets=0},
+    [133] = {id=133,en="Con Brio",ja="コンブリオ",element=6,icon_id=46,range=0,targets=0},
 }, {"id", "en", "ja", "element", "icon_id", "range", "targets"}
 
 --[[

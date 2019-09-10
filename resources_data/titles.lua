@@ -1031,6 +1031,7 @@ return {
     [1035] = {id=1035,en="Dread Purger",ja="ドレッド　パージャー"},
     [1036] = {id=1036,en="Sidhe Smasher",ja="シー　スマッシャー"},
     [1037] = {id=1037,en="Alexander Annihilator",ja="アレキサンダー　アナイアレーター"},
+    [1038] = {id=1038,en="Lilith Liquidator",ja="リリス　リクィデーター"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},
