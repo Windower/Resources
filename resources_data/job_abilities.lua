@@ -366,6 +366,7 @@ return {
     [390] = {id=390,en="Naturalist's Roll",ja="ナチュラリストロール",duration=300,element=1,icon_id=485,mp_cost=0,prefix="/jobability",range=0,recast_id=193,targets=1,tp_cost=0,type="CorsairRoll"},
     [391] = {id=391,en="Runeist's Roll",ja="ルーニストロール",duration=300,element=1,icon_id=485,mp_cost=0,prefix="/jobability",range=0,recast_id=193,targets=1,tp_cost=0,type="CorsairRoll"},
     [392] = {id=392,en="Crooked Cards",ja="クルケッドカード",duration=60,element=6,icon_id=663,mp_cost=0,prefix="/jobability",range=0,recast_id=96,targets=1,tp_cost=0,type="JobAbility"},
+    [393] = {id=393,en="Spirit Bond",ja="スピリットボンド",element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=3,recast_id=149,targets=3,tp_cost=0,type="JobAbility"},
     [512] = {id=512,en="Healing Ruby",ja="ルビーの癒し",element=6,icon_id=340,mp_cost=6,prefix="/pet",range=12,recast_id=174,targets=5,tp_cost=0,type="BloodPactWard"},
     [513] = {id=513,en="Poison Nails",ja="ポイズンネイル",element=6,icon_id=340,mp_cost=11,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
     [514] = {id=514,en="Shining Ruby",ja="ルビーの輝き",duration=180,element=6,icon_id=340,mp_cost=44,prefix="/pet",range=12,recast_id=174,targets=1,tp_cost=0,type="BloodPactWard"},

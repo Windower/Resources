@@ -120,6 +120,8 @@ return {
     [131] = {id=131,en="Animus Misery",ja="ソウルオブミゼリ",element=6,icon_id=46,range=0,targets=0},
     [132] = {id=132,en="Con Anima",ja="コンアニマ",element=6,icon_id=46,range=0,targets=0},
     [133] = {id=133,en="Con Brio",ja="コンブリオ",element=6,icon_id=46,range=0,targets=0},
+    [134] = {id=134,en="WS Damage Boost",ja="WSダメージアップ",element=6,icon_id=46,range=0,targets=0},
+    [135] = {id=135,en="Max. HP Boost  II",ja="HPmaxアップII",element=6,icon_id=46,range=0,targets=0},
 }, {"id", "en", "ja", "element", "icon_id", "range", "targets"}
 
 --[[

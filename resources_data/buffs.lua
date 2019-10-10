@@ -606,6 +606,7 @@ return {
     [616] = {id=616,en="Artisanal Knowledge",ja="芸術家肌",enl="Artisanal Knowledge",jal="芸術家肌"},
     [617] = {id=617,en="Sacrifice",ja="サクリファイス",enl="Sacrifice",jal="サクリファイス"},
     [618] = {id=618,en="Emporox's Gift",ja="エンポロックスのツボ",enl="Emporox's Gift",jal="エンポロックスのツボ"},
+    [619] = {id=619,en="Spirit Bond",ja="スピリットボンド",enl="Spirit Bond",jal="スピリットボンド"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
