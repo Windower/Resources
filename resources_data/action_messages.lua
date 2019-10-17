@@ -773,6 +773,7 @@ return {
     [780] = {id=780,en="${actor} uses ${ability}.${lb}${actor} takes aim at ${target}!",color=1},
     [781] = {id=781,en="${target} retaliates, absorbing ${number} TP from ${actor}.",color=101},
     [792] = {id=792,en="${actor} uses ${spell}.${lb}${number} of ${target}'s effects disappears!",color=56},
+    [800] = {id=800,en="${status} activates. ${target} takes ${number} points of damage.",color="D"},
 }, {"id", "en", "color", "suffix", "prefix"}
 
 --[[
