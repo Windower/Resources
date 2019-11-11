@@ -601,6 +601,8 @@ return {
     [780] = {id=780,en="Regal Gash",ja="リーガルガッシュ",element=6,icon_id=351,mp_cost=118,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
     [781] = {id=781,en="Infected Leech",ja="I.サッカー",element=7,icon_id=47,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
     [782] = {id=782,en="Gloom Spray",ja="グルームスプレー",element=7,icon_id=47,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
+    [786] = {id=786,en="Disembowel",ja="ディスエンバウエル",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
+    [787] = {id=787,en="Extirpating Salvo",ja="E.サルヴォ",element=4,icon_id=44,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
 }, {"id", "en", "ja", "duration", "element", "icon_id", "mp_cost", "prefix", "range", "recast_id", "targets", "tp_cost", "type"}
 
 --[[
