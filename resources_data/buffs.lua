@@ -607,6 +607,8 @@ return {
     [617] = {id=617,en="Sacrifice",ja="サクリファイス",enl="Sacrifice",jal="サクリファイス"},
     [618] = {id=618,en="Emporox's Gift",ja="エンポロックスのツボ",enl="Emporox's Gift",jal="エンポロックスのツボ"},
     [619] = {id=619,en="Spirit Bond",ja="スピリットボンド",enl="Spirit Bond",jal="スピリットボンド"},
+    [620] = {id=620,en="Awaken",ja="覚醒",enl="awakened",jal="覚醒"},
+    [621] = {id=621,en="Majesty",ja="マジェスティ",enl="Majesty",jal="マジェスティ"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
