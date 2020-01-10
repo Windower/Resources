@@ -609,10 +609,11 @@ return {
     [619] = {id=619,en="Spirit Bond",ja="スピリットボンド",enl="Spirit Bond",jal="スピリットボンド"},
     [620] = {id=620,en="Awaken",ja="覚醒",enl="awakened",jal="覚醒"},
     [621] = {id=621,en="Majesty",ja="マジェスティ",enl="Majesty",jal="マジェスティ"},
+    [622] = {id=622,en="Guarding Rate Boost",ja="ガード率アップ",enl="Guarding Rate Boost",jal="ガード率アップ"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
-Copyright © 2013-2019, Windower
+Copyright © 2013-2020, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

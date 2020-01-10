@@ -563,6 +563,8 @@ return {
     [561] = {id=561,en="Mega Moglification: Cooking",ja="モーグリのすごい応援：調理マスター",category="Active Effects"},
     [562] = {id=562,en="Moglification: Experience Boost",ja="モーグリの応援：経験値アップ",category="Active Effects"},
     [563] = {id=563,en="Moglification: Capacity Boost",ja="モーグリの応援：キャパシティポイントアップ",category="Active Effects"},
+    [564] = {id=564,en="Moglification: Synergy Skill Gains",ja="モーグリの応援：錬成スキル上昇率アップ",category="Active Effects"},
+    [565] = {id=565,en="Moglification: Synergy Furnace Duration",ja="モーグリの応援：錬成窯稼働時間アップ",category="Active Effects"},
     [576] = {id=576,en="Ballista License",ja="バリスタライセンス",category="Permanent Key Items"},
     [577] = {id=577,en="Ballista Instawarp",ja="バリスタデジョンチケット",category="Temporary Key Items"},
     [578] = {id=578,en="Ballista Instaport",ja="バリスタテレポチケット",category="Temporary Key Items"},
@@ -3045,7 +3047,7 @@ return {
 }, {"id", "en", "ja", "category"}
 
 --[[
-Copyright © 2013-2019, Windower
+Copyright © 2013-2020, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

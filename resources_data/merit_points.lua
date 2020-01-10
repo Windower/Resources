@@ -96,7 +96,7 @@ return {
     [896] = {id=896,en="Killer Effects",ja="キラー確率",endesc="Increase intimidation rate on all killer effects by 1 percent.",jadesc="能力値1で所持するキラー確率を1%アップします。"},
     [898] = {id=898,en="Reward Recast",ja="いたわる使用間隔",endesc="Shorten recast time by 3 seconds.",jadesc="能力値1で使用間隔を3秒短縮します。"},
     [900] = {id=900,en="Call Beast Recast",ja="よびだす使用間隔",endesc="Shorten recast time by 10 seconds.",jadesc="能力値1で使用間隔を10秒短縮します。"},
-    [902] = {id=902,en="Sic Recast",ja="ほんきだせ使用間隔",endesc="Shorten recast time for Sic by 2 seconds, and Ready by 1 second.",jadesc="能力値1でほんきだせの使用間隔を2秒、しじをさせろの使用間隔を1秒短縮します。"},
+    [902] = {id=902,en="Sic Recast",ja="ほんきだせ使用間隔",endesc="Shorten recast time for Sic and Ready by 2 seconds.",jadesc="能力値1でほんきだせとしじをさせろの使用間隔を2秒短縮します。"},
     [904] = {id=904,en="Tame Recast",ja="なだめる使用間隔",endesc="Shorten recast time by 20 seconds.",jadesc="能力値1で使用間隔を20秒短縮します。"},
     [960] = {id=960,en="Lullaby Recast",ja="ララバイ使用間隔",endesc="Shorten recast time by 1 second.",jadesc="能力値1で使用間隔を1秒短縮します。"},
     [962] = {id=962,en="Finale Recast",ja="フィナーレ使用間隔",endesc="Shorten recast time by 1 second.",jadesc="能力値1で使用間隔を1秒短縮します。"},
@@ -300,7 +300,7 @@ return {
 }, {"id", "en", "ja", "endesc", "jadesc"}
 
 --[[
-Copyright © 2013-2019, Windower
+Copyright © 2013-2020, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
