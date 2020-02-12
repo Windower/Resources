@@ -604,6 +604,17 @@ return {
     [782] = {id=782,en="Gloom Spray",ja="グルームスプレー",element=7,icon_id=47,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
     [786] = {id=786,en="Disembowel",ja="ディスエンバウエル",element=6,icon_id=46,mp_cost=1,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
     [787] = {id=787,en="Extirpating Salvo",ja="E.サルヴォ",element=4,icon_id=44,mp_cost=2,prefix="/pet",range=2,recast_id=102,targets=3,tp_cost=0,type="Monster"},
+    [960] = {id=960,en="Clarsach Call",ja="クラーサクコール",element=2,icon_id=18,mp_cost=0,prefix="/pet",range=4,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
+    [961] = {id=961,en="Welt",ja="ウェルト",element=2,icon_id=18,mp_cost=9,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
+    [962] = {id=962,en="Katabatic Blades",ja="疾風の刃",element=2,icon_id=18,mp_cost=52,prefix="/pet",range=12,recast_id=174,targets=1,tp_cost=0,type="BloodPactWard"},
+    [963] = {id=963,en="Lunatic Voice",ja="ルナティックボイス",element=2,icon_id=18,mp_cost=37,prefix="/pet",range=4,recast_id=174,targets=32,tp_cost=0,type="BloodPactWard"},
+    [964] = {id=964,en="Roundhouse",ja="ラウンドハウス",element=2,icon_id=18,mp_cost=52,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
+    [965] = {id=965,en="Chinook",ja="シヌーク",element=2,icon_id=18,mp_cost=118,prefix="/pet",range=12,recast_id=174,targets=1,tp_cost=0,type="BloodPactWard"},
+    [966] = {id=966,en="Bitter Elegy",ja="修羅のエレジー",element=2,icon_id=18,mp_cost=96,prefix="/pet",range=9,recast_id=174,targets=32,tp_cost=0,type="BloodPactWard"},
+    [967] = {id=967,en="Sonic Buffet",ja="ソニックバフェット",element=2,icon_id=18,mp_cost=164,prefix="/pet",range=8,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
+    [968] = {id=968,en="Tornado II",ja="トルネドII",element=2,icon_id=18,mp_cost=182,prefix="/pet",range=8,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
+    [969] = {id=969,en="Wind's Blessing",ja="風の守り",element=2,icon_id=18,mp_cost=135,prefix="/pet",range=12,recast_id=174,targets=1,tp_cost=0,type="BloodPactWard"},
+    [970] = {id=970,en="Hysteric Assault",ja="ヒステリックアサルト",element=2,icon_id=18,mp_cost=222,prefix="/pet",range=2,recast_id=173,targets=32,tp_cost=0,type="BloodPactRage"},
 }, {"id", "en", "ja", "duration", "element", "icon_id", "mp_cost", "prefix", "range", "recast_id", "targets", "tp_cost", "type"}
 
 --[[

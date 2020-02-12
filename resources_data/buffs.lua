@@ -610,6 +610,9 @@ return {
     [620] = {id=620,en="Awaken",ja="覚醒",enl="awakened",jal="覚醒"},
     [621] = {id=621,en="Majesty",ja="マジェスティ",enl="Majesty",jal="マジェスティ"},
     [622] = {id=622,en="Guarding Rate Boost",ja="ガード率アップ",enl="Guarding Rate Boost",jal="ガード率アップ"},
+    [623] = {id=623,en="Rampart",ja="ランパート",enl="Rampart",jal="ランパート"},
+    [624] = {id=624,en="Wind's Blessing",ja="風の守り",enl="Wind's Blessing",jal="風の守り"},
+    [625] = {id=625,en="Siren's Favor",ja="セイレーンの加護",enl="Siren's Favor",jal="セイレーンの加護"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
