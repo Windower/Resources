@@ -776,6 +776,11 @@ return {
     [798] = {id=798,en="${actor}'s ${ability} overload chance is ${number}%.",color=101},
     [799] = {id=799,en="${actor}'s ${ability} overload chance is ${number}%.${lb}${actor} is overloaded!",color=101},
     [800] = {id=800,en="${status} activates. ${target} takes ${number} points of damage.",color="D"},
+    [802] = {id=802,en="${actor} uses ${ability}.${lb}${number} HP drained from ${target}.",color="H"},
+    [803] = {id=803,en="${actor} uses ${ability}.${lb}Magic Burst! ${number} HP drained from ${target}.",color="H"},
+    [804] = {id=804,en="${actor} uses ${ability}.${lb}Magic Burst! ${target} receives the effect of ${status}.",color=1},
+    [805] = {id=805,en="${actor} uses ${weapon_skill}.${lb}${target}'s ${status} effect disappears!",color="H"},
+    [806] = {id=806,en="${target}'s ${status} effect disappears!",color=1},
 }, {"id", "en", "color", "suffix", "prefix"}
 
 --[[
