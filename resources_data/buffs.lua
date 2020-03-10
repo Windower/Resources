@@ -613,6 +613,8 @@ return {
     [623] = {id=623,en="Rampart",ja="ランパート",enl="Rampart",jal="ランパート"},
     [624] = {id=624,en="Wind's Blessing",ja="風の守り",enl="Wind's Blessing",jal="風の守り"},
     [625] = {id=625,en="Siren's Favor",ja="セイレーンの加護",enl="Siren's Favor",jal="セイレーンの加護"},
+    [626] = {id=626,en="Negate Sleep",ja="ネゲートスリープ",enl="Negate Sleep",jal="ネゲートスリープ"},
+    [627] = {id=627,en="Mobilization",ja="戦闘準備期間",enl="mobilized",jal="戦闘準備期間"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[

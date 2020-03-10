@@ -3047,6 +3047,7 @@ return {
     [3209] = {id=3209,en="Cheer: Korrigan",ja="チャチャルンの応援：コリガン",category="Active Effects"},
     [3210] = {id=3210,en="Cheer: Pachypodium",ja="チャチャルンの応援：パキポディウム",category="Active Effects"},
     [3211] = {id=3211,en="Cheer: Citrullus",ja="チャチャルンの応援：キトルルス",category="Active Effects"},
+    [3212] = {id=3212,en="moglophone",ja="モグパケット",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
