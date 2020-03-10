@@ -271,6 +271,7 @@ return {
     [275] = {id=275,en="Outer Ra'Kaznar [U]",ja="ラ・カザナル宮外郭〔Ｕ〕",search="OutRaKaz_U"},
     [276] = {id=276,en="Ra'Kaznar Inner Court",ja="ラ・カザナル宮内郭",search="InRaKaz"},
     [277] = {id=277,en="Ra'Kaznar Turris",ja="ラ・カザナル宮天守",search="RaKazTurris"},
+    [279] = {id=279,en="Walk of Echoes [P2]",ja="ウォークオブエコーズ〔Ｐ２〕",search="WlkEchoes_P2"},
     [280] = {id=280,en="Mog Garden",ja="モグガーデン",search="MogGarden"},
     [281] = {id=281,en="Leafallia",ja="リファーリア",search="Leafallia"},
     [282] = {id=282,en="Mount Kamihr",ja="カミール山",search="MtKamihr"},
@@ -288,7 +289,7 @@ return {
     [295] = {id=295,en="Dynamis - Bastok [D]",ja="デュナミス-バストゥーク〔Ｄ〕",search="DynamisBas_D"},
     [296] = {id=296,en="Dynamis - Windurst [D]",ja="デュナミス-ウィンダス〔Ｄ〕",search="DynamisWin_D"},
     [297] = {id=297,en="Dynamis - Jeuno [D]",ja="デュナミス-ジュノ〔Ｄ〕",search="DynamisJeu_D"},
-    [298] = {id=298,en="Walk of Echoes [P]",ja="ウォークオブエコーズ〔Ｐ〕",search="WalkEchoes_P"},
+    [298] = {id=298,en="Walk of Echoes [P1]",ja="ウォークオブエコーズ〔Ｐ１〕",search="WlkEchoes_P1"},
 }, {"id", "en", "ja", "search"}
 
 --[[
