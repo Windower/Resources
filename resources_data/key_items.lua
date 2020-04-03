@@ -3048,6 +3048,20 @@ return {
     [3210] = {id=3210,en="Cheer: Pachypodium",ja="チャチャルンの応援：パキポディウム",category="Active Effects"},
     [3211] = {id=3211,en="Cheer: Citrullus",ja="チャチャルンの応援：キトルルス",category="Active Effects"},
     [3212] = {id=3212,en="moglophone",ja="モグパケット",category="Temporary Key Items"},
+    [3213] = {id=3213,en="Deed Token",ja="Ｄ．トークン",category="Temporary Key Items"},
+    [3214] = {id=3214,en="Deed Token +1: Head",ja="Ｄ．トークン+1:頭",category="Temporary Key Items"},
+    [3215] = {id=3215,en="Deed Token +1: Chest",ja="Ｄ．トークン+1:胴",category="Temporary Key Items"},
+    [3216] = {id=3216,en="Deed Token +1: Hands",ja="Ｄ．トークン+1:手",category="Temporary Key Items"},
+    [3217] = {id=3217,en="Deed Token +1: Legs",ja="Ｄ．トークン+1:脚",category="Temporary Key Items"},
+    [3218] = {id=3218,en="Deed Token +1: Feet",ja="Ｄ．トークン+1:足",category="Temporary Key Items"},
+    [3219] = {id=3219,en="Deed Token +2: Head",ja="Ｄ．トークン+2:頭",category="Temporary Key Items"},
+    [3220] = {id=3220,en="Deed Token +2: Chest",ja="Ｄ．トークン+2:胴",category="Temporary Key Items"},
+    [3221] = {id=3221,en="Deed Token +2: Hands",ja="Ｄ．トークン+2:手",category="Temporary Key Items"},
+    [3222] = {id=3222,en="Deed Token +2: Legs",ja="Ｄ．トークン+2:脚",category="Temporary Key Items"},
+    [3223] = {id=3223,en="Deed Token +2: Feet",ja="Ｄ．トークン+2:足",category="Temporary Key Items"},
+    [3224] = {id=3224,en="Primer on Martial Techniques",ja="武神流秘伝書：秘訣乃章",category="Permanent Key Items"},
+    [3225] = {id=3225,en="Treatise on Martial Techniques",ja="武神流秘伝書：極意乃章",category="Permanent Key Items"},
+    [3226] = {id=3226,en="sheet of Al'Taieu tunes",ja="オーケストリオン譜：アル・タユ",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

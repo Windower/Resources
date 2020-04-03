@@ -354,7 +354,7 @@ return {
     [351] = {id=351,en="Occ. quickens spellcasting %+d%% ",ja="クイックマジック%+d%% "},
     [352] = {id=352,en="Occ. grants dmg. bonus based on TP %+d%% ",ja="時々自身のTPに比例した攻撃力修正%+d%% "},
     [353] = {id=353,en="TP Bonus %+d ",ja="TPボーナス%+d "},
-    [354] = {id=354,en="Quadruple Attack %+d",ja="クワッドアタック%+d "},
+    [354] = {id=354,en="Quadruple Attack %+d%%",ja="クワッドアタック%+d%% "},
     [355] = {id=355,en="Enhancing magic recast delay -%d ",ja="強化魔法再詠唱間隔-%d "},
     [356] = {id=356,en="Potency of \"Cure\" effect received %+d%% ",ja="被ケアル回復量%+d%% "},
     [357] = {id=357,en="358",ja="358"},
