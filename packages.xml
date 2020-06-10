@@ -2,46 +2,46 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7398.10855</version>
+    <version>5.0.7466.30074</version>
     <type>library</type>
     <files>
-      <file size="18739">resources_data/ability_recasts.lua</file>
-      <file size="76294">resources_data/action_messages.lua</file>
-      <file size="117659">resources_data/augments.lua</file>
-      <file size="158847">resources_data/auto_translates.lua</file>
-      <file size="2676">resources_data/bags.lua</file>
-      <file size="65228">resources_data/buffs.lua</file>
-      <file size="2031">resources_data/chat.lua</file>
-      <file size="1817">resources_data/check_ratings.lua</file>
-      <file size="1954">resources_data/days.lua</file>
-      <file size="1924">resources_data/elements.lua</file>
-      <file size="4103">resources_data/emotes.lua</file>
-      <file size="1847">resources_data/encumbrance.lua</file>
-      <file size="4644152">resources_data/items.lua</file>
-      <file size="4369308">resources_data/item_descriptions.lua</file>
-      <file size="3188">resources_data/jobs.lua</file>
-      <file size="110762">resources_data/job_abilities.lua</file>
-      <file size="73741">resources_data/job_points.lua</file>
-      <file size="14117">resources_data/job_traits.lua</file>
-      <file size="333034">resources_data/key_items.lua</file>
+      <file size="18986">resources_data/ability_recasts.lua</file>
+      <file size="77091">resources_data/action_messages.lua</file>
+      <file size="119722">resources_data/augments.lua</file>
+      <file size="161406">resources_data/auto_translates.lua</file>
+      <file size="2706">resources_data/bags.lua</file>
+      <file size="65859">resources_data/buffs.lua</file>
+      <file size="2057">resources_data/chat.lua</file>
+      <file size="1842">resources_data/check_ratings.lua</file>
+      <file size="1979">resources_data/days.lua</file>
+      <file size="1951">resources_data/elements.lua</file>
+      <file size="4186">resources_data/emotes.lua</file>
+      <file size="1872">resources_data/encumbrance.lua</file>
+      <file size="4667213">resources_data/items.lua</file>
+      <file size="4391790">resources_data/item_descriptions.lua</file>
+      <file size="3229">resources_data/jobs.lua</file>
+      <file size="113824">resources_data/job_abilities.lua</file>
+      <file size="73978">resources_data/job_points.lua</file>
+      <file size="14255">resources_data/job_traits.lua</file>
+      <file size="336242">resources_data/key_items.lua</file>
       <file size="151">resources_data/manifest.xml</file>
-      <file size="78871">resources_data/merit_points.lua</file>
-      <file size="337779">resources_data/monster_abilities.lua</file>
-      <file size="25133">resources_data/monstrosity.lua</file>
-      <file size="2185">resources_data/moon_phases.lua</file>
-      <file size="5655">resources_data/mounts.lua</file>
-      <file size="2784">resources_data/races.lua</file>
-      <file size="5034">resources_data/regions.lua</file>
-      <file size="2076">resources_data/servers.lua</file>
-      <file size="4737">resources_data/skills.lua</file>
-      <file size="2006">resources_data/slots.lua</file>
-      <file size="255325">resources_data/spells.lua</file>
-      <file size="3287">resources_data/statuses.lua</file>
-      <file size="1878">resources_data/synth_ranks.lua</file>
-      <file size="84740">resources_data/titles.lua</file>
-      <file size="46119">resources_data/weapon_skills.lua</file>
-      <file size="2898">resources_data/weather.lua</file>
-      <file size="27366">resources_data/zones.lua</file>
+      <file size="79184">resources_data/merit_points.lua</file>
+      <file size="341136">resources_data/monster_abilities.lua</file>
+      <file size="25335">resources_data/monstrosity.lua</file>
+      <file size="2214">resources_data/moon_phases.lua</file>
+      <file size="5699">resources_data/mounts.lua</file>
+      <file size="2818">resources_data/races.lua</file>
+      <file size="5106">resources_data/regions.lua</file>
+      <file size="2110">resources_data/servers.lua</file>
+      <file size="4801">resources_data/skills.lua</file>
+      <file size="2039">resources_data/slots.lua</file>
+      <file size="261828">resources_data/spells.lua</file>
+      <file size="3350">resources_data/statuses.lua</file>
+      <file size="1906">resources_data/synth_ranks.lua</file>
+      <file size="85810">resources_data/titles.lua</file>
+      <file size="46361">resources_data/weapon_skills.lua</file>
+      <file size="2935">resources_data/weather.lua</file>
+      <file size="27672">resources_data/zones.lua</file>
     </files>
   </package>
 </packages>
