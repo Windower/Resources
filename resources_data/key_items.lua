@@ -543,6 +543,7 @@ return {
     [540] = {id=540,en="Moghancement: Money II",ja="モーグリの応援：金運アップII",category="Active Effects"},
     [541] = {id=541,en="Moghancement: Skill Gains",ja="モーグリの応援：スキル上昇率アップ",category="Active Effects"},
     [542] = {id=542,en="Moghancement: Bounty",ja="モーグリの応援：稼ぎどきっ！",category="Active Effects"},
+    [543] = {id=543,en="Moghancement: Mandragora Mania",ja="モーグリの応援：マンドラ★",category="Active Effects"},
     [544] = {id=544,en="Moglification: Fishing",ja="モーグリのすごい応援：釣り",category="Active Effects"},
     [545] = {id=545,en="Moglification: Woodworking",ja="モーグリのすごい応援：木工",category="Active Effects"},
     [546] = {id=546,en="Moglification: Smithing",ja="モーグリのすごい応援：鍛冶",category="Active Effects"},
