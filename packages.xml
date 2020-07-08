@@ -2,12 +2,12 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7466.30074</version>
+    <version>5.0.7494.12019.5</version>
     <type>library</type>
     <files>
       <file size="18986">resources_data/ability_recasts.lua</file>
       <file size="77091">resources_data/action_messages.lua</file>
-      <file size="119722">resources_data/augments.lua</file>
+      <file size="119771">resources_data/augments.lua</file>
       <file size="161406">resources_data/auto_translates.lua</file>
       <file size="2706">resources_data/bags.lua</file>
       <file size="65859">resources_data/buffs.lua</file>
@@ -17,16 +17,16 @@
       <file size="1951">resources_data/elements.lua</file>
       <file size="4186">resources_data/emotes.lua</file>
       <file size="1872">resources_data/encumbrance.lua</file>
-      <file size="4667213">resources_data/items.lua</file>
-      <file size="4391790">resources_data/item_descriptions.lua</file>
+      <file size="4667976">resources_data/items.lua</file>
+      <file size="4392565">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
       <file size="113824">resources_data/job_abilities.lua</file>
       <file size="73978">resources_data/job_points.lua</file>
-      <file size="14255">resources_data/job_traits.lua</file>
-      <file size="336242">resources_data/key_items.lua</file>
-      <file size="151">resources_data/manifest.xml</file>
+      <file size="14364">resources_data/job_traits.lua</file>
+      <file size="336241">resources_data/key_items.lua</file>
+      <file size="153">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
-      <file size="341136">resources_data/monster_abilities.lua</file>
+      <file size="340770">resources_data/monster_abilities.lua</file>
       <file size="25335">resources_data/monstrosity.lua</file>
       <file size="2214">resources_data/moon_phases.lua</file>
       <file size="5699">resources_data/mounts.lua</file>
