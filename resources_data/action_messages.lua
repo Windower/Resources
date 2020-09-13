@@ -781,6 +781,7 @@ return {
     [804] = {id=804,en="${actor} uses ${ability}.${lb}Magic Burst! ${target} receives the effect of ${status}.",color=1},
     [805] = {id=805,en="${actor} uses ${weapon_skill}.${lb}${target}'s ${status} effect disappears!",color="H"},
     [806] = {id=806,en="${target}'s ${status} effect disappears!",color=1},
+    [1023] = {id=1023,en="${actor} uses ${weapon_skill}.${lb}${target}'s attacks and defenses are enhanced.",color=1},
 }, {"id", "en", "color", "suffix", "prefix"}
 
 --[[
