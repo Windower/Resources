@@ -3064,6 +3064,7 @@ return {
     [3225] = {id=3225,en="Treatise on Martial Techniques",ja="武神流秘伝書：極意乃章",category="Permanent Key Items"},
     [3226] = {id=3226,en="sheet of Al'Taieu tunes",ja="オーケストリオン譜：アル・タユ",category="Permanent Key Items"},
     [3227] = {id=3227,en="sheet of Jeuno tunes",ja="オーケストリオン譜：ジュノ",category="Permanent Key Items"},
+    [3228] = {id=3228,en="sheet of harvest tunes",ja="オーケストリオン譜：ハロウィン",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
