@@ -923,7 +923,7 @@ return {
     [920] = {id=920,en="Enhances \"Yonin\" and \"Innin\" effect",ja="陽忍効果アップ\n陰忍効果アップ"},
     [921] = {id=921,en="Enhances \"Sange\" effect",ja="散華効果アップ"},
     [922] = {id=922,en="Enh. \"Ninja Tool Expertise\" effect",ja="忍具の知識効果アップ"},
-    [923] = {id=923,en="Enh. Ninj. Mag. Acc/Cast Time Red.",ja="忍術の魔命アップ\n忍術の魔攻アップ"},
+    [923] = {id=923,en="Enh. Ninj. Mag. Acc./Atk.",ja="忍術の魔命アップ\n忍術の魔攻アップ"},
     [924] = {id=924,en="925",ja="925"},
     [925] = {id=925,en="926",ja="926"},
     [926] = {id=926,en="Enhances \"Deep Breathing\" effect",ja="ディープブリージング効果アップ"},
