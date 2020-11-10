@@ -1055,6 +1055,7 @@ return {
     [1127] = {id=1127,en="Legendary Culinarian",ja="運斤成風の調理師"},
     [1128] = {id=1128,en="Eternal Communer",ja="大いなる自然の継承者"},
     [1129] = {id=1129,en="Destiny Destroyer...Destroyer",ja="ディスティニーデストロイヤー団デストロイヤー"},
+    [1130] = {id=1130,en="Fully-Baked Hero",ja="完熟ヒーロー"},
 }, {"id", "en", "ja"}
 
 --[[
