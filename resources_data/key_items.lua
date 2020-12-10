@@ -2973,6 +2973,7 @@ return {
     [3097] = {id=3097,en="♪Dhalmel companion",ja="♪ダルメル",category="Mounts"},
     [3098] = {id=3098,en="♪Doll companion",ja="♪ドール",category="Mounts"},
     [3099] = {id=3099,en="♪Golden Bomb companion",ja="♪ゴールデンボム",category="Mounts"},
+    [3100] = {id=3100,en="♪Buffalo companion",ja="♪バッファロー",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -3066,6 +3067,11 @@ return {
     [3226] = {id=3226,en="sheet of Al'Taieu tunes",ja="オーケストリオン譜：アル・タユ",category="Permanent Key Items"},
     [3227] = {id=3227,en="sheet of Jeuno tunes",ja="オーケストリオン譜：ジュノ",category="Permanent Key Items"},
     [3228] = {id=3228,en="sheet of harvest tunes",ja="オーケストリオン譜：ハロウィン",category="Permanent Key Items"},
+    [3229] = {id=3229,en="star-crested summons",ja="星紋章入りの召喚状：目の院宛て",category="Temporary Key Items"},
+    [3230] = {id=3230,en="strange doll",ja="変な人形",category="Temporary Key Items"},
+    [3231] = {id=3231,en="piece of evidence",ja="しょうこひん",category="Temporary Key Items"},
+    [3232] = {id=3232,en="sublime lucky egg",ja="完璧な幸運の卵",category="Temporary Key Items"},
+    [3233] = {id=3233,en="magicked doll",ja="悪い魔法人形さん",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

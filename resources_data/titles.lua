@@ -1056,6 +1056,7 @@ return {
     [1128] = {id=1128,en="Eternal Communer",ja="大いなる自然の継承者"},
     [1129] = {id=1129,en="Destiny Destroyer...Destroyer",ja="ディスティニーデストロイヤー団デストロイヤー"},
     [1130] = {id=1130,en="Fully-Baked Hero",ja="完熟ヒーロー"},
+    [1131] = {id=1131,en="Ghdwk Vshdnhu",ja="ケテロテククムウラケミニ"},
 }, {"id", "en", "ja"}
 
 --[[
