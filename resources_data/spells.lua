@@ -56,7 +56,7 @@ return {
     [53] = {id=53,en="Blink",ja="ブリンク",cast_time=6,duration=300,element=2,icon_id=148,icon_id_nq=2,levels={[3]=19,[5]=23,[20]=29,[22]=35},mp_cost=20,prefix="/magic",range=0,recast=10,recast_id=53,requirements=1,skill=34,status=36,targets=1,type="WhiteMagic"},
     [54] = {id=54,en="Stoneskin",ja="ストンスキン",cast_time=7,duration=300,element=3,icon_id=147,icon_id_nq=3,levels={[3]=28,[5]=34,[20]=44,[22]=55},mp_cost=29,prefix="/magic",range=12,recast=30,recast_id=54,requirements=1,skill=34,status=37,targets=1,type="WhiteMagic"},
     [55] = {id=55,en="Aquaveil",ja="アクアベール",cast_time=5,duration=600,element=5,icon_id=134,icon_id_nq=5,levels={[3]=10,[5]=12,[20]=13,[22]=15},mp_cost=12,prefix="/magic",range=0,recast=10,recast_id=55,requirements=1,skill=34,status=39,targets=1,type="WhiteMagic"},
-    [56] = {id=56,en="Slow",ja="スロウ",cast_time=2,duration=120,element=3,icon_id=141,icon_id_nq=3,levels={[3]=13,[5]=13},mp_cost=15,prefix="/magic",range=12,recast=20,recast_id=56,requirements=0,skill=35,status=13,targets=32,type="WhiteMagic"},
+    [56] = {id=56,en="Slow",ja="スロウ",cast_time=2,duration=180,element=3,icon_id=141,icon_id_nq=3,levels={[3]=13,[5]=13},mp_cost=15,prefix="/magic",range=12,recast=20,recast_id=56,requirements=0,skill=35,status=13,targets=32,type="WhiteMagic"},
     [57] = {id=57,en="Haste",ja="ヘイスト",cast_time=3,duration=180,element=2,icon_id=143,icon_id_nq=2,levels={[3]=40,[5]=48},mp_cost=40,prefix="/magic",range=12,recast=20,recast_id=57,requirements=0,skill=34,status=33,targets=29,type="WhiteMagic"},
     [58] = {id=58,en="Paralyze",ja="パライズ",cast_time=3,duration=120,element=1,icon_id=144,icon_id_nq=1,levels={[3]=4,[5]=6},mp_cost=6,prefix="/magic",range=12,recast=10,recast_id=58,requirements=0,skill=35,status=4,targets=32,type="WhiteMagic"},
     [59] = {id=59,en="Silence",ja="サイレス",cast_time=3,duration=120,element=2,icon_id=146,icon_id_nq=2,levels={[3]=15,[5]=18},mp_cost=16,prefix="/magic",range=12,recast=10,recast_id=59,requirements=0,skill=35,status=6,targets=32,type="WhiteMagic"},
@@ -79,7 +79,7 @@ return {
     [76] = {id=76,en="Barsilence",ja="バサイレス",cast_time=2.5,duration=480,element=1,icon_id=103,icon_id_nq=1,levels={[5]=23,[22]=22},mp_cost=15,prefix="/magic",range=0,recast=10,recast_id=76,requirements=1,skill=34,status=110,targets=1,type="WhiteMagic"},
     [77] = {id=77,en="Barpetrify",ja="バブレイク",cast_time=2.5,duration=480,element=2,icon_id=104,icon_id_nq=2,levels={[5]=43,[22]=42},mp_cost=20,prefix="/magic",range=0,recast=10,recast_id=77,requirements=1,skill=34,status=111,targets=1,type="WhiteMagic"},
     [78] = {id=78,en="Barvirus",ja="バウィルス",cast_time=2.5,duration=480,element=5,icon_id=107,icon_id_nq=5,levels={[5]=39,[22]=38},mp_cost=25,prefix="/magic",range=0,recast=10,recast_id=78,requirements=1,skill=34,status=112,targets=1,type="WhiteMagic"},
-    [79] = {id=79,en="Slow II",ja="スロウII",cast_time=3,duration=120,element=3,icon_id=142,icon_id_nq=3,levels={[5]=75},mp_cost=45,overwrites={56,344,345,346},prefix="/magic",range=12,recast=20,recast_id=79,requirements=0,skill=35,status=13,targets=32,type="WhiteMagic"},
+    [79] = {id=79,en="Slow II",ja="スロウII",cast_time=3,duration=180,element=3,icon_id=142,icon_id_nq=3,levels={[5]=75},mp_cost=45,overwrites={56,344,345,346},prefix="/magic",range=12,recast=20,recast_id=79,requirements=0,skill=35,status=13,targets=32,type="WhiteMagic"},
     [80] = {id=80,en="Paralyze II",ja="パライズII",cast_time=3,duration=120,element=1,icon_id=145,icon_id_nq=1,levels={[5]=75},mp_cost=36,overwrites={58,341,342,343},prefix="/magic",range=12,recast=20,recast_id=80,requirements=0,skill=35,status=4,targets=32,type="WhiteMagic"},
     [81] = {id=81,en="Recall-Jugner",ja="リコールジャグ",cast_time=20,element=6,icon_id=162,icon_id_nq=6,levels={[3]=53},mp_cost=125,prefix="/magic",range=0,recast=10,recast_id=81,requirements=0,skill=34,targets=1,type="WhiteMagic"},
     [82] = {id=82,en="Recall-Pashh",ja="リコールパシュ",cast_time=20,element=6,icon_id=162,icon_id_nq=6,levels={[3]=53},mp_cost=125,prefix="/magic",range=0,recast=10,recast_id=82,requirements=0,skill=34,targets=1,type="WhiteMagic"},
@@ -960,7 +960,7 @@ return {
 }, {"id", "en", "ja", "cast_time", "element", "icon_id", "icon_id_nq", "levels", "mp_cost", "prefix", "range", "recast", "recast_id", "requirements", "skill", "targets", "type", "duration", "status", "overwrites", "unlearnable", "blu_points"}
 
 --[[
-Copyright © 2013-2020, Windower
+Copyright © 2013-2021, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
