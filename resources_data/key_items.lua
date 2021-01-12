@@ -3024,7 +3024,7 @@ return {
     [3183] = {id=3183,en="Invitation from Naji",ja="ナジの招待状",category="Temporary Key Items"},
     [3184] = {id=3184,en="Invitation from Kupipi",ja="クピピの招待状",category="Temporary Key Items"},
     [3185] = {id=3185,en="Stygian Pact phantom gem",ja="ファントムクォーツ【修羅】",category="Temporary Key Items"},
-    [3186] = {id=3186,en="Champion phantom gem",ja="ファントムクォーツ【暁】",category="Temporary Key Items"},
+    [3186] = {id=3186,en="Champion phantom gem",ja="ファントムクォーツ【使者】",category="Temporary Key Items"},
     [3187] = {id=3187,en="Divine phantom gem",ja="ファントムクォーツ【天光】",category="Temporary Key Items"},
     [3188] = {id=3188,en="Maiden phantom gem",ja="ファントムクォーツ【女神】",category="Temporary Key Items"},
     [3189] = {id=3189,en="inert geomancy bell",ja="力が失われた鈴",category="Temporary Key Items"},
@@ -3072,6 +3072,19 @@ return {
     [3231] = {id=3231,en="piece of evidence",ja="しょうこひん",category="Temporary Key Items"},
     [3232] = {id=3232,en="sublime lucky egg",ja="完璧な幸運の卵",category="Temporary Key Items"},
     [3233] = {id=3233,en="magicked doll",ja="悪い魔法人形さん",category="Temporary Key Items"},
+    [3234] = {id=3234,en="moglophone II",ja="モグパケットII",category="Temporary Key Items"},
+    [3235] = {id=3235,en="moglophone II",ja="モグパケットII",category="Temporary Key Items"},
+    [3236] = {id=3236,en="moglophone II",ja="モグパケットII",category="Temporary Key Items"},
+    [3237] = {id=3237,en="information on Dealan-dhe",ja="デランデの記録",category="Permanent Key Items"},
+    [3238] = {id=3238,en="information on Sgili",ja="シグリの記録",category="Permanent Key Items"},
+    [3239] = {id=3239,en="information on U Bnai",ja="ウブナイの記録",category="Permanent Key Items"},
+    [3240] = {id=3240,en="information on Gogmagog",ja="ゴグマゴグの記録",category="Permanent Key Items"},
+    [3241] = {id=3241,en="information on Aristaeus",ja="アリステウスの記録",category="Permanent Key Items"},
+    [3242] = {id=3242,en="information on Marmorkrebs",ja="マーモルクレブの記録",category="Permanent Key Items"},
+    [3243] = {id=3243,en="information on Gigelorum",ja="ギゲローラムの記録",category="Permanent Key Items"},
+    [3244] = {id=3244,en="information on Raskovniche",ja="ラスコフニチェの記録",category="Permanent Key Items"},
+    [3245] = {id=3245,en="information on Procne",ja="プロクネの記録",category="Permanent Key Items"},
+    [3246] = {id=3246,en="information on Henwen",ja="ヘンウェンの記録",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
