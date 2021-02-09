@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7682.12333.5</version>
+    <version>5.0.7710.2111</version>
     <type>library</type>
     <files>
       <file size="18986">resources_data/ability_recasts.lua</file>
@@ -11,20 +11,20 @@
       <file size="161753">resources_data/auto_translates.lua</file>
       <file size="2706">resources_data/bags.lua</file>
       <file size="65859">resources_data/buffs.lua</file>
-      <file size="2057">resources_data/chat.lua</file>
+      <file size="2177">resources_data/chat.lua</file>
       <file size="1842">resources_data/check_ratings.lua</file>
       <file size="1979">resources_data/days.lua</file>
       <file size="1951">resources_data/elements.lua</file>
       <file size="4186">resources_data/emotes.lua</file>
       <file size="1872">resources_data/encumbrance.lua</file>
-      <file size="4682893">resources_data/items.lua</file>
+      <file size="4685920">resources_data/items.lua</file>
       <file size="4408560">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
       <file size="115669">resources_data/job_abilities.lua</file>
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
       <file size="338702">resources_data/key_items.lua</file>
-      <file size="153">resources_data/manifest.xml</file>
+      <file size="150">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
       <file size="341774">resources_data/monster_abilities.lua</file>
       <file size="25335">resources_data/monstrosity.lua</file>
