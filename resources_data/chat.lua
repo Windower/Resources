@@ -9,7 +9,9 @@ return {
     [8] = {id=8,en="emote",incoming=15,outgoing=7},
     [26] = {id=26,en="yell",incoming=11,outgoing=3},
     [27] = {id=27,en="linkshell2",incoming=214,outgoing=213},
-    [33] = {id=33,en="unity",incoming=212,outgoing=212},
+    [33] = {id=33,en="unity",incoming=212,outgoing=211},
+    [34] = {id=34,en="assistj",incoming=220,outgoing=219},
+    [35] = {id=35,en="assiste",incoming=222,outgoing=221},
 }, {"id", "en", "incoming", "outgoing"}
 
 --[[
