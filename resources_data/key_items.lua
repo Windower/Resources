@@ -2974,6 +2974,7 @@ return {
     [3098] = {id=3098,en="♪Doll companion",ja="♪ドール",category="Mounts"},
     [3099] = {id=3099,en="♪Golden Bomb companion",ja="♪ゴールデンボム",category="Mounts"},
     [3100] = {id=3100,en="♪Buffalo companion",ja="♪バッファロー",category="Mounts"},
+    [3101] = {id=3101,en="♪Wivre companion",ja="♪ウィヴル",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -3085,6 +3086,15 @@ return {
     [3244] = {id=3244,en="information on Raskovniche",ja="ラスコフニチェの記録",category="Permanent Key Items"},
     [3245] = {id=3245,en="information on Procne",ja="プロクネの記録",category="Permanent Key Items"},
     [3246] = {id=3246,en="information on Henwen",ja="ヘンウェンの記録",category="Permanent Key Items"},
+    [3247] = {id=3247,en="information on Xevioso",ja="ゼヴィオソの記録",category="Permanent Key Items"},
+    [3248] = {id=3248,en="information on Ngai",ja="ンガイの記録",category="Permanent Key Items"},
+    [3249] = {id=3249,en="information on Kalunga",ja="カルーンガの記録",category="Permanent Key Items"},
+    [3250] = {id=3250,en="information on Ongo",ja="オンゴの記録",category="Permanent Key Items"},
+    [3251] = {id=3251,en="information on Mboze",ja="ムボゼの記録",category="Permanent Key Items"},
+    [3252] = {id=3252,en="information on Arebati",ja="アレバティの記録",category="Permanent Key Items"},
+    [3254] = {id=3254,en="Orcish battle plan",ja="オーク帝国の作戦図",category="Temporary Key Items"},
+    [3255] = {id=3255,en="Quemaricond's report",ja="クマリコンの調査報告書",category="Temporary Key Items"},
+    [3256] = {id=3256,en="solidago flower",ja="キンノキリンソウ",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
