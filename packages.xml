@@ -2,13 +2,13 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7711.10964</version>
+    <version>5.0.7739.10395.5</version>
     <type>library</type>
     <files>
       <file size="18986">resources_data/ability_recasts.lua</file>
       <file size="77958">resources_data/action_messages.lua</file>
       <file size="119799">resources_data/augments.lua</file>
-      <file size="161753">resources_data/auto_translates.lua</file>
+      <file size="162178">resources_data/auto_translates.lua</file>
       <file size="2706">resources_data/bags.lua</file>
       <file size="65859">resources_data/buffs.lua</file>
       <file size="2177">resources_data/chat.lua</file>
@@ -17,16 +17,16 @@
       <file size="1951">resources_data/elements.lua</file>
       <file size="4186">resources_data/emotes.lua</file>
       <file size="1872">resources_data/encumbrance.lua</file>
-      <file size="4699269">resources_data/items.lua</file>
-      <file size="4440370">resources_data/item_descriptions.lua</file>
+      <file size="4700834">resources_data/items.lua</file>
+      <file size="4443995">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
       <file size="115669">resources_data/job_abilities.lua</file>
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
-      <file size="339789">resources_data/key_items.lua</file>
-      <file size="151">resources_data/manifest.xml</file>
+      <file size="340009">resources_data/key_items.lua</file>
+      <file size="153">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
-      <file size="343866">resources_data/monster_abilities.lua</file>
+      <file size="343403">resources_data/monster_abilities.lua</file>
       <file size="25335">resources_data/monstrosity.lua</file>
       <file size="2214">resources_data/moon_phases.lua</file>
       <file size="6186">resources_data/mounts.lua</file>
@@ -38,7 +38,7 @@
       <file size="262713">resources_data/spells.lua</file>
       <file size="3350">resources_data/statuses.lua</file>
       <file size="1906">resources_data/synth_ranks.lua</file>
-      <file size="87399">resources_data/titles.lua</file>
+      <file size="87551">resources_data/titles.lua</file>
       <file size="46628">resources_data/weapon_skills.lua</file>
       <file size="2935">resources_data/weather.lua</file>
       <file size="27672">resources_data/zones.lua</file>

@@ -3092,9 +3092,11 @@ return {
     [3250] = {id=3250,en="information on Ongo",ja="オンゴの記録",category="Permanent Key Items"},
     [3251] = {id=3251,en="information on Mboze",ja="ムボゼの記録",category="Permanent Key Items"},
     [3252] = {id=3252,en="information on Arebati",ja="アレバティの記録",category="Permanent Key Items"},
+    [3253] = {id=3253,en="information on Bumba",ja="バンバの記録",category="Permanent Key Items"},
     [3254] = {id=3254,en="Orcish battle plan",ja="オーク帝国の作戦図",category="Temporary Key Items"},
     [3255] = {id=3255,en="Quemaricond's report",ja="クマリコンの調査報告書",category="Temporary Key Items"},
     [3256] = {id=3256,en="solidago flower",ja="キンノキリンソウ",category="Temporary Key Items"},
+    [3257] = {id=3257,en="missive to Altennia",ja="アルテニアへの手紙",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
