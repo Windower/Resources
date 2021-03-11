@@ -2,11 +2,11 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7739.10395.5</version>
+    <version>5.0.7740.12137.5</version>
     <type>library</type>
     <files>
       <file size="18986">resources_data/ability_recasts.lua</file>
-      <file size="77958">resources_data/action_messages.lua</file>
+      <file size="78393">resources_data/action_messages.lua</file>
       <file size="119799">resources_data/augments.lua</file>
       <file size="162178">resources_data/auto_translates.lua</file>
       <file size="2706">resources_data/bags.lua</file>
