@@ -13,6 +13,7 @@ return {
     [9] = {id=9,en="Restraint",ja="リストレント",action_id=252},
     [10] = {id=10,en="Rune Enchantment",ja="エンチャントルーン",action_id=365},
     [11] = {id=11,en="Blood Rage",ja="ブラッドレイジ",action_id=267},
+    [12] = {id=12,en="Cascade",ja="カスケード",action_id=388},
     [13] = {id=13,en="Focus",ja="集中",action_id=36},
     [14] = {id=14,en="Dodge",ja="回避",action_id=37},
     [15] = {id=15,en="Chakra",ja="チャクラ",action_id=38},

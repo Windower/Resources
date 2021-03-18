@@ -2,10 +2,10 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7745.2234.5</version>
+    <version>5.0.7747.41242.5</version>
     <type>library</type>
     <files>
-      <file size="18986">resources_data/ability_recasts.lua</file>
+      <file size="19055">resources_data/ability_recasts.lua</file>
       <file size="78393">resources_data/action_messages.lua</file>
       <file size="119799">resources_data/augments.lua</file>
       <file size="162178">resources_data/auto_translates.lua</file>
@@ -17,7 +17,7 @@
       <file size="1951">resources_data/elements.lua</file>
       <file size="4186">resources_data/emotes.lua</file>
       <file size="1872">resources_data/encumbrance.lua</file>
-      <file size="4700834">resources_data/items.lua</file>
+      <file size="4698639">resources_data/items.lua</file>
       <file size="1387112">resources_data/items_grammar.lua</file>
       <file size="4443995">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
@@ -25,7 +25,7 @@
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
       <file size="340009">resources_data/key_items.lua</file>
-      <file size="152">resources_data/manifest.xml</file>
+      <file size="153">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
       <file size="343403">resources_data/monster_abilities.lua</file>
       <file size="25335">resources_data/monstrosity.lua</file>
