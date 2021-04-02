@@ -3097,6 +3097,7 @@ return {
     [3255] = {id=3255,en="Quemaricond's report",ja="クマリコンの調査報告書",category="Temporary Key Items"},
     [3256] = {id=3256,en="solidago flower",ja="キンノキリンソウ",category="Temporary Key Items"},
     [3257] = {id=3257,en="missive to Altennia",ja="アルテニアへの手紙",category="Temporary Key Items"},
+    [3258] = {id=3258,en="Carmine Swallows' map",ja="紅燕騎士隊が記した地図",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
