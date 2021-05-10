@@ -615,6 +615,8 @@ return {
     [625] = {id=625,en="Siren's Favor",ja="セイレーンの加護",enl="Siren's Favor",jal="セイレーンの加護"},
     [626] = {id=626,en="Negate Sleep",ja="ネゲートスリープ",enl="Negate Sleep",jal="ネゲートスリープ"},
     [627] = {id=627,en="Mobilization",ja="戦闘準備期間",enl="mobilized",jal="戦闘準備期間"},
+    [628] = {id=628,en="Hover Shot",ja="ホバーショット",enl="Hover Shot",jal="ホバーショット"},
+    [629] = {id=629,en="Moogle Amplifier",ja="モグアンプ",enl="Moogle Amplifier",jal="モグアンプ"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
