@@ -31,6 +31,7 @@ return {
     [27] = {id=27,en="Golden Bomb",ja="ゴールデンボム",endesc="Calls forth a golden bomb.",icon_id=87,jadesc="ゴールデンボムを呼び出す。",prefix="/mount"},
     [28] = {id=28,en="Buffalo",ja="バッファロー",endesc="Calls forth a buffalo.",icon_id=87,jadesc="バッファローを呼び出す。",prefix="/mount"},
     [29] = {id=29,en="Wivre",ja="ウィヴル",endesc="Calls forth a wivre.",icon_id=87,jadesc="ウィヴルを呼び出す。",prefix="/mount"},
+    [30] = {id=30,en="Red Raptor",ja="赤ラプトル",endesc="Calls forth a red raptor.",icon_id=87,jadesc="赤ラプトルを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[

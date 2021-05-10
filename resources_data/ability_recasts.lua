@@ -146,6 +146,7 @@ return {
     [148] = {id=148,en="Futae",ja="二重",action_id=259},
     [149] = {id=149,en="Spirit Bond",ja="スピリットボンド",action_id=393},
     [150] = {id=150,en="Majesty",ja="マジェスティ",action_id=394},
+    [151] = {id=151,en="Hover Shot",ja="ホバーショット",action_id=395},
     [157] = {id=157,en="Ancient Circle",ja="エンシェントサークル",action_id=65},
     [158] = {id=158,en="Jump",ja="ジャンプ",action_id=66},
     [159] = {id=159,en="High Jump",ja="ハイジャンプ",action_id=67},
