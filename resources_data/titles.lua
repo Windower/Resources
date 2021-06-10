@@ -1077,6 +1077,7 @@ return {
     [1132] = {id=1132,en="Love is Alive",ja="ラブ・ア・ライブ"},
     [1133] = {id=1133,en="The Awakener",ja="目覚めを見届けし者"},
     [1134] = {id=1134,en="Get Over Here!",ja="ロマンシング サ・ソリさん"},
+    [1135] = {id=1135,en="Bond Renewer",ja="再生を見届けし者"},
 }, {"id", "en", "ja"}
 
 --[[
