@@ -1033,6 +1033,7 @@ return {
     [1037] = {id=1037,en="Alexander Annihilator",ja="アレキサンダー　アナイアレーター"},
     [1038] = {id=1038,en="Lilith Liquidator",ja="リリス　リクィデーター"},
     [1039] = {id=1039,en="Mireu Mincer",ja="ミレウミンサー"},
+    [1040] = {id=1040,en="Draconic Interloper",ja="ドラコニック　インターローパー"},
     [1044] = {id=1044,en="Vegetable Hero",ja="カリカリ救世主"},
     [1045] = {id=1045,en="Contributer from the Shadows",ja="陰の貢献者なのん"},
     [1046] = {id=1046,en="The Decider",ja="裁定者"},

@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7833.6000</version>
+    <version>5.0.7863.28463</version>
     <type>library</type>
     <files>
       <file size="19135">resources_data/ability_recasts.lua</file>
@@ -17,17 +17,17 @@
       <file size="1951">resources_data/elements.lua</file>
       <file size="4186">resources_data/emotes.lua</file>
       <file size="1872">resources_data/encumbrance.lua</file>
-      <file size="4704780">resources_data/items.lua</file>
-      <file size="1388854">resources_data/items_grammar.lua</file>
-      <file size="4448536">resources_data/item_descriptions.lua</file>
+      <file size="4706977">resources_data/items.lua</file>
+      <file size="1389432">resources_data/items_grammar.lua</file>
+      <file size="4451779">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
-      <file size="115847">resources_data/job_abilities.lua</file>
+      <file size="115881">resources_data/job_abilities.lua</file>
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
-      <file size="340707">resources_data/key_items.lua</file>
-      <file size="150">resources_data/manifest.xml</file>
+      <file size="340834">resources_data/key_items.lua</file>
+      <file size="151">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
-      <file size="342311">resources_data/monster_abilities.lua</file>
+      <file size="343010">resources_data/monster_abilities.lua</file>
       <file size="25335">resources_data/monstrosity.lua</file>
       <file size="2214">resources_data/moon_phases.lua</file>
       <file size="6349">resources_data/mounts.lua</file>
@@ -36,10 +36,10 @@
       <file size="2110">resources_data/servers.lua</file>
       <file size="4801">resources_data/skills.lua</file>
       <file size="2039">resources_data/slots.lua</file>
-      <file size="262347">resources_data/spells.lua</file>
+      <file size="262369">resources_data/spells.lua</file>
       <file size="3350">resources_data/statuses.lua</file>
       <file size="1906">resources_data/synth_ranks.lua</file>
-      <file size="87788">resources_data/titles.lua</file>
+      <file size="87889">resources_data/titles.lua</file>
       <file size="46628">resources_data/weapon_skills.lua</file>
       <file size="2935">resources_data/weather.lua</file>
       <file size="27672">resources_data/zones.lua</file>
