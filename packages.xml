@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.7863.28463</version>
+    <version>5.0.7871.30497</version>
     <type>library</type>
     <files>
       <file size="19135">resources_data/ability_recasts.lua</file>
@@ -19,7 +19,7 @@
       <file size="1872">resources_data/encumbrance.lua</file>
       <file size="4706977">resources_data/items.lua</file>
       <file size="1389432">resources_data/items_grammar.lua</file>
-      <file size="4451779">resources_data/item_descriptions.lua</file>
+      <file size="4451771">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
       <file size="115881">resources_data/job_abilities.lua</file>
       <file size="73978">resources_data/job_points.lua</file>
@@ -36,7 +36,7 @@
       <file size="2110">resources_data/servers.lua</file>
       <file size="4801">resources_data/skills.lua</file>
       <file size="2039">resources_data/slots.lua</file>
-      <file size="262369">resources_data/spells.lua</file>
+      <file size="262420">resources_data/spells.lua</file>
       <file size="3350">resources_data/statuses.lua</file>
       <file size="1906">resources_data/synth_ranks.lua</file>
       <file size="87889">resources_data/titles.lua</file>
