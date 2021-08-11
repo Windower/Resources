@@ -3104,6 +3104,8 @@ return {
     [3259] = {id=3259,en="lock of golden hair",ja="金色の髪の毛",category="Temporary Key Items"},
     [3260] = {id=3260,en="Mnejing's receiver",ja="メネジンレシーバー",category="Permanent Key Items"},
     [3261] = {id=3261,en="Wyrm God phantom gem",ja="ファントムクォーツ【神竜】",category="Temporary Key Items"},
+    [3263] = {id=3263,en="gift for Megomak",ja="メゴマックへのお土産",category="Temporary Key Items"},
+    [3264] = {id=3264,en="pure white ampoule",ja="真っ白なアンプル",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
