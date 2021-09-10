@@ -3106,6 +3106,9 @@ return {
     [3261] = {id=3261,en="Wyrm God phantom gem",ja="ファントムクォーツ【神竜】",category="Temporary Key Items"},
     [3263] = {id=3263,en="gift for Megomak",ja="メゴマックへのお土産",category="Temporary Key Items"},
     [3264] = {id=3264,en="pure white ampoule",ja="真っ白なアンプル",category="Temporary Key Items"},
+    [3265] = {id=3265,en="aeropearl",ja="空の空気玉",category="Temporary Key Items"},
+    [3266] = {id=3266,en="man-made solution",ja="人工飽和液",category="Temporary Key Items"},
+    [3267] = {id=3267,en="repaired breathing pearl",ja="改造空気玉",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

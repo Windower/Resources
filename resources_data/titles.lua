@@ -1080,6 +1080,7 @@ return {
     [1134] = {id=1134,en="Get Over Here!",ja="ロマンシング サ・ソリさん"},
     [1135] = {id=1135,en="Bond Renewer",ja="再生を見届けし者"},
     [1136] = {id=1136,en="Treasure of Olduum",ja="オルドゥームの秘宝"},
+    [1137] = {id=1137,en="Beloved by the Sea God",ja="アプクーップアプカリッチョ"},
 }, {"id", "en", "ja"}
 
 --[[
