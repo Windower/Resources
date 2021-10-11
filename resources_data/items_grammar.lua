@@ -3562,6 +3562,7 @@ return {
     [3746] = {id=3746,article=1,plural="adenium pots"},
     [3747] = {id=3747,article=0,plural="citrullus pots"},
     [3748] = {id=3748,article=0,plural="leafkin beds"},
+    [3749] = {id=3749,article=0,plural="chemistry sets"},
     [3840] = {id=3840,article=0,plural="pulse cells: Mx"},
     [3841] = {id=3841,article=0,plural="pulse cells: An"},
     [3842] = {id=3842,article=0,plural="pulse cells: Fa"},
