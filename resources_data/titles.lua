@@ -1081,6 +1081,7 @@ return {
     [1135] = {id=1135,en="Bond Renewer",ja="再生を見届けし者"},
     [1136] = {id=1136,en="Treasure of Olduum",ja="オルドゥームの秘宝"},
     [1137] = {id=1137,en="Beloved by the Sea God",ja="アプクーップアプカリッチョ"},
+    [1138] = {id=1138,en="Destiny Master",ja="ディスティニーシショー"},
 }, {"id", "en", "ja"}
 
 --[[
