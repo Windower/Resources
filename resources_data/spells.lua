@@ -959,7 +959,7 @@ return {
 }, {"id", "en", "ja", "cast_time", "element", "icon_id", "icon_id_nq", "levels", "mp_cost", "prefix", "range", "recast", "recast_id", "requirements", "skill", "targets", "type", "duration", "status", "overwrites", "unlearnable", "blu_points"}
 
 --[[
-Copyright © 2013-2021, Windower
+Copyright © 2013-2022, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
