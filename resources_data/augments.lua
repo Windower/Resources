@@ -1281,7 +1281,7 @@ return {
     [1279] = {id=1279,en="1280",ja="1280"},
     [1280] = {id=1280,en="Exp. Point %+d%% ",ja="経験値%+d%% "},
     [1281] = {id=1281,en="Cap. Point %+d%% ",ja="キャパシティポイント%+d%% "},
-    [1282] = {id=1282,en="Potency of \"Regen\" effect received %+d%% ",ja="被リジェネ回復量%+d%% "},
+    [1282] = {id=1282,en="Potency of \"Regen\" effect received %+d ",ja="被リジェネ回復量%+d "},
     [1283] = {id=1283,en="TP gained when landing critical hits %+d ",ja="クリティカルヒット時TP%+d "},
     [1284] = {id=1284,en="\"Drain\" potency %+d%% ",ja="ドレインの吸収量%+d%% "},
     [1285] = {id=1285,en="Magic burst damage %+d ",ja="マジックバーストダメージ%+d "},
