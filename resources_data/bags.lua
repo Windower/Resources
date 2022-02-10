@@ -18,6 +18,7 @@ return {
     [14] = {id=14,en="Wardrobe 6",access="Everywhere",command="wardrobe6",equippable=true},
     [15] = {id=15,en="Wardrobe 7",access="Everywhere",command="wardrobe7",equippable=true},
     [16] = {id=16,en="Wardrobe 8",access="Everywhere",command="wardrobe8",equippable=true},
+    [17] = {id=17,en="Recycle Bin",access="Everywhere",command="recycle",equippable=true},
 }, {"id", "en", "access", "command", "equippable"}
 
 --[[
