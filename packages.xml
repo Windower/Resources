@@ -2,14 +2,14 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.8076.13028.5</version>
+    <version>5.0.8076.13628</version>
     <type>library</type>
     <files>
       <file size="19135">resources_data/ability_recasts.lua</file>
       <file size="78393">resources_data/action_messages.lua</file>
       <file size="119795">resources_data/augments.lua</file>
       <file size="162717">resources_data/auto_translates.lua</file>
-      <file size="3078">resources_data/bags.lua</file>
+      <file size="3170">resources_data/bags.lua</file>
       <file size="66081">resources_data/buffs.lua</file>
       <file size="2177">resources_data/chat.lua</file>
       <file size="1842">resources_data/check_ratings.lua</file>
@@ -25,7 +25,7 @@
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
       <file size="344530">resources_data/key_items.lua</file>
-      <file size="153">resources_data/manifest.xml</file>
+      <file size="151">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
       <file size="248960">resources_data/monster_abilities.lua</file>
       <file size="70147">resources_data/monster_skills.lua</file>
