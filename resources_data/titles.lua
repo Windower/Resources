@@ -1083,6 +1083,7 @@ return {
     [1137] = {id=1137,en="Beloved by the Sea God",ja="アプクーップアプカリッチョ"},
     [1138] = {id=1138,en="Destiny Master",ja="ディスティニーシショー"},
     [1139] = {id=1139,en="Tireless Tracker",ja="葉団扇に乗せて歩み続ける者"},
+    [1140] = {id=1140,en="Galkan Hazard",ja="ガルカンハザード"},
 }, {"id", "en", "ja"}
 
 --[[
