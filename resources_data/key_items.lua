@@ -2979,6 +2979,7 @@ return {
     [3101] = {id=3101,en="♪Wivre companion",ja="♪ウィヴル",category="Mounts"},
     [3102] = {id=3102,en="♪Red Raptor companion",ja="♪赤ラプトル",category="Mounts"},
     [3103] = {id=3103,en="♪Iron Giant companion",ja="♪鉄巨人",category="Mounts"},
+    [3104] = {id=3104,en="♪Byakko",ja="♪白虎",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -3136,6 +3137,10 @@ return {
     [3290] = {id=3290,en="dynamic geomancer's shard",ja="深淵なる大風水士の断片",category="Active Effects"},
     [3291] = {id=3291,en="ardent rune fencer's shard",ja="灼然なる大魔導剣士の断片",category="Active Effects"},
     [3292] = {id=3292,en="distorted fragment",ja="曲玉の欠片",category="Active Effects"},
+    [3293] = {id=3293,en="Memorian, the Magicked Doll",ja="魔法人形「思ひ出くん」",category="Temporary Key Items"},
+    [3294] = {id=3294,en="depleted Memorian",ja="魔力切れ人形「思ひ出くん」",category="Temporary Key Items"},
+    [3295] = {id=3295,en="Trion's directive",ja="トリオンの指令書",category="Temporary Key Items"},
+    [3296] = {id=3296,en="ember-encrusted orichalcum",ja="煉獄のオリハルコン",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

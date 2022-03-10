@@ -2,14 +2,14 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.8076.14294.5</version>
+    <version>5.0.8104.11540</version>
     <type>library</type>
     <files>
       <file size="19135">resources_data/ability_recasts.lua</file>
       <file size="78393">resources_data/action_messages.lua</file>
       <file size="119795">resources_data/augments.lua</file>
       <file size="162717">resources_data/auto_translates.lua</file>
-      <file size="3171">resources_data/bags.lua</file>
+      <file size="3167">resources_data/bags.lua</file>
       <file size="66081">resources_data/buffs.lua</file>
       <file size="2177">resources_data/chat.lua</file>
       <file size="1842">resources_data/check_ratings.lua</file>
@@ -17,21 +17,21 @@
       <file size="1951">resources_data/elements.lua</file>
       <file size="4186">resources_data/emotes.lua</file>
       <file size="1872">resources_data/encumbrance.lua</file>
-      <file size="4712187">resources_data/items.lua</file>
-      <file size="1390796">resources_data/items_grammar.lua</file>
-      <file size="4454644">resources_data/item_descriptions.lua</file>
+      <file size="4712332">resources_data/items.lua</file>
+      <file size="1390851">resources_data/items_grammar.lua</file>
+      <file size="4455023">resources_data/item_descriptions.lua</file>
       <file size="3229">resources_data/jobs.lua</file>
       <file size="115881">resources_data/job_abilities.lua</file>
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
-      <file size="344530">resources_data/key_items.lua</file>
-      <file size="153">resources_data/manifest.xml</file>
+      <file size="345085">resources_data/key_items.lua</file>
+      <file size="151">resources_data/manifest.xml</file>
       <file size="79184">resources_data/merit_points.lua</file>
-      <file size="248960">resources_data/monster_abilities.lua</file>
+      <file size="248555">resources_data/monster_abilities.lua</file>
       <file size="70147">resources_data/monster_skills.lua</file>
       <file size="25335">resources_data/monstrosity.lua</file>
       <file size="2214">resources_data/moon_phases.lua</file>
-      <file size="6501">resources_data/mounts.lua</file>
+      <file size="6636">resources_data/mounts.lua</file>
       <file size="2818">resources_data/races.lua</file>
       <file size="5106">resources_data/regions.lua</file>
       <file size="2110">resources_data/servers.lua</file>
@@ -40,7 +40,7 @@
       <file size="262420">resources_data/spells.lua</file>
       <file size="3350">resources_data/statuses.lua</file>
       <file size="1906">resources_data/synth_ranks.lua</file>
-      <file size="88319">resources_data/titles.lua</file>
+      <file size="88397">resources_data/titles.lua</file>
       <file size="46628">resources_data/weapon_skills.lua</file>
       <file size="2935">resources_data/weather.lua</file>
       <file size="27672">resources_data/zones.lua</file>

@@ -7488,6 +7488,7 @@ return {
     [10077] = {id=10077,article=0,plural="♪Buffalo"},
     [10078] = {id=10078,article=0,plural="♪Wivre"},
     [10079] = {id=10079,article=1,plural="♪Iron Giant"},
+    [10080] = {id=10080,article=0,plural="♪Byakko"},
     [10112] = {id=10112,article=0,plural="ciphers of Zeid's alter ego"},
     [10113] = {id=10113,article=0,plural="ciphers of Lion's alter ego"},
     [10114] = {id=10114,article=0,plural="ciphers of Tenzen's alter ego"},

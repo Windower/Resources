@@ -1084,6 +1084,7 @@ return {
     [1138] = {id=1138,en="Destiny Master",ja="ディスティニーシショー"},
     [1139] = {id=1139,en="Tireless Tracker",ja="葉団扇に乗せて歩み続ける者"},
     [1140] = {id=1140,en="Galkan Hazard",ja="ガルカンハザード"},
+    [1141] = {id=1141,en="Bearer of Secrets",ja="秘密を託されし者"},
 }, {"id", "en", "ja"}
 
 --[[
