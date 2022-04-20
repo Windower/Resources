@@ -1,7 +1,6 @@
 -- Automatically generated file: Key Items
 
 return {
-    [0] = {id=0,en="in-text name",ja="だいじなもの0",category="Temporary Key Items"},
     [1] = {id=1,en="Zeruhn report",ja="鉱山労働報告書",category="Temporary Key Items"},
     [2] = {id=2,en="Palborough Mines logs",ja="パルブロ鉱山記",category="Temporary Key Items"},
     [3] = {id=3,en="blue acidity tester",ja="カラーテスター・青",category="Temporary Key Items"},
