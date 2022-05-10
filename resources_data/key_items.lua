@@ -2979,6 +2979,7 @@ return {
     [3102] = {id=3102,en="♪Red Raptor companion",ja="♪赤ラプトル",category="Mounts"},
     [3103] = {id=3103,en="♪Iron Giant companion",ja="♪鉄巨人",category="Mounts"},
     [3104] = {id=3104,en="♪Byakko",ja="♪白虎",category="Mounts"},
+    [3105] = {id=3105,en="♪Noble Chocobo companion",ja="♪ノーブルチョコボ",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
@@ -3140,6 +3141,9 @@ return {
     [3294] = {id=3294,en="depleted Memorian",ja="魔力切れ人形「思ひ出くん」",category="Temporary Key Items"},
     [3295] = {id=3295,en="Trion's directive",ja="トリオンの指令書",category="Temporary Key Items"},
     [3296] = {id=3296,en="ember-encrusted orichalcum",ja="煉獄のオリハルコン",category="Temporary Key Items"},
+    [3297] = {id=3297,en="cloth-lined basket",ja="布張りのバスケット",category="Temporary Key Items"},
+    [3298] = {id=3298,en="map to the woman's home",ja="娘っこの家の案内図",category="Temporary Key Items"},
+    [3299] = {id=3299,en="Maat's pillow",ja="マートの枕",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
