@@ -345,7 +345,7 @@ return {
     [369] = {id=369,en="Pflug",ja="フルーグ",duration=120,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=59,status=533,targets=1,tp_cost=0,type="Ward"},
     [370] = {id=370,en="Embolden",ja="エンボルド",duration=60,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=72,status=534,targets=1,tp_cost=0,type="JobAbility"},
     [371] = {id=371,en="Valiance",ja="ヴァリエンス",duration=180,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=113,status=535,targets=1,tp_cost=0,type="Ward"},
-    [372] = {id=372,en="Gambit",ja="ガンビット",duration=300,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=2,recast_id=116,status=536,targets=32,tp_cost=0,type="Effusion"},
+    [372] = {id=372,en="Gambit",ja="ガンビット",duration=60,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=2,recast_id=116,status=536,targets=32,tp_cost=0,type="Effusion"},
     [373] = {id=373,en="Liement",ja="リエモン",duration=10,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=117,status=537,targets=1,tp_cost=0,type="Ward"},
     [374] = {id=374,en="One for All",ja="ワンフォアオール",duration=30,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=0,recast_id=118,status=152,targets=1,tp_cost=0,type="JobAbility"},
     [375] = {id=375,en="Rayke",ja="レイク",duration=30,element=6,icon_id=46,mp_cost=0,prefix="/jobability",range=2,recast_id=119,status=571,targets=32,tp_cost=0,type="Effusion"},
