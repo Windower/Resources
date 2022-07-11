@@ -3565,6 +3565,7 @@ return {
     [3749] = {id=3749,article=0,plural="chemistry sets"},
     [3750] = {id=3750,article=0,plural="Qiqirn sacks"},
     [3751] = {id=3751,article=0,plural="besigiled tables"},
+    [3752] = {id=3752,article=0,plural="colibri beds"},
     [3840] = {id=3840,article=0,plural="pulse cells: Mx"},
     [3841] = {id=3841,article=0,plural="pulse cells: An"},
     [3842] = {id=3842,article=0,plural="pulse cells: Fa"},
