@@ -3144,6 +3144,10 @@ return {
     [3297] = {id=3297,en="cloth-lined basket",ja="布張りのバスケット",category="Temporary Key Items"},
     [3298] = {id=3298,en="map to the woman's home",ja="娘っこの家の案内図",category="Temporary Key Items"},
     [3299] = {id=3299,en="Maat's pillow",ja="マートの枕",category="Temporary Key Items"},
+    [3300] = {id=3300,en="shiny Ra'Kaznarian plate",ja="光るカザナルプレート",category="Temporary Key Items"},
+    [3301] = {id=3301,en="dull Ra'Kaznarian plate",ja="光を失ったカザナルプレート",category="Temporary Key Items"},
+    [3302] = {id=3302,en="Liber Daemonium",ja="リーベア・デイモニウム",category="Temporary Key Items"},
+    [3328] = {id=3328,en="Ruspix's plate",ja="ラスピックスプレート",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

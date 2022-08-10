@@ -7,7 +7,7 @@ return {
     [4] = {id=4,command="laugh"},
     [5] = {id=5,command="cry"},
     [6] = {id=6,command="no"},
-    [7] = {id=7,command="yes"},
+    [7] = {id=7,alternative="nod",command="yes"},
     [8] = {id=8,command="wave"},
     [9] = {id=9,alternative="farewell",command="goodbye"},
     [10] = {id=10,command="welcome"},
