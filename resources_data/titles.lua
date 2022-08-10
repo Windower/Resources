@@ -1087,6 +1087,7 @@ return {
     [1141] = {id=1141,en="Bearer of Secrets",ja="秘密を託されし者"},
     [1142] = {id=1142,en="Long Live Mumor",ja="ミュモルNo.1"},
     [1143] = {id=1143,en="Parter of the Veil",ja="悪魔を見抜きし者"},
+    [1144] = {id=1144,en="Demonic Dreamer",ja="デモニカル・ドリーマーズ"},
 }, {"id", "en", "ja"}
 
 --[[

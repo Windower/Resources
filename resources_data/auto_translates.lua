@@ -2451,6 +2451,7 @@ return {
     [10258] = {id=10258,en="Mastery Rank",ja="ナレッジランク"},
     [10259] = {id=10259,en="Mentor",ja="メンター"},
     [10260] = {id=10260,en="Assist Channel",ja="アシストチャンネル"},
+    [10261] = {id=10261,en="Sortie",ja="ソーティ"},
     [10265] = {id=10265,en="Master Level",ja="マスターレベル"},
     [10266] = {id=10266,en="Exemplar Points",ja="エクゼンプラーポイント"},
     [10267] = {id=10267,en="Maze Monger",ja="メイズモンガー"},
