@@ -1088,6 +1088,7 @@ return {
     [1142] = {id=1142,en="Long Live Mumor",ja="ミュモルNo.1"},
     [1143] = {id=1143,en="Parter of the Veil",ja="悪魔を見抜きし者"},
     [1144] = {id=1144,en="Demonic Dreamer",ja="デモニカル・ドリーマーズ"},
+    [1145] = {id=1145,en="Searcher of the Voracious",ja="蝕む魂を求めるもの"},
 }, {"id", "en", "ja"}
 
 --[[
