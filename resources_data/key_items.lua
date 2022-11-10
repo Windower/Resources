@@ -3151,6 +3151,7 @@ return {
     [3304] = {id=3304,en="Silver Knife membership card",ja="シルバー・ナイフ会員証",category="Permanent Key Items"},
     [3327] = {id=3327,en="Uran-Mafran's orb",ja="ウランマフランのオーブ",category="Permanent Key Items"},
     [3328] = {id=3328,en="Ruspix's plate",ja="ラスピックスプレート",category="Permanent Key Items"},
+    [3329] = {id=3329,en="sheet of ancient battle tunes",ja="オーケストリオン譜：古戦場",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

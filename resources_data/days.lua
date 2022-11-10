@@ -6,7 +6,7 @@ return {
     [2] = {id=2,en="Watersday",ja="水",element=5},
     [3] = {id=3,en="Windsday",ja="風",element=2},
     [4] = {id=4,en="Iceday",ja="氷",element=1},
-    [5] = {id=5,en="Lightningsday",ja="雷",element=4},
+    [5] = {id=5,en="Lightningday",ja="雷",element=4},
     [6] = {id=6,en="Lightsday",ja="光",element=6},
     [7] = {id=7,en="Darksday",ja="闇",element=7},
 }, {"id", "en", "ja", "element"}
