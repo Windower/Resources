@@ -35,6 +35,7 @@ return {
     [31] = {id=31,en="Iron Giant",ja="鉄巨人",endesc="Calls forth an iron giant.",icon_id=87,jadesc="鉄巨人を呼び出す。",prefix="/mount"},
     [32] = {id=32,en="Byakko",ja="白虎",endesc="Calls forth Byakko.",icon_id=87,jadesc="白虎を呼び出す。",prefix="/mount"},
     [33] = {id=33,en="Noble Chocobo",ja="ノーブルチョコボ",endesc="Calls forth a noble chocobo.",icon_id=86,jadesc="ノーブルチョコボを呼び出す。",prefix="/mount"},
+    [34] = {id=34,en="Ixion",ja="イクシオン",endesc="Calls forth an ixion.",icon_id=87,jadesc="イクシオンを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
