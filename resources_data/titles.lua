@@ -1094,6 +1094,7 @@ return {
     [1143] = {id=1143,en="Parter of the Veil",ja="悪魔を見抜きし者"},
     [1144] = {id=1144,en="Demonic Dreamer",ja="デモニカル・ドリーマーズ"},
     [1145] = {id=1145,en="Searcher of the Voracious",ja="蝕む魂を求めるもの"},
+    [1146] = {id=1146,en="Another Psyche",ja="アナザー・プシュケー"},
 }, {"id", "en", "ja"}
 
 --[[

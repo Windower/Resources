@@ -3177,6 +3177,8 @@ return {
     [3329] = {id=3329,en="sheet of ancient battle tunes",ja="オーケストリオン譜：古戦場",category="Permanent Key Items"},
     [3330] = {id=3330,en="sheet of Destiny Destroyer tunes",ja="オーケストリオン譜：DD団",category="Permanent Key Items"},
     [3331] = {id=3331,en="sheet of character selection tunes",ja="オーケストリオン譜：キャラクター選択",category="Permanent Key Items"},
+    [3332] = {id=3332,en="sheet of Starlight tunes",ja="オーケストリオン譜：星芒祭",category="Permanent Key Items"},
+    [3333] = {id=3333,en="despairing psyche",ja="絶望のプシュケー",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
