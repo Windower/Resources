@@ -3179,10 +3179,15 @@ return {
     [3331] = {id=3331,en="sheet of character selection tunes",ja="オーケストリオン譜：キャラクター選択",category="Permanent Key Items"},
     [3332] = {id=3332,en="sheet of Starlight tunes",ja="オーケストリオン譜：星芒祭",category="Permanent Key Items"},
     [3333] = {id=3333,en="despairing psyche",ja="絶望のプシュケー",category="Temporary Key Items"},
+    [3334] = {id=3334,en="suffering psyche",ja="苦しみのプシュケー",category="Temporary Key Items"},
+    [3335] = {id=3335,en="anguished psyche",ja="憎しみのプシュケー",category="Temporary Key Items"},
+    [3336] = {id=3336,en="rancorous psyche",ja="願いのプシュケー",category="Temporary Key Items"},
+    [3337] = {id=3337,en="determined psyche",ja="誓いのプシュケー",category="Temporary Key Items"},
+    [3338] = {id=3338,en="Raebrimm's memento",ja="ラエブリームの形見",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
-Copyright © 2013-2022, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

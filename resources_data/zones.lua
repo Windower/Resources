@@ -273,6 +273,7 @@ return {
     [275] = {id=275,en="Outer Ra'Kaznar [U1]",ja="ラ・カザナル宮外郭〔Ｕ１〕",search="OutRaKaz_U1"},
     [276] = {id=276,en="Ra'Kaznar Inner Court",ja="ラ・カザナル宮内郭",search="InRaKaz"},
     [277] = {id=277,en="Ra'Kaznar Turris",ja="ラ・カザナル宮天守",search="RaKazTurris"},
+    [278] = {id=278,en="Gwora - Corridor",ja="グォラ-歩廊",search="GworaCorr"},
     [279] = {id=279,en="Walk of Echoes [P2]",ja="ウォークオブエコーズ〔Ｐ２〕",search="WlkEchoes_P2"},
     [280] = {id=280,en="Mog Garden",ja="モグガーデン",search="MogGarden"},
     [281] = {id=281,en="Leafallia",ja="リファーリア",search="Leafallia"},
@@ -295,7 +296,7 @@ return {
 }, {"id", "en", "ja", "search"}
 
 --[[
-Copyright © 2013-2022, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
