@@ -19556,6 +19556,8 @@ return {
     [23807] = {id=23807,article=1,plural="esthete's masques"},
     [23808] = {id=23808,article=1,plural="esthete's coats"},
     [23809] = {id=23809,article=2,plural="pairs of esthete's hose"},
+    [23810] = {id=23810,article=0,plural="knit caps"},
+    [23811] = {id=23811,article=0,plural="knit caps +1"},
     [25414] = {id=25414,article=0,plural="elite royal collars"},
     [25415] = {id=25415,article=0,plural="republican platinum medals"},
     [25416] = {id=25416,article=0,plural="Sibyl scarves"},
@@ -22603,7 +22605,7 @@ return {
 }, {"id", "article", "plural"}
 
 --[[
-Copyright © 2013-2022, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

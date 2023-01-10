@@ -1095,10 +1095,11 @@ return {
     [1144] = {id=1144,en="Demonic Dreamer",ja="デモニカル・ドリーマーズ"},
     [1145] = {id=1145,en="Searcher of the Voracious",ja="蝕む魂を求めるもの"},
     [1146] = {id=1146,en="Another Psyche",ja="アナザー・プシュケー"},
+    [1147] = {id=1147,en="Sender of Shadow",ja="闇の王を見送りし者"},
 }, {"id", "en", "ja"}
 
 --[[
-Copyright © 2013-2022, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
