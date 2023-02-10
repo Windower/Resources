@@ -566,6 +566,7 @@ return {
     [564] = {id=564,en="Moglification: Synergy Skill Gains",ja="モーグリの応援：錬成スキル上昇率アップ",category="Active Effects"},
     [565] = {id=565,en="Moglification: Synergy Furnace Duration",ja="モーグリの応援：錬成窯稼働時間アップ",category="Active Effects"},
     [566] = {id=566,en="Moglification: Resist Death",ja="モーグリの応援：デス耐性",category="Active Effects"},
+    [567] = {id=567,en="Moglification: A.M.A.N. Trove",ja="モーグリの応援：A.M.A.N. トローブ",category="Active Effects"},
     [576] = {id=576,en="Ballista License",ja="バリスタライセンス",category="Permanent Key Items"},
     [577] = {id=577,en="Ballista Instawarp",ja="バリスタデジョンチケット",category="Temporary Key Items"},
     [578] = {id=578,en="Ballista Instaport",ja="バリスタテレポチケット",category="Temporary Key Items"},

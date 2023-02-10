@@ -189,6 +189,7 @@ return {
     [186] = {id=186,en="Dynamis - Bastok",ja="デュナミス-バストゥーク",search="DynamisBas"},
     [187] = {id=187,en="Dynamis - Windurst",ja="デュナミス-ウィンダス",search="DynamisWin"},
     [188] = {id=188,en="Dynamis - Jeuno",ja="デュナミス-ジュノ",search="DynamisJeu"},
+    [189] = {id=189,en="Outer Ra'Kaznar [U3]",ja="ラ・カザナル宮外郭〔Ｕ３〕",search="OutRaKaz_U3"},
     [190] = {id=190,en="King Ranperre's Tomb",ja="龍王ランペールの墓",search="RanpsTomb"},
     [191] = {id=191,en="Dangruf Wadi",ja="ダングルフの涸れ谷",search="Dangruf"},
     [192] = {id=192,en="Inner Horutoto Ruins",ja="内ホルトト遺跡",search="InHorutoto"},

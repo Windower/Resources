@@ -3568,6 +3568,7 @@ return {
     [3752] = {id=3752,article=0,plural="colibri beds"},
     [3753] = {id=3753,article=0,plural="paintings of Blueblade Fell"},
     [3754] = {id=3754,article=0,plural="kagami mochi"},
+    [3755] = {id=3755,article=0,plural="prismatic chests"},
     [3840] = {id=3840,article=0,plural="pulse cells: Mx"},
     [3841] = {id=3841,article=0,plural="pulse cells: An"},
     [3842] = {id=3842,article=0,plural="pulse cells: Fa"},
