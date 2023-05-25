@@ -294,6 +294,7 @@ return {
     [296] = {id=296,en="Dynamis - Windurst [D]",ja="デュナミス-ウィンダス〔Ｄ〕",can_pet=true,is_layered=true,search="DynamisWin_D"},
     [297] = {id=297,en="Dynamis - Jeuno [D]",ja="デュナミス-ジュノ〔Ｄ〕",can_pet=true,is_layered=true,search="DynamisJeu_D"},
     [298] = {id=298,en="Walk of Echoes [P1]",ja="ウォークオブエコーズ〔Ｐ１〕",can_pet=true,is_layered=true,search="WlkEchoes_P1"},
+    [299] = {id=299,en="Gwora - Throne Room",ja="グォラ-王の間",search="GworaThrone"},
 }, {"id", "en", "ja", "search", "can_invite_cross_zone", "can_pet", "can_mount", "can_nexus", "can_auction", "can_deliver", "is_layered"}
 
 --[[

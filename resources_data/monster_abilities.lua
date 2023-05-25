@@ -3626,7 +3626,7 @@ return {
     [4385] = {id=4385,en="Pellucid Surge",ja="ペルーシッドサージ"},
     [4386] = {id=4386,en="Black Sanctus",ja="ブラックサンクトゥス"},
     [4387] = {id=4387,en="Sanative Shadow",ja="サナティヴシャドウ"},
-    [4388] = {id=4388,en="Tatarus Tocsin",ja="タルタロストクシン"},
+    [4388] = {id=4388,en="Tartarus Tocsin",ja="タルタロストクシン"},
     [4389] = {id=4389,en="Chainweave",ja="チェインウィーヴ"},
 }, {"id", "en", "ja", "skillchain_a", "skillchain_b", "skillchain_c"}
 

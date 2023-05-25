@@ -619,7 +619,7 @@ return {
     [629] = {id=629,en="Moogle Amplifier",ja="モグアンプ",enl="Moogle Amplifier",jal="モグアンプ"},
     [630] = {id=630,en="taint",ja="劇毒",enl="tainted",jal="劇毒"},
     [631] = {id=631,en="haunt",ja="祟り",enl="haunted",jal="祟り"},
-    [632] = {id=632,en="Expiration",ja="カオスの宣告",enl="Expiration",jal="カオスの宣告"},
+    [632] = {id=632,en="Black Sanctus",ja="ブラックサンクトゥス",enl="Black Sanctus",jal="ブラックサンクトゥス"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
