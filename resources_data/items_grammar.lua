@@ -20322,7 +20322,7 @@ return {
     [26223] = {id=26223,article=0,plural="patissiere's rings"},
     [26224] = {id=26224,article=0,plural="confectioner's rings"},
     [26225] = {id=26225,article=0,plural="Medada's rings"},
-    [26226] = {id=26226,article=0,plural="Gurebu-Orebu's rings"},
+    [26226] = {id=26226,article=0,plural="Gurebu-Ogurebu's rings"},
     [26227] = {id=26227,article=0,plural="Cornelia's rings"},
     [26228] = {id=26228,article=0,plural="Ragelise's rings"},
     [26229] = {id=26229,article=0,plural="Lehko Habhoka's rings"},

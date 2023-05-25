@@ -3186,6 +3186,7 @@ return {
     [3336] = {id=3336,en="rancorous psyche",ja="願いのプシュケー",category="Temporary Key Items"},
     [3337] = {id=3337,en="determined psyche",ja="誓いのプシュケー",category="Temporary Key Items"},
     [3338] = {id=3338,en="Raebrimm's memento",ja="ラエブリームの形見",category="Temporary Key Items"},
+    [3339] = {id=3339,en="vial of Chaos's blood",ja="カオスの血",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

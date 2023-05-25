@@ -1096,6 +1096,7 @@ return {
     [1145] = {id=1145,en="Searcher of the Voracious",ja="蝕む魂を求めるもの"},
     [1146] = {id=1146,en="Another Psyche",ja="アナザー・プシュケー"},
     [1147] = {id=1147,en="Sender of Shadow",ja="闇の王を見送りし者"},
+    [1148] = {id=1148,en="Astral Aligner",ja="アストラルの理を守りし者"},
 }, {"id", "en", "ja"}
 
 --[[
