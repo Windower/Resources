@@ -18486,6 +18486,8 @@ return {
     [21783] = {id=21783,article=0,plural="Laphrias"},
     [21784] = {id=21784,article=0,plural="Laphrias"},
     [21785] = {id=21785,article=0,plural="Laphrias"},
+    [21786] = {id=21786,article=0,plural="poison axes"},
+    [21787] = {id=21787,article=0,plural="poison axes +1"},
     [21804] = {id=21804,article=1,plural="Obschines"},
     [21805] = {id=21805,article=0,plural="pixquizpans"},
     [21806] = {id=21806,article=0,plural="pixquizpans +1"},
