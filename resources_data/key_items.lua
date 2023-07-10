@@ -3187,6 +3187,9 @@ return {
     [3337] = {id=3337,en="determined psyche",ja="誓いのプシュケー",category="Temporary Key Items"},
     [3338] = {id=3338,en="Raebrimm's memento",ja="ラエブリームの形見",category="Temporary Key Items"},
     [3339] = {id=3339,en="vial of Chaos's blood",ja="カオスの血",category="Permanent Key Items"},
+    [3340] = {id=3340,en="Mog Kupon A-Sap",ja="クーポンA-Sap",category="Temporary Key Items"},
+    [3341] = {id=3341,en="Mog Kupon A-Jad",ja="クーポンA-Jad",category="Temporary Key Items"},
+    [3342] = {id=3342,en="Mog Kupon A-Rub",ja="クーポンA-Rub",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
