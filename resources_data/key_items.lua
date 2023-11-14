@@ -2739,6 +2739,7 @@ return {
     [2833] = {id=2833,en="shadow throne",ja="シャドウスローン",category="Permanent Key Items"},
     [2834] = {id=2834,en="leaf bench",ja="リーフベンチ",category="Permanent Key Items"},
     [2835] = {id=2835,en="astral cube",ja="アストラルキューブ",category="Permanent Key Items"},
+    [2836] = {id=2836,en="chocobo chair II",ja="チョコボチェアII",category="Permanent Key Items"},
     [2837] = {id=2837,en="Reisenjima Sanctorium orb",ja="醴泉神社の勾玉",category="Temporary Key Items"},
     [2838] = {id=2838,en="\"Sakura and the Magicked Net\"",ja="『サクラちゃんと呪縛の手綱』",category="Mog Garden"},
     [2839] = {id=2839,en="reaper",ja="リーパー",category="Geas Fete"},
@@ -3191,6 +3192,8 @@ return {
     [3341] = {id=3341,en="Mog Kupon A-Jad",ja="クーポンA-Jad",category="Temporary Key Items"},
     [3342] = {id=3342,en="Mog Kupon A-Rub",ja="クーポンA-Rub",category="Temporary Key Items"},
     [3344] = {id=3344,en="sheet of chocobo tunes",ja="オーケストリオン譜：チョコボ",category="Permanent Key Items"},
+    [3345] = {id=3345,en="Mog Kupon W-Eth",ja="クーポンW-Eth",category="Temporary Key Items"},
+    [3346] = {id=3346,en="Mog Kupon I-Aby",ja="クーポンI-Aby",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
