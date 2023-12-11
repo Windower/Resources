@@ -3194,6 +3194,8 @@ return {
     [3344] = {id=3344,en="sheet of chocobo tunes",ja="オーケストリオン譜：チョコボ",category="Permanent Key Items"},
     [3345] = {id=3345,en="Mog Kupon W-Eth",ja="クーポンW-Eth",category="Temporary Key Items"},
     [3346] = {id=3346,en="Mog Kupon I-Aby",ja="クーポンI-Aby",category="Temporary Key Items"},
+    [3347] = {id=3347,en="Mog Kupon A-Dia",ja="クーポンA-Dia",category="Temporary Key Items"},
+    [3348] = {id=3348,en="Mog Kupon A-Eme",ja="クーポンA-Eme",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
