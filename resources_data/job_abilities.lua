@@ -119,7 +119,7 @@ return {
     [131] = {id=131,en="Light Shot",ja="ライトショット",element=6,icon_id=494,mp_cost=1,prefix="/jobability",range=12,recast_id=195,targets=32,tp_cost=0,type="CorsairShot"},
     [132] = {id=132,en="Dark Shot",ja="ダークショット",element=7,icon_id=495,mp_cost=1,prefix="/jobability",range=12,recast_id=195,targets=32,tp_cost=0,type="CorsairShot"},
     [133] = {id=133,en="Random Deal",ja="ランダムディール",element=6,icon_id=496,mp_cost=0,prefix="/jobability",range=0,recast_id=196,targets=1,tp_cost=0,type="JobAbility"},
-    [135] = {id=135,en="Overdrive",ja="オーバードライヴ",duration=60,element=6,icon_id=83,mp_cost=0,prefix="/jobability",range=0,recast_id=0,status=166,targets=1,tp_cost=0,type="JobAbility"},
+    [135] = {id=135,en="Overdrive",ja="オーバードライヴ",duration=180,element=6,icon_id=83,mp_cost=0,prefix="/jobability",range=0,recast_id=0,status=166,targets=1,tp_cost=0,type="JobAbility"},
     [136] = {id=136,en="Activate",ja="アクティベート",element=6,icon_id=500,mp_cost=0,prefix="/jobability",range=0,recast_id=205,targets=1,tp_cost=0,type="JobAbility"},
     [137] = {id=137,en="Repair",ja="リペアー",element=6,icon_id=501,mp_cost=0,prefix="/jobability",range=12,recast_id=206,targets=1,tp_cost=0,type="JobAbility"},
     [138] = {id=138,en="Deploy",ja="ディプロイ",element=6,icon_id=502,mp_cost=0,prefix="/pet",range=11,recast_id=207,targets=32,tp_cost=0,type="PetCommand"},
