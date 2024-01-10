@@ -18318,6 +18318,8 @@ return {
     [21534] = {id=21534,article=2,plural="pairs of Varga Purnikawa"},
     [21535] = {id=21535,article=2,plural="pairs of Varga Purnikawa"},
     [21536] = {id=21536,article=2,plural="pairs of Dazbog's knuckles"},
+    [21537] = {id=21537,article=2,plural="pairs of lizard fangs"},
+    [21538] = {id=21538,article=2,plural="pairs of lizard fangs +1"},
     [21554] = {id=21554,article=1,plural="arasy knives"},
     [21555] = {id=21555,article=1,plural="arasy knives +1"},
     [21556] = {id=21556,article=0,plural="beryllium kris"},
@@ -22756,7 +22758,7 @@ return {
 }, {"id", "article", "plural"}
 
 --[[
-Copyright © 2013-2023, Windower
+Copyright © 2013-2024, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
