@@ -1065,6 +1065,7 @@ return {
     [1072] = {id=1072,en="Aita Abnegater",ja="アイタアブネガーター"},
     [1073] = {id=1073,en="Aminon Apprehender",ja="アミノンアプリヘンダー"},
     [1074] = {id=1074,en="Paradise Regained",ja="復楽園"},
+    [1075] = {id=1075,en="Founder's Pride",ja="初代王の誇り"},
     [1116] = {id=1116,en="Raptor Wrangler",ja="爆速ラプトルライダー"},
     [1117] = {id=1117,en="Gardener for the Ages",ja="疾走ガーデンライダー"},
     [1118] = {id=1118,en="Lagoon Explorer",ja="伝説ラグーンライダー"},

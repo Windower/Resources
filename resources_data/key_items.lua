@@ -3196,6 +3196,7 @@ return {
     [3346] = {id=3346,en="Mog Kupon I-Aby",ja="クーポンI-Aby",category="Temporary Key Items"},
     [3347] = {id=3347,en="Mog Kupon A-Dia",ja="クーポンA-Dia",category="Temporary Key Items"},
     [3348] = {id=3348,en="Mog Kupon A-Eme",ja="クーポンA-Eme",category="Temporary Key Items"},
+    [3350] = {id=3350,en="sheet of Near East tunes",ja="オーケストリオン譜：近東",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
