@@ -1057,7 +1057,7 @@ return {
     [1064] = {id=1064,en="Kalunga Collapser",ja="カルーンガコラップサー"},
     [1065] = {id=1065,en="Mboze Mauler",ja="ムボゼモーラー"},
     [1066] = {id=1066,en="Ongo Obliterator",ja="オンゴオブリテレーター"},
-    [1067] = {id=1067,en="Arepati Assaulter",ja="アレバティアソルター"},
+    [1067] = {id=1067,en="Arebati Assaulter",ja="アレバティアソルター"},
     [1068] = {id=1068,en="Bumba Befouler",ja="バンバビファウラー"},
     [1069] = {id=1069,en="Dhartok Defiler",ja="ダートックデファイラー"},
     [1070] = {id=1070,en="Gartell Grinder",ja="ガーテルグラインダー"},

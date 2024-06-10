@@ -3191,6 +3191,7 @@ return {
     [3340] = {id=3340,en="Mog Kupon A-Sap",ja="クーポンA-Sap",category="Temporary Key Items"},
     [3341] = {id=3341,en="Mog Kupon A-Jad",ja="クーポンA-Jad",category="Temporary Key Items"},
     [3342] = {id=3342,en="Mog Kupon A-Rub",ja="クーポンA-Rub",category="Temporary Key Items"},
+    [3343] = {id=3343,en="adenium bench",ja="アデニウムベンチ",category="Permanent Key Items"},
     [3344] = {id=3344,en="sheet of chocobo tunes",ja="オーケストリオン譜：チョコボ",category="Permanent Key Items"},
     [3345] = {id=3345,en="Mog Kupon W-Eth",ja="クーポンW-Eth",category="Temporary Key Items"},
     [3346] = {id=3346,en="Mog Kupon I-Aby",ja="クーポンI-Aby",category="Temporary Key Items"},
@@ -3198,6 +3199,7 @@ return {
     [3348] = {id=3348,en="Mog Kupon A-Eme",ja="クーポンA-Eme",category="Temporary Key Items"},
     [3349] = {id=3349,en="Wing of War",ja="天帝の翼",category="Temporary Key Items"},
     [3350] = {id=3350,en="sheet of Near East tunes",ja="オーケストリオン譜：近東",category="Permanent Key Items"},
+    [3351] = {id=3351,en="Mog Kupon A-AEV",ja="クーポンA-AEV",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
