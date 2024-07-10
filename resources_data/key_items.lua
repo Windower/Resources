@@ -3200,6 +3200,7 @@ return {
     [3349] = {id=3349,en="Wing of War",ja="天帝の翼",category="Temporary Key Items"},
     [3350] = {id=3350,en="sheet of Near East tunes",ja="オーケストリオン譜：近東",category="Permanent Key Items"},
     [3351] = {id=3351,en="Mog Kupon A-AEV",ja="クーポンA-AEV",category="Temporary Key Items"},
+    [3352] = {id=3352,en="Mog Kupon A-AHM",ja="クーポンA-AHM",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
