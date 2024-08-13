@@ -3201,6 +3201,7 @@ return {
     [3350] = {id=3350,en="sheet of Near East tunes",ja="オーケストリオン譜：近東",category="Permanent Key Items"},
     [3351] = {id=3351,en="Mog Kupon A-AEV",ja="クーポンA-AEV",category="Temporary Key Items"},
     [3352] = {id=3352,en="Mog Kupon A-AHM",ja="クーポンA-AHM",category="Temporary Key Items"},
+    [3355] = {id=3355,en="Mog Kupon A-AGK",ja="クーポンA-AGK",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
