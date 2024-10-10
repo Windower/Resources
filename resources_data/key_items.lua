@@ -3202,7 +3202,9 @@ return {
     [3351] = {id=3351,en="Mog Kupon A-AEV",ja="クーポンA-AEV",category="Temporary Key Items"},
     [3352] = {id=3352,en="Mog Kupon A-AHM",ja="クーポンA-AHM",category="Temporary Key Items"},
     [3353] = {id=3353,en="Mog Kupon A-ATT",ja="クーポンA-ATT",category="Temporary Key Items"},
+    [3354] = {id=3354,en="Mog Kupon A-AMR",ja="クーポンA-AMR",category="Temporary Key Items"},
     [3355] = {id=3355,en="Mog Kupon A-AGK",ja="クーポンA-AGK",category="Temporary Key Items"},
+    [3357] = {id=3357,en="Ra'Kaznar plate fragment",ja="カザナルプレートの欠片",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
