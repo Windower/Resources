@@ -1,25 +1,25 @@
 -- Automatically generated file: Bags
 
 return {
-    [0] = {id=0,en="Inventory",access="Everywhere",command="inventory",equippable=true},
-    [1] = {id=1,en="Safe",access="Mog House",command="bank",equippable=false},
-    [2] = {id=2,en="Storage",access="Mog House",command="storage",equippable=false},
-    [3] = {id=3,en="Temporary",access="Situational",command="temporary",equippable=false},
-    [4] = {id=4,en="Locker",access="Mog House",command="locker",equippable=false},
-    [5] = {id=5,en="Satchel",access="Everywhere",command="satchel",equippable=false},
-    [6] = {id=6,en="Sack",access="Everywhere",command="sack",equippable=false},
-    [7] = {id=7,en="Case",access="Everywhere",command="case",equippable=false},
-    [8] = {id=8,en="Wardrobe",access="Everywhere",command="wardrobe",equippable=true},
-    [9] = {id=9,en="Safe 2",access="Mog House",command="bank2",equippable=false},
-    [10] = {id=10,en="Wardrobe 2",access="Everywhere",command="wardrobe2",equippable=true},
-    [11] = {id=11,en="Wardrobe 3",access="Everywhere",command="wardrobe3",equippable=true},
-    [12] = {id=12,en="Wardrobe 4",access="Everywhere",command="wardrobe4",equippable=true},
-    [13] = {id=13,en="Wardrobe 5",access="Everywhere",command="wardrobe5",equippable=true},
-    [14] = {id=14,en="Wardrobe 6",access="Everywhere",command="wardrobe6",equippable=true},
-    [15] = {id=15,en="Wardrobe 7",access="Everywhere",command="wardrobe7",equippable=true},
-    [16] = {id=16,en="Wardrobe 8",access="Everywhere",command="wardrobe8",equippable=true},
-    [17] = {id=17,en="Recycle",access="Everywhere",command="recycle",equippable=false},
-}, {"id", "en", "access", "command", "equippable"}
+    [0] = {id=0,en="Inventory",access="Everywhere",api="inventory",command="inventory",equippable=true},
+    [1] = {id=1,en="Safe",access="Mog House",api="safe",command="bank",equippable=false},
+    [2] = {id=2,en="Storage",access="Mog House",api="storage",command="storage",equippable=false},
+    [3] = {id=3,en="Temporary",access="Situational",api="temporary",command="temporary",equippable=false},
+    [4] = {id=4,en="Locker",access="Mog House",api="locker",command="locker",equippable=false},
+    [5] = {id=5,en="Satchel",access="Everywhere",api="satchel",command="satchel",equippable=false},
+    [6] = {id=6,en="Sack",access="Everywhere",api="sack",command="sack",equippable=false},
+    [7] = {id=7,en="Case",access="Everywhere",api="case",command="case",equippable=false},
+    [8] = {id=8,en="Wardrobe",access="Everywhere",api="wardrobe",command="wardrobe",equippable=true},
+    [9] = {id=9,en="Safe 2",access="Mog House",api="safe2",command="bank2",equippable=false},
+    [10] = {id=10,en="Wardrobe 2",access="Everywhere",api="wardrobe2",command="wardrobe2",equippable=true},
+    [11] = {id=11,en="Wardrobe 3",access="Everywhere",api="wardrobe3",command="wardrobe3",equippable=true},
+    [12] = {id=12,en="Wardrobe 4",access="Everywhere",api="wardrobe4",command="wardrobe4",equippable=true},
+    [13] = {id=13,en="Wardrobe 5",access="Everywhere",api="wardrobe5",command="wardrobe5",equippable=true},
+    [14] = {id=14,en="Wardrobe 6",access="Everywhere",api="wardrobe6",command="wardrobe6",equippable=true},
+    [15] = {id=15,en="Wardrobe 7",access="Everywhere",api="wardrobe7",command="wardrobe7",equippable=true},
+    [16] = {id=16,en="Wardrobe 8",access="Everywhere",api="wardrobe8",command="wardrobe8",equippable=true},
+    [17] = {id=17,en="Recycle",access="Everywhere",api="recycle",command="recycle",equippable=false},
+}, {"id", "en", "access", "api", "command", "equippable"}
 
 --[[
 Copyright © 2013-2024, Windower
