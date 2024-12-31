@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9116.38391.5</version>
+    <version>5.0.9131.8989.5</version>
     <type>library</type>
     <files>
       <file size="19135">resources_data/ability_recasts.lua</file>
@@ -25,7 +25,7 @@
       <file size="73978">resources_data/job_points.lua</file>
       <file size="14581">resources_data/job_traits.lua</file>
       <file size="352402">resources_data/key_items.lua</file>
-      <file size="153">resources_data/manifest.xml</file>
+      <file size="152">resources_data/manifest.xml</file>
       <file size="79182">resources_data/merit_points.lua</file>
       <file size="281652">resources_data/monster_abilities.lua</file>
       <file size="70599">resources_data/monster_skills.lua</file>
