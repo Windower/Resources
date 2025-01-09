@@ -6313,6 +6313,7 @@ return {
     [6700] = {id=6700,article=0,plural="moogle memorandums"},
     [6701] = {id=6701,article=0,plural="pinches of lamia powder"},
     [6702] = {id=6702,article=0,plural="peiste concoctions"},
+    [6704] = {id=6704,article=0,plural="sheets of divine tunes"},
     [8193] = {id=8193,article=0,plural="Harlequin heads"},
     [8194] = {id=8194,article=0,plural="Valoredge X-900 heads"},
     [8195] = {id=8195,article=0,plural="Sharpshot Z-500 heads"},
@@ -19761,6 +19762,7 @@ return {
     [23872] = {id=23872,article=2,plural="pairs of hebenus boxers"},
     [23873] = {id=23873,article=0,plural="hebenus tops"},
     [23874] = {id=23874,article=2,plural="pairs of hebenus shorts"},
+    [24270] = {id=24270,article=0,plural="null masques"},
     [25414] = {id=25414,article=0,plural="elite royal collars"},
     [25415] = {id=25415,article=0,plural="republican platinum medals"},
     [25416] = {id=25416,article=0,plural="Sibyl scarves"},
@@ -20348,6 +20350,7 @@ return {
     [26039] = {id=26039,article=0,plural="sacro gorgets"},
     [26040] = {id=26040,article=1,plural="Yngvi chokers"},
     [26041] = {id=26041,article=0,plural="sroda necklaces"},
+    [26042] = {id=26042,article=0,plural="null loops"},
     [26078] = {id=26078,article=0,plural="Kyrene's earrings"},
     [26079] = {id=26079,article=0,plural="hypaspist earrings"},
     [26080] = {id=26080,article=0,plural="mache earrings"},
@@ -20495,6 +20498,7 @@ return {
     [26271] = {id=26271,article=0,plural="hi-elixir tanks"},
     [26272] = {id=26272,article=0,plural="super reraiser tanks"},
     [26273] = {id=26273,article=0,plural="tengu shawls"},
+    [26274] = {id=26274,article=0,plural="null shawls"},
     [26320] = {id=26320,article=0,plural="kobo obi"},
     [26321] = {id=26321,article=0,plural="reiki yotai"},
     [26322] = {id=26322,article=0,plural="kerygma belts"},
@@ -20542,6 +20546,7 @@ return {
     [26364] = {id=26364,article=0,plural="sroda belts"},
     [26365] = {id=26365,article=0,plural="Cornelia's belts"},
     [26366] = {id=26366,article=0,plural="platinum moogle belts"},
+    [26367] = {id=26367,article=0,plural="null belts"},
     [26400] = {id=26400,article=0,plural="culmini"},
     [26401] = {id=26401,article=0,plural="forfends"},
     [26402] = {id=26402,article=0,plural="forfends +1"},
@@ -22826,7 +22831,7 @@ return {
 }, {"id", "article", "plural"}
 
 --[[
-Copyright © 2013-2024, Windower
+Copyright © 2013-2025, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
