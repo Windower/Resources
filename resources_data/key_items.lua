@@ -3204,11 +3204,13 @@ return {
     [3353] = {id=3353,en="Mog Kupon A-ATT",ja="クーポンA-ATT",category="Temporary Key Items"},
     [3354] = {id=3354,en="Mog Kupon A-AMR",ja="クーポンA-AMR",category="Temporary Key Items"},
     [3355] = {id=3355,en="Mog Kupon A-AGK",ja="クーポンA-AGK",category="Temporary Key Items"},
+    [3356] = {id=3356,en="Orb of Radiance phantom gem",ja="ファントムクォーツ【勾玉】",category="Temporary Key Items"},
     [3357] = {id=3357,en="Ra'Kaznar plate fragment",ja="カザナルプレートの欠片",category="Temporary Key Items"},
+    [3360] = {id=3360,en="sheet of divine tunes",ja="オーケストリオン譜：神威",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
-Copyright © 2013-2024, Windower
+Copyright © 2013-2025, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
