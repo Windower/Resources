@@ -19762,6 +19762,7 @@ return {
     [23872] = {id=23872,article=2,plural="pairs of hebenus boxers"},
     [23873] = {id=23873,article=0,plural="hebenus tops"},
     [23874] = {id=23874,article=2,plural="pairs of hebenus shorts"},
+    [23893] = {id=23893,article=2,plural="pairs of dhalmel trousers"},
     [24270] = {id=24270,article=0,plural="null masques"},
     [25414] = {id=25414,article=0,plural="elite royal collars"},
     [25415] = {id=25415,article=0,plural="republican platinum medals"},
