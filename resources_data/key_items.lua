@@ -3207,6 +3207,8 @@ return {
     [3356] = {id=3356,en="Orb of Radiance phantom gem",ja="ファントムクォーツ【勾玉】",category="Temporary Key Items"},
     [3357] = {id=3357,en="Ra'Kaznar plate fragment",ja="カザナルプレートの欠片",category="Temporary Key Items"},
     [3360] = {id=3360,en="sheet of divine tunes",ja="オーケストリオン譜：神威",category="Permanent Key Items"},
+    [3362] = {id=3362,en="Shami's key",ja="シャミの鍵",category="Temporary Key Items"},
+    [3363] = {id=3363,en="sheet of fishing tunes",ja="オーケストリオン譜：漁村",category="Permanent Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
