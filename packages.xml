@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9253.42543</version>
+    <version>5.0.9253.43167.5</version>
     <type>library</type>
     <files>
       <file size="18886">resources_data/ability_recasts.lua</file>
@@ -25,19 +25,19 @@
       <file size="73741">resources_data/job_points.lua</file>
       <file size="14440">resources_data/job_traits.lua</file>
       <file size="349656">resources_data/key_items.lua</file>
-      <file size="151">resources_data/manifest.xml</file>
+      <file size="153">resources_data/manifest.xml</file>
       <file size="78869">resources_data/merit_points.lua</file>
       <file size="278913">resources_data/monster_abilities.lua</file>
       <file size="70147">resources_data/monster_skills.lua</file>
       <file size="25133">resources_data/monstrosity.lua</file>
       <file size="2185">resources_data/moon_phases.lua</file>
       <file size="7067">resources_data/mounts.lua</file>
+      <file size="11279">resources_data/music.lua</file>
       <file size="2784">resources_data/races.lua</file>
       <file size="5034">resources_data/regions.lua</file>
       <file size="2076">resources_data/servers.lua</file>
       <file size="4737">resources_data/skills.lua</file>
       <file size="2006">resources_data/slots.lua</file>
-      <file size="11279">resources_data/songs.lua</file>
       <file size="266284">resources_data/spells.lua</file>
       <file size="3287">resources_data/statuses.lua</file>
       <file size="1878">resources_data/synth_ranks.lua</file>

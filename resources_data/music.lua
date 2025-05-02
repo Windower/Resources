@@ -1,4 +1,4 @@
--- Automatically generated file: Songs
+-- Automatically generated file: Music
 
 return {
     [0] = {id=0,en="No Music"},
