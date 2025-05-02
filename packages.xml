@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9253.26257</version>
+    <version>5.0.9253.42543</version>
     <type>library</type>
     <files>
       <file size="18886">resources_data/ability_recasts.lua</file>
@@ -10,7 +10,7 @@
       <file size="117847">resources_data/augments.lua</file>
       <file size="161288">resources_data/auto_translates.lua</file>
       <file size="3398">resources_data/bags.lua</file>
-      <file size="65820">resources_data/buffs.lua</file>
+      <file size="65924">resources_data/buffs.lua</file>
       <file size="2149">resources_data/chat.lua</file>
       <file size="1817">resources_data/check_ratings.lua</file>
       <file size="1953">resources_data/days.lua</file>

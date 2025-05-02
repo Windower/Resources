@@ -487,6 +487,7 @@ return {
     [492] = {id=492,en="Asylum",ja="女神の羽衣",enl="Asylum",jal="女神の羽衣"},
     [493] = {id=493,en="Subtle Sorcery",ja="サテルソーサリー",enl="Subtle Sorcery",jal="サテルソーサリー"},
     [494] = {id=494,en="Stymie",ja="スタイミー",enl="Stymie",jal="スタイミー"},
+    [495] = {id=495,en="Macro Test",ja="マクロテスト",enl="Macro Test",jal="マクロテスト"},
     [496] = {id=496,en="Intervene",ja="インターヴィーン",enl="Intervene",jal="インターヴィーン"},
     [497] = {id=497,en="Soul Enslavement",ja="ソールエンスレーヴ",enl="Soul Enslavement",jal="ソールエンスレーヴ"},
     [498] = {id=498,en="Unleash",ja="アンリーシュ",enl="Unleash",jal="アンリーシュ"},
