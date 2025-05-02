@@ -178,7 +178,7 @@ return {
     [193] = {id=193,en="Phantom Roll",ja="ファントムロール",action_id=391},
     [194] = {id=194,en="Double-Up",ja="ダブルアップ",action_id=123},
     [195] = {id=195,en="Quick Draw",ja="クイックドロー",action_id=132},
-    [196] = {id=196,en="Random Deal",ja="ランダムディール",action_id=134},
+    [196] = {id=196,en="Random Deal",ja="ランダムディール",action_id=133},
     [197] = {id=197,en="Snake Eye",ja="スネークアイ",action_id=177},
     [198] = {id=198,en="Fold",ja="フォールド",action_id=178},
     [199] = {id=199,en="Quick Draw",ja="クイックドロー",action_id=124},
