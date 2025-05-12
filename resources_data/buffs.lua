@@ -622,6 +622,7 @@ return {
     [631] = {id=631,en="haunt",ja="祟り",enl="haunted",jal="祟り"},
     [632] = {id=632,en="Black Sanctus",ja="ブラックサンクトゥス",enl="Black Sanctus",jal="ブラックサンクトゥス"},
     [633] = {id=633,en="animated",ja="アニメート",enl="animated",jal="アニメート"},
+    [634] = {id=634,en="Serpent's Guile",ja="蛇の鼓舞",enl="Serpent's Guile",jal="蛇の鼓舞"},
 }, {"id", "en", "ja", "enl", "jal"}
 
 --[[
