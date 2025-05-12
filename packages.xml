@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9253.43167.5</version>
+    <version>5.0.9263.14220.5</version>
     <type>library</type>
     <files>
       <file size="18886">resources_data/ability_recasts.lua</file>
@@ -10,24 +10,24 @@
       <file size="117847">resources_data/augments.lua</file>
       <file size="161288">resources_data/auto_translates.lua</file>
       <file size="3398">resources_data/bags.lua</file>
-      <file size="65924">resources_data/buffs.lua</file>
+      <file size="66026">resources_data/buffs.lua</file>
       <file size="2149">resources_data/chat.lua</file>
       <file size="1817">resources_data/check_ratings.lua</file>
       <file size="1953">resources_data/days.lua</file>
       <file size="1924">resources_data/elements.lua</file>
       <file size="4121">resources_data/emotes.lua</file>
       <file size="1847">resources_data/encumbrance.lua</file>
-      <file size="4857452">resources_data/items.lua</file>
-      <file size="1436104">resources_data/items_grammar.lua</file>
-      <file size="4671291">resources_data/item_descriptions.lua</file>
+      <file size="4864569">resources_data/items.lua</file>
+      <file size="1437887">resources_data/items_grammar.lua</file>
+      <file size="4682393">resources_data/item_descriptions.lua</file>
       <file size="3188">resources_data/jobs.lua</file>
       <file size="119049">resources_data/job_abilities.lua</file>
       <file size="73741">resources_data/job_points.lua</file>
       <file size="14440">resources_data/job_traits.lua</file>
-      <file size="349656">resources_data/key_items.lua</file>
+      <file size="350207">resources_data/key_items.lua</file>
       <file size="153">resources_data/manifest.xml</file>
       <file size="78869">resources_data/merit_points.lua</file>
-      <file size="278913">resources_data/monster_abilities.lua</file>
+      <file size="279720">resources_data/monster_abilities.lua</file>
       <file size="70147">resources_data/monster_skills.lua</file>
       <file size="25133">resources_data/monstrosity.lua</file>
       <file size="2185">resources_data/moon_phases.lua</file>

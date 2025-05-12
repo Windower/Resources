@@ -3209,6 +3209,11 @@ return {
     [3360] = {id=3360,en="sheet of divine tunes",ja="オーケストリオン譜：神威",category="Permanent Key Items"},
     [3362] = {id=3362,en="Shami's key",ja="シャミの鍵",category="Temporary Key Items"},
     [3363] = {id=3363,en="sheet of fishing tunes",ja="オーケストリオン譜：漁村",category="Permanent Key Items"},
+    [3367] = {id=3367,en="Mog Kupon W-MOGB",ja="クーポンW-MOGB",category="Temporary Key Items"},
+    [3368] = {id=3368,en="vision of a destroyed city",ja="崩れたマチの夢",category="Temporary Key Items"},
+    [3369] = {id=3369,en="vision of a dreamy forest",ja="まどろむモリの夢",category="Temporary Key Items"},
+    [3370] = {id=3370,en="vision of strange ruins",ja="遺跡漂うソラの夢",category="Temporary Key Items"},
+    [3371] = {id=3371,en="vision of anger",ja="憎悪するオウの夢",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
