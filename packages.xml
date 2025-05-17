@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9263.14220.5</version>
+    <version>5.0.9268.40767.5</version>
     <type>library</type>
     <files>
       <file size="18886">resources_data/ability_recasts.lua</file>
@@ -38,11 +38,11 @@
       <file size="2076">resources_data/servers.lua</file>
       <file size="4737">resources_data/skills.lua</file>
       <file size="2006">resources_data/slots.lua</file>
-      <file size="266284">resources_data/spells.lua</file>
+      <file size="266468">resources_data/spells.lua</file>
       <file size="3287">resources_data/statuses.lua</file>
       <file size="1878">resources_data/synth_ranks.lua</file>
       <file size="88658">resources_data/titles.lua</file>
-      <file size="49600">resources_data/weapon_skills.lua</file>
+      <file size="49632">resources_data/weapon_skills.lua</file>
       <file size="2898">resources_data/weather.lua</file>
       <file size="40043">resources_data/zones.lua</file>
     </files>
