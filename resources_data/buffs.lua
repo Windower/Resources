@@ -498,6 +498,7 @@ return {
     [503] = {id=503,en="Fly High",ja="フライハイ",enl="Fly High",jal="フライハイ"},
     [504] = {id=504,en="Astral Conduit",ja="アストラルパッセージ",enl="Astral Conduit",jal="アストラルパッセージ"},
     [505] = {id=505,en="Unbridled Wisdom",ja="N.ウィズドム",enl="Unbridled Wisdom",jal="N.ウィズドム"},
+    [506] = {id=506,en="Grace",ja="グレース",enl="Grace",jal="グレース"},
     [507] = {id=507,en="Grand Pas",ja="グランドパー",enl="Grand Pas",jal="グランドパー"},
     [508] = {id=508,en="Widened Compass",ja="ワイデンコンパス",enl="Widened Compass",jal="ワイデンコンパス"},
     [509] = {id=509,en="Odyllic Subterfuge",ja="オディリックサブタ",enl="Odyllic Subterfuge",jal="オディリックサブタ"},
