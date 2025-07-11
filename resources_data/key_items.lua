@@ -2984,6 +2984,7 @@ return {
     [3105] = {id=3105,en="♪Noble Chocobo companion",ja="♪ノーブルチョコボ",category="Mounts"},
     [3106] = {id=3106,en="♪Ixion companion",ja="♪イクシオン",category="Mounts"},
     [3107] = {id=3107,en="♪Phuabo companion",ja="♪フワボ",category="Mounts"},
+    [3108] = {id=3108,en="♪Craklaw companion",ja="♪クラックロー",category="Mounts"},
     [3136] = {id=3136,en="sheet of Shadow Lord tunes",ja="オーケストリオン譜：闇の王",category="Permanent Key Items"},
     [3137] = {id=3137,en="mystical canteen",ja="チカラを閉じ込めた飯盒",category="Temporary Key Items"},
     [3138] = {id=3138,en="Ygnas's insignia",ja="ユグナスの紹介状",category="Permanent Key Items"},
