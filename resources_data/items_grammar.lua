@@ -20767,6 +20767,7 @@ return {
     [26231] = {id=26231,article=1,plural="Ephramad's rings"},
     [26232] = {id=26232,article=0,plural="lacertilian rings"},
     [26233] = {id=26233,article=0,plural="jotnar rings"},
+    [26235] = {id=26235,article=1,plural="Arrapago rings"},
     [26240] = {id=26240,article=0,plural="tantalic capes"},
     [26241] = {id=26241,article=0,plural="scintillating capes"},
     [26242] = {id=26242,article=0,plural="phalangite mantles"},
