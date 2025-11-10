@@ -3220,6 +3220,9 @@ return {
     [3369] = {id=3369,en="vision of a dreamy forest",ja="まどろむモリの夢",category="Temporary Key Items"},
     [3370] = {id=3370,en="vision of strange ruins",ja="遺跡漂うソラの夢",category="Temporary Key Items"},
     [3371] = {id=3371,en="vision of anger",ja="憎悪するオウの夢",category="Temporary Key Items"},
+    [3372] = {id=3372,en="Mog Kupon A-AF+3",ja="クーポンA-AF+3",category="Temporary Key Items"},
+    [3373] = {id=3373,en="Mog Kupon A-Rel+3",ja="クーポンA-Rel+3",category="Temporary Key Items"},
+    [3374] = {id=3374,en="Mog Kupon A-Emp+2",ja="クーポンA-Emp+2",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
