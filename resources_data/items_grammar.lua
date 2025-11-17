@@ -6324,6 +6324,7 @@ return {
     [6711] = {id=6711,article=0,plural="swart astral detritus grand coffers"},
     [6712] = {id=6712,article=0,plural="murky astral detritus grand coffers"},
     [6713] = {id=6713,article=0,plural="Reisen Shrine glory"},
+    [6715] = {id=6715,article=0,plural="books of deeds"},
     [8193] = {id=8193,article=0,plural="Harlequin heads"},
     [8194] = {id=8194,article=0,plural="Valoredge X-900 heads"},
     [8195] = {id=8195,article=0,plural="Sharpshot Z-500 heads"},
