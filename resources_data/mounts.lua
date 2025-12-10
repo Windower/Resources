@@ -38,6 +38,8 @@ return {
     [34] = {id=34,en="Ixion",ja="イクシオン",endesc="Calls forth an ixion.",icon_id=87,jadesc="イクシオンを呼び出す。",prefix="/mount"},
     [35] = {id=35,en="Phuabo",ja="フワボ",endesc="Calls forth a phuabo.",icon_id=87,jadesc="フワボを呼び出す。",prefix="/mount"},
     [36] = {id=36,en="Craklaw",ja="クラックロー",endesc="Calls forth a craklaw.",icon_id=87,jadesc="クラックローを呼び出す。",prefix="/mount"},
+    [37] = {id=37,en="Alicorn",ja="アリコーン",endesc="Calls forth an alicorn.",icon_id=87,jadesc="アリコーンを呼び出す。",prefix="/mount"},
+    [38] = {id=38,en="Bubble Crab",ja="バブルクラブ",endesc="Calls forth a bubble crab.",icon_id=87,jadesc="バブルクラブを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
