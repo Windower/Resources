@@ -2,14 +2,14 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9497.25010</version>
+    <version>5.0.9498.29436</version>
     <type>library</type>
     <files>
       <file size="18919">resources_data/ability_recasts.lua</file>
       <file size="77628">resources_data/action_messages.lua</file>
       <file size="117880">resources_data/augments.lua</file>
       <file size="161321">resources_data/auto_translates.lua</file>
-      <file size="3431">resources_data/bags.lua</file>
+      <file size="3907">resources_data/bags.lua</file>
       <file size="66141">resources_data/buffs.lua</file>
       <file size="2379">resources_data/chat.lua</file>
       <file size="1850">resources_data/check_ratings.lua</file>
