@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9498.29436</version>
+    <version>5.0.9509.16448</version>
     <type>library</type>
     <files>
       <file size="18919">resources_data/ability_recasts.lua</file>
@@ -10,16 +10,16 @@
       <file size="117880">resources_data/augments.lua</file>
       <file size="161321">resources_data/auto_translates.lua</file>
       <file size="3907">resources_data/bags.lua</file>
-      <file size="66141">resources_data/buffs.lua</file>
+      <file size="66223">resources_data/buffs.lua</file>
       <file size="2379">resources_data/chat.lua</file>
       <file size="1850">resources_data/check_ratings.lua</file>
       <file size="1986">resources_data/days.lua</file>
       <file size="1957">resources_data/elements.lua</file>
       <file size="4154">resources_data/emotes.lua</file>
       <file size="1880">resources_data/encumbrance.lua</file>
-      <file size="4971976">resources_data/items.lua</file>
-      <file size="1470754">resources_data/items_grammar.lua</file>
-      <file size="4882287">resources_data/item_descriptions.lua</file>
+      <file size="4972335">resources_data/items.lua</file>
+      <file size="1470875">resources_data/items_grammar.lua</file>
+      <file size="4882454">resources_data/item_descriptions.lua</file>
       <file size="3221">resources_data/jobs.lua</file>
       <file size="119082">resources_data/job_abilities.lua</file>
       <file size="73774">resources_data/job_points.lua</file>
@@ -27,7 +27,7 @@
       <file size="351383">resources_data/key_items.lua</file>
       <file size="151">resources_data/manifest.xml</file>
       <file size="78902">resources_data/merit_points.lua</file>
-      <file size="279494">resources_data/monster_abilities.lua</file>
+      <file size="279926">resources_data/monster_abilities.lua</file>
       <file size="70180">resources_data/monster_skills.lua</file>
       <file size="25166">resources_data/monstrosity.lua</file>
       <file size="2218">resources_data/moon_phases.lua</file>
