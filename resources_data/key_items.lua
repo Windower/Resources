@@ -3212,6 +3212,7 @@ return {
     [3358] = {id=3358,en="Apollyon verification key",ja="アポリオン錬炉認証キー",category="Permanent Key Items"},
     [3359] = {id=3359,en="Temenos verification key",ja="テメナス錬炉認証キー",category="Permanent Key Items"},
     [3360] = {id=3360,en="sheet of divine tunes",ja="オーケストリオン譜：神威",category="Permanent Key Items"},
+    [3361] = {id=3361,en="cipher bracelet",ja="盟環の腕輪",category="Permanent Key Items"},
     [3362] = {id=3362,en="Shami's key",ja="シャミの鍵",category="Temporary Key Items"},
     [3363] = {id=3363,en="sheet of fishing tunes",ja="オーケストリオン譜：漁村",category="Permanent Key Items"},
     [3364] = {id=3364,en="Delineated Grace",ja="的中のグレース",category="Permanent Key Items"},
