@@ -64,7 +64,7 @@ return {
     [61] = {id=61,en="Dimidiation",ja="デミディエーション",element=6,icon_id=602,prefix="/weaponskill",range=2,skill=4,skillchain_a="Light",skillchain_b="Fragmentation",skillchain_c="",targets=32},
     [62] = {id=62,en="Fimbulvetr",ja="フィンブルヴェト",element=6,icon_id=602,prefix="/weaponskill",range=2,skill=4,skillchain_a="Detonation",skillchain_b="Compression",skillchain_c="Distortion",targets=32},
     [64] = {id=64,en="Raging Axe",ja="レイジングアクス",element=6,icon_id=605,prefix="/weaponskill",range=2,skill=5,skillchain_a="Detonation",skillchain_b="Impaction",skillchain_c="",targets=32},
-    [65] = {id=65,en="Smash Axe",ja="スマッシュ",element=4,icon_id=606,prefix="/weaponskill",range=2,skill=5,skillchain_a="Impaction",skillchain_b="Reverberation",skillchain_c="",targets=32},
+    [65] = {id=65,en="Smash Axe",ja="スマッシュ",element=4,icon_id=606,prefix="/weaponskill",range=2,skill=5,skillchain_a="Induration",skillchain_b="Reverberation",skillchain_c="",targets=32},
     [66] = {id=66,en="Gale Axe",ja="ラファールアクス",element=2,icon_id=607,prefix="/weaponskill",range=2,skill=5,skillchain_a="Detonation",skillchain_b="",skillchain_c="",targets=32},
     [67] = {id=67,en="Avalanche Axe",ja="アバランチアクス",element=6,icon_id=605,prefix="/weaponskill",range=2,skill=5,skillchain_a="Scission",skillchain_b="Impaction",skillchain_c="",targets=32},
     [68] = {id=68,en="Spinning Axe",ja="スピニングアクス",element=6,icon_id=605,prefix="/weaponskill",range=2,skill=5,skillchain_a="Liquefaction",skillchain_b="Scission",skillchain_c="Impaction",targets=32},
