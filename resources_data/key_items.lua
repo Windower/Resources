@@ -3226,6 +3226,11 @@ return {
     [3372] = {id=3372,en="Mog Kupon A-AF+3",ja="クーポンA-AF+3",category="Temporary Key Items"},
     [3373] = {id=3373,en="Mog Kupon A-Rel+3",ja="クーポンA-Rel+3",category="Temporary Key Items"},
     [3374] = {id=3374,en="Mog Kupon A-Emp+2",ja="クーポンA-Emp+2",category="Temporary Key Items"},
+    [3376] = {id=3376,en="Mog Kupon A-sAF+3",ja="クーポンA-sAF+3",category="Temporary Key Items"},
+    [3377] = {id=3377,en="Mog Kupon A-sRE1+3",ja="クーポンA-sRel+3",category="Temporary Key Items"},
+    [3378] = {id=3378,en="Mog Kupon A-sEmp+3",ja="クーポンA-sEmp+3",category="Temporary Key Items"},
+    [3379] = {id=3379,en="Mog Kupon A-sEmp",ja="クーポンA-sEmp",category="Temporary Key Items"},
+    [3380] = {id=3380,en="Mog Kupon I-Amb",ja="クーポンI-Amb",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[
