@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9627.12517.5</version>
+    <version>5.0.9634.14994.5</version>
     <type>library</type>
     <files>
       <file size="18919">resources_data/ability_recasts.lua</file>
