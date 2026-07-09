@@ -3231,6 +3231,7 @@ return {
     [3378] = {id=3378,en="Mog Kupon A-sEmp+3",ja="クーポンA-sEmp+3",category="Temporary Key Items"},
     [3379] = {id=3379,en="Mog Kupon A-sEmp",ja="クーポンA-sEmp",category="Temporary Key Items"},
     [3380] = {id=3380,en="Mog Kupon I-Amb",ja="クーポンI-Amb",category="Temporary Key Items"},
+    [3381] = {id=3381,en="Ode of Life Bestowing phantom gem",ja="ファントムクォーツ【石夢】",category="Temporary Key Items"},
 }, {"id", "en", "ja", "category"}
 
 --[[

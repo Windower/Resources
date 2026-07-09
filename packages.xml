@@ -2,7 +2,7 @@
 <packages>
   <package>
     <name>resources_data</name>
-    <version>5.0.9657.21345.5</version>
+    <version>5.0.9686.12378.5</version>
     <type>library</type>
     <files>
       <file size="18919">resources_data/ability_recasts.lua</file>
@@ -17,17 +17,17 @@
       <file size="1957">resources_data/elements.lua</file>
       <file size="4154">resources_data/emotes.lua</file>
       <file size="1880">resources_data/encumbrance.lua</file>
-      <file size="5008561">resources_data/items.lua</file>
-      <file size="1480597">resources_data/items_grammar.lua</file>
-      <file size="4932295">resources_data/item_descriptions.lua</file>
+      <file size="5010841">resources_data/items.lua</file>
+      <file size="1481150">resources_data/items_grammar.lua</file>
+      <file size="4936121">resources_data/item_descriptions.lua</file>
       <file size="3221">resources_data/jobs.lua</file>
       <file size="119082">resources_data/job_abilities.lua</file>
       <file size="73774">resources_data/job_points.lua</file>
       <file size="14473">resources_data/job_traits.lua</file>
-      <file size="351993">resources_data/key_items.lua</file>
+      <file size="352132">resources_data/key_items.lua</file>
       <file size="153">resources_data/manifest.xml</file>
       <file size="78902">resources_data/merit_points.lua</file>
-      <file size="280224">resources_data/monster_abilities.lua</file>
+      <file size="280239">resources_data/monster_abilities.lua</file>
       <file size="70180">resources_data/monster_skills.lua</file>
       <file size="25713">resources_data/monstrosity.lua</file>
       <file size="2218">resources_data/moon_phases.lua</file>
@@ -42,7 +42,7 @@
       <file size="267585">resources_data/spells.lua</file>
       <file size="3320">resources_data/statuses.lua</file>
       <file size="1911">resources_data/synth_ranks.lua</file>
-      <file size="88691">resources_data/titles.lua</file>
+      <file size="88775">resources_data/titles.lua</file>
       <file size="49666">resources_data/weapon_skills.lua</file>
       <file size="2931">resources_data/weather.lua</file>
       <file size="40076">resources_data/zones.lua</file>
