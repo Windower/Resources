@@ -38,7 +38,7 @@ return {
     [35] = {id=35,en="${actor} lacks the ninja tools to cast ${spell}.",color=122},
     [36] = {id=36,en="You lose sight of ${target}.",color=122},
     [37] = {id=37,en="You are too far from the battle to gain experience.",color=122},
-    [38] = {id=38,en="${target}'s ${skill} skill rises 0.${number2} points.",color=129},
+    [38] = {id=38,en="${target}'s ${skill} skill rises ${number_div10} points.",color=129},
     [39] = {id=39,en="You need the Dual Wield ability to equip the ${item} as a sub-weapon.",color=121},
     [40] = {id=40,en="You cannot use ${spell} in this area.",color=122},
     [41] = {id=41,en="${actor}: Status ailment check (${number})Cannot rest at this time.",color=1},
