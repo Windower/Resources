@@ -23570,6 +23570,11 @@ return {
     [29454] = {id=29454,article=0,plural="pieces of celestite (Enhance)"},
     [29455] = {id=29455,article=0,plural="pieces of celestite (Enfeeble)"},
     [29695] = {id=29695,article=0,plural="mangled messes"},
+    [30720] = {id=30720,article=0,plural="pieces of celestite (Accuracy)"},
+    [30721] = {id=30721,article=0,plural="pieces of celestite (Evasion)"},
+    [30722] = {id=30722,article=0,plural="pieces of celestite (Attack)"},
+    [30724] = {id=30724,article=0,plural="pieces of celestite (Magic Atk.)"},
+    [30725] = {id=30725,article=0,plural="pieces of celestite (Magic Def.)"},
     [65535] = {id=65535,article=0,plural="Gils"},
 }, {"id", "article", "plural"}
 

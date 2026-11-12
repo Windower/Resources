@@ -23543,6 +23543,11 @@ return {
     [29428] = {id=29428,en="Celestite (Defense)",ja="防御のセレスタイト",enl="piece of celestite (Defense)",jal="防御のセレスタイト",category="Maze",flags=0,stack=1,targets=0,type=32},
     [29429] = {id=29429,en="Celestite (M. Atk.)",ja="魔攻のセレスタイト",enl="piece of celestite (Magic Atk.)",jal="魔攻のセレスタイト",category="Maze",flags=0,stack=1,targets=0,type=32},
     [29430] = {id=29430,en="Celestite (M. Def.)",ja="魔防のセレスタイト",enl="piece of celestite (Magic Def.)",jal="魔防のセレスタイト",category="Maze",flags=0,stack=1,targets=0,type=32},
+    [30720] = {id=30720,en="Celestite (Acc.)",ja="命中のセレスタイト",enl="piece of celestite (Accuracy)",jal="命中のセレスタイト",category="General",flags=57410,stack=1,targets=0,type=1},
+    [30721] = {id=30721,en="Celestite (Evasion)",ja="回避のセレスタイト",enl="piece of celestite (Evasion)",jal="回避のセレスタイト",category="General",flags=57410,stack=1,targets=0,type=1},
+    [30722] = {id=30722,en="Celestite (Attack)",ja="攻撃のセレスタイト",enl="piece of celestite (Attack)",jal="攻撃のセレスタイト",category="General",flags=57410,stack=1,targets=0,type=1},
+    [30724] = {id=30724,en="Celestite (M. Atk.)",ja="魔攻のセレスタイト",enl="piece of celestite (Magic Atk.)",jal="魔攻のセレスタイト",category="General",flags=57410,stack=1,targets=0,type=1},
+    [30725] = {id=30725,en="Celestite (M. Def.)",ja="魔防のセレスタイト",enl="piece of celestite (Magic Def.)",jal="魔防のセレスタイト",category="General",flags=57410,stack=1,targets=0,type=1},
     [65535] = {id=65535,en="Gil",ja="ギル",enl="Gil",jal="ギル",category="Gil"},
 }, {"id", "en", "ja", "enl", "jal", "category", "flags", "stack", "targets", "type", "cast_time", "jobs", "level", "races", "slots", "cast_delay", "max_charges", "recast_delay", "shield_size", "damage", "delay", "skill", "ammo_type", "range_type", "item_level", "superior_level"}
 

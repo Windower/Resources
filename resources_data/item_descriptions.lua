@@ -23462,6 +23462,11 @@ return {
     [29428] = {id=29428,en="Improves defense against physical attacks.",ja="物理防御力アップの効果。\n"},
     [29429] = {id=29429,en="Improves the power of magic spells.",ja="魔法攻撃力アップの効果。\n"},
     [29430] = {id=29430,en="Improves defense against magic spells.",ja="魔法防御力アップの効果。\n"},
+    [30720] = {id=30720,en="A piece of celestite ore that improves accuracy and magic accuracy.\n",ja="物理命中率、\n魔法命中率アップの効果を秘めたセレスタイト。\n"},
+    [30721] = {id=30721,en="A piece of celestite ore that improves evasion and magic evasion.\n",ja="物理回避率、\n魔法回避率アップの効果を秘めたセレスタイト。\n"},
+    [30722] = {id=30722,en="A piece of celestite ore that improves physical attacks.\n",ja="物理攻撃力アップの\n効果を秘めたセレスタイト。\n"},
+    [30724] = {id=30724,en="A piece of celestite ore that improves the power of magic spells.\n",ja="魔法攻撃力アップの\n効果を秘めたセレスタイト。\n"},
+    [30725] = {id=30725,en="A piece of celestite ore that improves defense against magic spells.\n",ja="魔法防御力アップの\n効果を秘めたセレスタイト。\n"},
     [65535] = {id=65535,en="The currency of Vana'diel.",ja="ヴァナ・ディールの通貨。"},
 }, {"id", "en", "ja"}
 
